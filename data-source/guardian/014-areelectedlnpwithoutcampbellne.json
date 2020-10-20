@@ -1,0 +1,126 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"A re-elected LNP without Campbell Newman: could this be the election that returns Queensland to normality?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Campbell Newman's LNP government won power in 2012 in a huge landslide", "label":"anecdote"},
+    {"number":3, "text":"- and", "label":"no-unit"},
+    {"number":4, "text":"polls suggest that most of those gains are expected to be swept away as Queensland politics returns to normality", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"In 2012, the sitting Labor government's seats in the parliament were cut savagely from 51 to seven", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The LNP opposition increased their seats from 34 to 78", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"In the new parliament, there were seven government members for every member of the opposition and crossbench", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Since 2012, the LNP has lost two seats to Labor at by-elections", "label":"anecdote"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"and", "label":"no-unit"},
+    {"number":15, "text":"three other MPs elected for the LNP now sit on the crossbench", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Despite these changes, the LNP has a massive majority", "label":"anecdote"},
+    {"number":18, "text":"and", "label":"no-unit"},
+    {"number":19, "text":"a large swing will be required for a change in government", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Because of the huge swing in 2012, it's hard to predict which seats will be the key battlegrounds", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"In a normal election campaign, you would look first at the seats held by the government by the smallest margins (those seats they came closest to losing at the previous election)", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Yet in Queensland, most LNP seats on slim margins are seats traditionally considered to be \"safe\" Labor seats ", "label":"assumption"},
+    {"number":26, "text":"-", "label":"no-unit"},
+    {"number":27, "text":"if", "label":"no-unit"},
+    {"number":28, "text":"Labor has any chance of taking power", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"you would expect those seats to fall easily and the election to focus on seats further along the pendulum", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"At the last election, it was estimated that the LNP won 62.8% of the vote after preferences", "label":"statistics"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Recent polls indicate there has been a large swing back to Labor", "label":"statistics"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"The most recent Newspoll had Labor and the LNP tied on 50% each", "label":"statistics"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"These polls suggest that Labor is in with a chance of winning the election, despite the massive number of seats they need to gain", "label":"statistics"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"In order to ward off this threat, the LNP will likely need to sacrifice many of its seats in order to focus energy on those seats they can retain", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Labor needs a uniform swing of approximately 12.5% to win the 36 extra seats they need to win a majority", "label":"statistics"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Current polling suggests that Labor is close to that number", "label":"statistics"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"and", "label":"no-unit"},
+    {"number":47, "text":"this suggests that most of the seats that will be key battlegrounds are seats the LNP now holds by margins of 10-15%", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"but", "label":"no-unit"},
+    {"number":50, "text":"there will be seats that swing more or less than the average", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"If", "label":"no-unit"},
+    {"number":53, "text":"you focus on those with margins of between 10% and 15%", "label":"assumption"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"there are a smattering of seats in Brisbane, as well as four seats on the Gold Coast, one on the Sunshine Coast, one in Townsville and two rural seats near Mackay", "label":"anecdote"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"In addition", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":" the LNP will be fighting on another front against populist and right-wing independents and minor parties", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"The Palmer United Party and Katter's Australian Party will both be running hard", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"KAP now holds three seats", "label":"anecdote"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"and", "label":"no-unit"},
+    {"number":66, "text":"there are four independents in the Parliament", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"While many seats will be in play", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"Ashgrove in northern Brisbane - Campbell Newman's seat - is likely to be the focus of the campaign", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"The premier won the seat off Kate Jones in 2012", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Newman had never held a seat in parliament before winning power in 2012", "label":"anecdote"},
+    {"number":75, "text":"-", "label":"no-unit"},
+    {"number":76, "text":"he made his name as lord mayor of Brisbane", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Jones had been a minister in the Bligh government, and was a high- profile target", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"In 2012, Newman won Ashgrove with a 12.8% swing, but holds the seat by a margin of only 5.7% - half as big as the expected Labor swing", "label":"statistics"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Local polling suggests that Newman is trailing in local Ashgrove polls behind Jones", "label":"statistics"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"who is aiming to win back her former seat", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"If", "label":"no-unit"},
+    {"number":87, "text":"Newman is seen to be in danger of losing his seat", "label":"assumption"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"his party's campaign may struggle to answer questions about who would lead a re-elected LNP government", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"With Labor needing 5.7% to win Ashgrove, and 12.5% to win the overall election, it's entirely conceivable that the government could be re-elected without Newman in the lead", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"That scenario may help Labor reach the vote it needs to win back power", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ]
+]}

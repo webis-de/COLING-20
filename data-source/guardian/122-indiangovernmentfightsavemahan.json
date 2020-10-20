@@ -1,0 +1,138 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The Indian government won't stop my fight to save Mahan's forests.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Mahan in Madhya Pradesh is one of the oldest and largest sal forests in Asia", "label":"common-ground"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The local communities are dependent on the forest for their livelihoods", "label":"assumption"},
+    {"number":5, "text":"and", "label":"no-unit"},
+    {"number":6, "text":"it is also home to several rare and endangered species", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"But a portion of this reserve is earmarked for open cast coal mining by Essar, a British company registered in London", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"In order to mine for coal, they would need to cut down the forest and displace those who live there", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Essar would destroy more than 1,000 hectares of pristine forests and the biodiversity that it supports, affecting 54 villages", "label":"statistics"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"It would also impact on the livelihoods of thousands more who depend on forest produce, and the wildlife, water and air in the region", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"For the last three years I have been helping villagers in Mahan to assert their rights, protect their forest, and prevent the open-cast coalmine development", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Unfortunately, during this time, I have experienced a wide range of intimidation tactics", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"I have received anonymous phone calls threatening violence and been followed by a car without a number plate as I travelled to village meetings", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Last year I discovered that a forged letter bearing my signature had been given to local media", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"It called on villagers to resort to violence while protesting against the mine", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"And Greenpeace India is currently appealing against a decision by the home ministry to freeze all its overseas funding, some 40% of its income", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"But Sunday marked a new low", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"I was due to travel to London to address British parliamentarians about my work with local Mahan communities", "label":"anecdote"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"but", "label":"no-unit"},
+    {"number":33, "text":"I was not allowed to board my flight despite having valid travel documents", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"My passport was stamped with \"offloaded\" at the airport", "label":"anecdote"},
+    {"number":36, "text":"and", "label":"no-unit"},
+    {"number":37, "text":"I was asked to go home", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"The only explanation offered was that this was being done by the orders of the government of India", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Since then, I have consulted lawyers and written to government agencies", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"I've had no official response", "label":"anecdote"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"but", "label":"no-unit"},
+    {"number":46, "text":"some newspapers reported that I have been put on a \"blacklist\" or \"lookout list\" preventing me from leaving the country", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Such lists are usually for those with criminal convictions", "label":"assumption"},
+    {"number":49, "text":"and", "label":"no-unit"},
+    {"number":50, "text":"I don't have one", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Refusing my travel to speak to British MPs with no legal reason to do so is an infringement on my fundamental rights, and a shocking blow to the strength and freedom of civil society in India", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"My travel was legitimate", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Essar is based in London", "label":"common-ground"},
+    {"number":57, "text":"and", "label":"no-unit"},
+    {"number":58, "text":"I was invited by a British all-party parliamentary group to talk about my work and to present the social and environmental impacts of the project - otherwise known as freedom of speech", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"We are equally engaged with all major parties and relevant politicians and administrators in India on this issue", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The fight in Mahan is about the rights of those people who live there and depend on the forest for their livelihoods", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"The local community is only asking that due process is followed", "label":"assumption"},
+    {"number":65, "text":":", "label":"no-unit"},
+    {"number":66, "text":"under Indian law there must be a local referendum and consent from the local community", "label":"common-ground"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"But", "label":"no-unit"},
+    {"number":69, "text":"these laws have been bypassed", "label":"assumption"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":"and", "label":"no-unit"},
+    {"number":72, "text":"now the government is reviewing major environmental laws, including the Forest Rights Act, that have been key in protecting forest dwellers", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"This is why a fight such as Mahan in India is critical", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"It's symptomatic of how India will act when it comes to making important decisions about forests, conservation, community rights and a sustainable way of development", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"The act of engaging all relevant stakeholders is part of my work as a Greenpeace member and indeed the responsibility of any vibrant civil society in any functional democracy", "label":"common-ground"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Travelling to London to meet British MPs was neither an attack on the Indian government, nor a violation of the laws of our country", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"Internationally, India is under a lot of pressure to make strong commitments to tackling climate change", "label":"assumption"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"yet", "label":"no-unit"},
+    {"number":85, "text":"it is drawn to the cheap and immediate gains of coal despite the high social and environmental cost", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Groups such as Greenpeace are a vital check on the power of corporations and politicians", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"We fight for Indian values promoting empowered local communities and a clean environment for the next generation", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"And our campaigns, such as the push to get pesticides out of our tea, have been successful", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"That's why we're being attacked", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"In a week's time, Greenpeace India will find out if its appeal against the Indian government freezing its funding is successful", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"If not, other campaign groups will be next", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"Whatever the outcome, I will continue to support the rights of communities using all the democratic rights available to me", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"I will also continue to seek answers as to why I was blacklisted", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"One thing is clear", "label":"assumption"},
+    {"number":104, "text":";", "label":"no-unit"},
+    {"number":105, "text":"without a legal basis to justify my detention, the government is on thin ice", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"As I write this, it is busy shifting blame from one department to another", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"As we say in Mahan, we will fight and we will win", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,131 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why Washington should fear the silence of the anti-war movement.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On this 73rd anniversary of the last declaration of war by the United States, as", "label":"no-unit"},
+    {"number":3, "text":"the Pentagon escalates its military actions in Iraq and Syria", "label":"assumption"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"the silence of the US peace movement carries an ominous warning for Washington, DC", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"The streets of major US cities are not filled with anti-war demonstrations", "label":"anecdote"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"yet", "label":"no-unit"},
+    {"number":10, "text":"the apparent quiet does not signify consent", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"A look at history shows why", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"The US has been attacked on domestic territory twice in the past century", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"On December 7, 1941, the Empire of Japan bombed Pearl Harbour", "label":"anecdote"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"killing 2,403 Americans and wounding 1,178 others", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"The next day, US Congress voted to declare war on Japan", "label":"anecdote"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"thus committing to active hostilities in World War II", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"That declaration of war has since proved to be the last in the history of the US", "label":"common-ground"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"The next and last mass scale violent attack by an outside aggressor on the domestic territory of the US occurred 13 years ago, on September 11, 2001, with the immediate death toll approaching 3,000", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Three days later, Congress adopted an Authorisation for the Use of Military Force (AUMF) against those held responsible for the September 11 attacks", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"In so doing, Congress delegated war-making powers to President George W Bush under the terms of the War Powers Act of 1973", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"December 7 and September 11 are notable in part because in both cases horrendous violence against the people of the US was responded to with an act of Congress", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Oppose or support US entry into either of those wars, question or affirm that those wars were lawful, there was no question in either case that Congress had signed off on them", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Congressional approval", "label":"no-unit"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"It mattered that Congress approve", "label":"assumption"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"because Article I, Section 8 of the US Constitution accords primary war powers, including the power to commence and end war, to Congress alone", "label":"common-ground"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"For a president of the US to make war without congressional approval was an unthinkable act that would have threatened the legitimacy of the federal government", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"With his war on the so-called Islamic State, US President Barack Obama has committed that unthinkable act", "label":"assumption"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"and", "label":"no-unit"},
+    {"number":47, "text":"Congress has let him", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"And yet", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" by all appearances, no one outside of a handful of members of Congress, legal scholars, and peace activists has spoken out in protest", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Contrast this moment with that of the weeks and months following September 11", "label":"other"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"On September 29, 2001, upwards of 25,000 people marched through Washington, DC, against the impending invasion of Afghanistan", "label":"anecdote"},
+    {"number":56, "text":";", "label":"no-unit"},
+    {"number":57, "text":"tens of thousands demonstrated elsewhere throughout the US", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"By April 20, 2002, the anti-war protest in Washington drew over 150,000", "label":"statistics"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"By February 15, national protest turnout hit 2 million", "label":"statistics"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Given this history, one cannot conclude that the size and volume of anti-war protests directly resulted from the relative popularity of a particular war", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"After all", "label":"no-unit"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":" the 2001-2003 protests erupted and swelled over a period in which polls showed continued strong support among the US public for Washington's war operations", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"And in fact, as in 2003-2008 public opinion turned against the Iraq and Afghanistan wars, the size and volume of anti-war movement went down", "label":"anecdote"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"The simple and correct explanation for this history is that anti-war organisers made decisions in 2001, 2002, and 2003, to focus their energies on mobilising street protests", "label":"assumption"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"and that in the years 2004-2008, as anti-war sentiment was taken up by a majority of the American people, many anti-war organisers shifted much of their focus to electing anti-war candidates to office", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"What has changed since Obama assumed the presidency?", "label":"assumption"},
+    {"number":76, "text":"In Washington, in terms of war and security, very little", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Guantanamo remains in operation", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"The police state has expanded", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Assassination and missile strikes have increased", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Border militarisation and deportations have escalated", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"And US military operations have continued and spread further across the globe", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"Having lived and struggled through this history, why would anti-war organisers choose to respond to Washington's undeclared, unauthorised war against the so- called Islamic State by mobilising street protests?", "label":"assumption"},
+    {"number":89, "text":"Why would they mobilise to elect anti-war candidates?", "label":"assumption"}
+  ],
+  [
+    {"number":90, "text":"The core of the peace movement remains active in many parts of the US", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Every day I receive notices about civil disobedience at military bases, hunger strikes, local government resolutions calling for a shift in spending priorities away from the military, and much more", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"For this reason, the relative silence of anti-war organisers in the face of the war against the so-called Islamic State stands out as a warning to the Washington establishment; those who oppose their policies question whether Congress and the presidency can provide effective redress for the grievances of the American people", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Washington should fear the silence of the US anti-war movement", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"for it is full of sound and fury and signifies everything", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ]
+]}

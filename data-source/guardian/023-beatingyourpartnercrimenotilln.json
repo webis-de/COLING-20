@@ -1,0 +1,136 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Beating your partner is a crime, not an illness.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"What stops a man from beating up and raping his female partner?", "label":"assumption"},
+    {"number":3, "text":"According to research published today, it is not sanctions imposed by the criminal justice system, such as prison or probation, but attending a course with other abusers", "label":"statistics"},
+    {"number":4, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":5, "text":"\"Domestic violence perpetrator programmes (DVPPs): steps towards change\", by the feminist academics Liz Kelly and Nicole Westmarland, is based on interviews with men who attend programmes that aim to re-educate them about their behaviour to improve the safety of women and children", "label":"anecdote"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"The research - which also draws on the experiences of partners of the violent men, a small number of children and the staff of these programmes- finds that \"the vast majority of men who abuse their partners stop their physical and sexual violence if they attend a DVPP\" and that such programmes\"could play an important role in the quest to end domestic violence\"", "label":"testimony"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"Some of the figures look impressive", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"For example", "label":"no-unit"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"before attending the programme a third of men asked women to perform sexual acts against their wishes", "label":"statistics"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"but", "label":"no-unit"},
+    {"number":16, "text":"none did so after taking part", "label":"statistics"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Cases of the men using a weapon against their partner reduced from 29% to nil", "label":"statistics"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"But there are other findings that give me cause for concern", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Ninety per cent of the men interviewed had, prior to the course, made excuses about and attempted to justify their abusive behaviour", "label":"statistics"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"After the course, this tendency had barely reduced at all, with almost three-quarters of the men still making excuses", "label":"statistics"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Over the years", "label":"no-unit"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"when making plain my scepticism about DVPPs I have been told that the aim of such courses is to make perpetrators accountable and get them to face up to what they have done", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"This finding shows that this is one of the weakest outcomes", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"What about prevention of domestic violence?", "label":"assumption"},
+    {"number":33, "text":"Does the existence of these courses deter others from using their fists to settle an argument?", "label":"assumption"},
+    {"number":34, "text":"On average, two women in England and Wales die each week as a result of domestic violence, a figure that has remained constant for decades", "label":"statistics"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"I can't imagine a government- led information campaign with the slogan,\"Violent men beware! Beat up your wife and go on a course\"", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Over half of the women reported feeling \"very safe\" after the programme, compared with less than one in 10 before it", "label":"statistics"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"But that leaves almost half of the women still in fear", "label":"statistics"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"One major tactic used by violent men is to control the household finances", "label":"assumption"},
+    {"number":43, "text":"so that the woman is totally reliant on him and has no means of escape", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"The research found that after DVPP, this behaviour changed \"only marginally\"", "label":"statistics"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"There is also some evidence that DVPPs do not necessarily encourage women to leave violent men", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The researchers used a control group of women who were accessing support for domestic violence", "label":"anecdote"},
+    {"number":50, "text":"but", "label":"no-unit"},
+    {"number":51, "text":"whose partner was not attending a DVPP", "label":"anecdote"},
+    {"number":52, "text":"in order", "label":"no-unit"},
+    {"number":53, "text":"to compare results", "label":"no-unit"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"The control group also reported a significant reduction in violence from the men, but were more likely to end the relationship with the abuser than the women", "label":"statistics"},
+    {"number":56, "text":"whose partners were attending a DVPP", "label":"statistics"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Perhaps such programmes act as marriage guidance counselling and help keep couples together?", "label":"assumption"},
+    {"number":59, "text":"Is this not dangerous?", "label":"assumption"}
+  ],
+  [
+    {"number":60, "text":"The impression given by the widespread acceptability of these programmes is that those who beat and rape their partners are in need of support and help, not punishment", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"There are moves by the Home Office to roll out restorative justice measures in cases of sexual and domestic violence", "label":"assumption"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"and", "label":"no-unit"},
+    {"number":65, "text":"a recent government inquiry into stalking legislation posed the question of whether\"treatment programmes should be available for perpetrators and, if so, what should be their content?\"", "label":"anecdote"}
+  ],
+  [
+    {"number":66, "text":"According to Nicole Westmarland, one of the report authors,\"we have hardly any knowledge about how things like probation, fines, or even prison affect men's attitudes and behaviours towards women\"", "label":"testimony"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"This is true, but mainly because", "label":"no-unit"},
+    {"number":69, "text":"so few perpetrators are held to account by the courts", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"We appear to have given up the battle to have domestic violence treated as a crime like any other - which used to be the feminist mantra- and have now declared the criminal justice system unfit for purpose in dealing with violence in the home", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"We should not be giving up on the justice system before its potential effectiveness has been truly tested", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"There are many ways its approach to domestic violence could be improved", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"Pilot programmes should be rolled out nationwide, directing police to mandatorily arrest those who have committed acts of violence towards partners or ex-partners", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"This way", "label":"no-unit"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"perpetrators will realise that it is not the decision of their victims to send them to court", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"so", "label":"no-unit"},
+    {"number":84, "text":"victims will be in no further danger of revenge for doing so", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"The Crown Prosecution Service needs to take a more robust approach in getting perpetrators to court and speed up the process so the victim does not have to wait months for an outcome", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"During this process, the victims involved should be protected and supported by state-funded initiatives", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"Public education campaigns that aim to tug on the heartstrings of abusers, such as posters depicting women crying and sporting injuries, should be swapped for images of men in handcuffs or in a prison cell", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Young women and men need to be educated about what is at the root of domestic and sexual violence", "label":"assumption"},
+    {"number":93, "text":"- that it is a cause and consequence of inequality and sexism", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"People who beat their partners are making a choice", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"We need to make sure the message that this is a serious crime, not an illness, is disseminated in schools", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"Let us return to the notion, once at the heart of the feminist challenge to domestic violence, that beating up your partner should carry as serious a consequence as assaulting a member of the public in the street", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ]
+]}

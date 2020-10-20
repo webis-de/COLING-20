@@ -1,0 +1,162 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"We can't breathe: Obama's last chance for change.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"No one in the United States is actually surprised that a grand jury in New York City decided not to indict Daniel Pantaleo for the death of Eric Garner", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In the same way that few Americans, regardless of political leanings were surprised when Officer Darren Wilson was not indicted for killing Michael Brown in Ferguson, Missouri, just over a week ago", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"The proximity of these two rulings, and the subsequent protests and civil unrest that have occurred in their wake, however, is an opportunity for President Barack Obama to make lasting and significant changes in the fundamental principles governing the US", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The question will be does he have the political capital to do it?", "label":"assumption"}
+  ],
+  [
+    {"number":9, "text":"Garner was killed in July during what was an unpleasant. but fairly typical interaction between minorities and police in the US", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"He was accused by local police of selling \"loosies\" or cigarettes in boxes that hadn't been properly taxed", "label":"anecdote"},
+    {"number":12, "text":"and", "label":"no-unit"},
+    {"number":13, "text":"when he told the officers that he wasn't selling them and was tired of being harassed", "label":"anecdote"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"the situation turned grim", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"He was quickly surrounded by several officers", "label":"anecdote"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"and", "label":"no-unit"},
+    {"number":20, "text":"Officer Pantaleo put Garner in a chokehold and helped force him down onto the ground", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Garner screamed that he couldn't breathe", "label":"anecdote"},
+    {"number":23, "text":"but", "label":"no-unit"},
+    {"number":24, "text":"despite his protests police continued to hold his neck in order to handcuff him", "label":"anecdote"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"and", "label":"no-unit"},
+    {"number":27, "text":"when it became apparent that he had stopped breathing", "label":"anecdote"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"the four EMTs on the scene made no effort to revive him", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"This entire episode was caught on video by a friend of Garner's", "label":"anecdote"},
+    {"number":32, "text":"and", "label":"no-unit"},
+    {"number":33, "text":"its viral spread helped spur New York authorities to actually convene a grand jury of 25 New York citizens", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"The grand jury, however, decided that despite the visual evidence, and despite the city coroner declaring Garner's death a homicide, that there was not enough evidence to warrant a full trial", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Thousands of Americans of all ages and colours took to the streets in a series of spontaneous protests across the country", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"It's easy from the outside to look at these protests and assume that this is a dangerous and destabilising tipping point; that there is a new wave of violence against minorities that has finally reached a point of no return", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"This is not entirely true", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Violence against minorities, either directly sanctioned by, or tacitly tolerated by the federal government is the norm in the US, not an anomaly", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"From slavery to the massacre of Native Americans to rampant racial terrorism against African Americans, the US has not stopped its bloody relationship with violence and people of colour", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"While African Americans only make up 13 percent of the population", "label":"statistics"},
+    {"number":48, "text":"they account for over 30 percent of all police killings in 2012 alone", "label":"statistics"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"When you combine this kind of history with racial discrimination in sentencing, arrests, fines, jail time", "label":"assumption"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":"where African Americans routinely receive longer, harsher and less lenient penalties than whites for the same crimes", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"it is hard to simply say that the cases of Eric Garner (or Michael Brown, or Tamir Rice or John Crawford) are new or isolated incidents", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"The US criminal justice system isn't broken", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"it's working exactly the way it was intended to work", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"and", "label":"no-unit"},
+    {"number":61, "text":"it was never written, implemented or designed to provide justice or equality for African Americans", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"However", "label":"no-unit"},
+    {"number":64, "text":"what is different in this case is that it's not just African Americans protesting", "label":"assumption"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"a significant number of white, Latino and Asian Americans have flooded the streets of New York protesting the Garner ruling, shutting down major highways, malls and even disrupting the annual Christmas tree lighting", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"At its core, police violence is a white American problem, not a black one", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The only way this tide of violence can be stemmed is if white Americans who are angry about and stand against institutional racism and discrimination, are willing to directly confront white Americans who still support the way these institutions are run", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Solutions to institutional racism and police violence can't be dropped off at the doors of African Americans any longer", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"the white American majority must take some responsibility", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Beyond that, it is time for the president to take bolder steps to address systematic inequality in sentencing and policing across the US", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"President Obama has always been partial to piecemeal strategies", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"While", "label":"no-unit"},
+    {"number":81, "text":"his rhetoric is often bold and sweeping", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"the hostility of the Republican Congress, mixed with his own political personality, has often led to marginal policy changes", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"On Monday, he convened a commission of civil rights leaders and unveiled plans to put more shoulder cameras on police officers' uniforms and thoroughly review Programme 1033", "label":"anecdote"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"which allows local police departments to get free access to surplus military equipment", "label":"common-ground"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"And", "label":"no-unit"},
+    {"number":90, "text":"while those are fine first steps", "label":"assumption"},
+    {"number":91, "text":",", "label":"no-unit"},
+    {"number":92, "text":"neither would have saved Garner's life or changed the decision of the grand jury", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"The police did not have heavy militarised equipment", "label":"anecdote"},
+    {"number":95, "text":"but", "label":"no-unit"},
+    {"number":96, "text":"they employed a physical chokehold method that had been declared illegal by the New York police department for over 20 years", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"but", "label":"no-unit"},
+    {"number":99, "text":"that too wasn't enough to warrant a trial", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"While shoulder cameras are known to limit cases of abuse and harassment", "label":"common-ground"},
+    {"number":102, "text":",", "label":"no-unit"},
+    {"number":103, "text":"the Garner case shows that they do not guarantee the police will be held accountable", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"The only way that the president can do something about these events and the frustration felt by the public is to actually demand that the Department of Justice indict and conduct trials in some of these cases", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"President Obama has no trouble prosecuting \"terrorists\" and \"whistle blowers\" or those deemed to have spied on the US", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"He could certainly bring the power of the federal government to investigate and indict cases of police violence", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"President Obama is not all powerful", "label":"assumption"},
+    {"number":112, "text":",", "label":"no-unit"},
+    {"number":113, "text":"but", "label":"no-unit"},
+    {"number":114, "text":"he is certainly much more capable than he has shown thus far in acting on the issues he feels are priorities for the US", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":116, "text":"If", "label":"no-unit"},
+    {"number":117, "text":"Obama truly wants to establish a legacy beyond immigration and Obamacare", "label":"assumption"},
+    {"number":118, "text":"he needs to make large spectacular displays of investigating and indicting officers who engage in misconduct, especially in cases that result in the death of unarmed African Americans", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"},
+    {"number":120, "text":"If", "label":"no-unit"},
+    {"number":121, "text":"he doesn't", "label":"assumption"},
+    {"number":122, "text":",", "label":"no-unit"},
+    {"number":123, "text":"the worst part of his final two years as president won't just come from the Republican House and Senate, but from millions of Americans, most of whom voted for him, marching through the streets having lost faith in his ability to lead", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"}
+  ]
+]}

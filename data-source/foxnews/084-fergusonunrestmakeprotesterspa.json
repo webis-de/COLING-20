@@ -1,0 +1,132 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Ferguson unrest: Make protesters pay for riot damage.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"No matter whose side you are on in the upheaval following the killing of Michael Brown by police officer Darren Wilson in Ferguson, Missouri, everyone should agree on the profound sadness of it all: sadness that an 18-year-old boy-man walked a path that led to his destruction; sadness that a police officer felt the need to defend himself by shooting another human being; sadness over the rioting and looting that followed a grand jury's decision not to indict Officer Wilson; and for some, sadness that Wilson was not indicted", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Much of the sadness was encapsulated in a sound bite I saw on one TV network", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"An African-American business owner, surveying the destruction of his store, plaintively asked,\"How am I going to feed my kids?\"", "label":"testimony"}
+  ],
+  [
+    {"number":7, "text":"I have an answer", "label":"assumption"},
+    {"number":8, "text":"and", "label":"no-unit"},
+    {"number":9, "text":"it is one that should be applied to anyone convicted of riotous behavior, destruction of property and looting", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"It's called restitution", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Restitution is an Old Testament concept instituted to remind people that when one harms another person, or steals or destroys property, someone else suffers and deserves reimbursement", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"It says the state is less a debtor than the victim of a crime", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Restitution can also instill true moral guilt in a person", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"which can lead to genuine repentance and a decision by the perpetrator to make different choices leading to a better life", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"As", "label":"no-unit"},
+    {"number":22, "text":"the authorities in Ferguson examine videos that show the faces of many of the rioters and looters, charges will undoubtedly be filed", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"If", "label":"no-unit"},
+    {"number":25, "text":"convicted", "label":"assumption"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"the perpetrators should be forced to pay for the damage they caused", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"If", "label":"no-unit"},
+    {"number":30, "text":"they have jobs", "label":"assumption"},
+    {"number":31, "text":", their paychecks should be garnished", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"If", "label":"no-unit"},
+    {"number":34, "text":"they are on welfare", "label":"assumption"},
+    {"number":35, "text":", those checks should be forwarded to the businesses they destroyed", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"If", "label":"no-unit"},
+    {"number":38, "text":"they receive food-purchasing assistance", "label":"assumption"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"that assistance should be withdrawn", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"This should be the practice going forward", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Those who destroy their communities will be required to pay back those harmed by their hooliganism and forfeit any government benefits they receive", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"This might require legislation", "label":"assumption"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"but", "label":"no-unit"},
+    {"number":49, "text":"politicians should have the public's support", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"A close relative of restitution is shaming", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"The convicted should be brought before those harmed by their behavior and publicly shamed", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"No one seems to be ashamed of anything nowadays", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"but", "label":"no-unit"},
+    {"number":58, "text":"shaming might help prevent future violence", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Rioters and looters who are black could be shamed by law-abiding African-Americans", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"They can be asked,\"Is this why Dr  Martin Luther King Jr  marched and went to prison?", "label":"anecdote"},
+    {"number":63, "text":"Is this why he paid the ultimate price?", "label":"anecdote"},
+    {"number":64, "text":"Would he and other civil rights leaders dating back to Frederick Douglass be proud of your behavior today?", "label":"anecdote"},
+    {"number":65, "text":"Don't you owe them something better than this?\"", "label":"assumption"}
+  ],
+  [
+    {"number":66, "text":"Perhaps if people realize that their destructive behavior will cost them something, they think might twice about harming others and robbing them of a living", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"People from around the country are reportedly donating money to help those whose businesses were destroyed", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"That again demonstrates the generosity of Americans of all races and backgrounds", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"While", "label":"no-unit"},
+    {"number":73, "text":"donations will help, along with insurance", "label":"assumption"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":"if", "label":"no-unit"},
+    {"number":76, "text":"it covers damage caused by violent protesters", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"the lawbreakers should still be required to take responsibility for their actions", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"In addition to whatever legal penalties might result, restitution and shaming should be part of the punishment", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"We've gotten away from personal responsibility and accountability, preferring instead to cast lawbreakers as \"victims,\"", "label":"assumption"},
+    {"number":83, "text":"when the true victims are often ignored", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Too often many blame others for their circumstances", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Too often many feel entitled to what others have achieved through hard work and dedication", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Too often too many feel justified in taking and destroying the property of others instead of working and building for themselves", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"If they don't feel ashamed", "label":"assumption"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"they should", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ]
+]}

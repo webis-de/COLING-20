@@ -1,0 +1,104 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"New Congress: My fellow Republicans, here's your chance to prove you can lead.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"This week marks a new era in American government", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"For the first time in the six years of the Obama administration, Republicans took the reins of power in both houses of Congress, bringing divided government to our nation's capital", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"With this new power comes not only responsibility, but also real challenges and opportunities", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Yes, the newly empowered Republicans in the Senate have the ability to control the floor and try to break through some of the gridlock and dysfunction associated with the failed tenure of now Minority Leader Harry Reid", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Instead of bottling up all the legislation that's been passed by the GOP House without ever letting it see the light of day, Majority Leader Mitch McConnell can start moving things forward with up or down votes and a full, fair and thorough amendment process", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"He has pledged to get back to regular order and help re-establish trust between the American people and Congress", "label":"testimony"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"But even more importantly, the Senate can get to work on the issues of real importance to the people who elected them", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Instead of pushing petty, politically motivated bills, or not voting just to protect one of the Democratic members from taking a tough vote, the Senate can focus on things that will have a direct impact on the American people", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"I am encouraged to see that the Keystone XL Pipeline is on the top of the docket", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"This common-sense, environmentally sound project will not only create good-paying jobs for both unions and non-union members, it will also increase our domestic supply of oil, helping to keep prices low and more money in people's pockets", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"and", "label":"no-unit"},
+    {"number":23, "text":"it will help to reduce the influence of foreign governments", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"It's unfortunate that President Obama continues to impede progress on Keystone and is standing with the radical fringe of his party rather than the overwhelming majority of the country", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Likewise", "label":"no-unit"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"now that the elections for leadership are over, House Speaker John Boehner needs to move immediately to unite his caucus and focus on the overwhelming areas of agreement within the GOP", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Given that Republicans now boast their largest House majority since the late 1920s, it's not surprising that there have been, and will be, minor areas of difference within the caucus", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"But the things that unite us are so much more plentiful", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"and", "label":"no-unit"},
+    {"number":36, "text":"it's now the job of Speaker Boehner to focus on these issues", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"I was heartened to see the House Republicans roll out a series of bipartisan jobs bills this week, including legislation called the \"Hire More Heroes Act.\"", "label":"assumption"},
+    {"number":39, "text":"This bill would exempt veterans already enrolled in health care plans from the VA or Department of Defense from counting toward the employer mandate under ObamaCare", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"This is a win-win for both veterans and small businesses", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Many businesses are not hiring because of ObamaCare's many mandates and new regulations", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"and", "label":"no-unit"},
+    {"number":46, "text":"this measure would be a good first step to help alleviate that problem", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Above all", "label":"no-unit"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":" Republicans in Congress have to prove to the American people that they are responsible leaders who will put our country's interests first by being able to lead and get real results", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"They need to show that they have learned from the mistakes of the past and will stop lurching from cliff to cliff and forcing self-imposed government shutdowns that only tarnish the GOP brand and make it harder to win future elections", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"The new Republican Congress needs to make it impossible for the Democrats to falsely portray the Grand Old Party as a group of fire-breathing extremists focused on divisive social issues", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"History tells us that when we focus on the issues that really matter-- such as low taxes, getting our debt and deficit under control, limited government, returning power to the states and a strong and muscular national defense-- the American people are with us", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"and", "label":"no-unit"},
+    {"number":59, "text":"we win elections as a result", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"The simple reality is that even with a GOP Senate, there is only so much of President Obama's destructive agenda that we can work on repealing these next two years", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Getting rid of ObamaCare and rolling back his overreaching executive orders and memos-- that's not going to happen if a Democratic president succeeds the current occupant in January 2017", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"We Republicans have a slew of talented candidates who, over the next few months, will throw their hats into the ring and begin the process of running for the White House", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"The new GOP Congress needs to make sure it provides critical support and issue-oriented ammunition for our nominees -- not become unwelcome distractions that will hurt the brand and increase the Democrats' chances of retaining the White House", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"Let's make these next two years count, so that in January of 2017 a newly elected Republican president can take power with robust GOP majorities in Congress and really get this country back on the right path", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ]
+]}

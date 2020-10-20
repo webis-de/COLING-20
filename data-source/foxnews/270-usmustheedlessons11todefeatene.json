@@ -1,0 +1,107 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama's terror strategy is failing: US must heed lessons of 9/11.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It is increasingly apparent that the U.S  war against Islamic extremism has been put on hold by President Obama and his national security team", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"President Obama failed to even mention Al Qaeda during his State of the Union address", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"In early January, the recent terrorist attacks in Paris against the Charlie Hebdo magazine and a kosher supermarket gave us a glimpse of what the future of terrorism looks like, and what the civilized world will have to defend against", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"At the same time, the unfolding chaos in Yemen and loss of a U.S  partner in the fight against Al Qaeda in the Arabian Peninsula (AQAP) raises serious concerns about the future of a country that four months ago President Obama cited as a successful model for U.S.-led efforts to defeat the Islamic State of Iraq and the Levant (ISIL)", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"ISIL and AQAP are two faces of the same enemy, radical violent Islam", "label":"assumption"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"which is on the march around the world", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"In 2013, ISIL was confined to Syria and Iraq", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"As the Syria civil war dragged on, and in the absence of early, forceful intervention on the part of the United States or European nations, the chaotic situation spread to Iraq", "label":"anecdote"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"where weak security services were no match for an emboldened terrorist army", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"In 2014, global support to the Islamic State blossomed", "label":"assumption"},
+    {"number":21, "text":"as", "label":"no-unit"},
+    {"number":22, "text":"it began to supplant likeminded terrorist groups", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"and", "label":"no-unit"},
+    {"number":25, "text":"the Islamic State counted affiliates in Algeria, Libya, Egypt, Saudi Arabia", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"ISIL even has begun to make inroads in Yemen", "label":"anecdote"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"where the United States has been involved in efforts to degrade AQAP's capabilities, but have been unable to eliminate AQAP's ability to conduct attacks on us and our allies", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"AQAP remains one of the most pressing security threats America currently faces", "label":"assumption"},
+    {"number":32, "text":"as the recent attacks in Paris show", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"In the wake of the Paris attacks and plots disrupted elsewhere in Europe, European capitals are rightfully defiant in the face of terror", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"But without a change in our strategy, the task of defending against the triple threat of home grown extremism, jihadists who have easy access to hotbeds of radicalization in places like Yemen and Syria, and the expansion of the Islamic State, will be nearly impossible", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"The Islamic State continues to recruit extremists in Europe, the Middle East, and as far away as southeast Asia", "label":"anecdote"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"using targeted, high quality videos, magazines and literature copied in several languages to spread their message around the world", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"They trumpet their successes on the battlefield, and try to portray a welcoming environment centered on family and Islam as a means to attract terrorists and their families as subjects of their caliphate", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"The United States and all civilized countries need to coordinate our efforts to fight the Islamic State first by cutting them off", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"We must counter their message on social media; bolster allies like Iraq and Jordan; and ensure that we prevent suspected terrorists from traveling back and forth between their homelands and places like Syria, Libya, and Yemen", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Perhaps most importantly, we have to help governments eliminate the safe havens that the Islamic State relies on to gather strength", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Syria, Yemen, and Libya are all examples of our failure to learn one of the fundamental lessons of the terrorist attacks of September 11, 2001", "label":"anecdote"},
+    {"number":51, "text":"--", "label":"no-unit"},
+    {"number":52, "text":"that failed and failing states breed instability and are potential safe havens for terrorists", "label":"assumption"},
+    {"number":53, "text":"who will eventually turn their attention toward us", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"We also cannot afford to ignore another lesson of 9/11 and curtail intelligence gathering capabilities that have been legally and painstakingly established following those horrific attacks", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"The U.S  government should implore American technology companies to cooperate with authorities so that we can better track terrorist activity and monitor terrorist communications as we face the increasing challenge of homegrown terrorists radicalized by little more than what they see on the Internet", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"This year, a new Republican majority in both houses of Congress will have to extend current authorities under the Foreign Intelligence Surveillance Act", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"and", "label":"no-unit"},
+    {"number":62, "text":"I urge my colleagues to consider a permanent extension of the counterterrorism tools our intelligence community relies on to keep the American people safe", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"The challenge we face as free societies is unlike anything we have seen in recent decades", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"As we look at this moment in the long war against terrorism, it is encouraging to see Europeans aggressively moving to defend the continent following a horrific attack", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"But one need look no further than the setbacks in Yemen and the stalemate in Syria and Iraq to see the limitations of President Obama's current strategy", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Lofty speeches and half measures do not defeat terrorist groups", "label":"common-ground"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"They also do not keep Americans safe in the long term", "label":"common-ground"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"The threat from Islamic extremism is only growing", "label":"assumption"},
+    {"number":75, "text":"and", "label":"no-unit"},
+    {"number":76, "text":"without greater leadership from the United States, I fear that it will only be a matter of time before innocent Americans pay the ultimate price", "label":"assumption"},
+    {"number":77, "text":"if", "label":"no-unit"},
+    {"number":78, "text":"we continue to underestimate our enemies and not develop a strategy that is commensurate to the threat", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Republican Marco Rubio represents Florida in the U.S  Senate", "label":"anecdote"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"He is a member of the Senate Committee on Commerce, Science and Transportation", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ]
+]}

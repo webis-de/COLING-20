@@ -1,0 +1,136 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Can you stop using these three labels in 2015: 'Poor people,' 'date rape' and 'victim'.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Can you banish the labels \"date rape,\" \"victims\" and \"poor people\" from your vocabulary in 2015?", "label":"assumption"},
+    {"number":3, "text":"Labels can diminish and demean or to uplift and affirm people", "label":"assumption"},
+    {"number":4, "text":".", "label":"no-unit"},
+    {"number":5, "text":"2015 will be a year of hope and dignity by redefining or banishing these toxic and harmful labels", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"In their place a more generous, positive and compassionate country will emerge", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"Here's", "label":"no-unit"},
+    {"number":10, "text":"why", "label":"no-unit"},
+    {"number":11, "text":"a deeper look at these three labels", "label":"no-unit"},
+    {"number":12, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Date Rape", "label":"no-unit"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"This is the most commonly talked about fear on college campuses across the country", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"2014 was filled with stories of sexual abuse from the ranks of the NFL and their spouses to the iconic Bill Cosby", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"On college campuses date rape involves issues of consent and sobriety; of women who feel that they don't have the ability to consent or not; of alcohol and drugs like \"roofies\" used as excuses and no specific profile of the typical rapist", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"The words date and rape should never be accepted as co-joined words", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"My friend Tony Porter of A Call to Men says that gender based violence will only end when men address it and reassess what it means to be a man", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"He is correct", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"To be on a date is to enter into an exploration of romance, companionship and possibly love", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"It is about exploring the possibilities of human togetherness and relationship", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Rape is a criminal and violent exercise of abuse and power", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"To disassociate these two words - rape and date - is to redefine the expectation of healthy and also criminal behavior", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"You can redefine the term date rape by celebrating the possibilities of healthy dating and mincing no words about the criminality of rape", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Engaging young men in the cause of stopping gender based violence will bring with it lasting impact on healthy relationships", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Victims", "label":"no-unit"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"The accusers of sexual violence are commonly called victims", "label":"common-ground"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"They are typically the victims of aggressive non-consensual sex", "label":"common-ground"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"But", "label":"no-unit"},
+    {"number":46, "text":"to call them victims is to deny their courage and strength", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"The supermodel Janice Dickinson recently said that she is not an accuser", "label":"testimony"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"She explained this by saying that she is speaking her truth about what Bill Cosby did to her decades ago", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"How strong do you have to be to speak out against those who are iconic figures or heroes- whether clergy, Cosby or NFL players?", "label":"assumption"}
+  ],
+  [
+    {"number":53, "text":"To speak your truth against power typically results from years if not decades of inner work along with courage that reveals you have come to love yourself enough to not be intimidated by the powerful iconic figures who have committed sexual abuse", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"People like Dickinson are empowered, courageous victims", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"They give hope to others including the many men who feel that their manhood will be compromised if they speak out against their male sexual abusers", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Empowered victims like Dickinson move us quickly from just feeling sorry to feeling admiration for their courageous empowerment", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"What happened to them is criminal and to label them as just victims demeans their courage", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Empowered victims elevate their status and shine a bright spotlight on their heinous sexual aggressor", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Poor People", "label":"no-unit"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"A pervasive new classism in the United States has emerged according to columnist David Brooks of the New York Times", "label":"testimony"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"He posits that the meritocratic class view themselves as the respectable ones who have the ability to choose their own destiny", "label":"testimony"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"They view the poor as lazy, disorganized, violent and scary", "label":"testimony"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"In this view the poor are not proper human beings", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"It's a dangerous construct that dehumanizes vast segments of our community", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"I've spent a lifetime working with and knowing people who are poor", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"Most work hard and often at several jobs", "label":"assumption"},
+    {"number":80, "text":";", "label":"no-unit"},
+    {"number":81, "text":"like other human beings they yearn for the best for their children and families and have aspirations to live beyond poverty", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"If", "label":"no-unit"},
+    {"number":84, "text":"the organization of the lives of those who are poor is different from that of the meritocratic class", "label":"assumption"},
+    {"number":85, "text":"it is because of genetic roulette and the systems that often work to trap people in the mire of less opportunity", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Brooks suggests that those who label the poor in this way live in a world that keeps them from knowing poor people", "label":"testimony"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"The label begins to be redefined when you take time to know those who are different from you", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"It is up to you to make change in the New Year by not accepting these labels and then redefining them", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"You will be part of creating a more compassionate, generous and positive landscape", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,127 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Peace on Earth?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"There are a whole bunch of people who simply don't like Christmas and are fighting to get rid of it any way they can", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"And, there are a lot of people on the other side who are angry at those efforts", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"And so, this whole battle over whether to say Christmas or Happy Holidays misses the point", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"I suppose it may be hard to be a non-believer in the religious themes around Christmas and live in our culture", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"You are confronted daily with the religious symbolism of Christmas in the books you read, the friends you have and the movies you watch", "label":"assumption"},
+    {"number":11, "text":";", "label":"no-unit"},
+    {"number":12, "text":"and", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"above all", "label":"no-unit"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":" you have to stay away from religious stuff...like Christmas celebrations", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"I'm a believer, but not without a modicum of compassion for those who don't share my religious beliefs", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"I can imagine how irritating Christmas must be for those whose whole worldview is built on the belief that Christmas doesn't matter because it points to what is spurious at best and dangerous at worst", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"I get that, too", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"I must admit, though, that I get irritated sometimes when a group of people bring a lawsuit to get rid of the town creche", "label":"anecdote"},
+    {"number":25, "text":"or", "label":"no-unit"},
+    {"number":26, "text":"when someone wishes me \"Happy Holidays.\"", "label":"anecdote"},
+    {"number":27, "text":"It bothers me when universities remove Christmas trees", "label":"anecdote"},
+    {"number":28, "text":"or", "label":"no-unit"},
+    {"number":29, "text":"Christmas concerts are canceled because it offends those who aren't religious or Christian", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Frankly, I listen to a lot of stuff from the other side all the time", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Fair play suggests that it wouldn't hurt for the other side to abide some of mine", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"I decided that I'm just not going to fight the Christmas war", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"I'm an old guy", "label":"assumption"},
+    {"number":38, "text":"and", "label":"no-unit"},
+    {"number":39, "text":"old people are already irritated about being old", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"As someone said, it takes very little to tick us off", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Instead, I'm just going to sing as loudly and as publicly as I can a Christmas carol---a Christmas carol about love and a God", "label":"anecdote"},
+    {"number":44, "text":"who went to a lot of trouble to express his love for us", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"You see", "label":"no-unit"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"in my belief system, Christmas doesn't mean that God came to destroy us or to kick posteriors", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"I believe that the reason he came was to tell us that he isn't angry", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"And", "label":"no-unit"},
+    {"number":53, "text":"when we make obscene gestures or get mean with those who disagree with us, it kind of misses the point", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"It becomes a disconnect between what I believe and what I do", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"And", "label":"no-unit"},
+    {"number":58, "text":"if", "label":"no-unit"},
+    {"number":59, "text":"I really believe(and I do) that the King came", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"it kind of changes my perspective", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"I have a friend whose family takes playing chess very seriously", "label":"anecdote"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"It gets so \"hot\" sometimes that they end up throwing chess pieces at one another", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"As", "label":"no-unit"},
+    {"number":68, "text":"you can imagine", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"they lose a lot of pieces", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"One Christmas when they were playing chess, my friend took the baby Jesus from the small creche under the Christmas tree to replace one of his lost pieces", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"My friend then began to move all over the board, going after his brother's pieces", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"\"You can't do that,\" his brother said,\"that's illegal.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":77, "text":"\"Oh, yes I can,\" my friend said.\"This is Jesus and he can do whatever he wants to do.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":78, "text":"Jesus does as he pleases", "label":"assumption"},
+    {"number":79, "text":"and", "label":"no-unit"},
+    {"number":80, "text":"he does it right well", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"At Christmas he decided to love and, then, clean up the mess later", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"So I think I'll opt out of the war", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"The King was doing fine before I came along and will do fine long after I'm gone", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"He doesn't need my defense", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"So, Merry Christmas or...uh", "label":"no-unit"},
+    {"number":91, "text":"....", "label":"no-unit"},
+    {"number":92, "text":"Happy Holidays", "label":"other"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Whatever", "label":"no-unit"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ]
+]}

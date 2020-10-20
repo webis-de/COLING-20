@@ -1,0 +1,181 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The crisis in Iraq: Was the rise of ISIL a surprise?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The fall of Mosul and the quick territorial expansion of ISIL in Iraq took some by surprise", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"What contributed to ISIL's quick success was cooperation from local Sunni tribes and members of the traditionally secular and nationalist Baath party", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"This seemingly counterintuitive alliance has its rationale and deep roots in history", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The successful cooperation between radical Islamist factions, Sunni tribes and representatives of the former ruling party - currently commanders of paramilitary groups - can be traced back to the policies of Saddam Hussein in the early 1980s", "label":"assumption"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"which aimed to foster closer ties between those espousing the ideas of political Islam and the Baath party", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"The historical preconditions for the advent of Islamist ideas in Iraq and their eager adoption by Sunni resistance forces are clearly discernible in the strategy proposed at the time by the then Iraqi president", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"In 1986, at a meeting with representatives of the pan-Arab national command - the supreme ideological body of the Baath Party - Saddam Hussein offered a ceasefire, or even an alliance, between the party and the Muslim Brotherhood movement in Egypt and Sudan", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"In practice, for the first time in its history the militant and secular Baath party declared its readiness to cooperate with representatives of the so-called political Islam", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"In the same year, the Iraqi president also defined the difference between the \"democratic, national, pan-Arab state\" and the \"religious state\" proclaimed by the Muslim Brotherhood", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Following in the footsteps of the founding father of Arab nationalism and of the pan-Arab Baath party Michel Aflaq, Saddam clearly declared that he was not an atheist, but warned against any attempt to establish a religious party with an either Sunni or Shia bias", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Saddam's warning at the time was probably addressed at the Islamic Dawa party", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"which had a dominant role among the Shia community and was regarded as the main competitor of the Baath party", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"The president also rejected the traditional Islamic system of justice and denounced Islamic law as an obsolete legal tradition", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"It was only after 1990s that Saddam decided to focus on relations with Islamic movements", "label":"assumption"},
+    {"number":29, "text":"and", "label":"no-unit"},
+    {"number":30, "text":"publications dedicated to the topic began to appear in the media", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"The conditions could not have been more favourable", "label":"assumption"},
+    {"number":33, "text":"because the war with Iran had ended", "label":"common-ground"},
+    {"number":34, "text":"and", "label":"no-unit"},
+    {"number":35, "text":"the propaganda machine was busy painting a picture of Saddam as the indisputable victor, despite the enormous war-related losses", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"In 1991, Iraq launched a new campaign", "label":"anecdote"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"which Saddam described as \"the mother of all battles\" against the United States and its allies", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"The president was yet again depicted as a hero in the confrontation between Muslims and western forces", "label":"assumption"},
+    {"number":42, "text":";", "label":"no-unit"},
+    {"number":43, "text":"the inscription\"God is Great\" was added to the Iraqi flag", "label":"anecdote"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"and", "label":"no-unit"},
+    {"number":46, "text":"the president promised that he would free Jerusalem", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"An attempt was made to play down the failure of the campaign in Kuwait and the sanctions imposed by stepping up an openly pro-Islamic propaganda", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"In 1993, under the weight of a crippling international embargo, the Iraqi president declared the beginning of the so-called religious campaign", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"The goal was to gain control over religious sentiment among the Iraqi population", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"which was barely coping with the consequences of the two wars and the stringent sanctions", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Last but not least, an attempt was made to reinvent and soften the image of the Baghdad regime as one that is pro-Islamic and, therefore, in conflict with the \"forces of Islam's enemies\"", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"The regime undertook demonstrative moves such as closing night clubs and some restaurants and enforcing restrictions on alcohol sales", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"A large scale Quran studying campaign was undertaken", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Senior Sunni and Shia clerics took advantage of the situation and attempted to further the interests of their respective communities, declaring open support for the line taken by the Iraqi leader", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"In 1998, top-ranking party officials, including Vice President Izzat Ibrahim al- Douri, were openly demonstrating religious piety and devotion", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"The period after 1993 ushered in a renewed mosque building effort", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"In 1989, a new religious university was founded and named after Saddam", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The influence of radical Sunni teachings increasingly gained prominence in certain intellectual circles within Baghdad University", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"While one group openly espoused extreme conservative views", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"which today can be described as Salafi beliefs", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"the other blended in with the Sunni theosophical tradition and was influenced by the teachings of the Naqshbandiyya Order", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"According to witness testimonies, both groups received financial and moral support from the same source - Izzat Ibrahim al-Douri", "label":"testimony"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"A member of the academic community has even alleged that the vice president's support came with the blessing of Saddam", "label":"testimony"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"The spread of the new ideology that lay at the very heart of the religious campaign began to make inroads into the judicial system, with the incorporation of extreme and previously unknown punishments into the body of law", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"By way of example, according to Decree No 59/1994 theft became punishable by amputation", "label":"anecdote"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"The events that are currently unfolding in Iraq warrant the conclusion that the advent of ISIL and its support from or collaboration with Iraqi Sunni structures would have been impossible without the historical preconditions outlined above having already been firmly set in place", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"The former Iraqi Prime Minister Nouri al-Maliki failed to strike a reasonable balance between the interests of all ethnic and religious groups in the country by systematically marginalising the Sunni community", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"Another important reason is widespread corruption and the lack of a concept and strategy for the development of the country on the basis of the established constitutional order that is shared by all groups in society", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"From 2003 to date, no Iraqi government has initiated and proposed an adequate policy for Sunni inclusion", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"The programme for the de-Baathificaton of senior-ranking party officials(whose number some commentators put at more than 40,000) has resulted in many losing their livelihood", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Due to its affiliation with the party, approximately one-third of the Iraqi population was effectively marginalised", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Scores of people - many of them young people, including officers in Saddam's army and former civil servants - have been stripped of the Baathist ideology that they previously espoused and that had dominated their social life", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"This void has been filled by Islam", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Since 2004, many Iraqi Sunnis have joined the ranks of the Iraqi resistance movement", "label":"assumption"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"which brings together a number of prominent groups under its banner, such as the Naqshbandiyya Army, Al-Awda, Al-Qiyada al-Amma li Jaysh Al-Iraq (General Command of the Iraqi Army), Munazzamat al-Tahrir al-Iraqiya (Iraqi Liberation Organisation), Kataib Salah ad-Din (Salah al-Din Brigades), etc", "label":"anecdote"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"Despite the radical narrative so typical for purely Islamic organisations, those mentioned continue to rely on the propaganda postulates formerly employed by Saddam as cornerstones of their public rhetoric", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":108, "text":"The crisis in Iraq has much clearer outlines today than it did a year ago, largely due to the refusal of the government to consider Sunni demands", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"It has logically escalated with the advent of ISIL from Syria and the forging of a strategic alliance with the main Sunni military groups", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":112, "text":"At heart, these alliances represent the interests of the former members of the Baath party and of the principal Sunni tribal unions", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"Their attitude towards the Shia is strongly negative and clearly discernible in a number of claims with a conspiratorial bias", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"Propaganda describes the Shia in a discriminatory manner, dating back to the medieval period of confrontation between the two communities", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"These include terms such as shu'ubiyya and safawiya", "label":"anecdote"},
+    {"number":119, "text":"*.", "label":"no-unit"},
+    {"number":120, "text":"The same derogatory terms are also typical for ISIL propaganda", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":122, "text":"Without equating ISIL and Iraqi opposition, they are apparently, albeit temporarily, aligned in the pursuit of a common goal - bringing about the demise of the government in Baghdad", "label":"assumption"},
+    {"number":123, "text":",", "label":"no-unit"},
+    {"number":124, "text":"which is regarded as a direct proponent of the interests of Iran and its ambition to dominate the Sunnis in the Middle East", "label":"assumption"},
+    {"number":125, "text":".", "label":"no-unit"},
+    {"number":126, "text":"This alliance, coupled with the markedly fragmented Iraqi political elite, has placed the country at a crossroads", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"},
+    {"number":128, "text":"The extremist Islamism, compounded by the opportunism of the former political and military elite, has failed to be countered by an ideology based on a new national compromise", "label":"assumption"},
+    {"number":129, "text":".", "label":"no-unit"},
+    {"number":130, "text":"Or", "label":"no-unit"},
+    {"number":131, "text":",", "label":"no-unit"},
+    {"number":132, "text":"as a senior-ranking international representative has declared, it is imperative that Iraqi citizens consider whether they can still live within the borders of a single state", "label":"testimony"},
+    {"number":133, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,161 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"If je ne suis pas Charlie, am I a bad person? Nuance gets lost in groupthink.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In the wake of terrorist attacks in Paris last week, many people in France and elsewhere have declared, Je suis Charlie", "label":"anecdote"},
+    {"number":3, "text":"(\"I am Charlie\")", "label":"no-unit"},
+    {"number":4, "text":"after heavily armed gunmen broke into the headquarters of Charlie Hebdo, a satirical French magazine, and killed eight staff members, two police officers, a building maintenance worker and wounded several others", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"On Sunday, hundreds of thousands of people including a number of world leaders such as Angela Merkel, Benjamin Netanyahu, and David Cameron gathered in Paris for a unity rally, to stand in mourning, in defiance", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"There were cries of Je suis Charlie, Je suis Ahmed(I am Ahmed, the Muslim police officer who lost his life in the attack), Je suis juif(I am a Jew)", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"These declarations were a display of solidarity with those who lost their lives and those who survived", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"They allowed people to try and place themselves in the lives of others by using the power of language", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"We have seen this kind of remembrance before in the face of tragedy", "label":"assumption"},
+    {"number":15, "text":":", "label":"no-unit"},
+    {"number":16, "text":"I am Troy Davis", "label":"anecdote"},
+    {"number":17, "text":";", "label":"no-unit"},
+    {"number":18, "text":"I am Mike Brown", "label":"anecdote"},
+    {"number":19, "text":";", "label":"no-unit"},
+    {"number":20, "text":"I am Eric Garner", "label":"anecdote"},
+    {"number":21, "text":";", "label":"no-unit"},
+    {"number":22, "text":"I am Renisha McBride", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"But we are none of these people", "label":"common-ground"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"We can and do empathize with the plights of the dead, the survivors and their loved ones", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"We can and do empathize with how fragile we all are, and with how we cannot be ruled by terror, but", "label":"assumption"},
+    {"number":29, "text":"why the rhetorical urge to take the place of the fallen?", "label":"assumption"},
+    {"number":30, "text":"What does it bring them?", "label":"assumption"},
+    {"number":31, "text":"I, too, have ached since hearing the news of what happened in Paris but je ne suis pas Charlie et je ne suis pas Ahmed et je ne suis pas juif", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"There are times when silence equals consent, but is the loss of someone else's life really such an instance?", "label":"assumption"},
+    {"number":34, "text":"Is it reasonable to assume that if je ne suis pas Charlie, I tacitly endorse terrorism?", "label":"assumption"}
+  ],
+  [
+    {"number":35, "text":"I believe in the freedom of expression, unequivocally", "label":"assumption"},
+    {"number":36, "text":"-", "label":"no-unit"},
+    {"number":37, "text":"though", "label":"no-unit"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"as", "label":"no-unit"},
+    {"number":40, "text":"I have written before", "label":"no-unit"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"I wish more people would understand that freedom of expression is not freedom from consequence", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"I find some of the work of Charlie Hebdo distasteful", "label":"anecdote"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"because there is a preponderance of bigotry of all kinds in many of their cartoons' sentiments", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Still", "label":"no-unit"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":" my distaste should not dictate the work the magazine produces or anything else", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"The cartoonists at Charlie Hebdo - and writers and artists everywhere - should be able to express themselves and challenge authority without being murdered", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Murder is not an acceptable consequence for anything", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Yet it is also an exercise of freedom of expression to express offense at the way satire like Charlie Hebdo's characterizes something you hold dear - like your faith, your personhood, your gender, your sexuality, your race or ethnicity", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Demands for solidarity can quickly turn into demands for groupthink", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"making it difficult to express nuance", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"It puts the terms of our understanding of the situation in black and white", "label":"assumption"},
+    {"number":63, "text":"-", "label":"no-unit"},
+    {"number":64, "text":"you are either with us or against us - instead of allowing people to mourn and be angry while also being sympathetic to complexities that are being overlooked", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"It has been disheartening to see calls for the Muslim community to denounce terrorism", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"It has been disheartening to see journalists highlighting the stories of \"good\" Muslims", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"as if", "label":"no-unit"},
+    {"number":71, "text":"goodness is the exception to the rule of an entire people", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"We will continue to see discussions of satire, the freedom of expression and its limits", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"We will see speculations as to how such a tragedy can be avoided", "label":"assumption"},
+    {"number":76, "text":"because it is easier to speculate than it is to accept that we cannot prevent terrorism", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"We cannot sway extremists with rational thought or with our ideas of right and wrong", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Life moves quickly", "label":"assumption"},
+    {"number":81, "text":"but", "label":"no-unit"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"sometimes, consideration does not", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"And yet", "label":"no-unit"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":" we insist that people provide an immediate response, or immediate agreement, a universal, immediate me-too ", "label":"assumption"},
+    {"number":88, "text":"-", "label":"no-unit"},
+    {"number":89, "text":"as though we don't want people to pause at all, to consider what they are weighing in on", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"We don't want to complicate our sorrow or outrage", "label":"assumption"},
+    {"number":92, "text":"when", "label":"no-unit"},
+    {"number":93, "text":"it is easier to experience these emotions in their simplest, purest states", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"The older(and hopefully wiser) I get, the more I want to pause", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"I want to take the time to think through how I feel and why I feel", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"I don't want to feign expertise on matters I know nothing about for the purpose of offering someone else my immediate reaction for their consumption", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"The demand for response from all of us through the means available to us, most often our social networks, rises in part because we can feel so impotent in our day-to-day lives", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"We are people with jobs and families and our quotidian concerns", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"It is easy to feel impotent in the face of terrorism in Paris or hundreds of girls being kidnapped in Nigeria or a bombing at an NAACP building in Colorado or an unarmed black man being killed by a police officer", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"Within our social networks, we can feel less alone", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"We can feel less impotent", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"We can make these gestures of solidarity", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"Je suis Charlie", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"We can change our avatars", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"We can share our anger, our fear, or devastation without having to face that we may not be able to do much more", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"But", "label":"no-unit"},
+    {"number":120, "text":"we still feel impotent", "label":"assumption"},
+    {"number":121, "text":"and", "label":"no-unit"},
+    {"number":122, "text":"we still feel inadequate", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"},
+    {"number":124, "text":"When we see people not participating in our expressions of solidarity-- not showing their awareness of their own impotence-- we see something we can possibly change", "label":"assumption"},
+    {"number":125, "text":".", "label":"no-unit"},
+    {"number":126, "text":"That is why we demand allegiance", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"}
+  ]
+]}

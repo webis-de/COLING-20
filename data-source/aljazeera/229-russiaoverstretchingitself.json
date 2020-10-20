@@ -1,0 +1,152 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Is Russia overstretching itself?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In 1783, Russia and the Kingdom of Kartli-Kakheti, which would later become part of modern day Republic of Georgia, signed the Treaty of Georgievsk", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Among other things this treaty gave Kartli-Kakheti a status of a Russian protectorate", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Squished between the Russian, Persian, and Ottoman Empires, this was exactly what the tiny kingdom needed", "label":"assumption"},
+    {"number":7, "text":"...", "label":"no-unit"},
+    {"number":8, "text":"or", "label":"no-unit"},
+    {"number":9, "text":"so they thought", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"The deal with Russia soon turned deadly", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Russia reneged on the treaty, and by 1795 Russian troops had left the region", "label":"anecdote"},
+    {"number":14, "text":"and", "label":"no-unit"},
+    {"number":15, "text":"a Persian army had invaded and leveled the capital city of Tbilisi", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"Georgians have never forgotten this betrayal", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"When", "label":"no-unit"},
+    {"number":20, "text":"Soviet Russia marked the bicentenary of the Treaty of Georgievsk in 1983", "label":"anecdote"},
+    {"number":21, "text":"it was met with mass protests from anti-Soviet Georgians", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"The Treaty of Georgievsk might have been the first dodgy treaty Russia signed in the region", "label":"assumption"},
+    {"number":24, "text":"but", "label":"no-unit"},
+    {"number":25, "text":"it certainly has not been the last", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Soon Russia is expected to sign a treaty with Georgia's breakaway province South Ossetia", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Last November, Russia and Abkhazia - another breakaway province in Georgia - signed a treaty on \"alliance and strategic partnership\"", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"This treaty established a coordinated foreign policy, the creation of a \"common security and defense space\" between Russia and Abkhazia, and the implementation of a streamlined process for Abkhazians to receive Russian citizenship", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"The pending treaty with South Ossetia is expected to bring the relationship between South Ossetia and Russia even closer", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"While", "label":"no-unit"},
+    {"number":36, "text":"Abkhaz officials have shown little interest in getting annexed by Russia", "label":"assumption"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"many in South Ossetia would be happy with this outcome", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"The defacto leader of South Ossetia Leonid Tibilov said the treaty could see the tiny breakaway province\"becoming a subject of the Russian Federation\"", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"The Ossetian people are representative of the typical geographical, religious, and ethnic complexities found in the Caucasus", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Ethically and linguistically they are descended from Iranians", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Religiously they are Orthodox Christian", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"The Ossetian people are unique in the Caucasus", "label":"assumption"},
+    {"number":49, "text":"as", "label":"no-unit"},
+    {"number":50, "text":"they are the only ethnic group found living in large numbers on both sides of the mountains", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Even so", "label":"no-unit"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":" South Ossetia does not have close links to Russia's North Ossetia", "label":"assumption"},
+    {"number":55, "text":"as one might expect", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"The only road linking the two Ossetias runs through the Roki tunnel", "label":"anecdote"},
+    {"number":58, "text":"which was only completed in 1984", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"In fact", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":" Tskhinvali, the administrative capital of South Ossetia, is closer to Tbilisi than it is to North Ossetia's capital city Vladikavkaz", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Since the 2008 Russian invasion of Georgia, Russia has occupied South Ossetia with thousands of troops", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Almost seven years on, Russia is still in direct violation of the Six Point Ceasefire Agreement brokered by then-French President Nicolas Sarkozy", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Russia has spent millions of dollars building a fence around the administrative boundary between South Ossetia and Georgia", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"In some cases, the fence cuts homes, families, and properties into half", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Russia is one of only four countries that recognise South Ossetia's independence (the others being Venezuela, Nicaragua, and Nauru)", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"By contrast, many European countries and the United States recognise the Russian presence in South Ossetia as an illegal occupation", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Russia needs to think carefully before annexing South Ossetia", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"As", "label":"no-unit"},
+    {"number":79, "text":"Moscow has experienced with Crimea", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"annexation comes at a cost, both economically and geo-politically", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Economic sanctions are starting to bite", "label":"assumption"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"the ruble is down", "label":"assumption"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"and", "label":"no-unit"},
+    {"number":88, "text":"the low price of oil is severely impacting the Russian economy", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Then there are all the other costs associated with annexation: paying for pensions, local services, healthcare, education, and infrastructure", "label":"anecdote"},
+    {"number":91, "text":"-", "label":"no-unit"},
+    {"number":92, "text":"this is a heavy burden for the stagnate Russian economy", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"The Georgian Foreign Ministry criticised Russia's move as a step toward \"annexation of Georgia's occupied territories\"", "label":"testimony"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"In reality, there is little Georgia can do about it", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Raising international awareness and encouraging the US and Europe to link economic sanctions connected to Russia's annexation of Crimea to any possible annexation of South Ossetia is the first thing the Georgian government should do", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"The history of the Caucasus has shown that allegiances have, and can, change over time", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Through a long term process of confidence building measures, the Georgian government needs to show those in South Ossetia that their future is brighter with Tbilisi and in the transatlantic community than it is with Russia", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"Finally", "label":"no-unit"},
+    {"number":105, "text":",", "label":"no-unit"},
+    {"number":106, "text":" Georgia must stick with its \"non-use of force\" pledge regarding the occupied territories", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"There is no military solution to either South Ossetia or Abkhazia", "label":"assumption"},
+    {"number":109, "text":",", "label":"no-unit"},
+    {"number":110, "text":"and", "label":"no-unit"},
+    {"number":111, "text":"the region can hardly afford another war", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"It is ironic that since the early 1990s thousands of South Ossetians have died fighting for their independence from Georgia", "label":"assumption"},
+    {"number":114, "text":"when", "label":"no-unit"},
+    {"number":115, "text":"they are likely to hand over their sovereignty to Russia", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"Russia's treaties with Abkhazia and South Ossetia should be seen for what they really are: the first step in a process of Russian annexation of both breakaway regions ", "label":"assumption"},
+    {"number":118, "text":"-", "label":"no-unit"},
+    {"number":119, "text":"both of which are still internationally recognised to be part of Georgia", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"Considering Russia's illegal annexation of Crimea, Georgians have cause for concern", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ]
+]}

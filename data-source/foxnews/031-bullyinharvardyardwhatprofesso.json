@@ -1,0 +1,138 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"A bully in Harvard Yard: What professor's $4 food fight tells us.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"If", "label":"no-unit"},
+    {"number":3, "text":"you think bullies are teenagers lurking on schoolyard playgrounds", "label":"assumption"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"think again", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"At least one is a grown-up walking the hallowed halls of Harvard University", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"His name is Ben Edelman", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"He not only teaches there", "label":"assumption"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"but", "label":"no-unit"},
+    {"number":14, "text":"he earned several diplomas including a law degree at that storied institution of higher education", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"But Edelman seems to have adopted the word \"higher\" as his personal calling card", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"You see", "label":"no-unit"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"he's higher than you and me", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Or at least he seems anxious to let you know it", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"A hardworking Chinese immigrant family found that out", "label":"anecdote"},
+    {"number":25, "text":"when", "label":"no-unit"},
+    {"number":26, "text":"the professor ordered a takeout meal of shredded chicken with spicy garlic sauce and three other dishes", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"Edelman thought he was overcharged by $ 4 bucks ($ 1 dollar more for each dish)", "label":"anecdote"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"so", "label":"no-unit"},
+    {"number":31, "text":"he launched a relentless war on Ran Duan", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"who works with his parents at their restaurant, Sichuan Garden in Brookline", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"You can read the sordid details in a story at Boston.com", "label":"other"},
+    {"number":36, "text":"where", "label":"no-unit"},
+    {"number":37, "text":"the website also published the unbelievable litany of Edelman's intimidating and condescending emails to Duan", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"The prof's remarks ooze with arrogance and conceit", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Edelman's exchange with Duan has become a viral sensation", "label":"assumption"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"as it should", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"A Harvard professor vowing legal action over the sum of $ 4 dollars", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Come on", "label":"no-unit"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"The professor has now apologized for his treatment of Duan and his family", "label":"anecdote"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"but", "label":"no-unit"},
+    {"number":52, "text":"his emails will leave you shaking your head in disbelief that someone so supposedly \"learned\" could be so seemingly insufferable", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Maybe that's what a Harvard education gets you these days", "label":"assumption"},
+    {"number":55, "text":"-a degree in imperiousness", "label":"no-unit"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Arrogance aside, the professor's persistent threats of legal action constitute a shameful campaign of bullying", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"He uses his knowledge of the law --at least his tortured interpretation of it-- for a purpose that can only be described as abusive", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"It turns out", "label":"no-unit"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"he has done this before to a different restaurant", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Bullies tend to target the weak and vulnerable", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"For Edelman to use his advantage as a lawyer to berate the Duan family who have come from nothing as immigrants and are trying their best to make a living running a restaurant is, in a word, unconscionable", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"During one email exchange, Duan asked the professor,\"you seem like a smart man... don't you have better things to do?\"", "label":"testimony"},
+    {"number":70, "text":"Bullies usually don't", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"For all I know, Edelman is a pretty good professor", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"That does not make him a good person", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Clinical psychiatrists might find him to be an interesting case study in how living in the Harvard bubble can distort even the most agile of minds", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Sometimes intellectuals take themselves too seriously", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Sequestered from the experiences of the average man, they can lack common sense, kindness and decency", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Edelman seems bereft of them all", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"There is a reason why places like Harvard are called\"ivory towers\"", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"All too often, they envelop an artificial atmosphere", "label":"assumption"},
+    {"number":87, "text":"where", "label":"no-unit"},
+    {"number":88, "text":"intellectuals are disconnected from the practical concerns of everyday life", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"So, it should be no surprise when guys like Ben Edelman explode like a bomb on some poor immigrant family trying to make a buck with the sweat of their brow", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Fortunately, academic elitism is not contagious", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Teaching at Harvard may be a lofty achievement in the egg-head world", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"But professor Edelman seems to lack the one quality which elevates people above all other primates: compassion", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"He might gain a measure of humility and understanding by getting a real job", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Might I suggest washing dishes in a Chinese restaurant?", "label":"anecdote"}
+  ],
+  [
+    {"number":101, "text":"The next time I visit the Boston area, I'll skip Harvard Yard", "label":"other"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Instead", "label":"no-unit"},
+    {"number":104, "text":",", "label":"no-unit"},
+    {"number":105, "text":" I plan to drop by the Sichuan Garden to try their sauteed prawns with roasted chili and peanut sauce", "label":"other"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"And I won't check the bill", "label":"other"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ]
+]}

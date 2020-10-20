@@ -1,0 +1,185 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Five ways Obama could make Castro pay Cuba's $6 billion debt to Americans.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In his half century reign of terror, Cuban dictator Fidel Castro committed manifold atrocities", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Documented evidence reveals him to be a ruthless tyrant", "label":"assumption"},
+    {"number":5, "text":"who endlessly abused the most basic of human rights", "label":"assumption"},
+    {"number":6, "text":"-a man who played a pivotal role in bringing the world to the precipice of nuclear annihilation for 13 harrowing days in October of 1962", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Beyond his crimes against humanity and the callous suffering he inflicted on the people of Cuba, he ruined the lives and livelihoods of thousands of Americans", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"He stole their land, homes, bank accounts, possessions and businesses", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"He absconded with their property under the guise of \"nationalization.\"", "label":"assumption"},
+    {"number":13, "text":"But he is, in truth, a thief", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Will his victims now be fairly compensated or otherwise see the return of their confiscated property in the wake of America's first steps toward rapprochement with Cuba?", "label":"assumption"},
+    {"number":16, "text":"The answer is both legal and political", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"President Obama holds the key", "label":"common-ground"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"So, don't get your hopes up", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"The Theft", "label":"no-unit"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"In the first half of the 20th century, Americans and U.S  businesses dominated Cuba", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"They accumulated vast holdings of property and operated many of the most lucrative businesses", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"All of that ended with the Cuban Revolution in 1959", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Castro \"nationalized\" U.S.-owned industries and seized much of the island's private property from Americans", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"There was no restitution", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"One legal scholar called it the largest uncompensated expropriation by a foreign government in history", "label":"testimony"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"The U.S  retaliated with an embargo, prohibiting all trade", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"But the Americans who were expelled from Cuba were left holding titles and deeds to homes and businesses to which they had no access", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Their property rights were dissolved", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"and", "label":"no-unit"},
+    {"number":43, "text":"any legal judgments obtained were unenforceable against an isolated nation that refused to recognize any authority other than its own", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Thousands pursued legal recourse and sought reparations under indemnification programs established by Congress", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Others filed lawsuits and secured judgments", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"But Castro didn't care", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"He repudiated the legitimacy of the restitution programs, the valuation of losses and the legal authority of the courts", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"This", "label":"no-unit"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"even though Cuba admits their renegade nationalization was, and is, compensable", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"So what", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"then", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":" does Castro consider fair compensation?", "label":"assumption"},
+    {"number":62, "text":"Judging from his payouts to other aggrieved nations, it is mere pennies on the dollar", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"How", "label":"no-unit"},
+    {"number":65, "text":"do you value dirt?", "label":"assumption"}
+  ],
+  [
+    {"number":66, "text":"In 1961, the U.S  Commerce Department valued American property seized by the Cuban government at roughly $ 1 to 1.8 billion", "label":"statistics"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Nearly 6-thousand claims were legally certified", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Other published reports placed the theft as high as $ 9 billion", "label":"statistics"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"But the truth is, it's impossible to know -especially inasmuch as the value of everything plummeted the moment Castro took control of the island", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"What would the same confiscated properties be worth in today's dollars?", "label":"assumption"},
+    {"number":75, "text":"$50 billion?", "label":"assumption"},
+    {"number":76, "text":"$100 billion?", "label":"assumption"},
+    {"number":77, "text":"How about nothing at all?", "label":"assumption"},
+    {"number":78, "text":"Given how the Castro brothers have driven their economy into the ground, making Cuba one of the poorest nations in the world", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"valuation could be closer to dirt than dollars", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"Which invites another question", "label":"assumption"},
+    {"number":83, "text":":", "label":"no-unit"},
+    {"number":84, "text":"assuming a monetary value could somehow be devised, how would Cuba pay for it?", "label":"assumption"},
+    {"number":85, "text":"With the collapse of the Soviet Union, the Castros lost their financial benefactor", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"The island is blighted and broke", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Even if", "label":"no-unit"},
+    {"number":90, "text":"it offered government bonds as compensation", "label":"assumption"},
+    {"number":91, "text":", are they worth the paper upon which they are written?", "label":"assumption"},
+    {"number":92, "text":"How could they be secured?", "label":"assumption"}
+  ],
+  [
+    {"number":93, "text":"Reclaim the property?", "label":"assumption"}
+  ],
+  [
+    {"number":94, "text":"Theoretically, it is possible for the confiscated property to be reclaimed someday by the original owners", "label":"common-ground"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"But that would require a dramatic Cuban transformation from socialism to democracy where private property ownership is permitted", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"In a recent speech, Cuban President Raul Castro insisted Cuba would not renounces its core socialist ideals as part of the deal he negotiated with President Obama to renew diplomatic relations", "label":"anecdote"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"Even if", "label":"no-unit"},
+    {"number":101, "text":"some semblance of democracy were to be restored to Cuba in the distant future", "label":"assumption"},
+    {"number":102, "text":",", "label":"no-unit"},
+    {"number":103, "text":"what remains of the stolen property?", "label":"assumption"},
+    {"number":104, "text":"No one knows how many of the private residences that were seized have been divided or fallen into decay", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"Some may no longer exist", "label":"common-ground"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"And what of the current occupants?", "label":"assumption"},
+    {"number":109, "text":"Would they allow themselves to be kicked out?", "label":"assumption"}
+  ],
+  [
+    {"number":110, "text":"The same may be true of the many farms, industries and commercial businesses that were confiscated and have been put to other uses in the last 5 decades", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"Yes, they have development potential in an open, free market society", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"But", "label":"no-unit"},
+    {"number":115, "text":",", "label":"no-unit"},
+    {"number":116, "text":" again, the future of Cuba is nebulous", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"How realistic is the return of these vast holdings under a continuing Castro regime?", "label":"assumption"}
+  ],
+  [
+    {"number":119, "text":"What Obama should do", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":121, "text":"As a first condition to normalizing relations, President Obama should demand that all American victims of stolen property be compensated equitably", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"He is already obligated by law to do this under the Helms-Burton Act", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"But Obama has a propensity to ignore or overrule with impunity those laws he regards as misguided or inconvenient", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"},
+    {"number":127, "text":"This is one law he should follow", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":129, "text":"A second condition should be the establishment of a commission of judges with legally binding authority to render compensation decisions", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"},
+    {"number":131, "text":"Several reparation models can be studied and replicated, notably the tribunal that dispensed claims in post-unification Germany", "label":"assumption"},
+    {"number":132, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":133, "text":"President Obama has the power and leverage to force the Castro regime to capitulate if Cuba wants to end the sanctions and restore economic relations", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"},
+    {"number":135, "text":"But so far, he has uttered not a word about a desire to do so", "label":"assumption"},
+    {"number":136, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":137, "text":"And", "label":"no-unit"},
+    {"number":138, "text":"when it comes to negotiations with adversaries, Obama tends to give away the store", "label":"assumption"},
+    {"number":139, "text":".", "label":"no-unit"}
+  ]
+]}

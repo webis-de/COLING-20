@@ -1,0 +1,151 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Ferguson: Obama contines to undermine police departments around the country.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"As a response to the police shooting of Michael Brown, President Obama proposes $263 million for police training and body cameras", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"But more police training wouldn't have prevented the Brown shooting and the president's proposal plays into the hands of those who blame the police", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"President Obama has continually undermined police departments around the country", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"and", "label":"no-unit"},
+    {"number":9, "text":"his demand for more training fits that pattern", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"In 2009, he jumped to the conclusion that Cambridge, Massachusetts police \"acted stupidly\" when they arrested Henry Gates", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"He personalized the Trayvon Martin investigation in a way that to many implied the murder was radically motivated", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"And yet", "label":"no-unit"},
+    {"number":16, "text":"again last week, he emphasized that the anger to the verdict was \"an understandable reaction\" and blacks' distrust of police is \"rooted in realities.\"", "label":"testimony"}
+  ],
+  [
+    {"number":17, "text":"Nevertheless", "label":"no-unit"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"whatever Obama implies, there was absolutely no evidence Officer Darren Wilson was motivated by race", "label":"assumption"},
+    {"number":20, "text":"and", "label":"no-unit"},
+    {"number":21, "text":"he did exactly what he should have done", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Brown's robbery of the convenience store, his decision to reach into the police car and punch Wilson while trying to take his gun, and finally Brown's decision to charge Wilson was what caused the teen's death", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Under Missouri law, people can defend themselves with deadly force if they have a \"reasonable belief\" they need to use it to protect themselves against serious injury or death", "label":"common-ground"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"Wilson claimed:\"I felt that another of those punches in my face could knock me out or worse... I've already taken two to the face and I didn't think I would, the third one could be fatal if he hit me right.\"", "label":"testimony"},
+    {"number":28, "text":"When Brown later charged Wilson, despite repeated warnings to stop, Wilson worried that he no choice but to shoot Brown", "label":"testimony"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"But we don't have to take Wilson's word for what happened", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"The forensic evidence is overwhelmingly consistent with his story", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"There is no doubt that Brown reached in Wilson's car and hit him", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"Brown's DNA was found on Wilson's gun", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"Despite strong social pressure, three black witnesses confirmed Wilson's testimony", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Police officers in America have a more dangerous job than many people realize", "label":"assumption"},
+    {"number":41, "text":"and", "label":"no-unit"},
+    {"number":42, "text":"they behave remarkably well under these circumstances", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"In 2013, the assault rate for the general public in the United States was 229 per 100,000 people", "label":"statistics"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"But", "label":"no-unit"},
+    {"number":47, "text":"the rate police were assaulted that year was 9,300 per 100,000 officers- a rate 41 times higher", "label":"statistics"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The only reason that police don't die at as high of a rate as people in other professions is because of their training and the fact that they are armed", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Would you consider it \"dangerous\" to live in Detroit?", "label":"anecdote"},
+    {"number":52, "text":"After all", "label":"no-unit"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":" it has by far the highest assault rate in the country, at 1,257 per 100,000 people", "label":"statistics"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"But police are still 7.4 times more likely to be assaulted(=9,300/1,257)", "label":"statistics"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Aggravated assaults don't necessarily involve injuries, just the attempt to cause serious bodily injury", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"but", "label":"no-unit"},
+    {"number":61, "text":"police are injured at a very high rate - 2,700 per 100,000 police officer", "label":"statistics"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"That is still much higher than the total assault data for civilians", "label":"statistics"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"This data also suggests that police are not actively looking for excuses to fire their weapons", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"The number of justifiable killings by police equals less than one percent of the assaults on police", "label":"statistics"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"Thus even", "label":"no-unit"},
+    {"number":70, "text":"when assaulted, police rarely resort to killing their attackers", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"As", "label":"no-unit"},
+    {"number":73, "text":"Ferguson is showing us, physical risks aren't the only risks that police face", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"On Saturday Officer Darren Wilson resigned from the Ferguson police department", "label":"anecdote"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"fearing that protestors would use his continued presence to justify rioting", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"He is going to have a hard time getting a job", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"and", "label":"no-unit"},
+    {"number":82, "text":"he didn't get any severance pay", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Who will hire him now?", "label":"assumption"},
+    {"number":85, "text":"Surely no other police department will hire him", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"And, any company that would hire Wilson would fear the same protests", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"With Wilson facing civil suits and Attorney General Eric Holder's federal investigation still ongoing, the pressures on Officer Wilson are not likely to fade away anytime soon", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"It's safe to say that other police officers will be carefully watching what happens to Wilson", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Yes, racism is despicable", "label":"common-ground"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"And there have been abuses by police in the past", "label":"common-ground"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"But 2014 isn't 1960", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Police have a difficult and dangerous job", "label":"common-ground"},
+    {"number":100, "text":",", "label":"no-unit"},
+    {"number":101, "text":"and", "label":"no-unit"},
+    {"number":102, "text":"President Obama could help to calm things down", "label":"assumption"},
+    {"number":103, "text":"if", "label":"no-unit"},
+    {"number":104, "text":"he and his administration weren't so quick to assume that police officers are the only ones at fault", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"John R  Lott, Jr  is a columnist for FoxNews.com", "label":"other"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"He is an economist and was formerly chief economist at the United States Sentencing Commission", "label":"other"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"Lott is also a leading expert on guns and op-eds on that issue are done in conjunction with the Crime Prevention Research Center", "label":"other"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"He is the author of eight books including \"More Guns, Less Crime.\"", "label":"other"},
+    {"number":113, "text":"His latest book is\"Dumbing Down the Courts: How Politics Keeps the Smartest Judges Off the Bench\"", "label":"other"},
+    {"number":114, "text":"Bascom Hill Publishing Group (September 17, 2013)", "label":"no-unit"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"Follow him on Twitter@johnrlottjr", "label":"no-unit"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ]
+]}

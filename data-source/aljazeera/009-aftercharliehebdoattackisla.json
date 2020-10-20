@@ -1,0 +1,132 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"After Charlie Hebdo attack, the real war.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"France's Prime Minister Manuel Valls has said that his country is now at war with radical Islam", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"\"It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity,\" Valls said during a speech on Saturday in Evry, south of Paris", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"What is \"radical Islam\"?", "label":"assumption"},
+    {"number":7, "text":"Is there such a thing?", "label":"assumption"},
+    {"number":8, "text":"And how does this affect the ongoing US-led war on extremism - the most tangible form being ISIL", "label":"assumption"},
+    {"number":9, "text":"who have controlled large segments of land and people in northern Iraq and eastern Syria?", "label":"assumption"}
+  ],
+  [
+    {"number":10, "text":"Very few people know that in Islam there are two kinds of \"jihad\"", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"The smaller jihad is the more known - namely the one which reflects the military struggle", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"But the greater jihad, which is less known, is the internal jihad - or struggle", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Few people also know that the Arabic word \"jihad\" is used throughout the Bible as well", "label":"assumption"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"although certainly not in the militaristic sense", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"2 Timothy 4:7 states:\"I have fought the good fight, I have finished the race, I have kept the faith.\"", "label":"testimony"},
+    {"number":21, "text":"The verse in Arabic uses the term \"jihad\" for the word \"fight\"", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"So", "label":"no-unit"},
+    {"number":24, "text":"whether it is this struggle or the fight for a better world, the militaristic jihad is certainly not a monopoly for Islamists", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"World leaders have correctly pointed out that the fight against ISIL must be waged both on the military and ideological levels", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"But we must be careful about the idea of conflating Islam with radicalism", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"People and ideas might be radical", "label":"common-ground"},
+    {"number":31, "text":"but", "label":"no-unit"},
+    {"number":32, "text":"to target a religion with radicalism adds insult to injury and shifts from the proper focus which is the individually created extremism", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"We have heard and seen a lot of the former", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"but", "label":"no-unit"},
+    {"number":37, "text":"very little has been done to tackle the ideologies behind this extreme group", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"The need to deal with the extreme thoughts connected to this movement was made clear by extremists who carried out the heinous attack against a French satirical newspaper; most likely because of the ideas it has espoused", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Whenever violent acts take place, the natural response is to militarily obliterate the group or militia behind it", "label":"common-ground"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"There might be a good case for a military response", "label":"assumption"},
+    {"number":44, "text":"but", "label":"no-unit"},
+    {"number":45, "text":"it would be a totally counterproductive effort", "label":"assumption"},
+    {"number":46, "text":"if", "label":"no-unit"},
+    {"number":47, "text":"it is not accompanied by an equally strong ideological response", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"It might be possible to kill the holders of some of these ideas", "label":"assumption"},
+    {"number":50, "text":"but", "label":"no-unit"},
+    {"number":51, "text":"everyone knows that you can't kill ideas by using force", "label":"common-ground"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Extremist ideology must be tackled in a number of ways", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"The most important ideological response to extremism is the need to show that there are better and more effective ways to deal with the various issues that make extremism popular", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"This includes the need to introduce real political reform in the countries that are of importance to the people that follow these extreme leaders", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"It applies both to the Arab countries", "label":"assumption"},
+    {"number":60, "text":"whose autocratic leadership has left a large sector of the public without any say in what happens to them", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"But it also applies to the need to continue stemming racism and Islamophobia from many of the western countries", "label":"assumption"},
+    {"number":63, "text":"where some homegrown terrorism seems to be gaining strength", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"The issue is complicated by murderous acts like those committed in Paris", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"which tend to increase rather than decrease anti-Islamic sentiments", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"In addition to political changes that must be introduced, Arab and Muslim intellectuals and leaders must end their self-imposed silence and speak out clearly and unabashedly", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"There is no reason to keep repeating that these actions are not a reflection of true Islam", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"What is needed is for writers and thinkers to produce concrete and practical thoughts and ideas that can be applicable to the 21st century", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Today's Arab and Muslim youth need to find alternative role models and alternative ideas that they can adopt in this struggle of ideas that extremists are working tirelessly to defend- and to which the other side is only paying lip service", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"One successful idea called takween (seen on the local Jordanian website, ammannet.net) has seen an increase in audience", "label":"anecdote"},
+    {"number":78, "text":"as", "label":"no-unit"},
+    {"number":79, "text":"reformed independent writers from various backgrounds (culture, media, women's issues and workers rights) are producing daily analysis that is the anti-thesis to ISIL's ideology", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"The individual efforts by some intellectuals is to be supported but much more is necessary", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"The anti-extremism military effort can't yield positive results", "label":"assumption"},
+    {"number":84, "text":"if", "label":"no-unit"},
+    {"number":85, "text":"there isn't a combined change in how ruling governments conduct their affairs(especially on the economic empowerment front), and how to tackle every one of the extremists' thoughts, ideas and practices", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"The battle will be long and cumbersome", "label":"assumption"},
+    {"number":88, "text":"but", "label":"no-unit"},
+    {"number":89, "text":"in order to win, all people of good will must work together to produce what is good and uplifting for a better future for all", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ]
+]}

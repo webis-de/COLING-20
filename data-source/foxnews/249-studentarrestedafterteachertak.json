@@ -1,0 +1,119 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Student arrested after teacher takes smartphone: Do our devices own us?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Last Tuesday, a ninth-grader at John F  Kennedy High School in Paterson, N.J , was caught on video throwing his 62-year-old teacher to the ground and wrestling with him in order to retrieve his cellphone", "label":"anecdote"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"which the teacher had confiscated", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Teachers at the school allow cellphones to be used for educational purposes in the classroom", "label":"anecdote"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"but", "label":"no-unit"},
+    {"number":9, "text":"they may take them and hold them until the end of class", "label":"assumption"},
+    {"number":10, "text":"if", "label":"no-unit"},
+    {"number":11, "text":"a student appears to be using his phone for any other purpose", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Granted", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"the boy may have demonstrated problems controlling his impulses in other settings, too", "label":"assumption"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"but", "label":"no-unit"},
+    {"number":18, "text":"the video of his attack has resulted in national attention", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"And", "label":"no-unit"},
+    {"number":21, "text":"that's because it isn't the first dramatic example of how attached to our phones we have become", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"Last year, a Houston woman was shot by a mugger when she refused to hand over her cellphone", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"She survived", "label":"anecdote"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"and", "label":"no-unit"},
+    {"number":28, "text":"she later asserted that she had done the right thing", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"In 2013, a 22-year-old man was killed by a train when he tried to retrieve the cellphone he had dropped on the tracks", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Without giving a great deal of thought to the psychological implications,", "label":"no-unit"},
+    {"number":33, "text":"our species has deployed mobile technology very quickly, in a very widespread manner", "label":"common-ground"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"One reason is that the marketplace embraced smartphones in an astounding way ", "label":"assumption"},
+    {"number":36, "text":"--", "label":"no-unit"},
+    {"number":37, "text":"as if our phones and their apps are a lock-and-key fit with our psyches", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"According to one source, there are 7 billion mobile devices on earth, one for almost each person", "label":"statistics"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"What is \"in\" our cellphones that would lead people to attack others or risk death to keep them?", "label":"assumption"},
+    {"number":42, "text":"I would argue that the phones absorb and record our thoughts and intentions so dramatically that we become unconsciously convinced they are \"parts of us.\"", "label":"assumption"},
+    {"number":43, "text":"Why else would so many people hesitate even to leave a room without taking their cellphones with them?", "label":"assumption"},
+    {"number":44, "text":"Why would they interrupt meetings and family time to check them?", "label":"assumption"},
+    {"number":45, "text":"Why would young people be opting to spend their money on newer, faster ones, instead of on clothing?", "label":"assumption"}
+  ],
+  [
+    {"number":46, "text":"Why would there be so much interest in personalizing the sounds they make, the apps they hold and the cases that hold them?", "label":"assumption"}
+  ],
+  [
+    {"number":47, "text":"I contend we have already crossed the Rubicon, almost irrevocably incorporating technology into our psyches in a way that makes us part flesh and blood, part hardware", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The fact that the hardware is outside our bodies(for now) does not mean the integration has not occurred", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"We are psychologically magnetized to our devices", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"That's why some people will fight for them, and even die for them", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"The selfie has become so ubiquitous that it no longer seems bizarre to see someone smiling into a cellphone or sticking out her tongue or making a sad face -- acting-- and then snapping a photo", "label":"common-ground"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"And these images are then sent not only to her supposed \"friends,\" who may number in the hundreds, but also to her unconscious mind -- reinforcing the idea that she is what her cellphone records her to be", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"Take away the cellphone and, in some measure, she believes she disappears", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"She feels she dies a little bit, or more than a little bit, psychologically", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"The business of selling \"selfie sticks\"-- telescoping rods that hold a cellphone far enough away to facilitate a really good shot-- is robust enough to make many retailers place large kiosks of them near the checkout register", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Cellphones, you might say, are growing arms", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Ours apparently aren't long enough", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"This is just the beginning", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Cellphones will soon be able to determine whether you are looking at the content on their screens, rather than looking away", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"They will demand attention", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"The extent to which we own them versus them owning us will be increasingly in doubt", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Make no mistake", "label":"other"},
+    {"number":78, "text":":", "label":"no-unit"},
+    {"number":79, "text":"While", "label":"no-unit"},
+    {"number":80, "text":"technology can be good when harnessed for the good", "label":"assumption"},
+    {"number":81, "text":"(raising money for charity occurs to me)", "label":"anecdote"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"there will be hell to pay for giving so little thought to the downside", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"That downside likely includes an epidemic of narcissism in young people, increased rates of anxiety and dramatically decreased feelings of autonomy", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Because to the extent that one's self-image is outsourced to a mobile device, it is no more deeply rooted than that", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Bill Hemmer and Martha MacCallum bring you the news that matters to you!", "label":"assumption"}
+  ]
+]}

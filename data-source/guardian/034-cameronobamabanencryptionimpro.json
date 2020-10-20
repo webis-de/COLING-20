@@ -1,0 +1,111 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama and Cameron's 'solutions' for cybersecurity will make the internet worse.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The current state of the US and UK governments' ass-backwards approach to cybersecurity was on full display this week- culminating with British Prime Minister David Cameron and President Obama meeting to discuss the issue at the White House on Friday", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"When it comes to cybersecurity", "label":"assumption"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"it seems the UK and US want to embrace every crazy idea except what we know actually works", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The UK's Cameron suggested earlier in the week he wants to outlaw certain forms of encryption", "label":"anecdote"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"which could potentially lead to some of the world's most popular messaging apps (like iMessage and WhatsApp) being banned in the UK", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"That speech had been ridiculed from all angles for the past few days, with various experts labeling it a nightmare for Internet security- on par with authoritarian regimes such as Russia and China- and economically devastating for the British information technology industry", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Meanwhile, the White House has proposed a huge expansion of penalties under the highly-controversial law that was used to prosecute Reddit co-founder and privacy rights advocate Aaron Swartz", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"If", "label":"no-unit"},
+    {"number":17, "text":"passed", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"the administration's proposal could further criminalize mundane Internet activity - for example, potentially allowing for a ten-year jail sentence for sharing your HBO GO password - all to supposedly target foreign hackers that the law would likely never reach", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Less than 24 hours before Cameron-Obama the meeting", "label":"no-unit"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"the Guardian published a secret report based on previously unreleased Snowden documents showing that the US government is fully aware that encryption is vital for security, and that the government risked leaving themselves vulnerable if they didn't start implementing it on their own systems quicker", "label":"testimony"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The British government likely knows this too", "label":"assumption"},
+    {"number":26, "text":":", "label":"no-unit"},
+    {"number":27, "text":"many of their employees use email encryption", "label":"anecdote"},
+    {"number":28, "text":";", "label":"no-unit"},
+    {"number":29, "text":"and", "label":"no-unit"},
+    {"number":30, "text":"UK even recommend citizens use encryption to protect their data on a government website", "label":"testimony"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"At the press conference after the meeting, Obama commendably didn't embrace Cameron's proposal when asked about it", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"and", "label":"no-unit"},
+    {"number":35, "text":"even Cameron seemed to at least appear to back off his own anti-encryption proclamation", "label":"assumption"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"saying he's \"not trying to enunciate some new doctrine.\"", "label":"testimony"}
+  ],
+  [
+    {"number":38, "text":"But", "label":"no-unit"},
+    {"number":39, "text":"just because Cameron's been proven to be technically illiterate and may be attempting to publicly back away from his most radical proposal", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"that doesn't mean that he won't later push forward", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"FBI director Jim Comey proposed similar legislation to Cameron's just a few months ago", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"and", "label":"no-unit"},
+    {"number":46, "text":"Cameron used eerily similar talking points in Washington on Friday as Comey did in late 2014", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Plus, the rest of Cameron's plan is downright scary for Internet privacy even without a formal encryption ban", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"And then there's the White House's so-called solution to the cybersecurity problem, which they unveiled earlier this week", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"President Obama introduced it saying we had to do something about incidents like the headline-grabbing Sony hack, or the juvenile hijacking of US Central Command's twitter account", "label":"anecdote"},
+    {"number":53, "text":"-", "label":"no-unit"},
+    {"number":54, "text":"but", "label":"no-unit"},
+    {"number":55, "text":"what he didn't say was that those proposals wouldn't have stopped those attacks at all", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Part of the Obama administration's proposal would dramatically expand the Computer Fraud and Abuse Act, the oft-abused and notorious statute that the Justice Department used to threaten the late Internet activist Aaron Swartz with 35 years in jail", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"(Aaron later took his own life while awaiting trial", "label":"anecdote"},
+    {"number":60, "text":".)", "label":"no-unit"},
+    {"number":61, "text":"The CFAA already has incredibly harsh penalties, so much so that there's been a movement for years to reduce them", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"And", "label":"no-unit"},
+    {"number":64, "text":"how the administration thinks increasing CFAA penalties is going to worry either North Korean hackers or ISIS sympathizers (or more likely pranksters) who take advantage of negligent password practices is anyone's guess", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"It would also put countless security researchers at further risk of prosecution, the exact type of people the government should consulting with", "label":"assumption"},
+    {"number":67, "text":"before making these ill-thought proposals, not driving underground", "label":"no-unit"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"At the same time", "label":"no-unit"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":" Congress has re-introduced their annual \"info-sharing\" cybersecurity bill", "label":"anecdote"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"which is really just a thinly-veiled way to siphon off more of Americans' private data without court oversight", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"As EFF put it, the bill \"offered new authorities that could be abused by companies to spy on users, and offered broad legal immunity for disclosing the information obtained with the government", "label":"testimony"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"Sometimes they even granted companies the ability to 'hack back'... a perfect storm threatening our online privacy.\"", "label":"testimony"},
+    {"number":78, "text":"The President's alternative bill is a bit less sweeping, but not by much", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"So, Congress and Obama seem to be finally on the same page about something: harsher penalties that won't reach the hackers they were worried about and invasive \"info-sharing\" that doesn't come close to solving existing problems", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"God forbid there be a full rebirth of the US-UK relationship, or that both sides of the Atlantic seek a full, two-state ban on encryption", "label":"other"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Even full government gridlock would be better than that", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ]
+]}

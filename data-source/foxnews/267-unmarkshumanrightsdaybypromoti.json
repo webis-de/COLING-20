@@ -1,0 +1,150 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"UN marks Human Rights Day by promoting violation of human rights.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Sixty-six years ago was the high water mark of global disapproval of xenophobia, and racial and religious discrimination", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"On December 10, 1948, the United Nations General Assembly adopted the Universal Declaration of Human Rights and then gave Eleanor Roosevelt a standing ovation for her leading role", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Today, this statement of principle would never pass", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Racial and religious discrimination is the trademark of the U.N  itself", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Let's", "label":"no-unit"},
+    {"number":11, "text":"look back at the year 2014", "label":"other"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"At least another 75,000 people were butchered in Syria", "label":"statistics"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"There were violent crackdowns in Hong Kong, bloody takeovers in Ukraine, subjugation of women in Saudi Arabia, brutal lawlessness in Yemen, Libya, Nigeria, Mexico - and so on", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"But at the United Nations, 2014 wraps up with the adoption of twenty times more resolutions by the General Assembly condemning the state of Israel for violating human rights than any other nation on earth", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"There is not one General Assembly resolution worried about human rights in China or Russia or Saudi Arabia or Yemen or Libya or Nigeria or Mexico - and so forth", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"The General Assembly will even adopt one resolution critical of Syria but two resolutions demanding Israel immediately return the Golan Heights to Syria - the place where lucky Syrians and UN peacekeepers dash to Israel for protection", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"The demonization of Israel, and the inequality of the self- determination of the Jewish people, by way of the United Nations have one painfully obvious purpose: the end of the Jewish state", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"Eleanor Roosevelt would have called it a gross violation of the very spirit of the Universal Declaration of Human Rights", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"If", "label":"no-unit"},
+    {"number":28, "text":"you walk into the newly-renovated UN, which opened its doors in the fall after a $2 billion dollar spending spree (a quarter of which came from American taxpayers)", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"the first stop on the public tour straight off the elevator is an exhibit on Palestinian rights", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"It's a fictional narrative of \"11 million Palestinians\" and the story of generation after generation of \"refugees\" from successive wars that spontaneously\"broke out.\"", "label":"assumption"},
+    {"number":33, "text":"The only \"contraventions of international law\" are by Israel", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Palestinians have justifiable\"uprisings.\"", "label":"assumption"},
+    {"number":36, "text":"Israelis have \"extremists.\"", "label":"assumption"},
+    {"number":37, "text":"Arabs mount \"peace initiatives.\"", "label":"assumption"},
+    {"number":38, "text":"Israelis mount \"military operations.\"", "label":"assumption"}
+  ],
+  [
+    {"number":39, "text":"The kicker", "label":"no-unit"},
+    {"number":40, "text":":", "label":"no-unit"},
+    {"number":41, "text":"Palestinian history miraculously mirrors Jewish history and begins in 1948 with an \"exodus\" after \"the catastrophe\" of the establishment of Israel", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"If", "label":"no-unit"},
+    {"number":44, "text":"our nation is seriously worried about incitement to racial and religious intolerance", "label":"assumption"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"it is time to get serious about incitement at the UN", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"On November 24, 2014, the U.N  held its annual International Day of Solidarity with the Palestinian People", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"It marked the anniversary of the 1948 General Assembly resolution partitioning Palestine into an Arab and a Jewish state by flying only the flag of the \"State of Palestine\" and banning the flag of Israel", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"For the past two weeks, the public entrance to U.N  headquarters has been decorated with another exhibit", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"\"The Long Journey\" purports to tell the history of the Palestinian \"exodus\" that began in 1948- not 1967", "label":"testimony"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Photos show Palestinians studying, eating, praying, training, cooking, shopping, dancing, sewing, and playing", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Never killing", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Never terrorizing", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Never making war", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Never spouting anti-Semitism", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"But", "label":"no-unit"},
+    {"number":67, "text":"suffering with \"ingenuity, resilience and steadfastness\" from wanton Israeli aggression", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"At the U.N  in Geneva there has been another public exhibit gracing the U.N 's Palais des Nations", "label":"anecdote"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"It is entitled \"La Nakba: Exode et Expulsion des Palestiniens en 1948\" ", "label":"anecdote"},
+    {"number":72, "text":"-", "label":"no-unit"},
+    {"number":73, "text":"meaning \"The Nakba: Exodus and Expulsion of the Palestinians in 1948.\"", "label":"common-ground"},
+    {"number":74, "text":"The exhibit, which was a \"cultural activity\" requested by \"Palestine,\" required UN approval and facilitation", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"According to formal guidelines, it must have been approved at the highest levels - the Director- General, Michael M? ller of Denmark", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"It includes the following astounding statements", "label":"anecdote"},
+    {"number":79, "text":":", "label":"no-unit"},
+    {"number":80, "text":"\"The Palestinians failed to see why they should be made to pay for the Holocaust", "label":"testimony"},
+    {"number":81, "text":"...", "label":"no-unit"},
+    {"number":82, "text":"Acts of terrorism...by the Zionists led to the flight and expulsion of the native Arab Palestinian population", "label":"testimony"},
+    {"number":83, "text":"....", "label":"no-unit"},
+    {"number":84, "text":"Zionist representatives... planned and implemented the ethnic purge.\"", "label":"testimony"},
+    {"number":85, "text":"\"The partition resolution violates fundamental principles of the UN Charter.\"", "label":"testimony"}
+  ],
+  [
+    {"number":86, "text":"The organizers shamelessly responded in a written handout to the rhetorical question:\"Why did we create this exhibition on the Nakba?\"", "label":"anecdote"},
+    {"number":87, "text":"Their answer: to reeducate those misinformed by \"German guilt\" and \"the mass media\" in order to appreciate that in 1948, Palestinians were \"robbed of their homeland and their property.\"", "label":"testimony"}
+  ],
+  [
+    {"number":88, "text":"Hiding in plain sight at the UN is the reason for the lack of peace between Israelis and Arabs", "label":"assumption"},
+    {"number":89, "text":"- and", "label":"no-unit"},
+    {"number":90, "text":"it has nothing to do with 1967 and \"occupation.\"", "label":"assumption"},
+    {"number":91, "text":"For Palestinians and Arabs across the Middle East, Israel is one big settlement", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"As Palestinian representative Riyad Mansour openly told his U.N  audience on November 24, 2014:\"Our people are suffering immense and growing hardships, all stemming from the grave injustice done to them in Al-Nakba of 1948 and thereafter.\"", "label":"testimony"}
+  ],
+  [
+    {"number":94, "text":"The month of November saw six full days at U.N  headquarters dedicated to dehumanizing Israelis, led by speakers from UNRWA, the Palestinian Authority and Iran", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Israel was guilty of \"an onslaught,\" \"ethnic cleansing,\" \"an inhumane blockade,\" \"torture,\" \"massacring civilians with a vengeance,\" \"virulent racism,\" \"barbarism,\" \"a policy of terrorism,\" \"genocide,\" \"apartheid,\" \"savagery,\" \"terror rampages,\" \"horrific abuse,\" \"supporting Al Qaeda,\" \"heinous crimes,\" \"beating and torturing juveniles,\" and \"crimes against humanity.\"", "label":"testimony"}
+  ],
+  [
+    {"number":97, "text":"That was in addition, to repeating\"Zionism is racism\" and analogizing Israelis to Nazis", "label":"anecdote"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Lebanon, for instance, said:\"From 1948 until today, many Palestinian young girls and boys are just as determined as Anne Frank to conquer their fear of the occupier...\"", "label":"testimony"}
+  ],
+  [
+    {"number":100, "text":"How many more stabbings, rapes, and killings of Jews around the globe will it take to end American tolerance for incitement to racial and religious intolerance at the United Nations?", "label":"assumption"}
+  ],
+  [
+    {"number":101, "text":"Eleanor Roosevelt would have had an answer", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"}
+  ]
+]}

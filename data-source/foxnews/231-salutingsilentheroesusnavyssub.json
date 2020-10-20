@@ -1,0 +1,132 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Saluting the silent heroes of the US Navy's submarine force.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Our most recent elections demonstrated Americans are still very worried about the state of the economy and their own job security", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"However", "label":"no-unit"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":" there is an employer looking to hire young, motivated, and intelligent men and women--the United States Navy's submarine force", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"It's not easy to be eligible for such employment", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Officer and enlisted candidates must first graduate from rigorous nuclear engineering training or technical schools for non-nuclear enlisted rates", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"In addition", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" applicants must also pass a thorough psychological evaluation", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The fortunate few that do indeed make the grade will then embark on a challenging, yet rewarding journey to become a qualified submariner", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"After this extensive training pipeline and another intensive qualification process on board an actual submarine, sailors are rewarded with \"Dolphins,\" the chest insignia that signifies membership to an elite brotherhood (and now sisterhood as well, since 2010)", "label":"anecdote"},
+    {"number":19, "text":"that very few individuals have the privilege to join", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"On September 21, I, along with 13 other American civilians, experienced a brief glimpse into the life of a U.S  Navy submariner", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"As the guests of Captain Gene Doyle, the commander of Submarine Squadron 11, we were invited to embark on board the USS HAMPTON (SSN 767), a Los Angeles Class fast attack submarine in the waters near San Diego, California", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"The captain of USS Hampton, a no-nonsense, highly respected commander named Lincoln Reifsteck, along with his executive officer, David Fassel and chief of the boat, Richard Moses, welcomed us on board and introduced us to a world few civilians will ever have the honor and opportunity to experience", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"We soon learned that Reifsteck's most difficult task wasn't submerging the ship 700 feet below the ocean's surface (the more difficult part is actually the resurfacing process in the crowded waters off San Diego) or even preparing to shoot a tomahawk missile", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Instead", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":" Reifsteck's greatest challenge is keeping his sailors motivated, ready, and vigilant 24 hours a day, 7 days a week over a period of several months", "label":"assumption"},
+    {"number":32, "text":"(please", "label":"no-unit"},
+    {"number":33, "text":"note, the average age of a submariner is only 22)", "label":"statistics"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"In our short time on board USS HAMPTON, we witnessed Reifsteck's uncanny ability to both motivate and prepare his sailors for any obstacle before them", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"During 2013, the Hampton was at sea for 298 out of 365 days", "label":"statistics"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"That's 82 percent of the year away from family and friends with no access to a telephone, the Internet, or the daily comforts", "label":"statistics"},
+    {"number":40, "text":"that we as Americans have grown so accustomed to", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"There is a very good reason why submariners earn on average 30 percent more than other sailors", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"While", "label":"no-unit"},
+    {"number":45, "text":"much of their time underway was spent on surveillance, anti-submarine and anti-surface ship warfare", "label":"anecdote"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"the HAMPTON spent 70 days at the North Pole with a team of professors from Columbia University taking water samples for research being conducted on current and climate change", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"So", "label":"no-unit"},
+    {"number":50, "text":"if", "label":"no-unit"},
+    {"number":51, "text":"you are of the mindset that submarines are all about undersea warfare or hunting the \"Red October\"", "label":"assumption"},
+    {"number":52, "text":";", "label":"no-unit"},
+    {"number":53, "text":"think again", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"Modern attack subs are now doing everything from the weather change research to delivering special operators ashore on covert operations", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Initially, the outside observer may get the impression that the men of the HAMPTON live a difficult and isolated life onboard a windowless tube with little or no communication with the outside world", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"However", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":" we quickly discovered that the crew thrived in this seemingly austere environment", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Through our conversations with them, we came to the realization that they live by the submarine mantra of \"steel ships, iron men (and women).\"", "label":"anecdote"}
+  ],
+  [
+    {"number":64, "text":"The absence of windows and natural sunlight quickly became irrelevant", "label":"assumption"},
+    {"number":65, "text":"as", "label":"no-unit"},
+    {"number":66, "text":"the ship's electronics and sophisticated sensors became their window to the outside world", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Much like an astronaut, submariners become travelers in another medium deep below the sea", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Any perceived isolation leads to a greater connection with their \"shipmates\"", "label":"assumption"},
+    {"number":71, "text":"forming an everlasting bond amongst the crew", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"After only one day underway, it became apparent to us that the submarine service is not for everyone", "label":"anecdote"},
+    {"number":74, "text":"--", "label":"no-unit"},
+    {"number":75, "text":"not all men and women are able to overcome the supposed \"sacrifices\" many civilians associate with a life at sea", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"However", "label":"no-unit"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":" those individuals that successfully complete the demanding screening and training pipeline of a United States submariner, will have excellent advancement and future employment opportunities in both the military and civilian sectors", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"Civilian employers are always looking to hire submariners for their technical acumen, leadership skill, and ability to operate under pressure", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Those individuals that choose to leave military service are often rewarded with high paying jobs and quickly adapt and excel in the civilian workforce", "label":"assumption"},
+    {"number":84, "text":"(the military does retain a very high percentage of these highly skilled individuals with large bonuses, special pay and the intangible sense of patriotic duty that accompanies wearing the uniform of a Navy submariner)", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"Sir Winston Churchill once said,\"Of all the branches of men in the forces there is none which shows more devotion and faces grimmer perils than the submariners.\"", "label":"testimony"},
+    {"number":87, "text":"From our experience with the captain and crew of USS HAMPTON, we couldn't agree more", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Any danger of operating a ship under the sea was however quickly overshadowed by the competency of the sailors tasked with running America's most stealthy and vital warships", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"May God bless the officers and crew-- and their families-- of USS HAMPTON and the Silent Service", "label":"other"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ]
+]}

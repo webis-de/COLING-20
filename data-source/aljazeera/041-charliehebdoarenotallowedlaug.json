@@ -1,0 +1,133 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Charlie Hebdo: Are we not allowed to laugh any more?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"French magazine Charlie Hebdo was brutally attacked by three self-proclaimed al-Qaeda envoys, all French citizens", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Cabu, one of the cartoonists killed, was the regular host of Recre A2, the French equivalent of Sesame Street, back in the 1980s", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"A whole generation of French people who grew up with him will all ask the same question", "label":"assumption"},
+    {"number":7, "text":":", "label":"no-unit"},
+    {"number":8, "text":"Why would Cabu, the debonair monument to French popular culture, have to die for his irreverence, his caustic humour?", "label":"assumption"},
+    {"number":9, "text":"Are we not allowed to laugh any more?", "label":"assumption"}
+  ],
+  [
+    {"number":10, "text":"Cabu died with several other colleagues, alongside the brave policemen who tried to stop the carnage", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"As the attack took place, the assailants allegedly mentioned their connection to Yemen, and that the \"Prophet had been avenged.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":13, "text":"In 2006, the magazine had been republishing the infamous caricatures of Prophet Muhammad, in solidarity with the Danish cartoonists who has been sent death threats", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"As the French political scene gathers to condemn the attack in what journalists call \"unite nationale\", an all-partisan unity against acts of terrorism, scores of French people took to the streets that evening in a show of solidarity", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Their slogan Je Suis Charlie(I am Charlie), is a clear reminder that hate will not prevail", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"and", "label":"no-unit"},
+    {"number":20, "text":"that freedom of speech is paramount to French culture", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Incredulity", "label":"no-unit"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Since it is the case, let us change the scenario, and say that a Bolivian leftist magazine, notorious for its coverage against wars of any kind, had been targeted by a vicious commando-like attack by al-Qaeda", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Would this scenario not spark incredulity among most people?", "label":"assumption"}
+  ],
+  [
+    {"number":27, "text":"Would observers not wonder why on earth Bolivia had been attacked in such a brutal manner?", "label":"assumption"},
+    {"number":28, "text":"Would it be because it is a coveted beacon of freedom that evil terrorists want to harm?", "label":"assumption"},
+    {"number":29, "text":"Or", "label":"no-unit"},
+    {"number":30, "text":"perhaps", "label":"no-unit"},
+    {"number":31, "text":"because Bolivia's populist ideals and freedom of expression are a threat to Islam worldwide?", "label":"assumption"}
+  ],
+  [
+    {"number":32, "text":"Those narratives just wouldn't add up", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"unless", "label":"no-unit"},
+    {"number":35, "text":"there was more to the story than what a convenient \"unite nationale\" would want to stir public opinion away from", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Bolivia is not currently involved in Mali and Iraq, nor does it harbour a 5 million population of many disenfranchised Muslims", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Bolivia is not the new military BFF of the US", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"which has been waging an invisible war using drone strikes in various parts of the world, including Yemen", "label":"assumption"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"where two of today's attackers were trained", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"That is what makes the whole difference between France and Bolivia", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"AsModd-NU the French political scene and its dutiful self-censoring media all cry crocodile tears after the attack", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"dots need to be connected", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"This is what journalism should be about", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"France and the US are at war", "label":"assumption"},
+    {"number":54, "text":":", "label":"no-unit"},
+    {"number":55, "text":"Their main achievement has been to obliterate this narrative from their own populations", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"which is why today's attack is met with naive incredulity", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"One of the suspects, Cherif Kouachi, had already been sentenced to prison in 2008 for helping young recruits travel to Iraq", "label":"anecdote"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"He was allegedly motivated to do so at the time by the torture pictures coming out of Abu Ghraib prison", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Violence does not occur in a vacuum", "label":"assumption"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"and", "label":"no-unit"},
+    {"number":66, "text":"people like Kouachi do connect the dots", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Mali campaign", "label":"no-unit"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Since the beginning of its Mali campaign France is now perceived to be at war with Islam", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Its alliance with the US against the Islamic State of Iraq and the Levant (ISIL) last September has prompted the group to encourage its followers to kill what it referred to as the \"spiteful and filthy French\"", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"This did not fall on deaf ears", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Today's attack came after many others that have been recently averted by French security services", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Young disenfranchised Muslims who choose to resort to violence, not just today's attackers but also the hundreds of recruits who travelled to Syria to join the ranks of ISIL, are not born in a vacuum either", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Their perceived sense of structural social humiliation, police profiling, and state harassment, is the fuel to their anger", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"Given", "label":"no-unit"},
+    {"number":83, "text":"the freedom to access paid employment, enjoy personal fulfilment, and be an equal part of French society", "label":"assumption"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"it is undeniable that they would have chosen freedom over violence", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Anyone would", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"They just might not think that this a privilege that they can afford", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"and", "label":"no-unit"},
+    {"number":92, "text":"this is the failure of not only the French state, but its increasingly Islamophobic population that sees nothing wrong in insulting that religion over others that are considered sacrosanct in French society", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"While Charlie Hebdo was certainly targeted because of its past publication of Prophet Muhammad caricatures, more importantly", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"it became the lightning rod for France's disastrous foreign policy choices", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Je Suis Charlie", "label":"other"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ]
+]}

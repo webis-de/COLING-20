@@ -1,0 +1,108 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"CIA Report, Funding the Government: How can Obama, Congress defy the Constitution?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"When the government is waving at us with its right hand, so to speak, it is the government's left hand that we should be watching", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Just as a magician draws your attention to what he wants you to see so", "label":"no-unit"},
+    {"number":5, "text":"you will not observe how his trick is performed", "label":"common-ground"},
+    {"number":6, "text":",", "label":"no-unit"},
+    {"number":7, "text":"last week presented a textbook example of public disputes masking hidden deceptions", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"Here is what happened", "label":"other"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Last week was dominated by two huge news stories", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"One was the revelation by the Senate Intelligence Committee of torture committed by CIA agents and contractors on 119 detainees in the post-9/11 era -- 26 of whom were tortured for months by mistake", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"In that revelation of anguish and error were the conclusions by CIA agents themselves that their torture had not produced helpful information", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"President Obama acknowledged that the CIA had tortured", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"yet", "label":"no-unit"},
+    {"number":20, "text":"he directed the Department of Justice not to prosecute those who tortured and those who authorized it", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"The other substantial news story was the compromise achieved by Congress and the White House to fund the government through the end of September 2015", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"That legislation, which is 2,000 pages in length, was not read by anyone who voted for it", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"It spends a few hundred billion dollars more than the government will collect in tax revenue", "label":"statistics"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"The compromise was achieved through bribery", "label":"assumption"},
+    {"number":29, "text":";", "label":"no-unit"},
+    {"number":30, "text":"members of Congress bought and sold votes by adding goodies (in the form of local expenditures of money borrowed by the federal government) to the bill that were never debated or independently voted upon and were added solely to achieve the votes needed for passage", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"This is how the federal government operates today", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Both parties participate in it", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"They have turned the public treasury into a public trough", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Hidden in the law that authorized the government to spend more than it will collect was a part about funding for the 16 federal civilian intelligence agencies", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"And", "label":"no-unit"},
+    {"number":41, "text":"hidden in that was a clause, inserted by the same Senate Intelligence Committee that revealed the CIA torture, authorizing the National Security Agency to gather and retain nonpublic data for five years and to share it with law enforcement and with foreign governments", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"\"Nonpublic data\" is the government's language referring to the content of the emails, text messages, telephone calls, bank statements, utility bills and credit card bills of nearly every innocent person in America -- including members of Congress, federal judges, public officials and law enforcement officials", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"I say \"innocent\" because the language of this legislation -- which purports to make lawful the NSA spying we now all know about-- makes clear that those who spy upon us needn't have any articulable suspicion or probable cause for spying", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"The need for articulable suspicion and probable cause has its origins in the Fourth Amendment to the Constitution", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"which was written to prohibit what Congress just authorized", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"That amendment was a reaction to the brutish British practice of rummaging through the homes of American colonists, looking for anything that might be illegal", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"It is also a codification of our natural right to privacy", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"It requires that if the government wants nonpublic data from our persons, houses, papers or effects, it must first present evidence of probable cause to a judge and then ask the judge for a search warrant", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Probable cause is a level of evidence that is sufficient to induce a judge into concluding that it is more likely than not that the place to be examined contains evidence of crimes", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"In order to seek probable cause, the government must first have an articulable suspicion about the person or place it has targeted", "label":"common-ground"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Were this not in the law, then nothing would stop the government from fishing expeditions in pursuit of anyone it wants to pursue", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"And fishing expeditions turn the presumption of liberty on its head", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"The presumption of liberty is based on the belief that our rights are natural to us", "label":"assumption"},
+    {"number":66, "text":"and", "label":"no-unit"},
+    {"number":67, "text":"that we may exercise them without a permission slip from the government and without its surveillance", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"Until last week, that is", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Last week, Congress, by authorizing the massive NSA spying to continue and by authorizing the spies to share what they have seized with law enforcement, basically permitted the fishing expeditions that the Fourth Amendment was written to prevent", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"How can the president and Congress defy the Constitution, you might ask?", "label":"assumption"}
+  ],
+  [
+    {"number":74, "text":"Hasn't every member of the government taken an oath to uphold the Constitution?", "label":"common-ground"},
+    {"number":75, "text":"Doesn't the Constitution create the presidency and the Congress?", "label":"common-ground"},
+    {"number":76, "text":"How can politicians purport to change it?", "label":"assumption"}
+  ],
+  [
+    {"number":77, "text":"The answers to these questions are obvious, as is the belief of most of those in government that they can write any law and regulate any behavior and ignore the Constitution they have sworn to uphold whenever they want", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"so long as they can get away with it", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,205 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"We are breaking promises to our children.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The unity of millions that can stem from one evil act", "label":"no-unit"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The strength, courage and determination", "label":"no-unit"},
+    {"number":5, "text":"that often comes from adversity", "label":"no-unit"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"The daylight following the darkness", "label":"no-unit"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"After the bloodshed and incessant school attacks of 2014, let 2015 be a year of hope, of action and the fulfilment of a promise made 15 years ago to boys and girls across the world", "label":"no-unit"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"They are waiting and watching", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"The famous novelist JK Rowling, leader of a charity helping 25 million orphans, recently asked;\"Who is easier to silence than a child?\"", "label":"testimony"}
+  ],
+  [
+    {"number":14, "text":"Because children have no votes and traditionally little voice", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"the expectation is that they will not protest", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"But", "label":"no-unit"},
+    {"number":19, "text":"be certain about this - young people whose rights have been violated will be silent no more", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"I know this is true", "label":"assumption"},
+    {"number":22, "text":"because in the space of a few hours last month I watched in awe as tens, then hundreds, then thousands, then", "label":"no-unit"},
+    {"number":23, "text":"hundreds of thousands showed their outrage and their unity following an attack on a school in Pakistan", "label":"anecdote"},
+    {"number":24, "text":"in which 132 children were massacred", "label":"no-unit"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"A petition launched in the aftermath of the attack, to honour those killed and demanding education for all, is now 1.5 million names strong and is still growing", "label":"anecdote"},
+    {"number":27, "text":"as each precious minute passes", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"One voice", "label":"no-unit"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"In the future, people will look back on this generation", "label":"assumption"},
+    {"number":32, "text":"and", "label":"no-unit"},
+    {"number":33, "text":"they will say an historic civil rights struggle for the rights of young people was born", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"This, I believe, must be a time of hope", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"People need hope", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Hope is that small voice that says we will not be silenced if we have strong beliefs we want to follow", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"We must never stop believing that the cause we are talking about can be won in our generation", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"And remember", "label":"no-unit"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"we do not break promises to children", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"We crossed our hearts", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The United Nations told the world that every boy and every girl, everywhere, would have access to a school and to an education and to opportunity", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Its official name is Millennium Development Goal 2 and the official target is universal primary education", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Unofficially, it's the only chance of a life for millions and millions of children", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"Now", "label":"no-unit"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"as the clock ticks down towards zero hour we are trying but toiling to make it happen", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"But we can change it", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"There is time", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"There are seven other MDGs", "label":"anecdote"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"all vital but none as critical to our children's", "label":"no-unit"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"With just 11 months and 20 days to go", "label":"no-unit"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"there are still 58 million boys and girls who will be failed by a broken promise and never even have a day's learning", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"There are hundreds of millions more who will not finish their education", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Less than a month ago two champions of global education and girls' rights shared a platform in Oslo, Norway", "label":"anecdote"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Malala Yousafzai and Kailash Satyarthi stood in front of the world, proud and deserving joint winners of the Nobel Peace Prize", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Their brave words and actions rightly rewarded", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"then", "label":"no-unit"},
+    {"number":80, "text":"so many of their hopes for the future crushed", "label":"assumption"},
+    {"number":81, "text":"when six days later came the worst school atrocity of all time", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"132 boys and girls slaughtered by Taliban gunmen in Peshawar", "label":"anecdote"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"On the same day 15 children were bombed to death by terrorists attacking a school bus in Yemen", "label":"anecdote"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"The next day dozens of school pupils were killed and 100 abducted in a repeat of the Boko Haram attack almost nine months ago", "label":"anecdote"},
+    {"number":88, "text":"when 200 schoolgirls in Nigeria were abducted, yet to return home", "label":"anecdote"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"Last year was like no other", "label":"assumption"},
+    {"number":91, "text":"in which vulnerable youngsters - whose right to be shielded from war is supposedly guaranteed in successive United Nations charters and resolutions- were systematically violated, exploited, injured, raped and killed", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"The bombing of schools in Syria was followed by the militarisation of schools in Gaza and then by verified reports of child atrocities and rape in Iraq", "label":"anecdote"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"According to The Yazidi Fraternal Organization (YFO), thousands of young Yazidi women and children are being used by ISIL as sex slaves", "label":"testimony"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"And there are now an estimated 250,000 child soldiers conscripted into militias round the world; 100,000 of them girls", "label":"statistics"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"From Syria and Iraq to South Sudan and the Central African Republic we have seen more children uprooted and displaced than at any time since the Second World War", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"The number of child refugees has risen by nearly two million in just one year to a staggering 25 million - the population of a medium-sized country", "label":"statistics"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"And now the seemingly endless violation of children's rights is being eclipsed again and again by the growing use of schools as theatres of war", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"Twenty five years ago, the world signed up to the Convention for the Rights of the Child", "label":"anecdote"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"2014 will be remembered as the year of the violation of the rights of the child", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"We have 11 months left to ensure 2015 is about the delivery of the rights of the child", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"Youth organisations such as Global March Against Child Labour, Girls Not Brides and A World at School, which now sponsors nearly 1,000 youth ambassadors, are becoming global leaders of a youth liberation struggle", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"They are fighting child marriage, child labour, child trafficking and discrimination against girlsand the principal way to end exploitation is to deliver free compulsory education", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":115, "text":"One of the #UpForSchool petition signatories was Malala Yousafzai, herself the victim of a Taliban gunman", "label":"anecdote"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"She will tell us there is still hope", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"People are angry about what is happening to children", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"Even angrier still are young people themselves", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"Do not underestimate them", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"They are connected", "label":"assumption"},
+    {"number":126, "text":",", "label":"no-unit"},
+    {"number":127, "text":"they talk to each other", "label":"assumption"},
+    {"number":128, "text":"and", "label":"no-unit"},
+    {"number":129, "text":"they understand each other", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"},
+    {"number":131, "text":"They are as one", "label":"assumption"},
+    {"number":132, "text":"and", "label":"no-unit"},
+    {"number":133, "text":"they are seething", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":135, "text":"Recently, in Kinshasa, Democratic Republic of Congo, I stood with 1,000 young people", "label":"anecdote"},
+    {"number":136, "text":"as", "label":"no-unit"},
+    {"number":137, "text":"they bowed their heads for victims of the Pakistan school attack", "label":"anecdote"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"They all signed the petition", "label":"anecdote"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"The same happened a few days earlier", "label":"anecdote"},
+    {"number":142, "text":"when thousands of young people demonstrated in Kenya and at the Nobel ceremony in Oslo more than 6,000 children gathered to show unity for girls' rights and for education", "label":"anecdote"},
+    {"number":143, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":144, "text":"For too long young people have relied on adults who have done too little to stop the violation of the rights of the children for whom they were responsible", "label":"assumption"},
+    {"number":145, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":146, "text":"In 2015 it will be a civil rights struggle of young people LED by young people that will be the world's best hope", "label":"assumption"},
+    {"number":147, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,124 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Are you drinking because you're working long hours, or are you working long hours to justify drinking?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"An international study released last week has identified that those who work more than 48 hours a week are 11% more likely to drink alcohol at risk levels than those working a standard week", "label":"statistics"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"The study was compiled by Finnish researchers, sampling 300,000 subjects across Europe, Australia and North America", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Health guidelines suggest that consumption of more than 14 drinks a week for women and 21 drinks for men poses a significant health risk", "label":"statistics"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"It's no surprise that it's a team of Finnish researchers who are examining the stats around unsafe drinking", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Nordic Finland may be a well-known haven of progressive social policy, with an enviable living standard, cradle-to-grave welfare and the world's best education system", "label":"assumption"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"but", "label":"no-unit"},
+    {"number":13, "text":"there is one social problem the Finns have not yet licked", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Alcohol-related illnesses and incidents (including accidents, violence and suicide in which alcohol has factored) are the most common cause of death for both working age men and women there - and have been so for many years", "label":"statistics"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"The study is of useful consideration for Australians, of course", "label":"assumption"},
+    {"number":18, "text":"-", "label":"no-unit"},
+    {"number":19, "text":"we're afflicted with alcohol problems of our own", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Australian research released only last July revealed up to 15 people die and more than 430 are admitted to hospital every day in Australia for alcohol-related reasons", "label":"statistics"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"That's 5,554 deaths and 157,132 hospital admissions a year, and four times the rate of the road toll", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"That working longer hours has a detrimental effect on an individual's health is well established", "label":"common-ground"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"Some have suggested from the results of the Finnish study that alcohol abuse is symptomatic of the \"work hard, play hard\" cultures around professions", "label":"assumption"},
+    {"number":28, "text":"- especially", "label":"no-unit"},
+    {"number":29, "text":"because workers who shifted into longer-hours jobs during the study were 12% more likely to develop risky drinking habits as a result", "label":"statistics"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"Some have also suggested that the scarcity of leisure time for people who work long hours may result in habits of using alcohol as a concentrated form of relaxant", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"This is the opinion of Cassandra A  Okechukwu, assistant professor at the Harvard School of Public Health who declared of the Finnish findings that \"people are self-medicating\" due to work-life time constraints", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Alternatively, Dr Richard Wise, psychologist at Windana Drug and Alcohol Recovery, believes the relationship between work and drinking may be bi- directional", "label":"testimony"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"\"As stress increases the activity of brain regions responsible for drug seeking and craving, stressful work is often 'addictive' in itself,\" says Wise", "label":"testimony"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"\"This could be a self-perpetuating cycle- work causes stress, which renders people more prone to addictions to substances and work.\"", "label":"testimony"}
+  ],
+  [
+    {"number":40, "text":"Significantly, the study itself does not claim to prove a causation- leaving open the possibility to discuss the pink elephant that lurks in the room behind all social discussions of problem drinking: the prevalent, if sometimes well-camouflaged, existence of actual alcoholics", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Writing in Business Insider, journalist Kevin Loria asked of the study:\"Long hours may not cause dangerous drinking, but why is there a relationship between those two things at all?\"", "label":"testimony"},
+    {"number":43, "text":"The answer is this: there is not one clear relationship, but potentially several", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"We know, for example, that those suffering active alcoholism seek out environments that facilitate and camouflage their drinking", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Why would the workplace be an exception?", "label":"assumption"}
+  ],
+  [
+    {"number":48, "text":"Demanding jobs not only deliver alcoholics out of the worksite just in time for socially-acceptable drinking hours", "label":"assumption"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"but the stresses associated with long- hours work provide pretexts aplenty for \"self-medicating\" with booze", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Our community continues to excuse the practise of drowning one's sorrows", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"but", "label":"no-unit"},
+    {"number":55, "text":"forgotten is that active alcoholics often go looking for sorrows in order to drown them", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"The recovery community calls this phenomenon \"drinking on it\"", "label":"testimony"},
+    {"number":58, "text":"-", "label":"no-unit"},
+    {"number":59, "text":"it's not hard to find a pretext to slam down some craved-for cold ones at the end of the day", "label":"assumption"},
+    {"number":60, "text":"if", "label":"no-unit"},
+    {"number":61, "text":"you've just spent 10 hours at a desk", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"And", "label":"no-unit"},
+    {"number":64, "text":"if", "label":"no-unit"},
+    {"number":65, "text":"there' s one thing an alcoholic can use to deny the extent of their drinking`cond", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"it's the company of others who share the same problem", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"The common logic of alcohol addiction brings alcoholics together in work environments as much as it does social ones", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"Yet", "label":"no-unit"},
+    {"number":72, "text":"while study after study identifies alcohol as a health, economic and justice burden on the community, and with the statistical acknowledgement that 3.7 million Australians are currently \"drinking at long-term risky levels\"", "label":"statistics"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"we're still - still - struggling to break our social addiction to the old stereotypes of alcoholics being weak-willed, staggering hobos rather than predominantly people with jobs, relationships and families who are sick with a dangerous medical problem", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"If", "label":"no-unit"},
+    {"number":77, "text":"we choose to believe someone is drinking because they work long hours", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"we may be ignoring that someone is working long hours because it enables their drinking", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"A failure to identify behaviours symptomatic with alcoholism delays treatment and increases the danger alcoholics pose to themselves and to others", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Go back and look at the figures above: 5,500+ deaths and 150,000+ hospital admissions a year are not the result of mere casual tipples", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"They're the stats of widespread abuse that needs more than loose causation and euphemisms to treat it", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"The Finnish study is valuable", "label":"assumption"},
+    {"number":88, "text":"because", "label":"no-unit"},
+    {"number":89, "text":"it identifies a possible workplace component to the alcohol problem", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"With 3.7 million Australians presently at risk, the time is now to be realistic that a broader context of alcoholism exists", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ]
+]}

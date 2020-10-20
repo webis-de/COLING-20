@@ -1,0 +1,161 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Paris lessons: US must revoke citizenship of Americans who join ISIS, Al Qaeda.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Last week, France faced the threat that is arguably the toughest to defeat-- a threat from within, from its own terrorists", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"By now, the stories are familiar", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"France has a problem with homegrown radicals", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"At least 900 French citizens are among the 2,000 to 3,000 westerners who've left home for jihadist training or to fight for ISIS in Syria and Iraq", "label":"statistics"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"In many ways, the western jihadist represents the worst threat", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Able to speak the language fluently, completely familiar with their home countries, and possessing a key weapon -- an American, British, French, or German passport", "label":"assumption"},
+    {"number":13, "text":"--", "label":"no-unit"},
+    {"number":14, "text":"they can easily cross international boundaries", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"The training makes them deadly", "label":"assumption"},
+    {"number":17, "text":"--", "label":"no-unit"},
+    {"number":18, "text":"the Paris attacks were notable for their deadly precision and meticulous planning", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Their citizenship makes them mobile", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"That's why any American strategy to defeat jihad has to include measures to not just deny passports to American terrorists, but also strip them of citizenship", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"This is basic common sense", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Most Americans would be surprised to know that joining Al Qaeda or ISIS - the Islamic State - isn't grounds for losing citizenship", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"The law currently provides that Americans can lose citizenship when they enter or serve in the armed forces of an enemy foreign state", "label":"testimony"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"But ISIS and Al Qaeda are not \"foreign states,\"", "label":"assumption"},
+    {"number":31, "text":"so", "label":"no-unit"},
+    {"number":32, "text":"the law doesn't apply", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"It's time to close this loophole", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"In Congress, legislation was introduced last session to address those concerns", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"It was not approved", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Now, in the new Congress - with Republicans in control of both the House and Senate - there's a renewed push to safeguard the homeland", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Last week, Representative Ted Poe introduced a measure that revokes passports from Americans who join terrorist organizations", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"And", "label":"no-unit"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":" in the days ahead, Senator Ted Cruz and Representative Steve King are expected to introduce legislation that would strip citizenship from terrorist traitors", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"This is not an imaginary threat", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Not only have Americans joined ISIS", "label":"assumption"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":"some have even lost their lives fighting for jihadists", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"In fact", "label":"no-unit"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":" as many as 40 men from Minneapolis alone have joined Islamic groups abroad", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"And just last week in Chicago, A U.S  citizen was indicted by a federal grand jury - charged with attempting to travel overseas to fight alongside the ISIS operating in Iraq and Syria", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"These men aren't just threats to the United States", "label":"assumption"},
+    {"number":61, "text":";", "label":"no-unit"},
+    {"number":62, "text":"they're also threats to our closest allies", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"For our allies, the American passport is a ticket of entry, no visa required", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"And", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":" similarly, for British, French, and other allies, their passport is a ticket of entry into the United States", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The door is wide open for terrorists to take advantage of centuries of friendship and trust", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"It is time we slam that door shut", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Of course", "label":"no-unit"},
+    {"number":75, "text":"stripping citizenship and revoking passports represent just two small steps - but critical ones - towards a sane national security strategy", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"However", "label":"no-unit"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":" it's difficult to take even these small steps with the Obama administration steadfastly refuses to name our enemies (Mr  President, our enemies are Islamic radicals, not generic \"extremists\"), accurately describe their ideology(no, they are not \"nihilists\"), or even to acknowledge their obvious, widespread appeal in the Muslim world", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"It was sad and embarrassing for Americans to watch as even the leader of the Palestinian Authority marched in Paris against Islamic extremism", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"yet", "label":"no-unit"},
+    {"number":84, "text":"our president or vice president were nowhere to be found", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Even liberal journalists called this absence \"pathetic.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":87, "text":"Marches don't defeat terrorists", "label":"assumption"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"but", "label":"no-unit"},
+    {"number":90, "text":"when", "label":"no-unit"},
+    {"number":91, "text":"dozens of world leaders stand together", "label":"assumption"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"it makes a statement of determination that is critical for our citizens to see", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"When", "label":"no-unit"},
+    {"number":96, "text":"our President makes a stand, it signals our nation's resolve", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"and", "label":"no-unit"},
+    {"number":99, "text":"his absence signaled our government's weakness", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"In the days and weeks ahead, Congress can send a very different message by passing much needed legislation, putting it on the President's desk, and daring him to veto legislation that would prevent exactly the kind of attack France faced last week", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":103, "text":"After almost six full years in office, we fully understand the President's approach to combatting terrorism", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"A recipe that mixes drone strikes with appeasement-- that pulls troops from combat and sends captive terrorists back to the Middle-- is now a proven failure", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"In my bestselling book, \"Rise of ISIS: A Threat We Can't Ignore,\" I demonstrated the consequences of that failure", "label":"anecdote"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"Jihad rages across the Middle East, Boko Harem rampages through Nigeria", "label":"assumption"},
+    {"number":110, "text":",", "label":"no-unit"},
+    {"number":111, "text":"and", "label":"no-unit"},
+    {"number":112, "text":"Afghanistan teeters on the brink of disaster", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"In the west, recent terror attacks in Canada, Australia, and Paris show jihadists ability to inspire even western Muslims with a message of pure hate and evil", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":116, "text":"Will the Obama administration change course?", "label":"assumption"},
+    {"number":117, "text":"Will it finally acknowledge the true dimensions of the threat?", "label":"assumption"},
+    {"number":118, "text":"It can start with a dose of common sense", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"},
+    {"number":120, "text":"It can start by protecting America from terrorist traitors", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"}
+  ]
+]}

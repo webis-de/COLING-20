@@ -1,0 +1,95 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Boko Haram's deadly advance must be stopped, but how?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Last week's massacre of perhaps 2,000 people in and around the Nigerian town of Baga, and the bombings of markets in the north-east using children perhaps as young as 10, mark not a new tactic for the violent extremist organisation Boko Haram, but an intensification of its existing behaviour", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Boko Haram is pushing the boundaries of the extreme and is challenging - and seemingly succeeding - in overstretching Nigeria's 7th Infantry Division, tasked to fight the insurgents in the north-east", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"In recent months it has made significant territorial gains and is in control of many towns around the Borno state capital, Maiduguri", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"though this is in a constant state of flux", "label":"assumption"},
+    {"number":9, "text":"as the military defends state capitals and recaptures lost urban centres", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Speculation as to the aims of Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, the real name of the network of Islamist, cultist and criminal elements that grew from a radical but initially largely non-violent movement, continues", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"And the logical conclusion is that it is capturing territory to carve out an Islamic caliphate in north-eastern Nigeria", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"But the group is decimating what is in its path", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"And", "label":"no-unit"},
+    {"number":18, "text":"it is greedy", "label":"assumption"},
+    {"number":19, "text":":", "label":"no-unit"},
+    {"number":20, "text":"the longer Boko Haram goes unimpeded and the more confident it becomes, the more it seems to want", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"So perhaps what is its endgame is the wrong question", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Boko Haram is fighting because it can", "label":"assumption"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"because it is a lethal fighting force and has children and conscripts to send into the field as terrified, intoxicated and indoctrinated weapons and shields", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"The question that needs to be answered is how did this terrorist threat grow to such horrifying proportions, killing thousands and displacing millions- a threat unimaginable in a democratic Nigeria 10 years ago?", "label":"assumption"},
+    {"number":29, "text":"And what can be done to stop it?", "label":"assumption"}
+  ],
+  [
+    {"number":30, "text":"Nigeria's military is around 130,000-strong, and has been previously lauded for its peacekeeping successes in civil conflicts in Africa", "label":"anecdote"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"but", "label":"no-unit"},
+    {"number":33, "text":"now", "label":"no-unit"},
+    {"number":34, "text":", with a worsening conflict at home, questions are being asked about just how hollowed out such an important institution has become", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"There are varying reports as to why the 8,500 troops deployed to battle Boko Haram have been unable to halt its advance", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Allegations of corruption; misallocated resources; poorly trained, poorly equipped and poorly directed troops; fear; low morale; and deficient interagency cooperation all have a basis", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"While promises have been made to investigate reported abuses by the Nigerian armed forces against civilians, in December 2014 an army court sentenced 54 soldiers to death for mutiny and cowardice - for refusing to fight Boko Haram", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"In the short term", "label":"no-unit"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"preventing Boko Haram from expanding further relies on a more effective military response with a much-bolstered force", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"But this is impossible without essential leadership from the centre, without tough calls and effective management", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"The international community will come under increasing criticism for not doing enough to stem the tide of Boko Haram's terror", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Assistance has been offered by a range of partners including the US, UK, France, Russia and China", "label":"anecdote"},
+    {"number":51, "text":"-", "label":"no-unit"},
+    {"number":52, "text":"some of it has been declined", "label":"assumption"},
+    {"number":53, "text":"- but", "label":"no-unit"},
+    {"number":54, "text":"it is likely more offers of assistance will come", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Nigeria believes its neighbours Chad, Cameroon and Niger could be doing more", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"But domestic and international confidence in the will or capacity - or both - of Nigeria's federal government to take the decisions to mount an effective response is fast waning in the face of increasing casualties", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Nigerians will go to the polls on 14 February to vote for a new president and national assembly", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"How much this violence, predominantly in three of Nigeria's 36 states, will affect the outcome is unclear", "label":"assumption"},
+    {"number":63, "text":"because", "label":"no-unit"},
+    {"number":64, "text":"Nigerians face a range of daily challenges", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"There are concerns, however, that the majority of people in the states at the epicentre of the conflict - thought to be potential opposition supporters- will be disenfranchised, along with over a million internally displaced people", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"However politicised the crisis may become in the runup to elections, the insurgency will outlast the event", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ]
+]}

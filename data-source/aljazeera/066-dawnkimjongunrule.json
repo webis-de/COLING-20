@@ -1,0 +1,129 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The dawn of Kim Jong-un's rule.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It has been a few years since the sudden death of the Sun of the Nation, Marshal Kim Jong-il which made his third son, Kim Jong-un, then in his late 20s, the supreme leader of North Korea", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Three years is the length of the traditional mourning period that Koreans are supposed to observe after the death of their father or sovereign", "label":"common-ground"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Thus", "label":"no-unit"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":" now is the time to make some observations about Kim's North Korea", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"What has remained the same, and what has changed since December 2011?", "label":"assumption"}
+  ],
+  [
+    {"number":11, "text":"The dawn of Kim's rule was marked by intense purges of his father's top dignitaries", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"In December 2011, during his father's funeral, Kim walked next to his father's hearse in the company of three top generals and four top civilian officials", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Three years on, none of these people have their jobs", "label":"assumption"},
+    {"number":16, "text":":", "label":"no-unit"},
+    {"number":17, "text":"At least one of them was executed", "label":"anecdote"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"while all but one have disappeared without a trace", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Kim's decision to arrest and execute Chang Song-taek, his aunt's husband, long the \"grey eminence\" of Pyongyang politics, was a dramatic signal to the elite", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"The sorry fate of Chang was meant to show that nobody is immune from the wrath of the supreme leader", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"These purges were obviously necessary to start changing the country", "label":"assumption"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"since Kim's policies will be very different from those of his father and grandfather", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"So far, the most important changes can be seen in the field of economic management", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"From late 2012, the North Korean government began to implement reforms which are remarkably similar to what China did in the early days of Deng Xiaoping, around 1980", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Farmers, who were hitherto government employees with a fixed salary, are now given a certain percentage of the harvest, and have predictably started to feel motivated", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"As a result, the food situation has improved markedly", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"In industry, a slow-motion switch from a Leninist, centrally planned economy to markets has been initiated as well", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"The unofficial private economy, far more advanced in North Korea than most imagine, is now quietly encouraged", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"There is no sign of relaxation in the political sphere, however", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Kim has launched a massive crackdown on illegal border movements, effectively closing North Korea's border with China ", "label":"assumption"},
+    {"number":44, "text":"-", "label":"no-unit"},
+    {"number":45, "text":"which had remained porous for decades", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"He has also done much to root out the penchant that many North Koreans have recently developed for smuggled foreign TV shows, especially South Korean soap operas and films", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Such concerns are not merely motivated by paranoia, regardless of what the international media says", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"The supreme leader knows that his position is precarious, and that tightening the screws of social control and surveillance may help him prolong his rule", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"North Korea under Kim remains as stubborn in its nuclear ambitions as it was under his father", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"Having seen the US invasions of Iraq and Afghanistan, as well as the popular rebellion against Libya's Gaddafi that was indirectly assisted by western might, North Korean decision-makers have every reason to want to continue to advance their nuclear weapons potential", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"At the same time", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":" there has also been a truly unprecedented crisis in Sino- North Korean relations", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"In the last years of Kim Jong-il, China was North Korea's major sponsor and trade partner", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Now things are different", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"The Chinese and North Korean media (strictly controlled by the government in both countries) have exchanged thinly veiled verbal attacks", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"while the Chinese government has frozen all Beijing-sponsored infrastructure projects in North Korea - including, for example, a new bridge over the Yalu River", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"The North Korean government under Kim has shown hitherto unprecedented interest in foreign investment, as long as this investment comes from sources other than China", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"At present, the young marshal has pinned his hopes on Russia - currently itself on a collision course with the West", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"North Korean leaders obviously believe that Russia under Vladimir Putin will behave like the Soviet Union once did and shower North Korea with aid grants as a reward for Pyongyang's militant anti-Americanism", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Such hopes are misplaced", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"but", "label":"no-unit"},
+    {"number":78, "text":"it will take some time before Pyongyang's decision-makers realise the sad truth", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"There is little doubt that Kim wants to be popular and loved by his people, and perhaps sincerely cares about the wellbeing of the North Korean populace", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"though he might have rather eccentric ideas on what constitutes such wellbeing", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Under his watch, the North Korean government has spent a significant part of its meagre resources on building all kinds of entertainment facilities, including an elite ski resort, a number of water parks and even a dolphinarium", "label":"anecdote"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"Kim's North Korea is increasingly a place quite different from the North Korea of his father", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"It is moving towards a more efficient economy, but also towards more internal repression", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"It is more prone to erratic changes in domestic policy and more eccentric in many regards", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"But", "label":"no-unit"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":" of course", "label":"no-unit"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"for the foreseeable future it is going to remain a nuclear and authoritarian regime, run by the Kim family and a small hereditary elite", "label":"assumption"},
+    {"number":97, "text":":", "label":"no-unit"},
+    {"number":98, "text":"This is not negotiable, irrespectively of what the outside world thinks and does", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ]
+]}

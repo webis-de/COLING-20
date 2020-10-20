@@ -1,0 +1,91 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Nigeria must confront Boko Haram - step forward, Muhammadu Buhari.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Nigeria is at war", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In the past week alone the Islamist militants Boko Haram have slain hundreds, perhaps thousands, of people across north-eastern Nigeria, some with the help of child suicide bombers, including a 10-year-old girl", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"In recent months they have sacked entire towns and villages, and are now masters over 20,000 square miles of territory", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"About 1.7 million people now live in Boko Haram's declared\"caliphate\"", "label":"statistics"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"while", "label":"no-unit"},
+    {"number":11, "text":"1.5 million have been displaced from their homes as a result of the violence", "label":"statistics"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"With a month to go before presidential elections, Africa's most populous country is losing the war against a fullblown Islamist insurgency", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"So what is the Nigerian government doing about it?", "label":"assumption"}
+  ],
+  [
+    {"number":16, "text":"In 2013 President Goodluck Jonathan, who is up for re-election, declared war on Boko Haram and dispatched the Nigerian army to battle them", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"But Boko Haram not only fended off the army's offensive", "label":"anecdote"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"it ended up being emboldened by the obvious ineptitude of the Nigerian forces", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Soldiers meant to be protecting cities and towns have sometimes taken to their heels when Boko Haram's fighters arrived on the scene, leaving inhabitants at the mercy of the Islamists", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"But the problem isn't that Nigerian soldiers are cowardly", "label":"assumption"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"it is that they are woefully under-equipped, under-trained and far too demotivated to tackle the well-armed Boko Haram fighters", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"The governor of Borno, the state most affected by Boko Haram, has publicly stated that the Islamists are much better armed than the soldiers", "label":"testimony"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"The reason the Nigerian army is in such poor shape is simple", "label":"assumption"},
+    {"number":31, "text":":", "label":"no-unit"},
+    {"number":32, "text":"corruption", "label":"no-unit"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The military's annual budget exceeds ? 4bn, but rather than equip and train frontline troops, there are complaints that much of the funds end up in senior officers' pockets", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"Soldiers who complain have been known to be court-martialed and sentenced to death for \"mutiny\"", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"As commander-in-chief, this is where Jonathan could have been expected to step in", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"But rather than confront the army top brass the Nigerian president has opted to bury his head in the sand and place the blame for Boko Haram's success on everyone bar himself", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"When news emerged last year of the kidnap of the Chibok girls, instead of reacting swiftly Jonathan hesitated for two weeks, suggesting there was no kidnap, only a plot by his political opponents to discredit him", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"At other times he has shrugged off Boko Haram's deadly attacks as little more than the unavoidable localised version of global jihad, implying with his tone and body language that hundreds of citizens getting killed every week is something Nigerians will simply have to get used to", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"After a deadly bomb blast killed more than 100 people in the capital Abuja last year, Jonathan was pictured dancing away at a political rally the next day", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Travelling around the country over the past few weeks, my impression is that Nigerians are increasingly looking to the main opposition presidential candidate, Muhammadu Buhari, a former general and one-time military ruler, as the country's best hope of tackling Boko Haram", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Under \"normal\" conditions Buhari, a conservative Muslim from the north who ruled Nigeria with an iron fist from 1983-85, would have little hope of support in the country's southern, predominantly Christian region", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Without outstanding charisma, eloquence or competence on policy detail, the 72-year-old Buhari has already made three unsuccessful bids for president", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"But after a year in which Boko Haram and government corruption has dominated local headlines, the ex-general has two things going for him: a reputation for strong leadership and incorruptibility", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"He is probably the only prominent Nigerian politician today who isn't hounded by allegations of embezzling public funds", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"A president with military experience to take on corrupt army officers would surely serve as a morale booster to the Nigerian soldiers battling Boko Haram", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Granted", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"the ex-general has no magic wand to make the militants simply vanish", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"But in this period of existential crisis, Nigeria may need a wartime leader who can project reassuring strength and provide a plausible strategy for overcoming the insecurity in the country", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Time is running out", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ]
+]}

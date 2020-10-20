@@ -1,0 +1,130 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Putin and Ukraine: Expect more brutal aggression from Russia's desperate leader.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The renewal of fighting this week over the Donetsk airport in Eastern Ukraine- an important symbolic target for Russian proxy fighters-- should come as no surprise", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The U.S  and Western Europe should expect even more extensive Russia-directed attacks", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Why? Because of the choice Vladimir Putin made five years ago, confirmed on his reelection in 2012 - and is continuing to make", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"After Russia's GDP plunged by almost 8 percent during the 2008-9 world financial crisis", "label":"statistics"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"there was a virtual consensus among Russian economists that Putin's economic model, which depended on the redistribution of revenues from ever-increasing oil prices, along with growing state control over the economy and rampant corruption, was nearly exhausted", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Russia needed to \"modernize and diversify,\"", "label":"assumption"},
+    {"number":13, "text":"as the catch words among such thinkers went", "label":"no-unit"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"But", "label":"no-unit"},
+    {"number":16, "text":"to do so, the country first and foremost had to \"improve the investment climate.\"", "label":"assumption"}
+  ],
+  [
+    {"number":17, "text":"That was a euphemism for tapering off the state's grip on the economy; getting rid of bureaucratic shakedowns of private businesses; ensuring that courts were no longer for sale or open to \"instructions\" from authorities; strengthening private property rights; and eventually decentralizing and liberalizing the political system", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"In short", "label":"no-unit"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":" deep institutional reforms", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"These were advocated by, among others, Alexei Kudrin, Putin's personal friend and confidant, former finance minister and former first deputy prime minister", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Kudrin was to be a disappointed man", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"While", "label":"no-unit"},
+    {"number":28, "text":"paying lip service to \"modernization,\"", "label":"assumption"},
+    {"number":29, "text":"the Kremlin did nothing to advance that agenda", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"Two years later, Russia was shaken by pro-democracy, anti-Putin demonstrations in all of Russia's largest cities", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Putin got the same message that almost every authoritarian leader gets sooner or later", "label":"assumption"},
+    {"number":34, "text":":", "label":"no-unit"},
+    {"number":35, "text":"reform and democratize to improve the economy or tighten the screws of repression to deal with discontent", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"We all know what Putin did", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Upon his presidential reelection in 2012, he issued a slew of laws constraining already limited freedoms of public protest and speech", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"The consequences came quickly: even with oil prices over $100 per bbl, growth dwindled to a crawl and capital flight reached record levels", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"By the end of 2013, Putin's popularity was at lowest point in 13 years", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Around half of Russians did not want to see him as president again in 2018", "label":"statistics"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Yet Putin doubled down once more, using another tried-and-true authoritarian tool: manufactured nationalist patriotic frenzy mixed with paranoia and served up by deafening propaganda", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"The anti-corruption, pro-European revolution in Ukraine was presented as an American plot against Russia", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Following the annexation of Crimea in March 2014, those who opposed the regime were labelled the \"fifth column\" and \"national traitors.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":52, "text":"Then came war in Ukraine -- aggression by proxy or, last fall, by uniformed Russian troops", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"The daily poisoning of Russian hearts and minds on state-controlled national television is now beginning to surpass even Soviet totalitarianism", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Western democracies are portrayed as Russia's mortal enemies", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"who seek to undermine Moscow's sovereignty and enslave its people", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"This Stalinist-style propaganda is designed to justify the Kremlin's aggression against Ukraine, excuse increasing domestic repression, explain away mounting economic hardships and-- most troubling-- perhaps prepare the country for possible aggression against other neighbors", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Both in his end-of-year press-conference and in his New Year's message to the nation, Putin fixed the propaganda pitch to the highest point", "label":"assumption"},
+    {"number":63, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"\"We are defending our independence, our sovereignty and our right to exist,\" he declared", "label":"testimony"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"\"We need to accomplish, to realize all that we planned- for ourselves, for the sake of our children, and for the sake of Russia.\"", "label":"testimony"}
+  ],
+  [
+    {"number":67, "text":"After this, can anyone expect the Russian commander-in-chief to go wobbly on foreign enemies or to abandon ethnic \"brethren\" fighting against an allegedly genocidal \"Nazi junta\"-- known to the rest of the world as the elected government in Kiev?", "label":"assumption"}
+  ],
+  [
+    {"number":68, "text":"U.S  and European diplomats keep talking about providing Russia with an \"off ramp.\"", "label":"assumption"},
+    {"number":69, "text":"Judging by Putin's rhetoric, there is no ramp high enough for the task", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"So long", "label":"no-unit"},
+    {"number":72, "text":"as", "label":"no-unit"},
+    {"number":73, "text":"Putin sticks with the anti-reform choice", "label":"assumption"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":"escalation appears to be his only tactic for staying in and consolidating power", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"This choice preceded the drop in oil prices and Western sanctions", "label":"assumption"},
+    {"number":78, "text":"- and", "label":"no-unit"},
+    {"number":79, "text":"it will outlive them as well", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"The West should expect no magic turn-around and prepare to confront but also engage with this Russia over the long haul", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ]
+]}

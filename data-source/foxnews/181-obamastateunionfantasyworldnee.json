@@ -1,0 +1,151 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama's State of the Union fantasy world: We need a real national security strategy, VA reform.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Here's a prediction: expect a narrative to emerge in certain media outlets in the coming days that Tuesday night's State of the Union speech was a grand return to form for President Obama", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"The elite, east-coast intelligencia line will be that the beleaguered lame duck president--facing a hostile, conservative Congress--regained his momentum with renewed energy and purpose", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"How Obama Got His Groove Back", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"Washington- style", "label":"no-unit"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Groove aside", "label":"no-unit"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"the fact remains that Obama's next-to-last State of the Union address did not substantially address two of the most pressing issues currently facing our nation and that matter most to its military veterans: the lack of a clear United States national security strategy-- to include the crisis facing our military-- and the inability of the VA bureaucracy care to deliver timely health care to millions of our veterans", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"But you wouldn't know it by listening to Tuesday night's State of the Union address", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"President Obama is living in a fantasy world", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"The president says that we're \"stopping ISIL's advance.\"", "label":"testimony"},
+    {"number":19, "text":"But", "label":"no-unit"},
+    {"number":20, "text":"in reality, his campaign of airstrikes have not been successful", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"and", "label":"no-unit"},
+    {"number":23, "text":"ISIS controls more territory in Iraq and Syria today than ever before", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"He also boldly claimed that \"we're slashing the backlog that had too many veterans waiting years to get the benefits they need,\"", "label":"testimony"},
+    {"number":26, "text":"but", "label":"no-unit"},
+    {"number":27, "text":"this statement too just doesn't match up with reality", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Today, nearly 250,000 veterans are still stuck in the VA claims backlog and another 290,000 languish in the appeals process", "label":"statistics"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Is that still \"too many,\" Mr  President?", "label":"assumption"}
+  ],
+  [
+    {"number":32, "text":"Unfortunate events will likely force the president's attention to these issues in 2015", "label":"assumption"},
+    {"number":33, "text":"--", "label":"no-unit"},
+    {"number":34, "text":"just like", "label":"no-unit"},
+    {"number":35, "text":"ISIS did in Iraq and Phoenix did for the VA in 2014", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"However", "label":"no-unit"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":" President Obama could be proactive and get ahead of these issues by pursuing the following four agenda items", "label":"assumption"},
+    {"number":40, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"1", "label":"no-unit"},
+    {"number":42, "text":"\\.", "label":"no-unit"},
+    {"number":43, "text":"Articulate a real national security strategy", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"The president's plan for\"leading from behind\"-- and that national security and foreign policy boils down to \"don't do stupid stuff\"-- is no substitute for a real strategy, as deteriorating situations in Iraq, Syria, Libya, Ukraine and elsewhere prove", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Likewise, denying the nature of the enemy we face(\"ISIS is not Islamic\") only muddies the water further", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"emboldening our enemies and confusing our allies", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"President Obama also touted ending the 14 year-long war in Afghanistan", "label":"anecdote"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"but", "label":"no-unit"},
+    {"number":54, "text":"\"ending\" is different than\"winning.\"", "label":"assumption"},
+    {"number":55, "text":"His telegraphed withdrawals have pulled us out of conflicts before they're resolved", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"creating power vacuums in Iraq- and soon in Afghanistan- that leave America more vulnerable", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"And incredibly, for the first time since 9/11, the president failed to even mention the Taliban or Al Qaeda ", "label":"anecdote"},
+    {"number":60, "text":"-", "label":"no-unit"},
+    {"number":61, "text":"both of which are far from \"on the run\" as he proclaimed in 2012 and are advancing and actively challenging the West", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"2", "label":"no-unit"},
+    {"number":64, "text":"\\.", "label":"no-unit"},
+    {"number":65, "text":"Get serious about fixing defense spending", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Instead of cutting fat, the president's ill-conceived defense budget sequester has slashed into the muscle of our military force", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"The administration should strive to replace defense sequestration, by implementing serious and commensurate acquisitions and compensation reforms", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Reforming these areas will reduce Pentagon budgetary pressures caused by massive weapons system cost-overruns and exploding personnel costs, allowing for a more strategic allocation of war-fighting resources", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"In order to live within a fiscally responsible reality, and most importantly maintain the world's most capable military, the administration and Congress must get serious about real DoD spending reform", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"His address last night didn't even mention sequestration", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"3", "label":"no-unit"},
+    {"number":78, "text":"\\.", "label":"no-unit"},
+    {"number":79, "text":"Develop and implement a plan to tackle the national debt", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Respected military leaders like Marine General James Mattis, Admiral Mike Mullen, and many others recognize that the biggest long-term threat to our national security is our massive national debt", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"At more than $18 trillion and growing, the debt is on track to double under President Obama", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"It is absolutely vital to the fiscal, economic, and military strength of our country that we have a serious plan to get our debt under control through reductions in spending and significant reforms across the government", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"4", "label":"no-unit"},
+    {"number":88, "text":"\\.", "label":"no-unit"},
+    {"number":89, "text":"Implement more accountability and choice at the VA", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"The VA reforms passed by Congress last year were a good first step, but will not address the deeper, systemic culture problems at VA", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"In the next Congress, the president should champion even deeper reforms at VA to bring accountability for poor performing employees throughout the department and to expand health care options for veterans outside the VA system", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"These basic principles would not only address a campaign promise the president has failed to deliver on(\"fixing the VA\") but would show that he is finally serious about improving veterans' access to the quality health care they earned", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"What the president misses, and even defies, in his latest list of proposals is that Americans don't think government isn't doing enough", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"They think government does too much, that most of what it does, it does poorly", "label":"assumption"},
+    {"number":100, "text":",", "label":"no-unit"},
+    {"number":101, "text":"and", "label":"no-unit"},
+    {"number":102, "text":"that it doesn't attend to the issues that matter to them", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"Focusing on the four agenda items above would send a message that the president is finally serious about governing in his last two years in office", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"It's probably too much to ask for Obama to change his approach at this stage in his presidency", "label":"assumption"},
+    {"number":107, "text":"--", "label":"no-unit"},
+    {"number":108, "text":"but", "label":"no-unit"},
+    {"number":109, "text":"it's essential if he wants to avoid a legacy of division, defiance and neglect", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"And", "label":"no-unit"},
+    {"number":112, "text":"if", "label":"no-unit"},
+    {"number":113, "text":"the president continues on his current course?", "label":"assumption"},
+    {"number":114, "text":"Well, the items listed above will become part of a compelling agenda for his potential successors", "label":"assumption"},
+    {"number":115, "text":"as", "label":"no-unit"},
+    {"number":116, "text":"they take to the campaign trail for 2016", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ]
+]}

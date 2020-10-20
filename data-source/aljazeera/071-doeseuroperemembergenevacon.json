@@ -1,0 +1,135 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Does Europe remember the Geneva Convention?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"\"A few months ago someone starved to death in our squat,\" said Muna a 26-year- old Somali woman who has been living inside a run-down university building in Rome since 2006", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Selam Palace, where over 1,000 refugees live, has become the symbol of Italy's \"migration crisis\"", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Like Muna, thousands of the country's refugees are living in unofficial housing arrangements including tent cities, old factories, dumpsters even henhouses", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"They are the lucky ones; the ones who made it", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"\"I saw my brother drown in front of my eyes,\" said Hamid", "label":"testimony"},
+    {"number":11, "text":"who survived the shipwreck during which 10 people died", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"\"I had to leave him behind", "label":"testimony"},
+    {"number":14, "text":";", "label":"no-unit"},
+    {"number":15, "text":"it would have been too difficult for my mother to lose both her sons on the same night\" he added", "label":"testimony"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"Authorities say they lack the resources to adequately support migrants", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"but", "label":"no-unit"},
+    {"number":20, "text":"those working on the ground argue that repressive border practices and ineffective policies are to blame", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"In Sicily, asylum seekers have been housed inside churches, gyms and abandoned schools, often in overcrowded and unsanitary conditions", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Fights have become frequent inside these centres", "label":"assumption"},
+    {"number":25, "text":"where migrants are abandoned for months, even years, with very little idea of what is happening to them", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"\"The south of Italy is becoming a concentration camp for migrants,\" said MS Cordaro", "label":"testimony"},
+    {"number":28, "text":"as we drove past the CARA Mineo, a processing centre for migrants", "label":"anecdote"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"which currently holds over 4,000 people", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Stuck between EU regulations, which force them to claim asylum in their first port of call, and the inefficiencies of Italian bureaucracy", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"many migrants in Italy end up in a limbo of illegality and destitution", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"On my first day in Sicily I met Adeel, a 26-year-old Pakistani man", "label":"anecdote"},
+    {"number":37, "text":"who lives in a shanty town just outside a processing centre, with 200 other asylum seekers", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"\"The centre is full", "label":"testimony"},
+    {"number":40, "text":"and", "label":"no-unit"},
+    {"number":41, "text":"the waiting lists seem to never end", "label":"testimony"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"so", "label":"no-unit"},
+    {"number":44, "text":"some people began to set up camp underneath a bridge in its proximity,\" he said", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"On the night I was supposed to visit the make shift centre it was cleared by police bulldozers", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"\"Come back in two weeks' time,\" said Adeel over the phone", "label":"testimony"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"\"Every so often they do that because they say the camp is illegal", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"But we just build it again", "label":"testimony"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"where else can we go?\"", "label":"testimony"}
+  ],
+  [
+    {"number":55, "text":"However the problem is not just the number of arrivals, but the mismanagement of the asylum system", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"\"Year on year the government declares a state of emergency to deal with immigration,\" said Manuela Scebba", "label":"testimony"},
+    {"number":58, "text":"who works for the NGO Arci Amari", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"\"The problem is that there isn't a plan", "label":"testimony"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"The wars are not going to stop", "label":"testimony"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"What are we going to do next year? Call another emergency?\" she adds", "label":"testimony"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"\"The EU is progressively closing its borders, moving them further south along the Mediterranean,\" says Carmen Cordaro a lawyer", "label":"testimony"},
+    {"number":67, "text":"who specialises in maritime border policy", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"\"In this context, the debate over search and rescue missions is almost futile", "label":"testimony"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"What we really need is an EU policy on migration that goes beyond surveillance and push-backs", "label":"testimony"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"which at the moment is virtually non- existent.\"", "label":"testimony"}
+  ],
+  [
+    {"number":74, "text":"In a bid to contain the flow of migrants, EU border-states have traditionally made agreements with neighbouring countries", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"which do not share their onerous duties towards upholding the human rights of asylum seekers, enshrined in the Geneva Convention", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Despite being in contravention of national and international laws, several EU countries have used push-backs as a means of border control", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"The Spanish Guardia Civil (national law enforcement agency) has often been criticised for handing over migrants to Morocco", "label":"assumption"},
+    {"number":81, "text":"and", "label":"no-unit"},
+    {"number":82, "text":"there are numerous reports of mass expulsions from Greece to Turkey", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"\"In Europe there seems to be a concerted effort to evade the Geneva Convention", "label":"testimony"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Why doesn't the EU just come out and say it: We no longer want to abide by the Geneva Convention,\" Cordaro said", "label":"testimony"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"There are virtually no legal entry routes into Europe; even for asylum seekers fleeing from war-torn countries like Syria", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Far from countering migration flows this approach to migration has merely fuelled the human smuggling market and splintered migration routes towards longer and more dangerous points of passage", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Earlier this year I travelled across Italy to document the stories of those who arrive to Italy's borders", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"\"Europe or Die\", the name of the documentary, refers to a phrase which a group of men screamed at the producer", "label":"assumption"},
+    {"number":95, "text":"as", "label":"no-unit"},
+    {"number":96, "text":"they plunged towards the 3m barbwire fence which separates Spain from Morocco", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"For the past 10 years Italy has declared a \"state of emergency\" in relation to migration nearly every year", "label":"anecdote"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"In the meantime, the human rights of migrants have been increasingly sidelined in favour of quick-fix solutions to the \"crisis\" and tighter border controls", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Far from an emergency, the influxes, the deaths and the overcrowding of centres are the predictable consequences of denying a legal entry route to those who have no other choice but to flee", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ]
+]}

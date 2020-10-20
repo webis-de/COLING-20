@@ -1,0 +1,92 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"If California truly leads the nation, we can elect a black woman to the US Senate.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Here in California, it's been a blockbuster week in politics", "label":"assumption"},
+    {"number":3, "text":":", "label":"no-unit"},
+    {"number":4, "text":"Barbara Boxer is finally stepping down as perma-Senator after over 20 years", "label":"anecdote"},
+    {"number":5, "text":";", "label":"no-unit"},
+    {"number":6, "text":"former San Francisco mayor and current lieutenant governor Gavin Newsom is running for governor", "label":"anecdote"},
+    {"number":7, "text":";", "label":"no-unit"},
+    {"number":8, "text":"and", "label":"no-unit"},
+    {"number":9, "text":"attorney general Kamala Harris gunning for Boxer's soon-to-be- vacated seat", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Why does it matter?", "label":"assumption"}
+  ],
+  [
+    {"number":12, "text":"There' s certainly something compelling about Harris' daring bid for US Senate", "label":"assumption"},
+    {"number":13, "text":":", "label":"no-unit"},
+    {"number":14, "text":"there are only one in five senators are female in this Congress", "label":"anecdote"},
+    {"number":15, "text":";", "label":"no-unit"},
+    {"number":16, "text":"and", "label":"no-unit"},
+    {"number":17, "text":"there are only two black Senators currently (Cory Booker of New Jersey and Tim Scott from South Carolina)", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"If", "label":"no-unit"},
+    {"number":20, "text":"Harris won", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"she not only would contribute to the growing number of women in power, but having three actual black senators at one time would make history", "label":"assumption"},
+    {"number":23, "text":"because, to date, two is the best we've been able to achieve as a nation", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"In America's entire history, only eight black people have ever been senators", "label":"anecdote"},
+    {"number":26, "text":"and", "label":"no-unit"},
+    {"number":27, "text":"of those, only half were actually elected, rather than appointed", "label":"statistics"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Yet African-Americans make up about 13% of the population, according to the 2013 census", "label":"statistics"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"True proportional representation would see black senators in the double digits in Congress", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"California has outsized importance in the US economy", "label":"assumption"},
+    {"number":34, "text":":", "label":"no-unit"},
+    {"number":35, "text":"on its own, it is the world's eighth-largest economy, just behind booming Brazil but ahead of Russia and Italy", "label":"statistics"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"California's contributions are one of the chief reasons the US remains the world's biggest economy", "label":"assumption"},
+    {"number":38, "text":"... and", "label":"no-unit"},
+    {"number":39, "text":"a black woman is poised to be one of the most nationally influential politicians in the state", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"California's internal public policy tussles - and its standard more-liberal- than-the-nation solutions - often help lead the rest of the nation and the world forward, be it on pollution standards, minimum wage increases, medical marijuana legalization, organic produce certification, healthcare access for the uninsured, public-private technology innovation such as iHubs and tax breaks that encourage local production of zero-emission Teslas, same sex marriage and wetlands protections such as the CA Coastal Act of 1976", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"California's politicians can bring to Washington the ability to combine strong, safe regulatory experience with a booming economy and environmental protections, offering a compelling counter-point to Republicans who argue otherwise", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"And", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":" with the exception of Jerry Brown's first stint as governor from 1975-1983, California internal top politics has been tended to be dominated by southern California figures like Ronald Reagan and Arnold Schwarzenegger", "label":"assumption"},
+    {"number":48, "text":"- but", "label":"no-unit"},
+    {"number":49, "text":"Harris (and Newsom) are both northern California people through and through", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Instead of Hollywood values and priorities holding sway in the state, northern California's tech-powered financial and cultural strength may finally have a chance to drive the state's politics", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"And", "label":"no-unit"},
+    {"number":54, "text":"while Boxer, her fellow senator Dianne Feinstein and House minority leader Nancy Pelosi all hail from northern California, they spend much of their time in Washington DC ", "label":"assumption"},
+    {"number":55, "text":"-", "label":"no-unit"},
+    {"number":56, "text":"so", "label":"no-unit"},
+    {"number":57, "text":"Harris's move to DC will provide us with a new generation of representatives steeped in the area's emerging tech-focused culture", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"While I believe California has much to gain from politicians like Newsom and Harris", "label":"assumption"},
+    {"number":60, "text":"who see their work as largely cooperative and people-focused- as opposed to the ideological culture warriors who normally represent us in national policy debates", "label":"assumption"},
+    {"number":61, "text":"- there's a long road ahead for each", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Harris, for instance, may have to contend with billionaire Tom Steyer and former Los Angeles mayor Antonio Villaraigosa in a Democratic primary (and Villaraigosa would make history of his own)", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"But Harris is likely to have a lot of support behind her and ", "label":"assumption"},
+    {"number":66, "text":"-", "label":"no-unit"},
+    {"number":67, "text":"being young, at 50 - a run now for Senate still leaves the door open to run for governor 10 or 20 years down the road", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"After all", "label":"no-unit"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":" stranger things have happened in CA politics", "label":"assumption"},
+    {"number":72, "text":":", "label":"no-unit"},
+    {"number":73, "text":"who would have thought that B-list actor Ronald Reagan would rise from California to become the GOP's iconic president", "label":"anecdote"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":"or", "label":"no-unit"},
+    {"number":76, "text":"that Jerry Brown, now 76-years-old, would become governor again after over 30 years?", "label":"anecdote"}
+  ]
+]}

@@ -1,0 +1,97 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"2015: Beyond Obama, new Congress, we need a revival of the American spirit.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In the film, \"Girl Interrupted,\" Winona Ryder plays an 18-year-old who enters a mental institution for what is diagnosed as borderline personality disorder", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The year is 1967", "label":"anecdote"},
+    {"number":5, "text":"and", "label":"no-unit"},
+    {"number":6, "text":"the country is in turmoil over Vietnam and civil rights", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"While lying on her bed one night and watching TV, she sees a news report about a demonstration", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The narrator says something that might apply to today's turmoil:\"We live in a time of doubt. The institutions we once trusted no longer seem reliable.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":11, "text":"As 2014 ends,", "label":"no-unit"},
+    {"number":12, "text":"the stock market is at record highs", "label":"statistics"},
+    {"number":13, "text":"but", "label":"no-unit"},
+    {"number":14, "text":"our traditional institutions and self-confidence are in decline", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"A Pew Research Center study confirms one trend that has been obvious over several years", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"The \"typical\" American family is no longer typical", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Just 46 percent of American children now live in homes with their married, heterosexual parents", "label":"statistics"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Five percent have no parents at home", "label":"statistics"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"They most likely are living with grandparents, says the study", "label":"testimony"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"These startling figures about the decline of the American family contrast with the year 1960", "label":"assumption"},
+    {"number":27, "text":"when 73 percent of American children lived in traditional families", "label":"statistics"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"It was that generation that promoted cohabitation, no-fault divorce, hatred of the police(they called them \"pigs\" then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"The culture bomb dropped by the boomers created fallout still being felt today", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"The two-plus generations born since the Sixties have been infused with the notion of entitlement, victimhood, envy and greed", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Since the elimination of the draft, young people are no longer expected to serve in the military and so most of them pursue whatever goals they wish with no expectation they should give something back to their country", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"It's one possible explanation for why we can no longer seem to win wars", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"History warns us what happens when empires refuse to teach known values that strengthen societies and help protect them from enemies intent on their destruction", "label":"common-ground"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"The late British diplomat Sir John Glubb wrote a book called \"The Fate of Empires and Search For Survival.\"", "label":"anecdote"},
+    {"number":44, "text":"Glubb noted the average age of empires since the time of ancient Assyria (859-612 B.C ) is 250 years", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Only the Mameluke Empire in Egypt and the Levant (1250-1517) made it as far as 267 years", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"America is 238 years old and is exhibiting signs of decline", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"All empires begin, writes Glubb, with the age of pioneers, followed by ages of conquest, commerce, affluence, intellect and decadence", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"America appears to have reached the age of decadence", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"which Glubb defines as marked by \"defensiveness, pessimism, materialism, frivolity, an influx of foreigners, the welfare state, (and) a weakening of religion.\"", "label":"testimony"}
+  ],
+  [
+    {"number":55, "text":"Decadence, he writes,\"is due to: Too long a period of wealth and power, selfishness, love of money (and) the loss of a sense of duty.\"", "label":"testimony"}
+  ],
+  [
+    {"number":56, "text":"Do these not define America at the end of 2014?", "label":"assumption"},
+    {"number":57, "text":"Glubb says the 250-year average of empires has not varied in 3,000 years", "label":"testimony"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"but", "label":"no-unit"},
+    {"number":60, "text":"we don' t learn from history because\"our studies are brief and prejudiced.\"", "label":"testimony"},
+    {"number":61, "text":"He means they are mostly about one's own country", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"It will take more than a new Congress in 2015 and a new president in 2017 to save us from the fate of other empires", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"It will take a revival of the American spirit", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"and", "label":"no-unit"},
+    {"number":68, "text":"that can only come through changed attitudes towards our institutions and each other", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ]
+]}

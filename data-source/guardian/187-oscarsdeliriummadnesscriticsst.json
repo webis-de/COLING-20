@@ -1,0 +1,106 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Oscars delirium: a seasonal condition in which even critics become starstruck.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"With the announcement of the Oscar nominations, we shall undoubtedly see examples of what I call\"awards season transference\"", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"a strange phenomenon that afflicts film journalists called upon to comment on radio and TV", "label":"no-unit"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"I myself am an occasional sufferer", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"It's simply the delirium in the air", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Just as", "label":"no-unit"},
+    {"number":11, "text":"patients can fall in love with their psychoanalysts", "label":"assumption"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"so movie journalists can take these prizes very personally", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Critics who are so airily humorous and drily detached the rest of the year will sternly announce that they are actually pretty angry or upset that their personal favourite hasn't been nominated", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"They will undergo a radical personality change", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Having steadfastly refused to as much as sip the Kool-Aid for the preceding 12 months", "label":"no-unit"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"they suddenly glug down about a gallon of it in five minutes and effectively proclaim their deep personal stake in what happens on Oscar night", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"And", "label":"no-unit"},
+    {"number":24, "text":"what is seen as good news produces even more extraordinary behaviour: a kind of luvvyism-by-proxy", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Actual grownup journalists with mortgages and adult responsibilities will coo:\"I'm just so delighted for Meryl ...\" or\"I'm so happy for Emily...\"", "label":"assumption"}
+  ],
+  [
+    {"number":27, "text":"Did these starstruck reporters meet the celebs briefly at some press junket or interview?", "label":"assumption"},
+    {"number":28, "text":"Did these stars convince these poor unfamous journalists that they were their mates?", "label":"assumption"},
+    {"number":29, "text":"I fear so", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"And they are therefore brilliant actors, and deserve every Oscar going", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Confectionery lovers are enraged at news that the US owners of Cadbury have been tampering with the recipe for the Cadbury's Creme Egg, and at what they say is an outrageous lack of any consultative process with the consumer", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"The shell is no longer made from Cadbury's Dairy Milk but from the inferior \"standard cocoa mix\"", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"This insidious messing with its components could provoke an Indian mutiny among Creme Egg lovers", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Surely we need one of those change.org online petitions", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"I personally have never quite got over my childhood suspicion that the spelling \"creme\" means that the Creme Egg is not in fact made of actual cream", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"But I have been prepared to put these considerations to one side in the cause of continued snacking", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"For me, however, this is not the worst snack-related catastrophe imaginable", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"If", "label":"no-unit"},
+    {"number":48, "text":"Pringles started tinkering with the recipe for their Sour Cream & Onion flavour", "label":"assumption"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"that would be appalling", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"If", "label":"no-unit"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":" for example", "label":"no-unit"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"they started using a kind of artificial \"creme\" instead of \"cream\", and introduced some form of artificial substitute instead of actual onions ", "label":"anecdote"},
+    {"number":57, "text":"...", "label":"no-unit"},
+    {"number":58, "text":"Unthinkable", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"There are new and interesting reasons to relish the imminent release of Paul Thomas Anderson's fascinating film Inherent Vice", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"based on Thomas Pynchon's novel of the same name: a quasi-noir about a bleary stoner private detective on the trail of his ex-girlfriend's kidnapped lover", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"It is set in Los Angeles in 1970", "label":"anecdote"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"and", "label":"no-unit"},
+    {"number":67, "text":"its black-comic tone of paranoia is crucially set by the horrendous killings carried out in that era by the Charles Manson gang", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"Manson passionately wanted those killings to trigger an apocalyptic race war, and was every bit as serious about his ideological vision as the Charlie Hebdo murderers were about theirs", "label":"assumption"},
+    {"number":70, "text":"- and", "label":"no-unit"},
+    {"number":71, "text":"as an American political issue, racial tension was and is real enough", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"But of course no one took Charlie Manson seriously as a revolutionary warrior", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"And Thomas Pynchon and Paul Thomas Anderson find the right register to respond", "label":"assumption"},
+    {"number":76, "text":":", "label":"no-unit"},
+    {"number":77, "text":"with comedy, scorn and a resilient and healthy sense of surreality and the absurd that, however dark, absorbs and transcends hate", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"@PeterBradshaw1", "label":"no-unit"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ]
+]}

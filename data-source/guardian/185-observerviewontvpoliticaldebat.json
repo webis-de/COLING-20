@@ -1,0 +1,87 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The Observer view on the TV election debate.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Has there ever been so much debate about a debate?", "label":"assumption"},
+    {"number":3, "text":"The negotiations about this year's TV leader's debates sank to a new low last week, with David Cameron appearing to use the fact that the Greens now look likely to be excluded as an opportunity to bow out", "label":"assumption"},
+    {"number":4, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":5, "text":"Far from a principled stance, this came across as a self-serving attempt to get out of jail free, following as it did in the wake of his equivocation about whether he would participate in the debates he once so enthusiastically embraced as challenger rather than incumbent", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"Cameron's decision to pull out of an online video debate for first-time voters also reflects poorly on his motives", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"Surely if", "label":"no-unit"},
+    {"number":10, "text":"he really wanted the Greens involved", "label":"assumption"},
+    {"number":11, "text":"he would have co- ordinated a call from all three party leaders to the broadcasters to include them in the debates?", "label":"assumption"},
+    {"number":12, "text":"In the face of such cross-party consensus it would have been unthinkable for them to refuse", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"It is a damning indictment that the political parties cannot even agree on a format for a series of election debates", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"One has to question where that leaves the real challenges facing the country that will require a degree of cross- party consensus to tackle over the next decade", "label":"assumption"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"in a time when increasing political instability looks set to be the norm", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Long-term reform of the NHS and care systems to cope with an ageing population or restructuring the banks to insulate us against another financial crisis are issues far more complex and thorny than a debate format", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"This episode reveals two further truths", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"First", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":" all our leaders have claimed to want to change the nature of the conversation between politicians and voters", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"But too often these claims are undermined", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Ed Miliband argued for a new politics in July 2014, shunning the shallowness of husky-themed photo-ops", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"He launched his election campaign with a promise Labour activists will engage in four million conversations, talking to people on doorsteps rather than communicating using poster campaigns", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"But the authenticity of this has been undercut by Labour's continued reliance on negative campaigning, including their election broadcast ridiculing Nick Clegg as the \"Un-Credible Shrinking Man\" who has abandoned his principles, and leaked strategy documents telling candidates to move on when voters raise immigration as an issue", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Cameron's attempt to extract himself from debates that attracted tens of millions of viewers in the run-up to the last election undermines these claims by the political class even further", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"It smacks of politicians only interested in pursuing a new style of politics when it suits their strategy", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Second", "label":"no-unit"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":" the disagreement around the debates is a symptom of the extent to which Britain's two-party majoritarian system is breaking down", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"The vote share of the two main parties has steadily declined in recent decades to the extent that it no longer looks as if the two parties will be able to sustain a majority under the current electoral system", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"We are now in the territory where their declining vote share means first past the post is beginning to deliver what increasingly looks like arbitrary rather than democratically credible outcomes", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"It is nonsensical for the Greens to be excluded on the basis of their vote share in an electoral system that provides strong disincentives to vote for them in the first place", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Hundreds of thousands of people have signed a petition for them to be included", "label":"anecdote"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"eight in 10 voters think they should take part", "label":"statistics"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Ofcom's decision that they don't have sufficient support to accord them \"major party status\" and the broadcasters' reluctance to invite them to participate have the ring of a political establishment desperately trying to cling on to the cartel-like status quo", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"A political rulebook that better reflects the more pluralistic politics developing in Britain would do more than any speech or campaign to facilitate a more honest, authentic conversation with the public", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Cameron's attempt to wriggle out of the debates is shameful", "label":"assumption"},
+    {"number":59, "text":"and", "label":"no-unit"},
+    {"number":60, "text":"he must accept the invitation issued by the Guardian, Telegraph and YouTube to take part in an online debate including the Greens", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"But he should be doing much more", "label":"assumption"},
+    {"number":63, "text":":", "label":"no-unit"},
+    {"number":64, "text":"he should be leading a national conversation involving all the party leaders about how the pluralism of the electorate can be represented in a more democratic system of politics", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"The longer the main parties try to resist, the more disillusioned and disenfranchised the public will become", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ]
+]}

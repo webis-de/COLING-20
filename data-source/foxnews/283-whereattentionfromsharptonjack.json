@@ -1,0 +1,133 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Where's the attention from Sharpton & Jackson for Black lives in St  Louis beating?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The shooting death of Michael Brown, an unarmed black teenager, by a white policeman rightly set off alarms", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"But much less media attention -- especially from the black civil rights leadership -- has gone to the deadly assault on a white man by three black teenage boys in St  Louis", "label":"assumption"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"which is likely to end with adult murder convictions and life sentences for the boys", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"That sentence equals a long, slow death in jail just as final and awful as Michael Brown's fate", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"St  Louis police and politicians say there was nothing racial about the attack on Zemir Begic, 32, a Bosnian immigrant", "label":"testimony"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"They say it was not a hate crime aimed at Bosnians", "label":"testimony"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"And they say it had nothing to do with the racial crisis in Ferguson over Brown's death", "label":"testimony"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Yes, it did", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Black men have the highest rate of conviction for violent crime of any racial group in the country", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"The harsh truth is that we're really talking about poor, young Black men", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"In any case, Blacks have the highest dropout and unemployment rates", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Black children have the highest poverty rate of any group of children", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Poor black boys too often take their fashion and cultural cues from rap music that celebrates criminal behavior as a show of power and rebellion", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Often, the result is a thuggish attitude, including dressing like convicts with their pants falling down because the jail guards have taken away their belts", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Another consequence of civil rights leaders' failure to challenge criminal behavior in black neighborhoods is the angry, defiant interactions between those black teenagers and the police", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Once the black violence leads to death, especially if it is beyond the streets of a poor black neighborhood, there is no mercy", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The broken justice system that gives police a pass for killing an unarmed black teen is hard evidence that Americans, middle-class blacks and whites, think classifying young black men as an ongoing threat to public safety is not racial stereotyping", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"And the police and grand jurors see physically large black men -- in the cases of both Michael Brown and New York's Eric Garner, who was choked to death by police-- as especially threatening", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"How else do you explain the lack of human compassion by the police for Garner as he complained,\"I can't breathe\"?", "label":"assumption"},
+    {"number":39, "text":"How else do you understand two grand juries deciding there is nothing wrong with two people being killed by the police, agents of the government, if the value of their lives is equal to every other citizen's life?", "label":"assumption"}
+  ],
+  [
+    {"number":40, "text":"In Garner's case, the police were videotaped choking him even though he never fought with them", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"And the grand jurors still refused to allow the police to go on trial", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"Mandatory body cameras for police are a good idea", "label":"assumption"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"but", "label":"no-unit"},
+    {"number":47, "text":"they are not a panacea for the troubled relationship between the larger society and the broken black families, the poorly educated black children and the steady violence in poor black American communities", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Recall that Garner's death at the hands of the police is on videotape", "label":"anecdote"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"it made no difference in the grand jury's decision not to indict the police", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Even with the video, what the prosecutor and the grand jurors saw in Garner was not a fellow citizen being hurt, but a troubling social reality", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"They saw a potential threat to themselves in a big black man hustling on the street", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"even if this was a middle-aged man with no violent intent who was violating only a minor law by selling loose cigarettes", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Garner and Brown are in their graves", "label":"common-ground"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"but", "label":"no-unit"},
+    {"number":63, "text":"the body count continues as poor black teenagers, especially boys, march from single-parent homes to bad schools, to jails and to wasted lives", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"It begins with acting out in defiance of a larger society that ignores them", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Sometimes there are displays of anger that are seen as threatening", "label":"assumption"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"and", "label":"no-unit"},
+    {"number":70, "text":"they end up killing each other", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Other times there are confrontations with the police that end with the boys in jail or the grave", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Robert Joseph Mitchell, the 17-year-old charged with first-degree murder in the attack on Begic, looks to fit in that group of poor, young black men in the \"pipeline\" to prison", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Also in the \"pipeline\" to wasted lives are two other black boys, 15 and 16", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"whom police arrested after the murder", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"And don't forget Begic, an innocent man having fun with his fiancee who lost his life because he crossed paths with these furious black boys", "label":"anecdote"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"This is the deeper social breakdown born of segregation of poor black people, lack of opportunity and too many people living with acceptance of anger at the poor for making the larger society so uncomfortable", "label":"assumption"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"so fearful", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"The protests over the Brown and Garner cases deserve to be celebrated in the American tradition of social movements against injustice", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"But where are the protests over the drive-by shootings of black thugs by other black thugs?", "label":"assumption"},
+    {"number":89, "text":"Where are the protests against the bad schools that close the door of economic opportunity on poor children, disproportionately poor children of color?", "label":"assumption"}
+  ],
+  [
+    {"number":90, "text":"As", "label":"no-unit"},
+    {"number":91, "text":"Robert Joseph Mitchell faces a life sentence for murder", "label":"anecdote"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"his story is one more tragic version of\"I can't breathe.\"", "label":"assumption"}
+  ]
+]}

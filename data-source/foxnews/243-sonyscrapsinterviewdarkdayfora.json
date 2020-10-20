@@ -1,0 +1,147 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Sony scraps 'The Interview': Dark day for America when we cave over silly Seth Rogen comedy.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Exactly what country are we living in?", "label":"assumption"},
+    {"number":3, "text":"How the hell could Sony give in to the demands of terrorists?", "label":"assumption"},
+    {"number":4, "text":"And make no mistake about it... The hackers who broke into their computer systems are just that: Terrorists", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Sony is a commercial enterprise", "label":"common-ground"},
+    {"number":7, "text":"and", "label":"no-unit"},
+    {"number":8, "text":"it has the prerogative to scrap the release of \"The Interview.\"", "label":"assumption"},
+    {"number":9, "text":"But", "label":"no-unit"},
+    {"number":10, "text":"Sony is also the face of the United States in this heated relationship with North Korea", "label":"assumption"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"and", "label":"no-unit"},
+    {"number":13, "text":"the United States doesn't negotiate with terrorists", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Neither should Sony", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"It's a dark day for America when we cave over a simple, silly Seth Rogen comedy", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"It's embarrassing", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"It's humiliating", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"It's exactly what these hackers wanted", "label":"assumption"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"and", "label":"no-unit"},
+    {"number":26, "text":"it creates an open season for anarchists", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"I can' t help but think of that brilliant scene in Steven Spielberg's much maligned but hilarious World War II comedy \"1941,\" (1979)", "label":"assumption"},
+    {"number":29, "text":"when", "label":"no-unit"},
+    {"number":30, "text":"Toshiro Mifune, playing a Japanese submarine commander, is under orders to destroy Hollywood from off the coast of Los Angeles", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Mifune beams with pride after destroying the Ferris wheel at the Santa Monica pier", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"He thinks his mission is a success", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"He thinks he's conquered America", "label":"anecdote"},
+    {"number":37, "text":"--", "label":"no-unit"},
+    {"number":38, "text":"just as North Korea probably thinks it has conquered us", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"But in a way it has", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Have at it, guys", "label":"other"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Sony has just created a ridiculous, yet dangerous, precedent", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Watch the first episode of the brilliant British series \"Black Mirror\"(which debuted in 2011 and is currently streaming on Netflix) to see just how this situation played out and will continue to play out within our society", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"In the episode, a British princess is kidnapped, and the ransom demand calls for the prime minister to go on live television and have sex with a pig", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The world stops", "label":"anecdote"},
+    {"number":51, "text":";", "label":"no-unit"},
+    {"number":52, "text":"the masses are enthralled", "label":"anecdote"},
+    {"number":53, "text":";", "label":"no-unit"},
+    {"number":54, "text":"the news and social media go to town with the juicy fodder", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Some cheer the prime minister's humiliation", "label":"anecdote"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"some are disgusted", "label":"anecdote"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"some are apathetic", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"But beneath it all, society is brought to its knees", "label":"assumption"},
+    {"number":63, "text":"-- and", "label":"no-unit"},
+    {"number":64, "text":"the Twitterverse welcomes it", "label":"assumption"},
+    {"number":65, "text":"because", "label":"no-unit"},
+    {"number":66, "text":"it is a damn good spectacle", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"\"Black Mirror\" -- the first episode, especially -- was incredibly prescient", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Sony Pictures' \"The Interview\" is just a movie", "label":"common-ground"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"It may be just a stupid comedy", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"but", "label":"no-unit"},
+    {"number":75, "text":"it is still a work of expression -- free expression!", "label":"assumption"},
+    {"number":76, "text":"-- something that separates us from them", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"George Washington said,\"If the freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter.\"", "label":"testimony"},
+    {"number":79, "text":"For anyone to silence our creative voice is just wrong", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Laughably wrong", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"That is why Sony should not buckle to the pressure of these vile threats", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"I understand that people may have been afraid to go to the big chain theaters to see \"The Interview,\"", "label":"assumption"},
+    {"number":86, "text":"and", "label":"no-unit"},
+    {"number":87, "text":"I respect their desire to protect themselves and their families", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Sincere props, though, to the Alamo Drafthouse in Dallas/Fort Worth for announcing they would show the equally controversial film \"Team America: World Police\" (2004) in place of \"The Interview.\"", "label":"other"},
+    {"number":90, "text":"Thursday afternoon, Paramount announced that they would not publicly screen the movie", "label":"anecdote"},
+    {"number":91, "text":",.", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Sony should seriously consider releasing the Seth Rogen-James Franco (and phenomenal Lizzy Caplan) comedy on-demand for a number of reasons", "label":"assumption"},
+    {"number":93, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"One", "label":"no-unit"},
+    {"number":95, "text":":", "label":"no-unit"},
+    {"number":96, "text":"Sony and all involved will get their incredible payday", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Has any recent film received more free hype than \"The Interview\"?", "label":"assumption"}
+  ],
+  [
+    {"number":99, "text":"Two", "label":"no-unit"},
+    {"number":100, "text":":", "label":"no-unit"},
+    {"number":101, "text":"No theater will be harmed", "label":"assumption"},
+    {"number":102, "text":",", "label":"no-unit"},
+    {"number":103, "text":"even though", "label":"no-unit"},
+    {"number":104, "text":"theaters will lose potential revenue from the film", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"Three: Most importantly", "label":"no-unit"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":"Sony -- and we, the United States -- will not give in to this ludicrous and obnoxious threat from an impotent and juvenile country", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"This is America", "label":"common-ground"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"We stand by our freedom", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"Even if it's a stupid comedy", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"}
+  ]
+]}

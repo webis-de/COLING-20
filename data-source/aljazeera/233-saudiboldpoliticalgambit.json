@@ -1,0 +1,161 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Saudi's bold political gambit.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Recent reports of the Kingdom of Saudi Arabia reopening its embassies in Baghdad and in the capital of the Kurdish Regional Government, Erbil, may appear to be an overdue, yet mundane diplomatic affair", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"but", "label":"no-unit"},
+    {"number":5, "text":"this news signifies a development in Saudi foreign policy to Iraq", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"While", "label":"no-unit"},
+    {"number":8, "text":"diplomatic relations between Riyadh and Baghdad were severed after Saddam Hussein's invasion of Kuwait in 1990", "label":"anecdote"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"Saudi Arabia failed to reopen diplomatic facilities in Iraq as tensions ensued with the post-Baathist government", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"The recent news serves as an indication that Riyadh has finally come to terms with a Shia-led government in Baghdad, and is now seeking a presence in Iraq to influence developments there on an official, bilateral level", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"In terms of regional power dynamics, the fall of Saddam Hussein's government in 2003 affected all of Iraq's neighbours", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Jordan and Syria had to deal with an influx of Iraqi refugees", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Both Syria and Iran feared the Bush administration would use Iraq as a base to destabilise their regimes", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Both Turkey and Saudi Arabia feared that the empowered Kurds and Shia in Iraq after 2003 would foment similar aspirations among their respective Kurdish and Shia populations", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Contentious issue", "label":"no-unit"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"The reopening of embassies in Baghdad after the US-led occupation had been a contentious issue for regional actors in the Middle East", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"The new politicians in Iraq had to urge various Arab states and organisations to reopen their embassies in Baghdad in order to bestow some regional legitimacy upon a nascent Iraqi government", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"The Arab League hesitated reopening its diplomatic facilities in Baghdad as an indirect way of protesting the fact that an Arab capital was under foreign control", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Baghdad repeatedly asked Syria to open up its embassy in Baghdad", "label":"anecdote"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"hoping that diplomatic relations would end Syria's policy of granting refuge to former Baathists and supporting the Iraqi insurgency immediately following the 2003 invasion", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"For Saudi Arabia, the failure to open an embassy in Baghdad had less to do with the presence of US forces occupying an Arab capital, but rather as a means of protesting the rise of a new Shia-led government in Iraq", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"After the Iranian Revolution of 1979, Saudi Arabia's Shia began to protest, demanding more rights from the Saudi government", "label":"anecdote"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"and", "label":"no-unit"},
+    {"number":39, "text":"the fear in Riyadh was that the ascent of a Shia-led government in Iraq could ignite similar protests in 2003", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Saudi Arabia's fears of renewed unrest among its Shia population in its oil-rich Eastern province is an internal domestic issue", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"However", "label":"no-unit"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":" the Iraq War of 2003 also represented a foreign policy setback on the regional level", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Iranian influence", "label":"no-unit"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Iraq under Saddam Hussein, even a weak Iraq after 1991, still served as a buffer against Iran", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"which had rivalled Riyadh for regional hegemony in the Middle East and the greater Islamic world since 1979", "label":"anecdote"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"fighting proxy wars from Lebanon to Pakistan", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"After 2003, Saudi Arabia watched as Iran's influence grew in Iraq", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"which was backing Baghdad's first Shia-led government, in addition to Tehran influencing events in the Houthi rebellion in Yemen, another state Saudi Arabia considers as its backyard", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Not only had Iranian influence outflanked Saudi Arabia on both sides of its borders, but from the perspective of Riyadh, the Arab Spring protests of Bahrain were deemed as an Iranian-backed project", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Finally", "label":"no-unit"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":" Iran seemed on the verge of not only acquiring a nuclear programme, but also reaching at least a de facto working relationship with the US in the region", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"While", "label":"no-unit"},
+    {"number":66, "text":"Saudi Arabia was initially reluctant to challenge the status quo by supporting the protests and rebellion against Syria's Bashar al-Assad", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"it weighed in on the side of the rebels", "label":"anecdote"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"and", "label":"no-unit"},
+    {"number":71, "text":"in this proxy war, Iran also defeated Saudi aspirations by keeping the incumbent government in Damascus alive", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"The regional situation in the Middle East has been described by Richard Haass, President of the Council on Foreign Relations, as the Middle Eastern Thirty Years War, or as a new sectarian Cold War waged by Iran and Saudi Arabia", "label":"testimony"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"If", "label":"no-unit"},
+    {"number":76, "text":"one were to use either analogy", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"then Iran is definitely winning this conflict", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"From this perspective, the news of reopening the Saudi embassies emerges in the context of a reassessment of Riyadh's foreign policy, released at a fortuitous time", "label":"assumption"},
+    {"number":81, "text":"as", "label":"no-unit"},
+    {"number":82, "text":"King Abdullah is hospitalised and worries emerge of what this means for the future leadership of the Kingdom", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Quiet diplomacy", "label":"no-unit"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"However", "label":"no-unit"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":" the decision to reopen the embassies reflect a sustained period of quiet diplomacy that preceded the king's health condition", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"The first indication that Iran and Saudi Arabia were beginning to cooperate over Iraq's future occurred after the ISIL offensive into Mosul in the summer of 2014", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Both Tehran and Riyadh agreed on Haider al-Abbadi as a replacement to Iraq's incumbent Prime Minister, Nouri al-Maliki", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"This agreement represents an evolution from the Saudi side", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"as evident from a Wikileaks cable where King Abdullah expressed his personal dislike of Maliki in a meeting with US officials", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"On the bilateral Iraqi and Saudi level", "label":"no-unit"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"a thaw in relations occurred after Iraq's president visited Riyadh and met with the king in November 2014", "label":"assumption"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":"and", "label":"no-unit"},
+    {"number":103, "text":"a Saudi-Iraqi agreement was reached to combat ISIL", "label":"anecdote"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"This agreement is significant given the number of Iraqis in both the state and society who blame the rise of ISIL on Saudi Arabia in the first place as the financial and ideological incubator of this group", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"For example", "label":"no-unit"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":" Iraqi public service announcements encouraged Iraqis to inform on \"foreign\" terrorists", "label":"anecdote"},
+    {"number":110, "text":",", "label":"no-unit"},
+    {"number":111, "text":"invoking an image of a bearded man with a short thobe, handing out funds to local Iraqis, to stir up problems in Iraq", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"It appears that Iraq, Iran, and Saudi Arabia have come to the conclusion that when it comes to combatting ISIL, all three parties need to reach a modus vivendi", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"If", "label":"no-unit"},
+    {"number":116, "text":"one chooses to employ short hand monikers to describe the state of affairs in the region, rather than a \"Thirty Years War\" or a \"Cold War\"", "label":"assumption"},
+    {"number":117, "text":",", "label":"no-unit"},
+    {"number":118, "text":"regional actors in the Middle East have finally come to an agreement that they are waging their own \"War on Terror\" against ISIL", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ]
+]}

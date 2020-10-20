@@ -1,0 +1,111 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Coca-Colanisation is coming to Britain.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In the heart of a Mexican traditional covered market, where chilli peppers sell in every conceivable size and colour amid a fabulous variety of fruits and vegetables", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"I was stunned to come across avenues of tables and chairs that all looked exactly the same", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"These were dozens of small restaurants", "label":"anecdote"},
+    {"number":7, "text":"but", "label":"no-unit"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"like the painted roses in Alice in Wonderland, they were uniformly decorated and equipped", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Everything was bright red", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"The colour of Coca-Cola", "label":"no-unit"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Coke's sponsorship paid for the menus offering meal deals including everybody's favourite fizzy pop, the fridges sporting logos and the T-shirts and red Coca-Cola aprons of every waiter behind every counter", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"But", "label":"no-unit"},
+    {"number":18, "text":"to say the soft drinks brand had a marketing monopoly would be to understate what was going on here", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Few people object to this Coca-Colanisation", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"The soft drink has cult status in Mexico", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"There is even a church that was said to use it instead of wine for communion", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Mexico has one of the highest levels of child obesity in the world", "label":"statistics"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Sugary drinks, foremost of which in popularity is Coke, have a lot to do with that, according to the Mexican obesity experts I interviewed", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"So", "label":"no-unit"},
+    {"number":31, "text":"when the London Eye, the most famous big wheel in the UK, announced it would turn red courtesy of Coca-Cola", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"I found it hard to repress a shudder", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"It's the normalisation of Coca-Cola that worries me - its insinuation into our lives", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"In London it's hard to get away from the Eye", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"You glimpse it unexpectedly all the time", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"The corporation doesn't need slogans or the jingly tunes it once employed to get into our heads", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"We know what the red on the wheel represents", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"And it is red, of course - the full sugar colour", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Not the green of the lower sugar brand, nor the black of Coke Zero", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"We may be more sceptical of it than those in remote parts of Mexico", "label":"assumption"},
+    {"number":50, "text":"where", "label":"no-unit"},
+    {"number":51, "text":"people were grateful for the delivery van because they had no safe drinking water", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"But it is part of our culture too, as the company points out on its website", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"It arrived in London in 1900", "label":"anecdote"},
+    {"number":56, "text":"when Charles Candler, son of the founder, brought over a jug of syrup from the US", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"In 1969, Coca-Cola teamed up with Biba for a TV ad featuring Carnaby Street and a recording of Things Go Better with Coke by The Who", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"And in 2012, there was the sponsorship of the Olympics by both Coca-Cola and McDonald's", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Marketing and advertising have become much subtler, particularly in the hands of vast corporations with huge profits and products that are under attack from health lobbies", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Jingles have given way to associations, to dreams and nostalgia", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"And the format has changed", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Online advertising outdid TV ads in 2009", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Social media is a gift", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Young people can be invited to join in with cool groups of online friends who have the good taste to like certain drinks, snacks or - on the case of children - sweets", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"The Yale Rudd Center for food policy and obesity in the US reported that 6 billion fast-food ads appeared on Facebook in 2012", "label":"statistics"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"which amounted to 19% of all fast-food advertising", "label":"statistics"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"The World Health Organisation in a report on Europe warned of \"advergames\"", "label":"anecdote"},
+    {"number":79, "text":"-", "label":"no-unit"},
+    {"number":80, "text":"game playing and fantasy video sites launched online by snack and sweet companies", "label":"no-unit"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"So no - we don't worship Coca-Cola in Britain or see its presence on our dinner table as a status symbol", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"But", "label":"no-unit"},
+    {"number":85, "text":"do we really want our children to see and one day nostalgically remember the magnificent spectacle of the Eye on the London skyline bathed for years to come in Coca-Cola red?", "label":"assumption"},
+    {"number":86, "text":"At least we can turn off the TV", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"o Sarah Boseley is the author of The Shape We're in: how junk food and diets and shortening our lives", "label":"no-unit"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"published by Guardian Faber", "label":"no-unit"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ]
+]}

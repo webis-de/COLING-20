@@ -1,0 +1,122 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"United States polarising - inequality and injustice escalating.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Protests in the wake of the police killing of Michael Brown in Ferguson, MO, and uprisings throughout the US and the world following the grand jury's refusal to indict police officer Daren Wilson express a new wave of resistance and struggle against centuries old injustices of poverty, racial oppression, and state violence", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"The context of today's struggles is the history of United States' genocide of indigenous peoples and enslavement of African peoples, coupled with exploitation and oppression of immigrant workers", "label":"assumption"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"to maximise profits for the slavocracy ruling the country till the Civil War and the emerging industrial corporate class", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Heroic movements in each century fought to lessen economic inequality, white supremacy, and gender oppression", "label":"common-ground"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Reforms were won and", "label":"no-unit"},
+    {"number":11, "text":"new laws passed", "label":"common-ground"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"But counter-revolution and reaction asserted itself: From slavery to Jim Crow, from lynch rope to drug wars, mass incarceration, wanton police murder of black lives, and state violence", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Major victories of the past left intact the economic and political system of global capitalism", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Historic inequalities and oppressions rooted in realities of race, nationality, and gender evolved within the class relations of capitalism", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Race and class are deeply intertwined in shaping the economic, political, and social relations", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"As the economic system develops, these disparities and injustices are exacerbated, and are driven by the deep structural changes in the nature of work, the relations between labour and corporations (capital), and the state", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"In the current moment economic and political polarisation is intensifying", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"It is highly racialised", "label":"assumption"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"impacting blacks disproportionately", "label":"assumption"},
+    {"number":28, "text":";", "label":"no-unit"},
+    {"number":29, "text":"and", "label":"no-unit"},
+    {"number":30, "text":"given the history of white supremacy it could not be otherwise", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"The technological revolution at the foundation of the economy - the development of computers, digitisation, automation, and robots - dates from the 1950s", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"It took off in the 1980s and is in high gear in the twenty-first century", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"It is radically transforming every aspect of the economy, including production, distribution, communication, knowledge and culture, and impacts our daily lives in ways never imagined", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"The economy shifted from a machine- based system that enhanced workers' productivity to an electronic-based system that is labour-replacing and increasingly displaces workers, but is ever more productive and cheaper with robotic labour", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Everything changes - globalisation, wealth, work, wages, war, and the state", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Numbers tell the story of these stark realities", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"In a world where the 85 richest people owned $110 trillion in wealth, equal to that of the poorest 3.5 billion people combined in 2013", "label":"statistics"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"the United States is the most unequal", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Here, in the aftermath of the Great Recession, the top 1 percent earned 95 percent of total income gains since 2009, compared to the bottom 99 percent who earned a meager 5 percent of gains", "label":"statistics"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Race matters, of course", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Black median household income was $35,416 in 2014, less than 60 percent of white income at $59,754", "label":"statistics"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Unemployment in 2014 inched below 6 percent, but was still 9.6 million workers", "label":"statistics"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"This doubled if the 2.1 million discouraged workers and the 7.3 million part-time workers wanting full-time work were added", "label":"statistics"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Again", "label":"no-unit"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":" black unemployment at 11.4 percent was double that of whites at 5.3", "label":"statistics"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The new electronic economy renders huge swaths of US and global workers disposable, and thus \"dangerous\" to the system that has discarded them", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Over the last fifty years there have been profound changes in state policies and practices to manage and contain this new reality", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"From safety net to neoliberalism and austerity", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"From welfare state to warfare state", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"From civil rights to incarceration and deportation nation", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"The militarisation of the police, state violence, and corporate control of the state are escalating", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Again race matters", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"A white police officer has killed a black person about two times a week from 2006 to 2012", "label":"statistics"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Since 1997, the Department of Defense has given $5.1bn in equipment to state and local police departments", "label":"statistics"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Homeland Security has made grants worth $41bn since 2002", "label":"statistics"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"And the Pentagon, beginning in 2006, has given local police departments $1.9bn of equipment - including 600 mine-resistant, ambush-protected vehicles (MRAPs), 80,000 assault rifles, 200 grenade launchers, and 12,000 bayonets", "label":"statistics"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"The state directs and protects the US and global economy in the interests of a tiny class of corporate billionaires", "label":"assumption"},
+    {"number":85, "text":"who have bought control of local and national governments and international financial institutions, and wage war at home and abroad to maintain their wealth and power", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"No one believes Ferguson is an isolated incident", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"But", "label":"no-unit"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"to make the leap in our understanding that it represents systemic state violence that demands fundamental reorganisation of power and the economy requires political education connected to political struggle", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Our vision and our strategy for the emerging movement have to move along the path to a new society that is cooperative and egalitarian, and organised to satisfy human needs and protect the earth", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,184 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Torture is a crime, time to end the impunity.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"This week the world has seen headline after headline about the CIA's horrifying practise of systematic torture and cruelty", "label":"assumption"},
+    {"number":3, "text":":", "label":"no-unit"},
+    {"number":4, "text":"Mentions of \"rectal hydration\" and rape threats, sleep and sensory deprivation, forced nudity, stress positions, subjection to cold temperatures, food deprivation, hanging from bars, confinement in a \"coffin size\" box, hooding, and physical assaults", "label":"anecdote"},
+    {"number":5, "text":";", "label":"no-unit"},
+    {"number":6, "text":"a man left shackled and naked to die overnight in a secret CIA facility in Afghanistan", "label":"anecdote"},
+    {"number":7, "text":";", "label":"no-unit"},
+    {"number":8, "text":"psychologists contracted to design the best ways to break the human spirit", "label":"anecdote"},
+    {"number":9, "text":";", "label":"no-unit"},
+    {"number":10, "text":"doctors ensuring that victims were fit to endure more torture", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"These were violations of the most fundamental human rights and crimes under international law", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"But still, no promises to bring any of those responsible to justice", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"It has been known for years that the US turned to torture as part of its response to the crime against humanity that was committed on September 11, 2001", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Today, the cruelty carried out in the CIA secret detention programme run under authority granted by President George W Bush still has the power to shock and sicken", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"While", "label":"no-unit"},
+    {"number":21, "text":"the CIA may have exceeded its authority and lied to him", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"he still had a part to play", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"But we must not forget that behind the text of the summary report by the Senate Select Committee on Intelligence (SSCI) and the details contained within, are cases of real people", "label":"common-ground"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"People whose lives have been broken", "label":"assumption"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"whose humanity was forgotten under this state-sanctioned programme", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"The case of Abu Zubaydah has long been known", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Amnesty International first raised its concerns with the US government in April 2002", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"He was the first person to be taken into CIA custody considered by the agency to have high intelligence value", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Abu Zubaydah was effectively treated as a human guinea pig to test the CIA's emerging interrogation regime", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"He was subjected to a range of torture methods, including being waterboarded multiple times", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"The SSCI summary adds some new chilling details", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"A July 15, 2002 cable sent by the interrogation team at \"Detention Site Green\", believed to be in Thailand, ended:\"In light of the planned psychological pressure techniques to be implemented, we need to get reasonable assurances that [Abu Zubaydah] will remain in isolation and incommunicado for the remainder of his life.\"", "label":"testimony"},
+    {"number":44, "text":"CIA officers responded that \"all major players are in concurrence that [Abu Zubaydah] should remain incommunicado for the rest of his life\"", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Then", "label":"no-unit"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"after Abu Zubaydah had been subjected to 47 days of complete isolation, he was subjected to numerous \"enhanced interrogation techniques\" including physical assaults, stress positions, cramped confinement, white noise, and sleep deprivation \"in varying combinations, 24 hours a day for 17 straight days\"", "label":"testimony"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Reports were constantly fed back to top authorities", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Daily cables sent from \"Detention Site Green\" to CIA headquarters recorded that Abu Zubaydah frequently \"cried\", \"begged\", \"pleaded\", and \"whimpered\"", "label":"testimony"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"At times, he was \"hysterical\" and \"distressed to the level that he was unable to effectively communicate\"", "label":"testimony"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Waterboarding sessions would result in \"hysterical pleas\"", "label":"testimony"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"and", "label":"no-unit"},
+    {"number":59, "text":"on at least one occasion, Abu Zubaydah \"became completely unresponsive\" until he received medical attention", "label":"testimony"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"Abu Zubaydah's ordeal is not yet over", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"After four and a half years in secret CIA custody he was transferred to Guantanamo", "label":"anecdote"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"where he remains today", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"He has never been charged with any crime", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"The injustice continues", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"On August 5, 2002, at the same time that Abu Zubaydah was being tortured in Thailand, CIA headquarters approved an interrogation plan for Ridha al-Najjar at another secret facility, dubbed\"Detention Site Cobalt\"", "label":"anecdote"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"believed to be the Salt Pit facility in Afghanistan", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"The interrogation plan for Najjar included isolation in total darkness, lowering the quality of his food, keeping him in cold temperatures, 24-hour-a-day loud music, shackling and hooding", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"Over one two-day period, he was left with his wrists handcuffed to an overhead bar for 22 hours a day in order to \"break his resistance\"", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"On September 21, 2002, his interrogators sent a cable describing Najjar as \"clearly a broken man\" and \"on the verge of complete breakdown\"", "label":"testimony"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"His detention and interrogation \"became the model\" for the treatment of detainees at that facility, according to the SSCI", "label":"testimony"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Twelve years later, Najjar remains in US custody in Bagram, Afghanistan", "label":"anecdote"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"He has never been charged or tried, and is still being denied his right to challenge his detention in court", "label":"anecdote"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"A petition on his behalf is currently pending before the US Supreme Court", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"The psychological impact of such intense cruelty has devastated those subjected to it", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"According to the SSCI, many detainees\"exhibited psychological and behavioural issues, including hallucinations, paranoia, insomnia, and attempts at self-harm and self-mutilation\"", "label":"testimony"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Majid Khan, who was held in secret CIA custody for three and a half years before being transferred in 2006 to Guantanamo, where he remains today, is said to have engaged in numerous acts of self-harm, including\"attempting to cut his wrist on two occasions, to chew into his arm at the inner elbow, cut a vein in the top of his foot and into his skin at the elbow joint using a filed toothbrush\"", "label":"testimony"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"As", "label":"no-unit"},
+    {"number":96, "text":"the world struggles to comprehend the details in the summary", "label":"assumption"},
+    {"number":97, "text":"it is important to remember all we've been given is a snapshot, a peek through the keyhole to the dark secrets hidden within", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"The report released yesterday is just a summary of a full report that runs to 6,700 pages", "label":"anecdote"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"That report describes the detention and interrogation of 119 detainees held by the CIA", "label":"anecdote"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Senator Dianne Feinstein said that \"decisions will be made at a later date\" as to whether the whole report will be declassified and released", "label":"testimony"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"Amnesty International believes this should be done sooner rather than later, indeed should be set in motion now", "label":"testimony"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"The Senate committee also needs to address the fact that the US human rights violations and crimes went beyond torture", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"The CIA detainees were subjected to enforced disappearance ", "label":"anecdote"},
+    {"number":110, "text":"-", "label":"no-unit"},
+    {"number":111, "text":"which, like torture, is a crime under international law", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"No one has been brought to justice for these crimes", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"This accountability gap leaves the US squarely on the wrong side of its international obligations", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"Those responsible, no matter their current or previous level of office, must be brought to justice, along with those in other countries that colluded with the CIA to facilitate these programmes", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"December 10 marked 30 years since the adoption of the Convention Against Torture - an anniversary which the US would do well not to gloss over", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":121, "text":"The US ratified the treaty in 1994", "label":"anecdote"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"President Obama should make a public commitment to end the impunity being enjoyed by those who authorised and carried out the crimes committed in the CIA programmes of rendition, interrogation and detention", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":125, "text":"And victims should be offered redress ", "label":"assumption"},
+    {"number":126, "text":"-", "label":"no-unit"},
+    {"number":127, "text":"most urgently they must be offered treatment to help them overcome the trauma to which they were unlawfully exposed", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"If", "label":"no-unit"},
+    {"number":130, "text":"they have committed crimes", "label":"assumption"},
+    {"number":131, "text":"they should be prosecuted and punished for them", "label":"assumption"},
+    {"number":132, "text":",", "label":"no-unit"},
+    {"number":133, "text":"but as victims, they too deserve justice", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":135, "text":"Laying out a catalogue of abuses is not enough", "label":"assumption"},
+    {"number":136, "text":".", "label":"no-unit"},
+    {"number":137, "text":"There must be accountability too", "label":"assumption"},
+    {"number":138, "text":".", "label":"no-unit"}
+  ]
+]}

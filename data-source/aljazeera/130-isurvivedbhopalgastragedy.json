@@ -1,0 +1,176 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"I survived the Bhopal gas tragedy.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"I was born in July 1984", "label":"anecdote"},
+    {"number":3, "text":"and", "label":"no-unit"},
+    {"number":4, "text":"I was only five months old when the disaster struck my community", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"I was too young to remember anything from the night of December 2, 1984", "label":"anecdote"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"but", "label":"no-unit"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"throughout the years, I have heard many stories from the people who were there and saw it happen", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"My sister would sometimes tell me things about that night", "label":"anecdote"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"though we generally avoided bringing it up", "label":"anecdote"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"as we knew that it would only hurt us to talk about it", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"After the disaster, some of our relatives, who had heard about it on the radio, came and took us to Lucknow, around 600km from Bhopal", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"We stayed with them for a few months", "label":"anecdote"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"but", "label":"no-unit"},
+    {"number":23, "text":"they started treating us badly", "label":"anecdote"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"as if", "label":"no-unit"},
+    {"number":26, "text":"we were a burden to them and their families", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"so", "label":"no-unit"},
+    {"number":29, "text":"it was our brother Sunil, another survivor from our family of 10 - aged 13 at the time of the disaster - who decided to bring us back to Bhopal", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Subsequently, we were sent to an orphanage in Bhopal, called The SOS Children's Village", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Sunil refused to live with us in the orphanage, and got involved with the anti-Carbide campaign", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"He created an organisation called Children Against Carbide", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Most of the members of this organisation were children from the community we were from - Jay Prakash Nagar (JP Nagar), right across the road from the main Bhopal plant", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"I was happy with my life at the orphanage in Bhopal", "label":"anecdote"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"I had almost everything: cricket bats, skates, football, good education etc", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"But", "label":"no-unit"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":" at the same time, I did not know anything about our parents", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"In middle school, we would have parent-teacher meetings at school", "label":"anecdote"},
+    {"number":48, "text":";", "label":"no-unit"},
+    {"number":49, "text":"my classmates had their parents next to them for the meeting", "label":"anecdote"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"but", "label":"no-unit"},
+    {"number":52, "text":"I had no one next to me", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"It was around that time that I started asking my sister about our parents", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"It was then that my sister first told me about the Bhopal gas disaster and what had happened that night", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Until then, I never fully understood that I was growing up in an orphanage and didn't really know the meaning of the word \"orphanage\"", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"My sister Mamta told me that there were four brothers and four sisters in our family", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Our father was a carpenter", "label":"anecdote"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"and", "label":"no-unit"},
+    {"number":65, "text":"I was the youngest in the family", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"We lost three sisters and two brothers along with our parents that night", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"I then asked her,\"How did we survive?\"", "label":"anecdote"}
+  ],
+  [
+    {"number":70, "text":"She told me that she wrapped me in a blanket, and ran away along with our brother Sunil", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"When they were running, Sunil had to go to the bathroom, and fainted", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"The streets were so crowded", "label":"anecdote"},
+    {"number":75, "text":"as people were running and shouting", "label":"anecdote"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"my sister was forced by the crowd, and couldn't wait any longer for my brother Sunil to come back", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"He succeeded in 2006", "label":"anecdote"},
+    {"number":80, "text":"when he hung himself", "label":"anecdote"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"So, now it is just Mamta and I - the only survivors from a family of 10", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Mamta lives in Lucknow with her husband and two children", "label":"anecdote"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"and", "label":"no-unit"},
+    {"number":87, "text":"I live here in Bhopal on my own", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"She would often complain about severe headaches and eye problems", "label":"anecdote"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"It has been almost 30 years now", "label":"anecdote"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"and", "label":"no-unit"},
+    {"number":94, "text":"Bhopalis are still fighting for their basic rights", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"The disaster took so many lives, and is still killing people, as the abandoned factory continues poisoning our soil, water, and air", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"I started learning more about the disaster", "label":"anecdote"},
+    {"number":99, "text":"when I saw people of different ages chanting slogans in the streets of Bhopal when I was a child", "label":"anecdote"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"In 2004, Greenpeace flew me to Paris to participate in a demonstration outside Dow's shareholders meeting", "label":"anecdote"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"I got involved with the campaign in 2004 partly because of my brother's participation in the campaign", "label":"anecdote"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"It was better to die fighting for our rights than succumb to depression over what had happened", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"I had a stroke in 2005, and started taking an aspirin everyday", "label":"anecdote"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"I also had a pulmonary embolism in the US last year", "label":"anecdote"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"Now I no longer take an aspirin", "label":"anecdote"},
+    {"number":112, "text":",", "label":"no-unit"},
+    {"number":113, "text":"because now I have to take 7.5mg of warfarin, a blood thinner", "label":"anecdote"},
+    {"number":114, "text":",", "label":"no-unit"},
+    {"number":115, "text":"which is also used as rat poison", "label":"anecdote"},
+    {"number":116, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":117, "text":"In 2008, I was one of a number of Bhopal survivors in New Delhi who fasted for 21 days, only having water", "label":"anecdote"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"We were asking then Prime Minister Manmohan Singh to set up an empowered commission to look into the issues related to Bhopal", "label":"anecdote"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"We also wanted clean water to be supplied to the people who were living in the affected communities and were forced to drink contaminated water", "label":"anecdote"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":123, "text":"Everyone on this earth should feel this anger and frustration", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"It has been 30 years and justice continues to elude the people of Bhopal", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"},
+    {"number":127, "text":"We, the people of Bhopal, believe that the whole world has transformed into a Bhopal in a way", "label":"assumption"},
+    {"number":128, "text":":", "label":"no-unit"},
+    {"number":129, "text":"If", "label":"no-unit"},
+    {"number":130, "text":"you look around", "label":"assumption"},
+    {"number":131, "text":",", "label":"no-unit"},
+    {"number":132, "text":"you see multinational corporations being allowed to do business without accountability, poisoning the world and placing profits over people", "label":"assumption"},
+    {"number":133, "text":".", "label":"no-unit"},
+    {"number":134, "text":"If", "label":"no-unit"},
+    {"number":135, "text":"justice comes to Bhopal", "label":"assumption"},
+    {"number":136, "text":",", "label":"no-unit"},
+    {"number":137, "text":"then it would be justice for the whole world", "label":"assumption"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"It would set a precedent and ensure that in the future, corporations committing such crimes are brought to justice", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"}
+  ]
+]}

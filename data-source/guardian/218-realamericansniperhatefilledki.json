@@ -1,0 +1,140 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The real American Sniper was a hate-filled killer. Why are simplistic patriots treating him as a hero?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"I have to confess", "label":"assumption"},
+    {"number":3, "text":":", "label":"no-unit"},
+    {"number":4, "text":"I was suckered by the trailer for American Sniper", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"It's a masterpiece of short-form tension - a confluence of sound and image so viscerally evocative it feels almost domineering", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"You cannot resist", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"You will be stressed out", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"You will feel", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Or", "label":"no-unit"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"as", "label":"no-unit"},
+    {"number":17, "text":"I believe", "label":"no-unit"},
+    {"number":18, "text":"I put it in a blog about the trailer", "label":"no-unit"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"\"Clint Eastwood's American Sniper trailer will ruin your pants.\"", "label":"assumption"}
+  ],
+  [
+    {"number":21, "text":"But", "label":"no-unit"},
+    {"number":22, "text":"however effective it is as a piece of cinema, even a cursory look into the film's backstory - and particularly the public reaction to its release - raises disturbing questions about which stories we choose to codify into truth, and whose, and why, and the messy social costs of transmogrifying real life into entertainment", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Chris Kyle, a US navy Seal from Texas, was deployed to Iraq in 2003 and claimed to have killed more than 255 people during his six-year military career", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"In his memoir, Kyle reportedly described killing as \"fun\", something he \"loved\"", "label":"anecdote"},
+    {"number":27, "text":";", "label":"no-unit"},
+    {"number":28, "text":"he was unwavering in his belief that everyone he shot was a \"bad guy\"", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"\"I hate the damn savages,\" he wrote", "label":"testimony"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"\"I couldn't give a flying fuck about the Iraqis.\"", "label":"testimony"},
+    {"number":33, "text":"He bragged about murdering looters during Hurricane Katrina", "label":"testimony"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"though that was never substantiated", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"He was murdered in 2013 at a Texas gun range by a 25-year-old veteran reportedly suffering from post-traumatic stress disorder", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"However", "label":"no-unit"},
+    {"number":40, "text":"we diverge politically, I have enough faith in Eastwood's artistry and intellect to trust that he is not a black-and-white ideologue", "label":"assumption"},
+    {"number":41, "text":"- or, at least, that he knows that the limitations of such a worldview would make for an extremely dull movie", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"But the same can't be said for Eastwood's subject, or, as response to the film has demonstrated, many of his fans", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"As Laura Miller wrote in Salon:\"In Kyle's version of the Iraq war, the parties consisted of Americans, who are good by virtue of being American, and fanatic Muslims whose 'savage, despicable evil' led them to want to kill Americans simply because they are Christians.\"", "label":"testimony"}
+  ],
+  [
+    {"number":46, "text":"Adds Scott Foundas at Variety:\"Chris Kyle saw the world in clearly demarcated terms of good and evil, and American Sniper suggests that such dichromatism may have been key to both his success and survival; on the battlefield, doubt is akin to death.\"", "label":"testimony"}
+  ],
+  [
+    {"number":47, "text":"Eastwood, on the other hand, Foundas says, \"sees only shades of gray\"", "label":"testimony"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"and", "label":"no-unit"},
+    {"number":50, "text":"American Sniper is a morally ambiguous, emotionally complex film", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"But", "label":"no-unit"},
+    {"number":53, "text":"there are a lot of Chris Kyles in the world", "label":"assumption"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"and", "label":"no-unit"},
+    {"number":56, "text":"the chasm between Eastwood's intent and his audience's reception touches on the old Chappelle's Show conundrum: a lot of white people laughed at Dave Chappelle's rapier racial satire for the wrong reasons, in ways that may have actually exacerbated stereotypes about black people in the minds of intellectual underachievers", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Is that Chappelle's fault?", "label":"assumption"},
+    {"number":59, "text":"Should he care?", "label":"assumption"}
+  ],
+  [
+    {"number":60, "text":"Likewise, much of the US right wing appears to have seized upon American Sniper with similarly shallow comprehension - treating it with the same unconsidered, rah-rah reverence that they would the national anthem or the flag itself", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Only a few weeks into its release, the film has been flattened into a symbol to serve the interests of an ideology that, arguably, runs counter to the ethos of the film itself", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"How much, if at all, should Eastwood concern himself with fans who misunderstand and misuse his work?", "label":"assumption"},
+    {"number":65, "text":"If he, intentionally or not, makes a hero out of Kyle- who, bare minimum, was a racist who took pleasure in dehumanising and killing brown people- is he responsible for validating racism, murder, and dehumanisation?", "label":"assumption"},
+    {"number":66, "text":"Is he a propagandist if people use his work as propaganda?", "label":"assumption"}
+  ],
+  [
+    {"number":67, "text":"That question came to the fore last week on Twitter when several liberal journalists drew attention to Kyle's less Oscar-worthy statements", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"\"Chris Kyle boasted of looting the apartments of Iraqi families in Fallujah,\" wrote author and former Daily Beast writer Max Blumenthal", "label":"testimony"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"\"Kill every male you see,\" Rania Khalek quoted, calling Kyle an \"American psycho\"", "label":"testimony"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Retaliation from the rightwing twittersphere was swift and violent, as Khalek documented in an exhaustive (and exhausting) post at Alternet", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"\"Move your America hating ass to Iraq, let ISIS rape you then cut your cunt head off, fucking media whore muslim,\" wrote a rather unassuming-looking mom named Donna", "label":"testimony"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"\"Rania, maybe we to take you ass overthere and give it to ISIS... Dumb bitch,\" offered a bearded man named Ronald", "label":"testimony"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"who enjoys either bass fishing or playing the bass", "label":"assumption"},
+    {"number":80, "text":"(we may never know)", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"\"Waterboarding is far from torture,\" explained an army pilot named Benjamin, all helpfulness", "label":"testimony"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"\"I wouldn't mind giving you two a demonstration.\"", "label":"testimony"}
+  ],
+  [
+    {"number":85, "text":"The patriots go on, and on and on", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"They cannot believe what they are reading", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"They are rushing to the defence of not just Kyle, but their country, what their country means", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"They call for the rape or death of anyone ungrateful enough to criticise American hero Chris Kyle", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Because Chris Kyle is good, and brown people are bad, and America is in danger, and Chris Kyle saved us", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"The attitude echoes what Miller articulated about Kyle in her Salon piece", "label":"assumption"},
+    {"number":96, "text":":", "label":"no-unit"},
+    {"number":97, "text":"\"his steadfast imperviousness to any nuance, subtlety or ambiguity, and his lack of imagination and curiosity, seem particularly notable\"", "label":"testimony"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"There is no room for the idea that Kyle might have been a good soldier but a bad guy; or a mediocre guy doing a difficult job badly; or a complex guy in a bad war who convinced himself he loved killing to cope with an impossible situation; or a straight-up serial killer exploiting an oppressive system that, yes, also employs lots of well-meaning, often impoverished, non-serial- killer people to do oppressive things over which they have no control", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"Or that Iraqis might be fully realised human beings with complex inner lives who find joy in food and sunshine and family, and anguish in the murders of their children", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Or that you can support your country while thinking critically about its actions and its citizenry", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"Or that many truths can be true at once", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"Always meet your heroes", "label":"other"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ]
+]}

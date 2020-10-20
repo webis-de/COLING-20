@@ -1,0 +1,139 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Islamic civilisation is in Europe's DNA.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The brutal and tragic murders of 12 people at the offices of Charlie Hebdo in Paris - 10 staff members and two police officers - by masked gunmen has triggered an outpouring of shock and grief, not only in France but around the world", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Large, spontaneous vigils filled the streets of many French cities", "label":"anecdote"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"while social media was awash with solidarity and condemnation, including the hashtags #JeSuisCharlie and #NotInMyName, which was used by Muslims condemning the attacks", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Police in France have identified and released the photographs of two brothers suspected to be involved in the attack", "label":"anecdote"},
+    {"number":9, "text":"while early speculation focused on the premise that Muslim extremists were behind the dreadful act, especially given the magazine's long history of satirising Islam and other religions", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"The two brothers have been identified as 32-year-old Said Kouachi and 34-year-old Cherif Kouachi", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"This theory has been reinforced by eyewitness accounts of the men shouting \"Allahu Akbar\"", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"The designer who was forced to let the assailants in says they told her they were with al-Qaeda", "label":"testimony"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"while", "label":"no-unit"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"according to AFP, the police claim that one of the killers remarked:\"We have avenged the prophet.\"", "label":"testimony"}
+  ],
+  [
+    {"number":20, "text":"Why Prophet Muhammad would need anyone to \"avenge\" him is beyond me", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"The prophet endured far more mockery, humiliation, insult and rejection during his lifetime without needing or ordering hitmen to defend his honour than that meted out by a group of equal-opportunity French cartoonists who despise and satirise all forms of organised religion", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Even if", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":" like with Anders Breivik in Norway, the perpetrators turn out not to be linked to Islamist groups", "label":"assumption"},
+    {"number":27, "text":", the collateral damage to French and European Muslims has already been done, despite one of the fallen police officers being a Muslim", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"With the strength of the Front National in France, UKIP in Britain and other anti-Muslim and anti-immigrant currents across Europe, a popular or populist backlash is almost inevitable", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"In neighbouring Germany, the thousands of Patriotic Europeans Against the Islamisation of the West (PEGIDA) who have turned out to rallies, though still small enough to be labelled a \"flop\", has set alarm bells ringing to the extent that strong counter protests have taken place", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Like Muslims who fantasise about an ahistorical caliphate, conservative Europeans who dream of a bygone utopia of a Europe uncontaminated by Islam or immigration, miss the reality that the \"Islamisation of the West\" occurred centuries ago", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Islamic civilisation is so hard-wired into Europe's cultural, social and intellectual DNA that it would be impossible to expunge its influence", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The same applies in the other direction, in light of Christendom's and the West's powerful influence on Arab and Islamic society", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"In addition to the philosophy, science, literature and art of the Muslim world which profoundly shaped the European Renaissance, Islamic culture had some far more unexpected and surprising influences on western civilisation", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"One man in particular, for whom no statues or memorials stand anywhere in Europe and very few westerners have heard of, is possibly the most unsung cultural, style and musical icon in European history", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"In the ninth century, Ziryab, Cordoba's most sought-after hipster, brought into vogue the idea of seasonal fashions, steering history's catwalk towards the fashion slavery of the 21st century", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"This Sultan of Style also added a fifth pair of strings to the Arab \"oud\", paving the way to the European lute", "label":"anecdote"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"which would become the modern guitar", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"He also introduced Europe to the idea of dining etiquette, from table cloths and crystal decanters to the three-course meal", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Fashion, fine food and rhythm are not what Europeans tend to associate with Muslims or Islam today", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Instead", "label":"no-unit"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":" they are haunted by images of fundamentalists, not fun-loving eccentrics, and fanatics, not fans of refined culture", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"As someone who is well aware of the destructive influence of violent Islamism in the Middle East", "label":"assumption"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"I can, at a certain level, sympathise with fears in the West over radicalisation", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"But Islamic extremism is mostly a threat to Muslim societies, not to Europe", "label":"assumption"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"as", "label":"no-unit"},
+    {"number":64, "text":"a minority has never, in history, imposed its will on a majority, except in the form of a military conqueror", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"This exaggerated sense of threat can be seen in the enormous hysteria in segments of the media and among some politicians regarding the small trickle of European jihadists who have gone to fight in Syria", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Although one gets the impression that Europe has sent forth a veritable Islamic army to the Levant", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"the real number is around 3,000 from across the continent, including the dead and returned, according to an estimate by Gilles de Kerchove, the EU's anti- terrorism chief", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"While it is important to be vigilant and to find effective ways to deal with the threat posed by returning fighters", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"society must steer clear of stigmatising Europe's already marginalised and distrusted Muslim communities", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"This is because it is unfair to blame an entire group for the behaviour of a tiny minority", "label":"common-ground"},
+    {"number":77, "text":"and", "label":"no-unit"},
+    {"number":78, "text":"it is also counterproductive", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"as marginalisation is a significant, but not the only, factor in radicalisation", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"In addition", "label":"no-unit"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":" the demonisation of minorities is what nurtures the truly threatening radicals in Europe's midst; the far-right and neo-Nazis", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Since the end of World War II, Western Europe has worked consciously to build and celebrate diversity", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"Despite its weaknesses and failings, Europe needs to cherish, build and strengthen its multicultural experiment", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ]
+]}

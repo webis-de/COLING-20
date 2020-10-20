@@ -1,0 +1,110 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"We are the last generation that can fight climate change. We have a duty to act.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"This year the UN marks its 70th anniversary", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Sadly, there is little time for reflection or celebration", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"More pressing are the competing demands and challenges fuelled by an upsurge in conflict, disease and human suffering", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"These compel the international community to step up and provide the leadership needed to tackle them", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Ebola continues to plague west Africa", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"For some of the affected countries, struggling to overcome the effects of bitter civil war, the outbreak has been a major setback for development", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"We are beginning to see some improvements", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"During my visit to the region in December, I was deeply moved by the efforts of local Ebola responders and health workers from across Africa and the world", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"But", "label":"no-unit"},
+    {"number":19, "text":"rebuilding shattered lives and economies will require significantly more resources and long-term commitment", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"As", "label":"no-unit"},
+    {"number":22, "text":"conflicts raged", "label":"assumption"},
+    {"number":23, "text":"and", "label":"no-unit"},
+    {"number":24, "text":"extremism rose", "label":"assumption"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"2014 pushed the UN's humanitarian, peacekeeping and diplomatic efforts to the limit", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"More than 100 million people needed assistance", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"An unprecedented number of UN troops and police are deployed in highly volatile security environments", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"The elimination of Syria's chemical weapons programme was a major achievement", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"but", "label":"no-unit"},
+    {"number":35, "text":"the conflict continues to inflict immense suffering and will soon enter its fifth year", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"As", "label":"no-unit"},
+    {"number":38, "text":"bitter winter conditions set in", "label":"assumption"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"millions of refugees are in need of life-saving humanitarian assistance", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"The presence of thousands of foreign terrorist fighters there and in Iraq has added a further volatile dimension", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"Groups responsible for atrocities have capitalised on a legacy of atrocious governance towards disenfranchised populations", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Our response to brutality and extremism cannot be limited to military action, important as it is", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"We must address the conditions that give rise to such poison in the first place", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"In the same vein, those conducting military actions against terrorists must be sure that such efforts fully observe human rights", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"As we have seen time and again", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"failure to do so can end up serving as a recruiting agent for terrorists", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Elsewhere, the recent appalling terrorist attacks in Paris show how vulnerable any society can be", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Countries in Europe and elsewhere have witnessed a deeply worrying escalation of tensions between communities and within societies", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Giving in to hatred and sowing division only guarantees a spiral of violence- precisely what terrorists seek", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"We must not fall into that trap", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Addressing discord in a manner that solves, rather than multiplies, the problem may be the greatest test our human family faces in the 21st century", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"There is a long list of other hot-spots- stretching from Nigeria to Yemen, from the rise in fighting in Darfur to the transition in Afghanistan", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Conflict in Ukraine has endangered security and stability in Europe, and reanimated the ghosts of the cold war", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Israelis and Palestinians must ease the explosive situation in Gaza and the West Bank, and move away from confrontation and towards a negotiated settlement", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"But in a year marked by turmoil, UN member states have also proposed an initial draft set of sustainable development goals that will guide anti- poverty efforts for the next generation", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Further negotiations will begin this month and culminate at a special summit in New York in September with the adoption of a development agenda", "label":"anecdote"},
+    {"number":75, "text":"that can help tackle inequality, empower women and girls, and promote shared prosperity", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Climate action took on significant momentum with major announcements by the EU, the US and China, and a successful climate conference in Lima, Peru", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"that kept complex negotiations on track", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"We must aim high: for the adoption of an ambitious and universal agreement in Paris in December to keep the rise in global temperatures below the dangerous threshold of 2C", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Ours is the first generation that can end poverty, and the last that can take steps to avoid the worst impacts of climate change", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"In this 70th anniversary year in which we renew our commitment to the goals and principles of the UN charter, the international community must rise to the moment", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ]
+]}

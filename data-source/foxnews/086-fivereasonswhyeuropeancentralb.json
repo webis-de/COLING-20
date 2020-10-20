@@ -1,0 +1,122 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Five reasons why European Central Bank's QE won't save continent's dying economies.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The European Central Bank has just announced a EUR60 billion ($69 billion) monthly government bond buying program--Quantitative Easing", "label":"anecdote"},
+    {"number":3, "text":"--", "label":"no-unit"},
+    {"number":4, "text":"but", "label":"no-unit"},
+    {"number":5, "text":"that won't do much for the moribund continental economy", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"Central banks can print money to purchase government bonds to push up prices and lower interest rates on those assets and competing debt, such as corporate bonds and bank loans", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"In the United States, the Federal Reserve also bought billions in federally-sponsored mortgage-backed securities, such as those issued by Fannie Mae", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"The aim is to encourage more borrowing by businesses and homebuyers-- stimulus spending financed by running the printing press", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"The Fed enjoyed some success boosting U.S  growth", "label":"assumption"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"but", "label":"no-unit"},
+    {"number":16, "text":"here are five reasons why QE won't work for the ECB", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"1", "label":"no-unit"},
+    {"number":19, "text":"\\.", "label":"no-unit"},
+    {"number":20, "text":"Eurozone Is Not a Country", "label":"common-ground"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"The European Union does not have a large budget and issues few euro-denominated bonds the ECB could purchase", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Instead, the ECB will have to purchase individual country debt", "label":"assumption"},
+    {"number":25, "text":"--", "label":"no-unit"},
+    {"number":26, "text":"it is as if the Fed had to purchase a basket of bonds issued by California, Iowa and other states", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"Markets for European bonds--both sovereign and corporate--and bank lending are highly fragmented along country lines", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Consequently", "label":"no-unit"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":" it is unlikely that QE will have much effect on banks' willingness to make new business loans in places buffeted by the financial crisis, like Spain and Greece", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"2", "label":"no-unit"},
+    {"number":35, "text":"\\.", "label":"no-unit"},
+    {"number":36, "text":"EU Has No Fannie Mae", "label":"common-ground"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"QE seems to work best when central banks inject capital directly into specific markets", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"The Fed purchased mortgage-backed securities that significantly lowered interest rates on mortgages across America", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Housing prices recovered much of the value lost during the financial crisis", "label":"assumption"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"and", "label":"no-unit"},
+    {"number":45, "text":"new home construction rebounded", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"The EU has no analog to Fannie Mae and Freddie Mac", "label":"common-ground"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"and", "label":"no-unit"},
+    {"number":50, "text":"the ECB cannot readily purchase mortgage-backed securities to boost the European housing sector", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"3", "label":"no-unit"},
+    {"number":53, "text":"\\.", "label":"no-unit"},
+    {"number":54, "text":"Fiscal Policy Is Pulling in the Opposite Direction", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Europe's largest economy, Germany, recently accomplished a balanced budget for the first time since 1969", "label":"anecdote"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"and", "label":"no-unit"},
+    {"number":59, "text":"austerity programs intended to restore solvency have forced massive government spending cuts and tax increases in Spain, Greece and other Mediterranean states", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"Those spending cuts-- though essential to sorely needed structural reforms-- will undercut the effects of any increased bank lending ECB bond purchase may induce", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"With unemployment hovering at about 25 percent in Spain and Greece, and 13 percent in Italy, banks will remain skeptical that lending to expand businesses will do much to create bigger markets for what they sell", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"4", "label":"no-unit"},
+    {"number":66, "text":"\\.", "label":"no-unit"},
+    {"number":67, "text":"QE Does Little to Fix Euro-Imposed Dysfunctions", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"Although structural reforms could make Greece, Italy and other high unemployment economies more attractive places to build factories and establish businesses in the long run, governments in Athens, Rome and other capitals face voters who need jobs now", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"And the cost of labor--though perhaps gradually falling--in these countries will remain too high to attract investment for many years", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"If", "label":"no-unit"},
+    {"number":74, "text":"Mediterranean countries still had their own currencies", "label":"assumption"},
+    {"number":75, "text":", those could let their currencies fall in value relative to those of northern European states", "label":"common-ground"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"That would re-price labor to attract investment and jobs", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"But the single currency, the euro, deprives them of that lever", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"5", "label":"no-unit"},
+    {"number":82, "text":"\\.", "label":"no-unit"},
+    {"number":83, "text":"Absence of Pan European Institutions", "label":"no-unit"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Though the Europeans have a single currency, they lack common education standards and language that gives the United States a more or less single labor market", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"In the absence of currency devaluation to re-price Mediterranean labor, Greeks, Italians and Spaniards cannot migrate to Germany where unemployment is only 5 percent, with the same ease that Americans have migrated to South Dakota and Texas to participate in the oil boom", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"In the end, the EU and ECB lacks what the Fed enjoys--the punch of a national government that ran large deficits to augment its efforts to pull the U.S  economy out of recession and national credit, housing and labor markets that made monetary policies--like QE--reasonably effective", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ]
+]}

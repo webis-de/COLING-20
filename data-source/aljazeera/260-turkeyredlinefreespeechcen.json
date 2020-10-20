@@ -1,0 +1,167 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Turkey's red line.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"I remember the days when all Turkish citizens had to love Mustafa Kemal Ataturk", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"From kindergarten to high school, all students had to recite an oath of allegiance every morning at school", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"I still can't erase the verses from my mind: \"Oh Great Ataturk, who had created our life of today; on the path that you have paved, in the country that you established, I swear to walk incessantly with the purposes that you have set.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":7, "text":"Every Turkish citizen had to put their hearts and souls into that oath", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"The louder you spoke those words, the better a citizen you were", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Those days are not yet ancient history", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"The ruling Justice and Development Party (AKP) only abolished this fascist practice in 2013", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"It was good news", "label":"assumption"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"but", "label":"no-unit"},
+    {"number":18, "text":"some weren't so thrilled", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Pro-Kemalist media attacked the reform package, including many democratic regulations", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"while", "label":"no-unit"},
+    {"number":23, "text":"their columnists harshly criticised the move because Turkey was leaving behind its worship of Ataturk", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Red lines", "label":"no-unit"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"In the days following the global outrage over the attack on the French satirical newspaper, Charlie Hebdo, many in Turkey seem to have forgotten those days when any criticism of Ataturk was a punishable offence - one that could label you a traitor", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Kemalism is not only an ideology", "label":"assumption"},
+    {"number":30, "text":";", "label":"no-unit"},
+    {"number":31, "text":"for many Turks, it was akin to religion", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Poems depicting Ataturk as a God are evidence of an attempt to impose Kemalism as a religion", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"That's why Islam, the religion of the majority of Turkish society, was seen as a threat for them", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"It was not enough that Ataturk was beloved by his supporters", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"We all had to submit to - and idolise - him", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Roland Barthes' famous words would describe what we lived then", "label":"assumption"},
+    {"number":42, "text":":", "label":"no-unit"},
+    {"number":43, "text":"\"Fascism is not the prohibition of saying things; it is the obligation to say them.\"", "label":"testimony"}
+  ],
+  [
+    {"number":44, "text":"Cumhuriyet, a leading daily newspaper of the old guard founded in 1924, has always been a symbol of Kemalism since the beginning", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"The Turkish public were accustomed to their publications attacking Muslims, seeing them as a threat, despising them, or their columnists' pieces insulting Islam", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"On the other hand, they have always had clear red lines when it came to Kemalism", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Cumhuriyet has never given a place to a critique of Ataturk or Kemalism", "label":"assumption"},
+    {"number":51, "text":";", "label":"no-unit"},
+    {"number":52, "text":"on the contrary", "label":"no-unit"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":" it has attacked the critics", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Last week, Cumhuriyet announced that it would publish the Charlie Hebdo cartoons in order to defend freedom expression", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"In so doing, they attracted a lot of reaction", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Of course", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":" the Turkish community, mostly Muslim, was dissatisfied with the daily's decision", "label":"assumption"},
+    {"number":63, "text":"as", "label":"no-unit"},
+    {"number":64, "text":"they do not consider the insulting of religions as a manifestation of freedom of speech", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Some say the move was a provocation - or reckless at least", "label":"assumption"},
+    {"number":67, "text":"- but", "label":"no-unit"},
+    {"number":68, "text":"the majority have regarded the decision as hypocritical", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Critics on social media or even conventional media pointed out their intolerance for any criticism of Ataturk", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"However", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" the daily exaggerated the responses, chose to sail under false colours", "label":"assumption"},
+    {"number":75, "text":"and pictured the insults and the mockery against the publication as an attack on free speech", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Freedom of speech", "label":"no-unit"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"Islamists protested against the paper and its decision", "label":"anecdote"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"but", "label":"no-unit"},
+    {"number":82, "text":"nothing happened", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"The police did pay a visit to the printing house", "label":"anecdote"},
+    {"number":85, "text":"but", "label":"no-unit"},
+    {"number":86, "text":"there were no restrictions", "label":"anecdote"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"The government took precautions against any possible attacks on the daily", "label":"assumption"},
+    {"number":89, "text":"but", "label":"no-unit"},
+    {"number":90, "text":"they portrayed the situation as if they were under siege", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Charlie Hebdo is known as a satirical newspaper", "label":"common-ground"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":"which is against any authority, any halidom or any individual or group claiming supremacy", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Even if we accept this- and I personally don't agree as we are familiar with Charlie Hebdo's double standards insofar as Israel- Cumhuriyet or other Kemalist publications in Turkey are certainly in no position to defend the values of freedom of speech", "label":"assumption"},
+    {"number":97, "text":"as", "label":"no-unit"},
+    {"number":98, "text":"they have zero tolerance for any negative words of their idol, Ataturk", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"On the same day, the Islamist newspaper Yeni Akit's Istanbul office was attacked with stones and eggs during a protest against its publication of beaten images of Ataturk", "label":"anecdote"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"No so-called \"freedom of speech\" defenders who supported the publication of Charlie Hebdo caricatures, condemned the attack", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"The Gulenist media figures who introduced themselves as Muslims announced their support for Cumhuriyet for the sake of freedom of speech", "label":"anecdote"},
+    {"number":105, "text":";", "label":"no-unit"},
+    {"number":106, "text":"however they were silent against the attack against Yeni Akit", "label":"anecdote"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"The Gulenist media was against Charlie Hebdo's publishing of insulting images of Prophet Muhammad until 2013 and have always been against any publication criticising their leader, Fethullah Gulen", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"Their about-face on Charlie Hebdo is linked to their turn on Islam but criticising Gulen has always been a red line for them", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"According to Zaman daily columnist Ali Unal, criticising Gulen is tantamount to infidelity and polytheism", "label":"testimony"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"In short", "label":"no-unit"},
+    {"number":115, "text":",", "label":"no-unit"},
+    {"number":116, "text":" the Kemalists and the Gulenists have their own \"gods\", or their own \"prophets\"", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"Insulting Islam is freedom of speech for them", "label":"assumption"},
+    {"number":119, "text":",", "label":"no-unit"},
+    {"number":120, "text":"but", "label":"no-unit"},
+    {"number":121, "text":"if", "label":"no-unit"},
+    {"number":122, "text":"you dare to speak against their idols", "label":"assumption"},
+    {"number":123, "text":",", "label":"no-unit"},
+    {"number":124, "text":"it is blasphemy", "label":"assumption"},
+    {"number":125, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,85 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Straightwashing at the movies: the Pride DVD shows gay people still make the film industry nervous.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"We've had Brokeback Mountain, Milk, A Single Man", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Gay actors have been coming out left, right and centre", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Hollywood's no longer hung up on homosexuality, right?", "label":"assumption"}
+  ],
+  [
+    {"number":7, "text":"Well, despite all that's been achieved, it's seems it's still possible for gay themes to make the men in suits nervous", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"Reports suggest that the covers of US DVDs of the movie Pride - yes, that's Pride, a story about fighting for respect, without compromise or shame- have been straightwashed", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"A banner proclaiming\"lesbians and gays support the miners\" has been airbrushed out of the picture on the back cover", "label":"anecdote"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"and", "label":"no-unit"},
+    {"number":14, "text":"the queer agitators are now simply \"a group of London-based activists\" in the blurb", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Director Matthew Warchus says he \"understands\" the decision", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"These changes, albeit a marketing, not a film-making decision, nevertheless stand in a time-honoured industry tradition of downplaying homosexuality", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"For years, film-makers in America were trapped by the motion picture production code", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"which banned \"any inference of sex perversion\"", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"As the brilliant 1995 documentary The Celluloid Closet sets out, screenwriters and directors snuck in gay themes where they could, with Gore Vidal memorably writing Ben Hur and Messala as though they were lovers turned rivals", "label":"testimony"},
+    {"number":25, "text":"(Charlton Heston had no idea)", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"But in general, gay storylines were box office poison", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"Even after the code ceased to be enforced, film-makers were very tentative", "label":"assumption"},
+    {"number":30, "text":"- and", "label":"no-unit"},
+    {"number":31, "text":"open homosexuality could never be anything other than arthouse niche", "label":"assumption"},
+    {"number":32, "text":"(though", "label":"no-unit"},
+    {"number":33, "text":"that in itself encompassed some brilliant movies, like Bill Sherwood's Parting Glances)", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"This pink-tinted glass ceiling was arguably broken by Philadelphia, a belated nod to the Aids crisis", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"But then that wasn't a rounded story of gay life, but a reason to feel sorry for a benighted minority", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"And there was grief, but no sex", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"You would hope we had moved on", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"But the Pride story brings into sharp relief the sense that, as with society at large, though audiences may be broadly OK with being gay, it's as well not to shove it in people's faces", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"To take some fairly recent examples: the 2001 John Nash biopic, A Beautiful Mind, ignores the mathematician's gay affairs", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"In 2004, the makers of Troy chose not to explore the homoerotic possibilities of the relationship between Achilles and Patroculus, one subject to much speculation through the ages", "label":"anecdote"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"making them cousins instead", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"More recently, The Imitation Game has been accused of playing down Alan Turing's sexuality", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"And in many parts of the world, straight-washing is practically mandated", "label":"assumption"},
+    {"number":54, "text":"- as the Russian makers of a film about Tschaikovsky have found", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Having said all that, there's also an age-old political conundrum that I think Warchus's quotes capture well", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"He wants his work \"to find a mainstream audience [and] broaden people's minds\"", "label":"testimony"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"If", "label":"no-unit"},
+    {"number":61, "text":"Pride reaches deep into the square states - subtly influencing parents, siblings, friends to be more accepting- isn't that a good thing?", "label":"assumption"},
+    {"number":62, "text":"It reminds me of the difference in tactics between Outrage - fans of direct action against, for example, bishops - and Stonewall, keener to make quiet political alliances in the service of long-term change", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"I find it utterly bizarre that a movie called\"Pride\" is being pushed back into the closet in 2015", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"But at the same time, it would be wrong to pretend that there's an easy answer to Warchus's dilemma", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ]
+]}

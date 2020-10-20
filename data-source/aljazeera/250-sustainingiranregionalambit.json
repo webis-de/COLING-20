@@ -1,0 +1,159 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Sustaining Iran's regional ambitions at all costs.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On December 7, Iranian President Hassan Rouhani announced a huge hike in military expenditure for the next fiscal year", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Though he described the budget presented to parliament as \"cautious\" and \"tight\"", "label":"testimony"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"military spending is to rise by 33.5 percent, far above the six percent increase in the general budget", "label":"statistics"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"This will likely result in a greater military footprint in the region, particularly in Syria and Iraq", "label":"assumption"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"where Iranian troops are directly involved in combat, training, logistics and intelligence-gathering", "label":"anecdote"},
+    {"number":11, "text":"(Tehran this week expanded its operations in Iraq to include air strikes)", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"It is also likely meant as a show of strength and defiance against Iran's regional rivals", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"However", "label":"no-unit"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":" it is doubtful that Tehran can economically sustain its existing regional military commitments, let alone expand them", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Crippling sanctions and a massive drop in oil prices mean a much larger military budget will put further strain on the economy", "label":"assumption"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"which has reportedly shrunk by 8.6 percent over the past two fiscal years", "label":"statistics"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"Furthermore", "label":"no-unit"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":" the new budget might not be \"cautious\" enough", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"While", "label":"no-unit"},
+    {"number":28, "text":"it is based on oil being $70 per barrel", "label":"anecdote"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"the price has fallen to under $70, with predictions that it will hover around $65 for the next several months, and perhaps slump even further", "label":"statistics"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"This is worrying news for the government", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"whose revenues are largely dependent on oil", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"In addition", "label":"no-unit"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":" western sanctions have caused Iran's oil exports to plummet compared with a few years ago", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Last year, the oil minister said the fall in exports was costing the country up to $8bn each month", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Iran reportedly lost some $26bn in oil revenue in 2012", "label":"statistics"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Sanctions and falling oil revenues have hurt the value of Iran's currency, and caused inflation to rise considerably", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"There has been an easing of sanctions in light of negotiations over Iran's nuclear programme", "label":"anecdote"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"but", "label":"no-unit"},
+    {"number":49, "text":"it is limited", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Given that the talks have been extended by several months, the bulk of the sanctions will remain in place at least until then, with no indication as yet that a deal is within reach", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Sanctions could be reinstated or increased", "label":"assumption"},
+    {"number":54, "text":"if", "label":"no-unit"},
+    {"number":55, "text":"the talks fail", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"All this amounts to an economy that cannot keep up with Iran's regional ambitions", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"The hike in military spending may arouse domestic anger", "label":"assumption"},
+    {"number":60, "text":"if", "label":"no-unit"},
+    {"number":61, "text":"it is seen by Iranians as spurred by foreign ventures", "label":"assumption"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"which is already a cause of increasing frustration, particularly with regard to propping up the Syrian regime", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"While", "label":"no-unit"},
+    {"number":66, "text":"Tehran is secretive about the extent of its military and financial assistance to its regional allies", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"there is a consensus that it has been a considerable economic drain, not least because of the long-term nature of these commitments", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Tehran's direct military involvement in Iraq is viewed by many Iranians as necessary to stop the Islamic State of Iraq and the Levant (ISIL) from reaching its borders", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"However", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" there are reports of growing unease, among the public and within government, about the accumulating burden of propping up Bashar al-Assad in Syria, with no end in sight to a conflict that is entering its fourth year", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Given the current economic climate, it may be harder for Iran and Russia - which is also hurting under western sanctions and low oil prices- to sustain the war of attrition in Syria than for Assad's opponents", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"While", "label":"no-unit"},
+    {"number":79, "text":"the latter are also affected by falling oil prices", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"they are not under sanctions", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Furthermore", "label":"no-unit"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":" according to the International Monetary Fund, Iran and Russia need a much higher oil price to balance their budgets than Arab Gulf states, key backers of Syrian rebels", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Given this, and Arab Gulf states' large cash reserves and funds, they can absorb low oil prices for longer", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Saudi Arabia has relatively low production costs", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"and", "label":"no-unit"},
+    {"number":92, "text":"the US is enjoying a boom in shale oil", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"Iran's oil revenue reserve fund, on the other hand, has reportedly been drained", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"Government spokesman Mohammad Baqer Nobakht accused \"some so-called Islamic countries in the region\" of\"serving the interests of America and [other] arrogant powers in trying to squeeze the Islamic Republic\"", "label":"testimony"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Rouhani has spoken of a \"political conspiracy by certain countries\"", "label":"testimony"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Other Iranian officials have specifically pointed the finger at Saudi Arabia", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Regional political calculations may have been behind the decision by Riyadh and its Arab Gulf neighbours to stop the recent OPEC meeting from deciding to cut oil output to shore up prices", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"The intention may be to curb Iran's regional power, and to weaken its negotiating position over its nuclear programme", "label":"assumption"},
+    {"number":105, "text":",", "label":"no-unit"},
+    {"number":106, "text":"over which the Gulf Cooperation Council has been very vocal in its concerns", "label":"anecdote"},
+    {"number":107, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":108, "text":"However", "label":"no-unit"},
+    {"number":109, "text":",", "label":"no-unit"},
+    {"number":110, "text":"other theories unrelated to Iran have been offered by analysts", "label":"assumption"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":"and", "label":"no-unit"},
+    {"number":113, "text":"Gulf officials have spoken only of market forces rather than political considerations", "label":"anecdote"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"In any case, the result is that for the foreseeable future, it will be increasingly costly for Tehran to maintain and extend its regional influence", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":117, "text":"Its new budget defies this reality", "label":"assumption"},
+    {"number":118, "text":",", "label":"no-unit"},
+    {"number":119, "text":"but", "label":"no-unit"},
+    {"number":120, "text":"Iranians cannot, and should not, endure indefinite economic hardship", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"},
+    {"number":122, "text":"They are less likely to tolerate such a situation if their sacrifices at home are paying for long-term military ventures abroad from which they see little tangible benefit", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,125 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Buffalo schools spend $5.4 million on free plastic surgeries for teachers, despite massive deficit.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"BUFFALO, N.Y  - Even a $50 million budget deficit in the Buffalo school district couldn't convince members of the Buffalo Federation of Teachers to cut down on their taxpayer-funded tummy tucks, breast lifts and nose jobs", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"In fact", "label":"no-unit"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":" school district spending on the unique benefit, known as a \"cosmetic rider\" on the insurance plan for union members, totaled $5.4 million in 2013-14, an increase of 4.1 percent from 2012-2013 and an increase of 9.5 percent from two years ago, according to public records information obtained exclusively by EAGnews", "label":"statistics"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"As an indication of just how much the perk is being utilized, according to the American Society of Plastic Surgeons, the average cost of rhinoplasty is $4,545, while the average cost of liposuction is $2,866", "label":"statistics"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"A breast lift costs $4,207, on average", "label":"statistics"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"In other words", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" over 1,200 Buffalo teachers union members could have had a boob job last year, at taxpayer expense", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"The annual expenditure is staggering, given the district's troubled financial situation, not to mention its sketchy academic performance", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"In January 2014, the Buffalo News reported that the school district was grappling with a $50 million budget deficit for the 2013-14 school year", "label":"testimony"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"\"That gives us very little wiggle room to fund anything new,\" Barbara Smith, the district's chief financial officer, told the school board", "label":"testimony"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Except, of course, for a lot of new cosmetic medical procedures for teachers", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"The \"cosmetic rider\" benefit has been offered to teachers for decades and has been scrutinized only recently due to the school district's financial plight", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"The school board has been unwilling to impose a new labor agreement without the rider, as allowed by law", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"So the district has been operating under the terms of an old agreement - which includes the cosmetic rider- that expired about 10 years ago", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Until the union agrees to a new contract without the perk, the school district will continue paying", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"That possibility has been discussed for years", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"but", "label":"no-unit"},
+    {"number":35, "text":"the union has never budged", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"\"There's no co-pay (for cosmetic procedures), so the school district ends up footing the entire bill,\" The Atlantic reported in 2012", "label":"testimony"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Perhaps if the Buffalo school district produced great academic results, and students who were prepared for college or the working world upon graduation, taxpayers could justify such a cushy benefit for teachers", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"But that's clearly not the case", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"The district recently boasted that its graduation rate improved from a miserable 47.8 percent to 56 percent", "label":"statistics"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"So slightly more than half of the students are now getting a diploma", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"which is hardly a reason to celebrate", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"The district's latest student proficiency numbers are ugly, as well", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"According to the Buffalo News, only 12.2 percent of Buffalo students rated proficient or better on recent standardized English tests", "label":"statistics"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"while only 13.1 percent rated proficient or better in math", "label":"statistics"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"So what has this teaching staff accomplished that merits a benefit as costly and wasteful as free cosmetic surgery?", "label":"assumption"}
+  ],
+  [
+    {"number":56, "text":"The June 2014 union newsletter - appropriately named The Provocator - includes ads from three cosmetic service providers pedaling procedures like Botox, cosmetic breast and body contouring, facelifts, hair transplantation, and \"medispa\" treatments", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Those ads are bound to pay off for the providers", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"because the teachers can obtain their pricey services for free", "label":"assumption"},
+    {"number":61, "text":"- at our expense, of course", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"There is a chance that the cosmetic rider could finally be abolished through labor negotiations", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Most recently", "label":"no-unit"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"an outside mediator proposed giving teachers an 11.8 percent pay increase", "label":"anecdote"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"and", "label":"no-unit"},
+    {"number":70, "text":"in exchange they would pay a \"small\" amount toward their own health insurance", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"The proposal also calls for ending the plastic surgery coverage, according to the Buffalo News", "label":"testimony"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"While completely eliminating the \"cosmetic rider\" from its benefits package would not plug the $50 million budget hole", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"the annual expense is an indication that the school board is not serious about reining in out of control spending, nor making sure every dollar is going directly towards the education of children", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ]
+]}

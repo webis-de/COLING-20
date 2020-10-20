@@ -1,0 +1,183 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Russia is part of the solution and the problem.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"When it comes to Russia, I must admit, I have my biases", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Political and economic developments in Russia have a direct impact on the Caucasus and particularly my own country, Armenia", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The heightened tension between Russia and the West limits Armenia's ability to balance between two friendly sides", "label":"assumption"},
+    {"number":7, "text":"while", "label":"no-unit"},
+    {"number":8, "text":"Russia's economic reversals impact Armenia's fragile economy", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Not to mention what another Cold War might do to Armenia, to the region and the world", "label":"no-unit"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"My enquiry generated a commotion in the hall and the Finnish representative, pre-empting the speaker, challenged my premise", "label":"anecdote"},
+    {"number":13, "text":"arguing that Finland's choice was of its own volition", "label":"testimony"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"which is not the case in Ukraine", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Schussel concurred", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Fair point", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"But in international relations, a state's \"volition\" is so often shaped and determined by perceived threats", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"It's called diplomacy", "label":"assumption"},
+    {"number":24, "text":"and", "label":"no-unit"},
+    {"number":25, "text":"it requires reconciling the pursuit of national interests with regional and global peace", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"Finland's President Sauli Niinisto himself, in a recent interview with the Washington Post, predicted that Finland joining NATO would negatively affect relations with Russia", "label":"testimony"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"\"It is very obvious that if Finland joins NATO, that would undoubtedly harm our relations with Russia", "label":"testimony"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"You have to keep in mind that 1,300km is a long border, and you just don't keep it closed", "label":"testimony"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"On the contrary, it's a living border,\" Niinisto said", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"It's time Ukraine does the same", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The world is inching towards a new Cold War and at the heart of it is Ukraine", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"When and what will be the last straw is hard to tell", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"But then it will be too late to reverse things from a point of no return", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Russia today faces serious geopolitical and economic challenges", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"It is in direct confrontation with the West on a vision about the world order, on Ukraine, on Syria and on a great many other large and not-so-large issues", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Economically, Russia is beginning to feel the aggregate impact of the West's economic sanctions", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"falling oil prices, the devaluation of the ruble, capital outflow and a decline in direct foreign investment", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"But", "label":"no-unit"},
+    {"number":52, "text":"to think that these pressures will force the Kremlin into even partial submission and to change its posture on global issues and weaken its grip on its immediate neighbourhood would be to misjudge President Vladimir Putin", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"It could have the exact opposite effect", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"as", "label":"no-unit"},
+    {"number":57, "text":"Russia's president perhaps walks his way out of this through consolidation at home and further assertiveness and intransigence abroad", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"In his annual State of the Nation address to parliament on December 4, Putin evoked exactly that", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"He called for the public's resilience in the face of hardship, and promised to continue his foreign policy in the belief in the justness of Russia's cause and greatness", "label":"testimony"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Russia's(or Putin's) convictions are anchored on several real or perceived premises", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Russian influence", "label":"no-unit"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"First", "label":"no-unit"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":" Russia believes that the US never stopped containing Russia", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Since the collapse of the Berlin wall, NATO's and the EU's borders have moved east", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"Russia fears that Ukraine's and Georgia's expressed desire to join both organisations, risks bringing those organisations to Russia's most vulnerable borders - to the east and the south", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"In his address condemning the \"pure cynicism\" of the West, he accused western governments of seeking to raise a new \"iron curtain\" around Russia and suggested that even if Crimea had not been annexed, the West would have come up with a different pretext to impose sanctions to contain Russia's resurgence", "label":"testimony"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Second", "label":"no-unit"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":" Russia firmly believes that Americans are interventionists and falsely moralistic in their discourse", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"They are heavily involved in using soft power to manipulate and shape the will of the people", "label":"assumption"},
+    {"number":82, "text":"while advocating the independence and sovereignty of states and respect of the will of those same people to determine their own future", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"In the same speech, Putin accused the West of meddling in Russia's internal affairs, claiming that sanctions were merely an excuse to weaken Russia", "label":"testimony"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"Last month, Russian Foreign Minister Sergey Lavrov charged the West with seeking regime change in Moscow", "label":"testimony"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"Russia has always blamed the West for its policies of interference in other countries' internal affairs, but had never before implied that it had worries of its own", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"As", "label":"no-unit"},
+    {"number":91, "text":"we are faced with the possibility of another Cold War and are challenged to look for ways to avoid it", "label":"assumption"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"it is worth looking into history's verdict on the original one", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"Facing a Cold War", "label":"no-unit"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"First there are the traditionalists of the 1960s who argued that the Cold War was the direct result of Stalin's aggressive Soviet expansionism", "label":"anecdote"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Later on, particularly during the Vietnam War, the revisionists (William Appleman Williams) challenged that view blaming the US for the Cold War, arguing that:\"America's chief aim in the years after the war was to make sure that there was an 'open door' for American trade, and that this led the American government to try to make sure that countries remained capitalist like the United States.\"", "label":"testimony"}
+  ],
+  [
+    {"number":100, "text":"Then there were the post-revisionists (John Lewis Gaddis) in the 1970s who believed that:\"America and Russia wanted to keep the peace after the war but that conflict was caused by mutual misunderstanding, reactivity, and above all the American inability to understand Stalin's fears and need to defend himself after the war.\"", "label":"testimony"}
+  ],
+  [
+    {"number":101, "text":"The latter is the closest guide to today's problems", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"One of the specificities of the current period is that the West considers Russia to be both part of the solution but part of the problem as well", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"Indeed", "label":"no-unit"},
+    {"number":106, "text":",", "label":"no-unit"},
+    {"number":107, "text":" Russia supports the separatists in Ukraine and is the only power that can influence decisions there and make the rebels listen", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"In Iran, Russia built the heavy water Arak nuclear power station", "label":"anecdote"},
+    {"number":110, "text":"which was perceived to be a huge problem", "label":"assumption"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":"even as it offers to supply enriched uranium or host Iran's centrifuges as part of a solution", "label":"anecdote"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"In Syria, Russia backs the Assad regime", "label":"anecdote"},
+    {"number":115, "text":"while", "label":"no-unit"},
+    {"number":116, "text":"it remains engaged in the political process and under certain circumstances can influence Assad's decisions", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"The list grows even longer", "label":"assumption"},
+    {"number":119, "text":"if", "label":"no-unit"},
+    {"number":120, "text":"one considers the conflicts in other parts of Russia's neighbourhood", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"},
+    {"number":122, "text":"From the Moldovan to the Georgian and the Armenian- Azerbaijani conflicts, Russia has a major influence and say in the final outcomes", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":124, "text":"As a result of this duality, the line is blurred between engagement and confrontation, creating misunderstandings and uncertainties, but also opportunities for both Russia and the US", "label":"assumption"},
+    {"number":125, "text":".", "label":"no-unit"},
+    {"number":126, "text":"This was not the case in the East- West standoff during the Cold War", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":128, "text":"These beliefs and perceptions are both strengths and weaknesses for one side or the other", "label":"assumption"},
+    {"number":129, "text":".", "label":"no-unit"},
+    {"number":130, "text":"Taken together, they nullify each other", "label":"assumption"},
+    {"number":131, "text":".", "label":"no-unit"},
+    {"number":132, "text":"In the bigger picture, in the face of enormous global disturbances causing untold carnage and loss of life, they seem trivial", "label":"assumption"},
+    {"number":133, "text":".", "label":"no-unit"},
+    {"number":134, "text":"It is time that the major players look beyond history and personalities and transcend the zero-sum thinking of the past", "label":"assumption"},
+    {"number":135, "text":".", "label":"no-unit"}
+  ]
+]}

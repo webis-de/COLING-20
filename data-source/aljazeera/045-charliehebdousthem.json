@@ -1,0 +1,120 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Charlie Hebdo: 'Us or them'.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In the face of terrible deaths, at a time when we are so destructively polarised", "label":"assumption"},
+    {"number":3, "text":", this must be said bold and up front and repeatedly", "label":"assumption"},
+    {"number":4, "text":":", "label":"no-unit"},
+    {"number":5, "text":"No cartoonist deserves to be killed, ever", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"No innocent person shopping for kosher food deserves to be terrorised and murdered", "label":"assumption"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"either", "label":"no-unit"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"All of those tragic deaths in France last week, including those of a policeman and policewoman, and numbering 17 in total, all of them are horrendous and incomprehensible", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"In the face of this terrible killing spree in France, at the offices of the satirical magazine Charlie Hebdo and then at a kosher supermarket, the overwhelming reaction is revulsion", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"But at the same time, there's a need to respond in other ways as well, to frame a discussion that can prevent this tragedy leading to even more tragedies, or being spun out to lash out at other innocent people", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"And here is the trouble with the backlash that has already begun, and the demands that have being made in the name of \"solidarity\"", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"France today stages a unity march, an attempt to help heal a wounded nation, amidst a much wider discussion of the need to stand together in the face of terror", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"But within that discussion, there has been a distinct fundamentalism - for example, in the insistence that to support Charlie Hedbo's right to publish, we must reprint and replicate their work", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"It's an unnecessary conflation of two things: support for the right to do something and actually doing the thing", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"It should, of course, be possible to express disgust at the murders fully, without having to endorse certain types of offensiveness", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"And the French magazine, while broad-spectrum in its religious targets, has undeniably focused its gaze on France's Muslim minority in a racist manner, in recent years", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"There is, for media, a responsibility (the abrogation of which clearly does not invite murder) to not be tone deaf about the environments we live in: about ignored hierarchies of control; about powerless minorities and colonial heritage and migration and foreign policy; about how things feel when you are stigmatised, marginalised and scapegoated; about what it's like when you don't have a voice or much representation in the mainstream", "label":"assumption"},
+    {"number":30, "text":";", "label":"no-unit"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"when the majority culture insists that equality and liberty await all those who just learn to be more like the majority", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"If", "label":"no-unit"},
+    {"number":35, "text":"we don't create the space to say these things without casting those that do so as fanatical supporters of murder", "label":"assumption"},
+    {"number":36, "text":", then what is this limitless freedom of expression we keep insisting we are firmly on the side of?", "label":"assumption"}
+  ],
+  [
+    {"number":37, "text":"The demand that we all respond in a mass, uniform way also makes a basic error about how unity works", "label":"assumption"},
+    {"number":38, "text":"-", "label":"no-unit"},
+    {"number":39, "text":"which is to forget that it can only survive if there are spaces between us", "label":"assumption"},
+    {"number":40, "text":";", "label":"no-unit"},
+    {"number":41, "text":"solidarity and common ground take hold because of the existence of a spectrum in thought and experience, and not despite these things", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Deadly terrorism seeks to stamp out the possibility of difference ", "label":"assumption"},
+    {"number":44, "text":"-", "label":"no-unit"},
+    {"number":45, "text":"which is why, in condemning outright those atrocities in France, we need also to keep insisting on and cherishing our diversity", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Meanwhile, equally fundamentalist is the predictable casting of blame at Muslims and their \"backward\" culture, painting this as a \"clash of civilisations\" and insisting that all Muslims repeatedly apologise for the slaughters in France", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The now routine insistence that all Muslims apologise for all such atrocities has spawned a spoof Muslim iCondemn phone app for such eventualities - a curious development", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"since", "label":"no-unit"},
+    {"number":52, "text":"we have been led to believe that Muslims don't actually have a sense of humour", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"'Civilised v barbarian'", "label":"no-unit"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"The ridiculous \"civilised v barbarian\" argument has been skilfully taken apart by others", "label":"assumption"},
+    {"number":57, "text":"-", "label":"no-unit"},
+    {"number":58, "text":"its false premises, hypocrisy and misguided superiority complex rigorously deconstructed", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"But there's grave danger in this sort of \"us or them\" thinking - not just in the physical attacks on mosques and Muslims in France", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"which have already begun", "label":"assumption"},
+    {"number":63, "text":"and", "label":"no-unit"},
+    {"number":64, "text":"which are obviously bad enough", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"The danger in blaming Muslims for such atrocities is that we shirk any responsibility", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"And the harsh reality is that the French killings, just like previous terror atrocities in Britain, just like the European self-proclaimed jihadists that go and fight for the death cult Islamic State of Iraq and the Levant(ISIL), are all homegrown", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"We - not just Muslim society, but our societies - are accountable", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"We, not just the fanatics that recruit to and commit mindless terror, are bound up in the causes and the context in a way that makes it not just insulting but actively counterproductive to single out Muslims as bearing sole responsibility both for the crimes and for their prevention", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"If", "label":"no-unit"},
+    {"number":75, "text":"we don't own this terrible reality collectively", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"we won't be able to find a way out of it collectively", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"either", "label":"no-unit"},
+    {"number":80, "text":"- and", "label":"no-unit"},
+    {"number":81, "text":"that means we won't be able to find a way out of it at all", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,177 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The hostage rescue dilemma.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Saturday's failed hostage rescue mission in Yemen was indeed tragic", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"While the official details as to exactly what happened have not yet been released", "label":"anecdote"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"it appears Luke Somers, an American journalist, and Pierre Korkie, a South African teacher, were killed by their captors during a night-time rescue attempt carried out by US Navy SEALs", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Al-Qaeda in the Arabian Peninsula (AQAP) had been holding Somers and Korkie captive for over a year", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"It was the second such attempt to rescue Somers in two weeks", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"On November 25, a SEALs team hit what they thought was the compound holding Somers", "label":"anecdote"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"who, as it turns out, had been moved from there just hours before", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"In Saturday's operation, the SEALs knew Somers' exact location", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"To maintain stealth, they landed by V-22 Osprey several kilometres away, and then made the trek overland to the compound where Somers and Korkie were being held captive", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"But something went terribly wrong in the final approach", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Perhaps it was a barking dog or some other noise", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"but", "label":"no-unit"},
+    {"number":25, "text":"the SEALs came under fire as they approached the compound's main entrance", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"The element of surprise, which is so critical to rescue operations, was lost", "label":"assumption"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"and", "label":"no-unit"},
+    {"number":30, "text":"a fierce firefight ensued", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Within 30 minutes, the SEALs had secured the compound and put Somers and Korkie, who were both still alive on a V-22 that had a surgical team standing by", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Unfortunately, medics were unable to save them", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Plainly necessary", "label":"no-unit"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"For Somers, Saturday's rescue mission was as urgent as it was plainly necessary", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Late last week AQAP released a video stating he would be killed in 72 hours unless unspecified demands were met", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Those demands have not been made public, but likely involved payment of a ransom or release of AQAP captives, something the US is prohibited by law from doing", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"For Korkie, the sense of urgency in attempting the rescue operation is more controversial", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"According to the South African charity Gift of the Giving, a deal had been made with AQAP to release Korkie in just a matter of days, suggesting to many that it would have been better to wait", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Maybe there was a deal that would have gone through in the end", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Maybe there wasn't", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"But in rescue operations, hope is not figured into the equation", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"where planners and decision makers have to weigh the risks of action against the consequences of inaction", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"By their very nature, hostage rescue operations are among the most difficult and risky military missions to carry out", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"With little margin for error, either in intelligence or the operation itself, they demand highly trained and equipped special operations units that only a handful of countries have", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Are they dangerous and uncertain?", "label":"assumption"},
+    {"number":61, "text":"Absolutely", "label":"common-ground"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Are they impossible?", "label":"assumption"},
+    {"number":64, "text":"No", "label":"no-unit"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"In 2012, US Navy SEALs rescued Jessica Buchanan, an American aid worker, and Poul Hagen Thisted, a Danish aid worker", "label":"anecdote"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"who had been held hostage by Somali pirates for 93 days", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The pirates were demanding a $45m ransom for their release", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"In this particular case, precise intelligence as to their exact location, along with concerns about Buchanan's rapidly declining health, were major factors in moving forward with the rescue mission", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Under the cover of darkness, the SEAL Team parachuted 19km from where they were being held, and then moved cross-country to conduct the rescue", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Nine pirates were killed during the operation", "label":"anecdote"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"and", "label":"no-unit"},
+    {"number":79, "text":"Buchanan and Thisted were unharmed", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"In 2009, US Navy SEAL snipers ended the hostage ordeal of American Richard Phillips, captain of the cargo ship Maersk Alabama", "label":"anecdote"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"which had been hijacked by Somali pirates in the Indian Ocean five days earlier", "label":"anecdote"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Talks with the pirates ended when they threw the phone used to communicate with negotiators into the ocean", "label":"anecdote"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"When", "label":"no-unit"},
+    {"number":88, "text":"one of the pirates pointed his rifle at Captain Phillips' back", "label":"anecdote"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"snipers shot and killed all three in near simultaneous fashion", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Captain Phillips was unharmed", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Heartbreaking failures", "label":"no-unit"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"In 2005, US Delta Force operators rescued Roy Hallums, an American civilian contractor kidnapped by an al-Qaeda cell in Iraq, after 311 days in captivity", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Again", "label":"no-unit"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"the intelligence as to Hallums' location was exact", "label":"anecdote"},
+    {"number":101, "text":"- pull up the kitchen carpet and open the faux cement trap door leading into his one room cell", "label":"anecdote"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Hallums was unharmed in the operation", "label":"anecdote"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"But", "label":"no-unit"},
+    {"number":106, "text":",", "label":"no-unit"},
+    {"number":107, "text":"as was all too evident on Saturday, there are heartbreaking failures, too", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"This past July, US special operations forces attempted to rescue James Foley in Syria", "label":"anecdote"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"Unfortunately, the intelligence as to where he was being held was incorrect", "label":"anecdote"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"Foley was brutally murdered by ISIL just a few weeks later", "label":"anecdote"},
+    {"number":114, "text":",", "label":"no-unit"},
+    {"number":115, "text":"the videotape of which was released on the internet for the world to see", "label":"anecdote"},
+    {"number":116, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":117, "text":"In 2010, the US special operations team attempting to rescue her in Afghanistan accidentally killed Linda Norgrove, a British citizen", "label":"anecdote"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"There are other failures, all tragic, as well", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":121, "text":"But there are also other successes", "label":"assumption"},
+    {"number":122, "text":",", "label":"no-unit"},
+    {"number":123, "text":"where hostages like Jessica Buchanan, Poul Thisted, Captain Phillips and Roy Hallums, all of whom faced indefinite captivity or even death, are home with their families because decisions were made to rescue them based on calculated risks", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"No guessing, no maybes, no \"let's keep our fingers crossed and hope for the best\"", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":127, "text":"Rescue missions are risky, both for the hostages and for the operators who carry them out", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"Lives are at stake", "label":"common-ground"},
+    {"number":130, "text":",", "label":"no-unit"},
+    {"number":131, "text":"and", "label":"no-unit"},
+    {"number":132, "text":"it's never an easy choice to give the \"green light\"", "label":"common-ground"},
+    {"number":133, "text":".", "label":"no-unit"},
+    {"number":134, "text":"But given the circumstances, particularly when dealing with terrorist organisations, leaders can't always sit back and wait to see what happens", "label":"assumption"},
+    {"number":135, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":136, "text":"Sometimes, it's less risky to act than not to", "label":"assumption"},
+    {"number":137, "text":".", "label":"no-unit"},
+    {"number":138, "text":"And in the case of a hostage rescue operation, I'd place my life in the hands of men dedicated to the task before taking my chances with the likes of a terrorist in the hope that maybe they'll let me go", "label":"assumption"},
+    {"number":139, "text":".", "label":"no-unit"}
+  ]
+]}

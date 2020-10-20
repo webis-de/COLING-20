@@ -1,0 +1,108 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"From Guantanamo to Montevideo and on to Havana.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The news of the Guantanamo detainees' arrival to Uruguay received impressive coverage in international media", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Uruguay is the second Latin American country to accept Guantanamo detainees", "label":"anecdote"},
+    {"number":5, "text":";", "label":"no-unit"},
+    {"number":6, "text":"the first one was El Salvador, which welcomed two Chinese nationals in 2012", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The fact that there have been only two countries in Latin America accepting Guantanamo inmates is already particularly extraordinary, given US historical ascendancy on the region", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Even US' main allies in the region, Chile and Colombia, rejected US proposals to accept prisoners from Guantanamo, considering the move highly unpopular", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Perhaps the spotlight fell on Uruguay as a Guantanamo detainee host because of Mujica's own media popularity over his unusually humble way of life as a world leader, and his progressive public speeches and political agenda", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"He also managed to get a lot of media attention over the arrival of around forty Syrian refugees in October", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"although they were few in number compared to the thousands of refugees that neighbouring countries such as Brazil and Argentina have been accepting", "label":"statistics"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"The day the detainees landed in Montevideo, Mujica sent an open letter to Uruguayans and Barack Obama", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"The first sentence reads,\"Solidarity is the tenderness of the people\", a quote from Pablo Neruda referring to the 1939 exodus of Spanish Republicans escaping fascism to South America", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Neruda's words well reflect the main humanitarian goal of the operation", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"which aims to to reinforce the image of Uruguay as a peacemaker and international reference for humanitarian issues", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"\"Pepe\" has the aspiration, before ceding power to Tabare Vazquez at the beginning of 2015, to spread his humanitarian legacy and reinforce his world reputation", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Through the well-publicised gesture, Mujica aims to give hope to all those disenchanted people who still think that idealism and ethics in politics are still possible", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"From a political perspective, Mujica's usual anti-imperialist stance left many in Uruguay astonished that he was willing to do a \"favour\" to Obama and accept the Guantanamo detainees", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"It is only in the second part of his open letter that his political goals become apparent", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Mujica asks, as a gesture of reconciliation for all the American people, for the release of a 70 years-old Puerto Rican independence fighter, along with three Cuban detainees who are part of the group known as the Cuban Five", "label":"anecdote"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"and", "label":"no-unit"},
+    {"number":37, "text":"whose controversial detention in the late 1990s led to a worldwide campaign for their release", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"He also asks for the lifting of the \"unjust embargo\" imposed on \"our sister\" Cuba", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Mujica's plea is reflective of an emerging regional bloc different than the usual \"left-leaning\" one", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"It is instead a heterogeneous regional political bloc able to come to terms with ideological differences and to find common ground for regional coexistence in the name of progress", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Best example of this is the ongoing peace talks between FARC and the Colombian government in Cuba, with the participation of Chile and Venezuela", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Mujica's move, therefore, is not unprecedented", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Back in 2009 the late Hugo Chavez hinted at the possibility of accepting Guantanamo detainees in Venezuela and at raising the issue of Cuba's isoluation", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Cuba's reintegration into regional life, after decades of US ostracism, represents the main political goal of the bloc and of Mujica humanitarian operation", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Therefore", "label":"no-unit"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":" it is not surprise that Jose Miguel Insulza, the Secretary General of the Organization of American States (OAS) publicly lauded Mujica's move", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"Although leftist American governments have been particularly at odds with the Washington-based regional organisation, as consequence of the informal exclusion of Cuba under US pressure", "label":"assumption"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"Insulza has been working hard to reverse it", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Just recently, he said that he hoped both Cuba and the US would attend the next OAS summit planned for April in Panama City", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"The US is unlikely to release the Cuban political prisoners", "label":"assumption"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"but", "label":"no-unit"},
+    {"number":66, "text":"Cuba's unilateral release of Alan Gross after 5 years could be part of a larger swap following Mujica's move", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"The six Guantanamo detainees will probably be the last ones to be resettled in the region", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"But", "label":"no-unit"},
+    {"number":71, "text":"their landing in Montevideo made it clear that Latin America is not, and will not be again the US backyard", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ]
+]}

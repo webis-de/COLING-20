@@ -1,0 +1,115 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Foie gras is exactly as delicious as you've heard. It should nonetheless be banned.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"When", "label":"no-unit"},
+    {"number":3, "text":"a US judge struck down California's 2 1/2 year old foie gras ban on Wednesday", "label":"anecdote"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"a Napa Valley chef said he'd been \"jumping up and down for 90 minutes.\"", "label":"testimony"},
+    {"number":6, "text":"I'll bet you were, dude", "label":"other"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Foie gras hits you in your animal pleasure center with the force of a bullet train and gives you, experientially, a high closer to that of a narcotic than sexual gratification", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"I was 19 and at le Grand Vefour, the legendary Parisian restaurant, when I first ate foie gras", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"An unassuming ceramic tub of what looked and smelled a bit like cat food arrived at the table with a glass of Sauternes the color of a hepatitis patient's urine to wash it down", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"My first, tentative, nibble of foie gras resists any food critic hyperbole for which I could reach to describe how wonderful it was - and has been every time since", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"You can't argue convincingly with the extraordinarily pleasurable experience of eating foie gras", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"However", "label":"no-unit"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":" you also can't argue convincingly - although many foodies try- that gavage, the force-feeding process which produces the stuff, isn't torture or, at at minimum, animal cruelty of a most hideous type", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"I am an unapologetic omnivore who worships at the altar of good (and \"bad\") food - so, hardly an animal rights advocate", "label":"assumption"},
+    {"number":23, "text":"-", "label":"no-unit"},
+    {"number":24, "text":"and", "label":"no-unit"},
+    {"number":25, "text":"I believe that, for the most part, people have the right to to put what they want in their mouths", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"But", "label":"no-unit"},
+    {"number":28, "text":"the State of California was correct to ban foie gras", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"and", "label":"no-unit"},
+    {"number":31, "text":"I sincerely hope Attorney General Kamala Harris fights to get the ban reinstated", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Contemplate gavage for a moment", "label":"no-unit"},
+    {"number":34, "text":":", "label":"no-unit"},
+    {"number":35, "text":"for two or three weeks, migratory birds (ducks, geese) are kept in cages", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Three times a day they have steel funnels shoved down their throats", "label":"anecdote"},
+    {"number":38, "text":";", "label":"no-unit"},
+    {"number":39, "text":"an auger is turned", "label":"anecdote"},
+    {"number":40, "text":";", "label":"no-unit"},
+    {"number":41, "text":"and", "label":"no-unit"},
+    {"number":42, "text":"they are force fed", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"The birds' livers grow enormous - eventually taking up half the space of their lower body", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Aquatic birds, like ducks and geese, evolved as creatures who spend most of their time on the water, only occasionally foraging on land", "label":"common-ground"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"They are social animals who like to hang out in groups, preen and communicate with each other via display and call", "label":"common-ground"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Sitting in a cage for a few weeks being force-fed is a horrible fate for any sentient being", "label":"common-ground"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":"but", "label":"no-unit"},
+    {"number":53, "text":"it is particularly nasty for these migratory birds", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Some foie gras lovers argue that gavage can be ethical", "label":"assumption"},
+    {"number":56, "text":":", "label":"no-unit"},
+    {"number":57, "text":"there are \"good\" poultry farmers who use flexible plastic tubes instead of steel to force feed birds who get to roam around barns", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"Anthony Bourdain famously commented that \"you see worse [than gavage] in the pay-per-view film on the hotel channel- and that's people, for God's sake\"", "label":"testimony"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"(Presumably he was referring to fellatio)", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Then there's the \"civilized\" cultures argument: the ancient Egyptians, the Greeks, the Romans used gavage to produce foie gras, therefore as a similarly \"civilized\" culture we should be similarly allowed to force feed birds", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Possibly the most specious argument against the California ban came from the plaintiffs' lawyer, Michael Tenenbaum", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"who called the ruling \" a victory for freedom.\"", "label":"testimony"},
+    {"number":68, "text":"Tenenbaum wasn't ad-libbing", "label":"assumption"},
+    {"number":69, "text":":", "label":"no-unit"},
+    {"number":70, "text":"many chefs and foodies have held that banning foie gras is the equivalent to \"cultural imperialism\" and is an abridgment of their basic rights", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"If", "label":"no-unit"},
+    {"number":73, "text":"Tenenbaum, too, truly believes that", "label":"assumption"},
+    {"number":74, "text":", he should be litigating for chefs' rights to make shark fin soup,", "label":"no-unit"},
+    {"number":75, "text":"fry up songbirds, pour boiling oil into live monkeys' brains, and in general cook up anything they damn well please", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"I get nervous when people - even really smart, talented people - use the word \"freedom\" to mean\"I get to do what I want\"", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"In the case of foie gras bans, the argument is that, because this food is so delicious, you get to eat it, cook with it, produce it and make money off it", "label":"assumption"},
+    {"number":80, "text":"- no matter that it's produced as the result of an inhumane practice", "label":"assumption"},
+    {"number":81, "text":"which has been documented by scientists as causing severe, prolonged suffering to animals", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"The discontent of civilization, as Freud once pointed out, is that we don't all get to do what we want", "label":"testimony"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The price of getting to live among our fellow humans in a truly civilized society is that we have to repress some of our urges", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"I love everything about eating foie gras", "label":"assumption"},
+    {"number":88, "text":"- but", "label":"no-unit"},
+    {"number":89, "text":"I do it rarely", "label":"anecdote"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"and", "label":"no-unit"},
+    {"number":92, "text":"I look forward to the day when I won't be able to find it on a menu", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ]
+]}

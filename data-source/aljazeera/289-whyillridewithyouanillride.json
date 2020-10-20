@@ -1,0 +1,151 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why #illridewithyou is an ill ride.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The Sydney siege saw a slew of Muslim organisations issue statements condemning Islamic extremism", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Such chastisement had meant something in the wake of 9/11 and the Bali bombings", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Today, this has degraded into an automated knee-jerk response", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"It has been said so many times that its gravitas is greatly diminished", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"More subtly, this expectation for Muslims to keep speaking out is nothing short of Islamophobic", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"It assumes that Islam is, at its core, evil", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"It also upholds the view that Muslims can be essentialised as a monolithic whole", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"The chastisement thus becomes the yardstick from which the wider world is to differentiate between a good Muslim and a bad Muslim", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Surely today, fourteen years after 9/11, we have wisened up to the fact that such atrocious acts are committed out of political, even criminal, intent more than theology", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Surely, it is not a stretch to think that no one individual can represent an entire faith community", "label":"assumption"},
+    {"number":21, "text":". Surely, it is time, as Max Fisher of Vox argues, to stop asking Muslims to condemn terrorism", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"In the same manner, this good Muslim, bad Muslim binary undergirds the #illridewithyou campaign", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Yes, the hashtag was borne out of goodwill", "label":"assumption"},
+    {"number":26, "text":";", "label":"no-unit"},
+    {"number":27, "text":"an Asian Australian woman started it", "label":"anecdote"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"as the Twitter universe reacted to the story of a woman pledging to walk in solidarity with another woman who took her hijab off following news of the Sydney siege", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"We will protect the good Muslims, so gestures the campaign", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Unfortunately, it also reproduces an age-old trope that has been highlighted by scholars of postcolonial studies", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"As western colonisers encounter non-European natives, they began to think of their \"other\" in one of two antithetical ways - either as a barbaric savage or a noble savage", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"To the colonisers, the hostile savage is inherently dangerous in a sub-human way and always an enemy to the civilised individual", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Meanwhile, the noble savage is romanticised as innately benign", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Untouched by modernisation, the noble savage should be admired and protected", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Transposed to modern times, the hostile savage translates as the bad Muslim and the noble savage - the good Muslim", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Yet", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":" barbaric or noble, a savage is still a savage", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The hashtag #illridewithyou is just as patronising", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Another factor that cast doubt to #illridewithyou relates to this question: Was the perpetrator Man Haron Monis the quintessential Islamic extremist?", "label":"assumption"},
+    {"number":52, "text":"If", "label":"no-unit"},
+    {"number":53, "text":"the slate of profile pieces that are now just flooding our newsfeed can be taken as a gauge", "label":"assumption"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"the jury is still out on this", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"At first glance, one may indeed be tempted to fit him into the mould of what some security experts have called\"bedroom jihadists\", a fashionable term to describe self-radicalised individuals who have been recruited online to plan and execute terror attacks that would advance the cause of clandestine Islamist organisations", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Yet Monis was a man of many masks", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Closer inspection would reveal that he does not nestle comfortably into this category", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"His demands may have included an ISIL flag", "label":"anecdote"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"but", "label":"no-unit"},
+    {"number":66, "text":"he made no strategic overtures that would advance the cause of any oppressed Muslim groups", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"At this juncture, it is doubtful if he had even made contact with ISIL", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Let us also not forget that Monis was not a nobody who was secretly being turned to the ways of ISIL or any other Islamist agenda", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"In fact", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" he was a well-known criminal", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Not only had Monis been charged with being an accessory to the brutal murder of his wife last year, he had also been slapped with 22 counts of aggravated sexual assault and 14 counts of aggravated indecent assault", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"In addition", "label":"no-unit"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":" information has surfaced that he had been charged with fraud in Iran", "label":"anecdote"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"which requested his extradition from Australia some 14 years ago", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"As", "label":"no-unit"},
+    {"number":85, "text":"a friend rightly pointed out on social media, Monis' criminal records qualify him as a \"sexual predator and misogynist\"", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Yet", "label":"no-unit"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":" this more dominant aspect of his identity has not stopped the rest of the world from linking the Sydney siege to the threat of Islamic fundamentalism", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Yet consider this", "label":"no-unit"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"During the Sydney siege, a shooting spree incidence unfolded in Montgomery County, Pennsylvania that left 6 dead", "label":"anecdote"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"International media agencies described the perpetrator, the now-deceased Bradley William Stone, simply as \"a suspect\", \"a gunman on the loose\" and even \"a Montgomery man\"", "label":"anecdote"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"No hashtag campaign was necessary to assure white people that the rest of the world will ride with them to keep them safe", "label":"common-ground"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"The same can be observed of the reaction to the mass killings committed by the Norwegian Anders Breivik in 2011", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"While", "label":"no-unit"},
+    {"number":102, "text":"Breivik had claimed himself a baptised Christian in his 1,500-page manifesto", "label":"anecdote"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"the world did not expect Christians to condemn terrorism in the same way Muslims had", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"This discrepancy is telling of the power imbalance of our contemporary world", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"To white Australia, #illridewithyou may be its golden moment", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"To the rest of the coloured world, nothing has changed", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ]
+]}

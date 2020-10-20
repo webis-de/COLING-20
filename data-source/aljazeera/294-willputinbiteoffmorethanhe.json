@@ -1,0 +1,142 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Will Putin bite off more than he can chew?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"During a radio interview this week, French President Francois Hollande said Russian President Vladimir Putin \"doesn't want to annex eastern Ukraine - he told me that\"", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"He even suggested that western sanctions should be eased", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Hollande's naivety harks back to George W Bush's infamous comments about Putin in 2001", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"When asked by a reporter if he could trust Putin, he responded;\"I looked the man in the eye", "label":"testimony"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"I found him to be very straightforward and trustworthy", "label":"testimony"},
+    {"number":11, "text":"...", "label":"no-unit"},
+    {"number":12, "text":"I was able to get a sense of his soul.\"", "label":"testimony"},
+    {"number":13, "text":"As a former KGB officer, Putin probably looked into Bush's eyes and saw a case number!", "label":"assumption"}
+  ],
+  [
+    {"number":14, "text":"In reality, Putin has done nothing to demonstrate that his commitment to Hollande is genuine", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Crimea is still under the control of Russia after its illegal annexation last year", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Moscow continues to occupy the Georgian breakaway provinces of Abkhazia and South Ossetia", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Russian weapons and equipment are still pouring into eastern Ukraine", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"As recently as last November, NATO confirmed another build-up of Russian military equipment and troops inside Ukraine", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Russia's next moves", "label":"no-unit"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"In light of Russia's recent behaviour, what can be expected in eastern Ukraine in 2015?", "label":"assumption"},
+    {"number":27, "text":"Predictions of this sort are almost impossible and are usually invariably wrong", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"However", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":" it is possible to develop various scenarios that could offer a glimpse into what Russia's plans might be", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Russia's ultimate goal is to keep Ukraine out of the transatlantic community - the EU and NATO", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Russia will also want to consolidate the gains made by separatist forces in eastern Ukraine", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"To this end, Russia will have short-term and long term goals", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"The primary short-term goal for Russia in Ukraine will be to keep the conflict in eastern Ukraine \"frozen\"", "label":"assumption"},
+    {"number":40, "text":"-", "label":"no-unit"},
+    {"number":41, "text":"meaning that while the bullets might stop flying, there will be no real effort to bring a conclusive end to the conflict", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"This equates to victory for Moscow and defeat for Kiev", "label":"assumption"},
+    {"number":44, "text":"because", "label":"no-unit"},
+    {"number":45, "text":"it leaves Ukraine not in control of all its territory", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Russia can also use the \"frozen\" status of separatist-controlled regions of Donetsk and Luhansk as bargaining chips in future talks with the West on other issues", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"In terms of Russia's longer term goals in Ukraine for 2015 and beyond, there are a number of scenarios that can play out", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"It is safe to assume that Moscow will help the separatists consolidate gains in Donetsk and Luhansk to create a political entity that becomes more like a viable state", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"This will be no easy task and will require the capture of important communication and transit nodes, such as Donetsk airport, the city of Mariupol and its port, and the Luhansk power plant", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"These are still under Ukrainian government control but are all needed if the separatists want to achieve true autonomy", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"A more ambitious scenario might see Russia expanding separatist-controlled areas to include the entire eastern region of Ukraine consisting of the Donetsk and Luhansk oblasts and the eastern sections of Dnipropetrovsk and Kharkiv oblasts", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"This would require capturing Kharkiv", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"which is Ukraine's second largest city", "label":"common-ground"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Kharkiv also holds a certain degree of symbolism for those in Moscow dreaming of the days of Soviet glory", "label":"assumption"},
+    {"number":64, "text":"-", "label":"no-unit"},
+    {"number":65, "text":"it was the first city in Ukraine to recognise the Bolshevik takeover in 1917", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"The most aggressive scenario might see Moscow attempting to re-establish control of the historical Novorossiya region in modern-day southern Ukraine", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"This would create a land bridge between Russia and Crimea ", "label":"assumption"},
+    {"number":70, "text":"-", "label":"no-unit"},
+    {"number":71, "text":"eventually linking up with the Russian-backed Transnistria, a breakaway region of Moldova", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"This would be no easy undertaking and would require the capture of the heavily defended cities of Mariupol and Odessa, Ukraine's tenth-largest and third- largest cities, respectively", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Russia is desperate to establish a land bridge to Crimea", "label":"assumption"},
+    {"number":76, "text":"since", "label":"no-unit"},
+    {"number":77, "text":"the cost of providing goods and services by sea and air to the peninsula is becoming prohibitively expensive", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"In fact", "label":"no-unit"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":" Putin has ordered a bridge linking the Russian mainland with Crimea to be built by 2018", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"With an economy in recession, the collapse of the rouble, and the low price of oil, finding the $5.2bn required to build the bridge might not be possible", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Instead", "label":"no-unit"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":" Russia could be forced into creating a land bridge to Crimea", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Out of all of Russia's previous leaders, Putin has more in common with Russia's imperial czars than he does with the Soviet premiers", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"Perhaps Putin has most in common with Emperor Nicolas I", "label":"assumption"},
+    {"number":92, "text":"who ruled Russia between 1825 and 1855", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"Nicolas I's reign was marked by a stagnate economy, territorial expansions in the Caucasus, the crushing of political dissent, and a war in Crimea", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"In the case of Nicolas I, his war in Crimea was disastrous and could have had serious implications for his rule if he had not died from pneumonia before the war ended", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Will Crimea prove the same for Putin today?", "label":"assumption"},
+    {"number":99, "text":"Only time will tell", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"One thing is for certain", "label":"assumption"},
+    {"number":102, "text":":", "label":"no-unit"},
+    {"number":103, "text":"Russia's designs on eastern Ukraine are far from over, 2015 will prove to be a very interesting year", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,190 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"What I wish Obama had said in his State of the Union address.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"President Obama sure is consistent", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"His State of the Union address sounded like his other speeches", "label":"assumption"},
+    {"number":5, "text":":", "label":"no-unit"},
+    {"number":6, "text":"What I've done is great!", "label":"assumption"},
+    {"number":7, "text":"America is in a much better position", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"We've created a manufacturing sector that's adding jobs", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"More oil is produced at home", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"I cut deficits in half!", "label":"assumption"}
+  ],
+  [
+    {"number":14, "text":"Give me a break", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The deficit is lower now not because of any prudence on Obama's part but merely because the $800 billion stimulus spending blowout didn't continue", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"All the president does is increase spending", "label":"assumption"},
+    {"number":19, "text":":", "label":"no-unit"},
+    {"number":20, "text":"free community college, free Obamaphones, free birth control, etc", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Yes, our annual deficit is lower", "label":"statistics"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"but", "label":"no-unit"},
+    {"number":25, "text":"it's still $488 billion!", "label":"statistics"},
+    {"number":26, "text":"Our $18 trillion national debt increases by $3 million every minute!", "label":"statistics"}
+  ],
+  [
+    {"number":27, "text":"Yes, more oil is produced at home", "label":"statistics"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"but", "label":"no-unit"},
+    {"number":30, "text":"that's in spite of the administration", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Oil production is down on public land", "label":"statistics"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Yes, the manufacturing sector added jobs", "label":"statistics"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"but", "label":"no-unit"},
+    {"number":37, "text":"that's mostly because of cheaper natural gas created by fracking", "label":"assumption"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"which Obama's cronies opposed", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Also", "label":"no-unit"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":" America is finally recovering from recession", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Obama's policies probably slowed that recovery", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Does the President delude himself when he takes credit for oil production, lower deficits, etc.?", "label":"assumption"},
+    {"number":48, "text":"Or does he mislead on purpose?", "label":"assumption"},
+    {"number":49, "text":"I don't know", "label":"other"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"More recently he bragged,\"I created the lowest unemployment rate in years.\"", "label":"testimony"},
+    {"number":52, "text":"He created it?", "label":"assumption"},
+    {"number":53, "text":"He must know it's \"low\" only compared to the 10 percent reached during the recession ", "label":"assumption"},
+    {"number":54, "text":"--", "label":"no-unit"},
+    {"number":55, "text":"and", "label":"no-unit"},
+    {"number":56, "text":"because millions have simply given up looking for work", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"This recovery is the slowest in 70 years", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"If", "label":"no-unit"},
+    {"number":61, "text":"Obama gave the State of the Union address I'd like to hear", "label":"assumption"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"he'd say this", "label":"assumption"},
+    {"number":64, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"I heard you, voters, in November when you took control of the Senate away from my party", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"I get it", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"I overreached", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"I was arrogant", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"I imposed Obamacare on a nation that was deeply divided about it", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"I ruled through executive orders instead of legislation", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"I threw money at \"green\" nonsense", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"I'll give up the payments to the \"green energy\" industry if the Republicans stop coddling defense contractors", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"I've been in government for years now", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"I know how badly it works", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The last thing I should try to do is make it bigger", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"In fact", "label":"no-unit"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":" with Republicans now in control of Congress, it's time I worked with them to shrink government", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"If", "label":"no-unit"},
+    {"number":92, "text":"we shrink it,", "label":"no-unit"},
+    {"number":93, "text":"we might even dig our way out of the debt hole we're in", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"Heck", "label":"no-unit"},
+    {"number":96, "text":",", "label":"no-unit"},
+    {"number":97, "text":"if", "label":"no-unit"},
+    {"number":98, "text":"we just slow the growth of government to 2 percent a year", "label":"assumption"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"we'd be in better shape", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"But I didn't even try to accomplish that", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"I pretended taxing the rich would solve our financial problems", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"But there aren't enough rich people to tax", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"I got drunk on the idea of promising voters \"free\" stuff such as low down- payment mortgages and guaranteed paid family leave", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"I told them that all good things come from government", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"That's nonsense", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"We should put an end to all bailouts", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"Businesses that screw up should accept the consequences, just like ordinary people who spend recklessly", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"Main Street should never again be forced to rescue Wall Street", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"Instead of expanding government control of health care, we should phase it out", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"},
+    {"number":122, "text":"That includes Medicare", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"},
+    {"number":124, "text":"I know Medicare is popular", "label":"assumption"},
+    {"number":125, "text":",", "label":"no-unit"},
+    {"number":126, "text":"but", "label":"no-unit"},
+    {"number":127, "text":"it is unsustainable", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"Let current retirees receive their benefits as promised", "label":"assumption"},
+    {"number":130, "text":",", "label":"no-unit"},
+    {"number":131, "text":"but", "label":"no-unit"},
+    {"number":132, "text":"younger people should pay for their own health care", "label":"assumption"},
+    {"number":133, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":134, "text":"People criticize the economic distortion created by welfare", "label":"assumption"},
+    {"number":135, "text":",", "label":"no-unit"},
+    {"number":136, "text":"but", "label":"no-unit"},
+    {"number":137, "text":"Medicare and Social Security are almost as bad", "label":"assumption"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"Both redistribute money away from the young and struggling toward those of us who have had decades to invest and save up", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":141, "text":"To make these challenges a little easier to deal with, let's make America richer by abolishing most regulations", "label":"assumption"},
+    {"number":142, "text":".", "label":"no-unit"},
+    {"number":143, "text":"They strangle opportunity", "label":"assumption"},
+    {"number":144, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":145, "text":"The more I think about it, the more Congress and I could transform America for the better just by getting out of America's way", "label":"assumption"},
+    {"number":146, "text":".", "label":"no-unit"},
+    {"number":147, "text":"The state of our union will be truly strong if the state -- by which I mean government-- is strictly limited", "label":"assumption"},
+    {"number":148, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":149, "text":"John Stossel is the host of \"Stossel\" (Thursdays at 9 PM/ET), a weekly program highlighting current consumer issues with a libertarian viewpoint", "label":"anecdote"},
+    {"number":150, "text":".", "label":"no-unit"},
+    {"number":151, "text":"Stossel also appears regularly on Fox News Channel (FNC) providing signature analysis", "label":"anecdote"},
+    {"number":152, "text":".", "label":"no-unit"},
+    {"number":153, "text":"Click here for more information on John Stossel", "label":"other"},
+    {"number":154, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,477 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <title>Editorial summarization</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+
+<!-- START MTURK -->
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Configuration
+  ---------------------------------------------------------------------------------------------------------------------->
+<script>
+  const articleId = "042";
+const article = {"paragraphs":[   [     {"number":1, "text":"The Charlie Hebdo cartoonists were smarter theologians than the jihadis.", "label":"title"}   ],   [     {"number":2, "text":"Rather disturbingly, one word seems to connect the activity of the Paris terrorists and that of the Charlie Hebdo cartoonists: iconoclasm", "label":"assumption"},     {"number":3, "text":".", "label":"no-unit"},     {"number":4, "text":"I say disturbingly, because pointing out some common ground may be seen as blurring the crucial distinction between murderous bastards and innocent satirists", "label":"assumption"},     {"number":5, "text":".", "label":"no-unit"}   ],   [     {"number":6, "text":"Nonetheless", "label":"no-unit"},     {"number":7, "text":",", "label":"no-unit"},     {"number":8, "text":" it strikes me as fascinating that the cartoonists were profoundly iconoclastic in their constant ridiculing of religion", "label":"anecdote"},     {"number":9, "text":"(all religions, it must be noted)", "label":"no-unit"},     {"number":10, "text":"-", "label":"no-unit"},     {"number":11, "text":"yet it is precisely this same ancient tradition of iconoclasm that inspires Jews and Muslims to resist representational art and, in its most twisted pathological form, to attack the offices of a Paris magazine and slaughter those whose only weapon was the pen", "label":"assumption"},     {"number":12, "text":".", "label":"no-unit"},     {"number":13, "text":"So what's the connection?", "label":"assumption"}   ],   [     {"number":14, "text":"In one sense an iconoclast is someone who refuses the established view of things", "label":"common-ground"},     {"number":15, "text":",", "label":"no-unit"},     {"number":16, "text":"who kicks out against cherished beliefs and institutions", "label":"common-ground"},     {"number":17, "text":".", "label":"no-unit"},     {"number":18, "text":"Which sounds pretty much like Charlie Hebdo", "label":"assumption"},     {"number":19, "text":".", "label":"no-unit"},     {"number":20, "text":"But the word iconoclast also describes those religious people who refuse and smash representational images, especially of the divine", "label":"assumption"},     {"number":21, "text":".", "label":"no-unit"},     {"number":22, "text":"The second of the Ten Commandments prohibits graven images ", "label":"anecdote"},     {"number":23, "text":"-", "label":"no-unit"},     {"number":24, "text":"which is why there are no pictures of God in Judaism or Islam", "label":"assumption"},     {"number":25, "text":".", "label":"no-unit"},     {"number":26, "text":"And theologically speaking, the reason they are deeply suspicious of divine representation is because they fear that such representations of God might get confused for the real thing", "label":"assumption"},     {"number":27, "text":".", "label":"no-unit"},     {"number":28, "text":"The danger, they believe, is that we might end up overinvesting in a bad copy, something that looks a lot like what we might think of as god", "label":"assumption"},     {"number":29, "text":",", "label":"no-unit"},     {"number":30, "text":"but", "label":"no-unit"},     {"number":31, "text":"which, in reality, is just a human projection", "label":"assumption"},     {"number":32, "text":".", "label":"no-unit"},     {"number":33, "text":"So much better then to smash all representations of the divine", "label":"assumption"},     {"number":34, "text":".", "label":"no-unit"}   ],   [     {"number":35, "text":"And yet this, of course, is exactly what Charlie Hebdo was doing", "label":"assumption"},     {"number":36, "text":".", "label":"no-unit"},     {"number":37, "text":"In the bluntest, rudest, most scatological and offensive of terms, Charlie Hebdo has been insisting that the images people worship are just human creations - bad and dangerous human creations", "label":"assumption"},     {"number":38, "text":".", "label":"no-unit"},     {"number":39, "text":"And in taking the piss out of such images, they actually exist in a tradition of religious iconoclasts going back as far as Abraham taking a hammer to his father's statues", "label":"assumption"},     {"number":40, "text":".", "label":"no-unit"},     {"number":41, "text":"Both are attacks on representations of the divine", "label":"assumption"},     {"number":42, "text":".", "label":"no-unit"},     {"number":43, "text":"Which is why the terrorists, as well as being murderers, are theologically mistaken in thinking Charlie Hebdo is the enemy", "label":"assumption"},     {"number":44, "text":".", "label":"no-unit"},     {"number":45, "text":"For", "label":"no-unit"},     {"number":46, "text":"if God is fundamentally unrepresentable, then any representation of God is necessarily less than God and thus deserves to be fully and fearlessly attacked", "label":"assumption"},     {"number":47, "text":".", "label":"no-unit"},     {"number":48, "text":"And", "label":"no-unit"},     {"number":49, "text":"what better way of doing this than through satire, like scribbling a little moustache on a grand statue of God", "label":"assumption"},     {"number":50, "text":".", "label":"no-unit"}   ],   [     {"number":51, "text":"It's only some Christians that might demur from this logic", "label":"assumption"},     {"number":52, "text":".", "label":"no-unit"},     {"number":53, "text":"For the Christian story (ie Christmas) tells of God coming into the world as a human being", "label":"anecdote"},     {"number":54, "text":".", "label":"no-unit"},     {"number":55, "text":"And in doing this the divine takes on a representational form", "label":"assumption"},     {"number":56, "text":".", "label":"no-unit"},     {"number":57, "text":"Jesus, says St Paul, is the image of the invisible God", "label":"testimony"},     {"number":58, "text":".", "label":"no-unit"},     {"number":59, "text":"Without this the whole western tradition of Catholic religious art and eastern tradition of icons is utterly inconceivable", "label":"assumption"},     {"number":60, "text":".", "label":"no-unit"}   ],   [     {"number":61, "text":"So I can see how some Christians might find disrespectful images of God a la Charlie Hebdo insulting", "label":"assumption"},     {"number":62, "text":".", "label":"no-unit"},     {"number":63, "text":"After all", "label":"no-unit"},     {"number":64, "text":",", "label":"no-unit"},     {"number":65, "text":" they believe it's possible for images genuinely to capture something of God", "label":"assumption"},     {"number":66, "text":".", "label":"no-unit"},     {"number":67, "text":"But", "label":"no-unit"},     {"number":68, "text":"if", "label":"no-unit"},     {"number":69, "text":"images can't capture God- and that's the Jewish/Islamic position- then bring on the cartoonists", "label":"assumption"},     {"number":70, "text":".", "label":"no-unit"},     {"number":71, "text":"They should be encouraged to do their worst and disrupt our confidence that what we think of as God bears any resemblance to anything legitimately God-like", "label":"assumption"},     {"number":72, "text":".", "label":"no-unit"},     {"number":73, "text":"They are like Moses bringing down the golden calf", "label":"assumption"},     {"number":74, "text":".", "label":"no-unit"},     {"number":75, "text":"It is the ancient job of the iconoclast", "label":"assumption"},     {"number":76, "text":".", "label":"no-unit"}   ],   [     {"number":77, "text":"But", "label":"no-unit"},     {"number":78, "text":",", "label":"no-unit"},     {"number":79, "text":" of course, these terrorists weren't really interested in theology", "label":"assumption"},     {"number":80, "text":".", "label":"no-unit"},     {"number":81, "text":"They thought that Charlie Hebdo's cartoonists were insulting their human tribe, a tribe they called fellow Muslims", "label":"assumption"},     {"number":82, "text":".", "label":"no-unit"},     {"number":83, "text":"And maybe they were", "label":"assumption"},     {"number":84, "text":".", "label":"no-unit"},     {"number":85, "text":"But", "label":"no-unit"},     {"number":86, "text":"whatever else was happening, it was the atheist cartoonists who were performing the religious function and the apparently believing Muslims who had forgotten their deepest religious insights", "label":"assumption"},     {"number":87, "text":".", "label":"no-unit"},     {"number":88, "text":"For any representation of the divine that leads people to murder each other deserves the maximum possible disrespect", "label":"assumption"},     {"number":89, "text":".", "label":"no-unit"}   ],   [     {"number":90, "text":"@giles_fraser", "label":"no-unit"},     {"number":91, "text":".", "label":"no-unit"}   ] ]} ;
+const summaryRatio = 0.2;
+const numSegmentThesisMin = 1;
+const numSegmentThesisMax = 3;
+</script>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Bootstrap stuff
+  ---------------------------------------------------------------------------------------------------------------------->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Panel only visible when JavaScript is disabled to tell worker to enable JavaScript
+  ---------------------------------------------------------------------------------------------------------------------->
+<div class="container" id="requireJavascript">
+  <div class="panel panel-danger">
+    <div class="panel-heading">You need to enable JavaScript to work on this HIT. If you have JavaScript enabled, this notice will disappear once the page is ready. If it does not disappear, you can not work on this HIT.</div>
+  </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelector("#requireJavascript").style.display = "none";
+  document.querySelector("#main").style.display = "box";
+});
+</script>
+
+<div id="main" class="container" style="display:hidden">
+<!-----------------------------------------------------------------------------------------------------------------------
+  Instructions
+  ---------------------------------------------------------------------------------------------------------------------->
+<div class="panel panel-primary">
+<div class="panel-heading">Instructions</div>
+<div class="panel-body">
+Your task is to make a summary of an opinionated news article by selecting some of its text segments. The summary should be concise, self-contained, persuasive, and useful for others. The summary should comprise the <span class="thesis">thesis</span> (what the author wants to persuade the reader of), and <span class="justification">justification</span> (statements that support this thesis, or provide background information about it). 
+<br>
+<br>
+Workflow:
+<ol>
+<li>Read the following opinionated news article.</li>
+<li>Use the <span class="dropdown"><button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown"><span class="caret"></span></button><ul class="dropdown-menu"><li class="thesis" data-value="1">thesis (1)</li><li class="justification" data-value="2">justification (2)</li><li class="not-in-summary" data-value="3">not in summary (3)</li></ul></span>-button to mark the segments as <span class="thesis">thesis</span>, <span class="justification">justification</span>, or <span class="not-in-summary">not in summary</span> (default).</li>
+<li>Make sure your summary contains exactly <span id="targetSegments">a fifth of all</span> segments. One to two of these must be marked as <span class="thesis">thesis</span>. See "Final check" below.</li>
+<li>Answer the four multiple-choice questions at the bottom.</li>
+</ol>
+<strong>Hint:</strong> Save time by using <kbd class="thesis">1</kbd>, <kbd class="justification">2</kbd>, and <kbd class="not-in-summary">3</kbd> on your keyboard if a dropdown menu is open.
+<br>
+This task requires JavaScript to complete.
+</div>
+</div>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  News Article
+  ---------------------------------------------------------------------------------------------------------------------->
+<div class="panel panel-primary">
+<div class="panel-heading">News Article</div>
+<div class="panel-body">
+
+<div id="articletext">
+</div>
+
+<div class="comments input-group">
+<span class="input-group-addon" id="commentsAddon">Comments (optional):</span>
+<input aria-describedby="commentsAddon" class="form-control" name="comments" type="text" />
+</div>
+</div>
+</div>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Progress
+  ---------------------------------------------------------------------------------------------------------------------->
+<div class="panel panel-primary">
+<div class="panel-heading">Final check</div>
+<div class="panel-body">
+<div class="progess">
+<span id="countSummary">X</span> segments in summary (<span id="annotatedCheckSummary">FAIL</span>)<br/> <br/>
+<span id="countThesis">X</span> segments of these marked as <span class="thesis">thesis</span> (<span id="annotatedCheckThesis">FAIL</span>)<br/><br/>
+
+Before submitting, review your summary and make changes if necessary:<br/>
+<p id="summary" class="summary"></p>
+<br/><br/>
+
+<h4>Answer the following questions:</h4>
+<h5>Answers to these questions have <strong>no effect</strong> on your HIT approval. They are only for our internal use.</h5>
+<br>
+<p>1. What is your <strong>previous knowledge</strong> about the topic of the article?</p>
+<div class="form-row">
+<label class="radio-inline"><input type="radio" name="knowledge" value="very-low">Very Poor</label>
+<label class="radio-inline"><input type="radio" name="knowledge" value="below-average">Below Average</label>
+<label class="radio-inline"><input type="radio" name="knowledge" value="average">Average</label>
+<label class="radio-inline"><input type="radio" name="knowledge" value="above-average">Above Average</label>
+<label class="radio-inline"><input type="radio" name="knowledge" value="very-high">Excellent</label> 
+</div>
+<br><br>
+<p>2. How well do you agree with the <strong>author's opinion </strong>?</p>
+<div class="form-row">
+<label class="radio-inline"><input type="radio" name="stance" value="strongly-disagree">Strongly Disagree</label>
+<label class="radio-inline"><input type="radio" name="stance" value="slightly-disagree">Slightly Disagree</label>
+<label class="radio-inline"><input type="radio" name="stance" value="undecided">Undecided</label>
+<label class="radio-inline"><input type="radio" name="stance" value="slightly-agree">Slightly Agree</label>
+<label class="radio-inline"><input type="radio" name="stance" value="strongly-agree">Strongly Agree</label>
+</div>
+<br><br>
+<p>3. How <strong>interested</strong> are you in the topic of the article?</p>
+<div class="form-row">
+<label class="radio-inline"><input type="radio" name="interest" value="not-at-all">Not at all</label>
+<label class="radio-inline"><input type="radio" name="interest" value="slightly">Slightly</label>
+<label class="radio-inline"><input type="radio" name="interest" value="moderately">Moderately</label>
+<label class="radio-inline"><input type="radio" name="interest" value="very">Very</label>
+<label class="radio-inline"><input type="radio" name="interest" value="extremely">Extremely</label> 
+</div>
+<br><br>
+<p>4. How <strong>persuasive</strong> is the article?</p>
+<div class="form-row">
+<label class="radio-inline"><input type="radio" name="persuasiveness" value="not-at-all">Not at all</label>
+<label class="radio-inline"><input type="radio" name="persuasiveness" value="slightly">Slightly</label>
+<label class="radio-inline"><input type="radio" name="persuasiveness" value="moderately">Moderately</label>
+<label class="radio-inline"><input type="radio" name="persuasiveness" value="very">Very</label>
+<label class="radio-inline"><input type="radio" name="persuasiveness" value="extremely">Extremely</label> 
+</div>
+<br><br>
+</div>
+</div>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Article scripts
+  ---------------------------------------------------------------------------------------------------------------------->
+
+<script>
+
+function addMenuItem(menu, value, label) {
+  const item = document.createElement("li");
+  const classValue = label.replace(/ /g, "-");
+  item.classList.add(classValue);
+  item.setAttribute("data-segment", menu.getAttribute("data-segment"));
+  item.setAttribute("data-value", value);
+  item.setAttribute("data-class", classValue);
+  item.textContent = label + " (" + value + ")";
+
+  item.addEventListener("click", function(event) {
+    const segmentNumber = event.target.getAttribute("data-segment");
+    const segment = document.getElementById("segment" + segmentNumber);
+    segment.classList.remove("not-in-summary", "justification", "thesis");
+    segment.classList.add(classValue);
+    segment.querySelector("input").value = classValue;
+    updateSummaries();
+    checkCompletion();
+  });
+
+  menu.appendChild(item);
+}
+
+function useSegment(segment) {
+  return segment.label !== "no-unit" && segment.label !== "title";
+}
+
+function addParagraph(paragraph, parent, previousSegmentNumber) {
+  const container = document.createElement("div");
+  container.classList.add("paragraph");
+
+  for (let s = 0; s < paragraph.length; ++s) {
+    const segment = paragraph[s];
+    const segmentSpan = document.createElement("span");
+    if (useSegment(segment)) {
+      segmentSpan.classList.add("segment", "not-in-summary");
+      segmentSpan.setAttribute("id", "segment" + segment.number);
+      segmentSpan.setAttribute("title", "segment " + segment.number);
+      if (previousSegmentNumber != -1) {
+        segmentSpan.setAttribute("data-previous", previousSegmentNumber);
+      }
+
+      const lastWord = segment.text.split(" ");
+      const previousWords = lastWord.splice(0, lastWord.length - 1); // this changes lastWord!
+      if (previousWords.length > 0) {
+        segmentSpan.textContent = previousWords.join(" ") + " ";
+      }
+
+      const nobreak = document.createElement("span");
+      nobreak.classList.add("nobreak");
+      nobreak.textContent = lastWord[0];
+      const dropdown = document.createElement("span");
+      dropdown.classList.add("dropdown");
+
+      const button = document.createElement("button");
+      button.classList.add("btn", "btn-secondary", "dropdown-toggle");
+      button.setAttribute("type", "button");
+      button.setAttribute("data-toggle", "dropdown");
+      button.setAttribute("data-segment", segment.number);
+      button.innerHTML = "<span class='caret'></span>";
+      dropdown.appendChild(button);
+
+      const menu = document.createElement("ul");
+      menu.classList.add("dropdown-menu");
+      menu.setAttribute("data-segment", segment.number);
+
+      addMenuItem(menu, 1, "thesis");
+      addMenuItem(menu, 2, "justification");
+      addMenuItem(menu, 3, "not-in-summary");
+
+      dropdown.appendChild(menu);
+
+      nobreak.appendChild(dropdown);
+      segmentSpan.appendChild(nobreak);
+
+      const field = document.createElement("input");
+      field.setAttribute("type", "hidden");
+      field.setAttribute("name", "segment" + segment.number);
+      field.setAttribute("value", "not-in-summary");
+      segmentSpan.appendChild(field);
+
+      previousSegmentNumber = segment.number;
+    } else {
+      segmentSpan.textContent = segment.text;
+    }
+
+    container.appendChild(segmentSpan);
+  }
+
+  parent.appendChild(container);
+  return previousSegmentNumber;
+}
+
+function addArticleText() {
+  const paragraphs = article.paragraphs;
+
+  const titleContainer = document.createElement("div");
+  titleContainer.classList.add("title");
+  let previousSegmentNumber = addParagraph(paragraphs[0], titleContainer, -1);
+  document.getElementById("articletext").appendChild(titleContainer);
+
+  for (let p = 1; p < paragraphs.length; ++p) {
+    previousSegmentNumber = addParagraph(paragraphs[p], document.getElementById("articletext"), previousSegmentNumber);
+  }
+
+  const numSegments = document.querySelectorAll(".segment").length;
+  const numSummarySegments = Math.floor(numSegments * summaryRatio);
+  document.getElementById("targetSegments").textContent = numSummarySegments;
+}
+
+document.addEventListener('keypress', function(event) {
+  const item = document.querySelector(".dropdown.open li[data-value='" + event.key + "']");
+  if (item !== null) {
+    item.click();
+    if (item.getAttribute("data-segment") !== null) {
+      const nextSegment = document.querySelector(".segment[data-previous='" + item.getAttribute("data-segment") + "']");
+      if (nextSegment !== null) {
+        nextSegment.querySelector("button").click();
+      }
+    }
+  }
+});
+</script>
+
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Updating summary
+  ---------------------------------------------------------------------------------------------------------------------->
+<script>
+function updateSummaries() {
+  const segments = document.querySelectorAll(".segment");
+  let summary = "";
+  for (let s = 0; s < segments.length; ++s) {
+    const annotation = segments[s].querySelector("input").value;
+    const text = segments[s].textContent.replace(/thesis \(1\).*$/, "");
+    if (annotation !== "not-in-summary") {
+      if (summary !== "") { summary += " | "; }
+      summary += text;
+    }
+  }
+  document.getElementById("summary").textContent = summary;
+}
+</script>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Checking for completion
+  ---------------------------------------------------------------------------------------------------------------------->
+<script>
+function checkAnnotations() {
+  const numSegments = document.querySelectorAll(".segment").length;
+  const numSegmentsThesis = document.querySelectorAll(".segment.thesis").length;
+  document.getElementById("countThesis").textContent = numSegmentsThesis;
+  const numSegmentsSummary = document.querySelectorAll(".segment:not(.not-in-summary)").length;
+  document.getElementById("countSummary").textContent = numSegmentsSummary;
+  const targetNumSegmentsSummary = Math.floor(numSegments * summaryRatio);
+
+  let done = true;
+
+  const labelSummary = document.getElementById("annotatedCheckSummary");
+  if (numSegmentsSummary === targetNumSegmentsSummary) {
+    labelSummary.textContent = "ok";
+    labelSummary.classList.remove("check-fail");
+    labelSummary.classList.add("check-ok");
+  } else {
+    labelSummary.textContent = "must be " + targetNumSegmentsSummary + "!";
+    labelSummary.classList.remove("check-ok");
+    labelSummary.classList.add("check-fail");
+    done = false;
+  }
+
+  const labelThesis = document.getElementById("annotatedCheckThesis");
+  if (numSegmentsThesis >= numSegmentThesisMin && numSegmentsThesis <= numSegmentThesisMax) {
+    labelThesis.textContent = "ok";
+    labelThesis.classList.remove("check-fail");
+    labelThesis.classList.add("check-ok");
+  } else {
+    labelThesis.textContent = "must be between " + numSegmentThesisMin + " and " + numSegmentThesisMax + "!";
+    labelThesis.classList.remove("check-ok");
+    labelThesis.classList.add("check-fail");
+    done = false;
+  }
+
+  if (document.querySelector("[name=knowledge]:checked") === null) { done = false; }
+  if (document.querySelector("[name=stance]:checked") === null) { done = false; }
+  if (document.querySelector("[name=interest]:checked") === null) { done = false; }
+  if (document.querySelector("[name=persuasiveness]:checked") === null) { done = false; }
+  return done;
+}
+
+function checkCompletion() {
+  const submitButton = document.getElementById("submitButton");
+
+  const numSegments = document.querySelectorAll(".segment").length;
+  if (checkAnnotations()) {
+    submitButton.classList.remove("disabled");
+    submitButton.removeAttribute("disabled");
+    submitButton.setAttribute("value", "Submit");
+  } else {
+    submitButton.classList.add("disabled");
+    submitButton.setAttribute("disabled", "disabled");
+    submitButton.setAttribute("value", "You need to pass the final check and answer the questions before you can submit");
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  Array.from(document.querySelectorAll("[type=radio]")).forEach(radio => radio.addEventListener("click", checkCompletion));
+  checkCompletion();
+});
+</script>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  End of main panel
+  ---------------------------------------------------------------------------------------------------------------------->
+</div> <!-- #main -->
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Styles
+  ---------------------------------------------------------------------------------------------------------------------->
+<style type="text/css">
+
+.nobreak {
+  white-space: nowrap;
+}
+.check-ok:after {
+  content: " \2713";
+}
+.check-fail:after {
+  content: " \274C";
+}
+
+#main {
+  width: 100%;
+  max-width: 1024px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 12pt;
+}
+
+.title {
+  font-weight: bold;
+}
+.paragraph {
+  line-height: 30px;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.paragraph span:not(:first-child) {
+  margin-left: 7px;
+}
+
+button.btn-secondary {
+  padding: 0px 3px;
+  line-height: 22px;
+  border-radius: 0px;
+  border: 1px solid black;
+  vertical-align: unset;
+  margin-left: 5px;
+  background-color: inherit;
+}
+.dropdown button:hover,
+.dropdown.open button{
+  border-color: blue;
+}
+.dropdown-menu {
+  padding: 0px;
+}
+.dropdown-menu li {
+  display: block;
+  padding: 5px 10px;
+  border: 2px solid;
+}
+.dropdown-menu li:hover {
+  cursor: pointer;
+  border-color: blue;
+}
+.segment {
+  background-color: #f0f0f0;
+  border-color: #f0f0f0;
+}
+.not-in-summary {
+  color: black;
+  background-color: #f0f0f0;
+  border-color: #f0f0f0;
+  padding: 2.5px;
+}
+.background {
+  color: black;
+  background-color: #909ff3;
+  border-color: #7570b3;
+  padding: 2.5px;
+}
+.justification {
+  color: black;
+  background-color: #f07373;
+  border-color: #d65f5f;
+  padding: 2.5px;
+}
+.thesis {
+  color: black;
+  background-color: #54e4b9;
+  border-color: #1b9e77;
+  padding: 2.5px;
+}
+
+.summary {
+  margin-top: 3px;
+  min-height: 30px;
+  border: 1px solid;
+}
+
+.questions .form-group {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+</style>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Data
+  ---------------------------------------------------------------------------------------------------------------------->
+
+<script>
+addArticleText();
+</script>
+
+<!-- END MTURK -->
+<!-----------------------------------------------------------------------------------------------------------------------
+  Submit button (does not work, but to check that it changes as it should)
+  ---------------------------------------------------------------------------------------------------------------------->
+<p class="text-center"><input id="submitButton" type="submit" class="btn btn-primary disabled" value="Complete all tasks"/></p>
+
+</body>
+</html>

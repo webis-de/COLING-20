@@ -1,0 +1,138 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Philippines-China standoff: David vs Goliath?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In recent years, the South China Sea has (once again) transformed into a theatre of competition among rival claimant states", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Outmatched and outgunned by China, the Philippines has sought to resolve the disputes by resorting to legal arbitration, hoping that international law, particularly the United Nations Convention on the Law of the Sea (UNCLOS), will serve as an amicable basis for settling maritime conflicts", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"But China has unequivocally rejected the arbitration process as an infringement on its national sovereignty and territorial integrity", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"recently releasing a position paper that details its rationale for opposing any third- party intervention in the disputes", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"The South China Sea represents a potential flashpoint with global ramifications", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Connecting one of the most dynamic economies of the 21st century, the waters facilitate more than $5 trillion in annual trade", "label":"statistics"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Crucially, the bulk of the energy imports of industrial powerhouses such as Japan and South Korea pass through the South China Sea", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The very economic survival and energy security of major Asian economies is anchored by unimpeded access to international waters such as the South China Sea", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Almost everyone has an interest in the peaceful settlement of the disputes", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"But it is far from certain whether the Philippines' legal manoeuvre will contribute to the de-escalation of maritime tensions", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"China has vehemently rejected the entire arbitration process, accusing the Philippines of stirring trouble and jeopardising historically stable bilateral ties", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Technically, the maritime disputes involve six rival claimant states: China, Brunei, Malaysia, the Philippines, Vietnam, and Taiwan", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"The bitterest disputes, however, involve China, on one hand, and the Philippines and Vietnam, on the other", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Fortunately, the latest wave of maritime spats hasn't yet sparked a full-scale military confrontation", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"The last bloody standoff was in the latter decades of the Cold War", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"when China tried to wrest control of the Paracel (1974) and the Spratly (1988) islands from the South Vietnamese and (united) Vietnam forces, respectively", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"But amid a flurry of nationalist bombast, backed up by wide-ranging - civilian and military - construction activities as well as paramilitary patrols across disputed areas, there are growing concerns over accidental clashes and unintended escalation in the high seas", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"In short", "label":"no-unit"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":" freedom of navigation (FoN) - a pillar of commerce and trade - in the South China Sea could be in peril", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Given the significance of the South China Sea to regional trade and security, non-claimant states such as the US, Japan, and Indonesia have also been drawn into the territorial disputes", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Washington is bound by treaty obligations to defend Asian allies such as the Philippines, against external aggression", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"As some commentators would put it", "label":"assumption"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"the maritime rivalries resemble a three-dimensional chess game, threatening strategic, economic, and political interests in the region, with ever-growing number of players injecting additional layers of complexity and risk to the problem", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"While", "label":"no-unit"},
+    {"number":49, "text":"all actors have contributed to the escalation of tensions in the area", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"the consensus among independent experts is that China's sweeping claims, particularly its notorious \"nine-dashed line\" doctrine, has served as a major stumbling block in resolving the territorial disputes", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"China's claims are simultaneously expansive and ambiguous", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"The \"nine-dashed line\" covers almost the entirety of the South China Sea, even overlapping with Indonesia's waters", "label":"anecdote"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"but", "label":"no-unit"},
+    {"number":58, "text":"Beijing has not clarified its precise coordinates", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"It isn't clear whether China is claiming the land features and their surrounding territorial waters, or treating the entire area as an internal lake", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"China has evoked\"historical rights\" and\"inherent and indisputable sovereignty\" over the South China Sea", "label":"assumption"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"which, most experts believe, has little basis in modern international law", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Despite signing the 2002 Declaration on the Conduct of Parties in the South China Sea, which discourages claimant states from unilaterally altering the status quo", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"China has stepped up its construction activities and paramilitary patrols across disputed waters", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"In terms of size and capabilities, China dwarfs all its neighbours combined", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"The regional geopolitical landscape is highly lopsided", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Eager to maintain stable ties with Beijing, Washington has consistently refused to take sides in the disputes", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"limiting its concern to FoN in the South China Sea", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Against the backdrop of deteriorating regional security, leading to a brief and perilous standoff between Filipino and Chinese forces over the Scarborough Shoal (220 km off the coast of the Philippines, and 900km away from the nearest Chinese coastline)", "label":"no-unit"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"In mid-2012, Manila decided to take China to the special Arbitral Tribunal in The Hague", "label":"anecdote"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"As a signatory to the UNCLOS, China has (under Article 298) rejected compulsory arbitration over maritime disputes", "label":"anecdote"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"but", "label":"no-unit"},
+    {"number":85, "text":"the tribunal has the power to determine whether it can exercise jurisdiction over the case and judge the merits of the Philippines' complaint against China", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"The Philippines aim is to pressure China to clarify its claims as well as determine the nature of contested features in the South China Sea", "label":"assumption"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"specifically whether they can generate their own independent territorial waters", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"In the end, the Philippines might end up with a pyrrhic victory", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"In the absence of any tangible compliance-enforcement mechanism, China can reject any unfavourable judicial outcome; launch a media campaign to delegitimise the arbitration proceedings; contemplate sanctions and other forms of diplomatic counter-manoeuvres to isolate the Philippines; and project toughness (to its domestic hyper-nationalist audience) by stepping up its activities in the area", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"Ultimately, the best solution may lie in direct engagement, confidence- building measures, and sustained bilateral negotiations rather than compulsory arbitration", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Both Manila and Beijing will have to devise a diplomatic strategy outside the courts of law", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ]
+]}

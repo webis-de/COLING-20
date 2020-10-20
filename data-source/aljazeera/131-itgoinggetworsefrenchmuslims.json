@@ -1,0 +1,102 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"It's going to get worse for French Muslims.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The attack on the Charlie Hebdo office was one of the deadliest attacks against civilians in France since 1980 and the most serious waged against a newspaper since the war in Algeria", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Twelve people were killed by men armed with Kalashnikovs at the headquarters of this satirical weekly in Paris", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Could this attack have been motivated by the editorial slant of the newspaper that has been subject to threats?", "label":"assumption"},
+    {"number":7, "text":"Could this attack have been perpetrated by foreign groups to \"punish\" France for its commitment in Mali or Chad?", "label":"assumption"}
+  ],
+  [
+    {"number":8, "text":"Police in France have identified and released the photographs of two brothers suspected to be involved in the attack", "label":"anecdote"},
+    {"number":9, "text":"while early speculation focused on the premise that Muslim extremists were behind the dreadful act, especially given the magazine's long history of satirising Islam and other religions", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"The two brothers have been identified as 32-year-old Said Kouachi and 34-year-old Cherif Kouachi", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"This attack must be condemned with the utmost firmness and its perpetrators arrested and convicted", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Nothing can justify such an act; whatever the reasons, whoever the perpetrators", "label":"common-ground"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"But we also have to understand the context", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"as this aggression could arouse dangerous reactions within French society", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Charlie Hebdo was founded in February 1969", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"It was then politically positioned on the extreme left with anarchist tendencies and a taste for provocation", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"In November 1970, following the death of General de Gaulle, it published a cover with the headline: \"Tragic prom in Colombey [de Gaulle's city of origin], one dead\"", "label":"anecdote"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"which resulted in it being banned by the Ministry of Interior", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"But since 2000, under its new editor Philippe Val, Charlie Hebdo shifted direction, taking a stand against the Palestinians and supporting the Israeli aggression against Lebanon in 2006", "label":"anecdote"},
+    {"number":30, "text":"...", "label":"no-unit"},
+    {"number":31, "text":"This came during the second Intifada", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"At the same time, the newspaper started to launch Islamophobic campaigns", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"In 2006, it republished the cartoons of the Prophet Muhammad that were previously published in Denmark", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"A number of intellectuals then pointed out that while in France we cannot accept censorship, sometimes it can be irresponsible to publish drawings fuelling sectarian tensions in the country", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"In March 2006, Val signed \"The Twelve's Manifesto: Together Against the New Totalitarianism\" published in the weekly magazine L'Express, by Bernard-Henri Levy, Caroline Fourest, and Antoine Sfeir", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"\"After having overcome Fascism, Nazism and Stalinism, the world now faces a new global threat of a totalitarian nature: Islamism. We - writers, journalists and intellectuals - call for resistance against religious totalitarianism and to promote freedom, equal opportunity and secular values for all.\"", "label":"testimony"}
+  ],
+  [
+    {"number":42, "text":"But these positions divided the team and several members resigned", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"While claiming to stand for press freedom, Charlie Hebdo dismissed one of its star cartoonists, Sine, due to false accusations of anti-Semitism", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"It then came as no surprise that, when elected, President Nicolas Sarkozy promoted Philippe Val to executive editor of France-Inter (a public radio station)", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Nevertheless", "label":"no-unit"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"press freedom cannot be compromised", "label":"assumption"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"the situation currently rocking Paris is all the more condemnable showing that this could have serious consequences on the internal situation in France", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"It may encourage a wave of Islamophobia that overwhelms the country- as well as other European countries - and could designate Muslims as the \"internal enemy\"", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"However", "label":"no-unit"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":" perhaps it is about time to engage in a substantive debate on the \"war against terrorism\" revived by the West and the \"international community\", in the aftermath of the expansion of ISIL", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Assessing the outcomes of such a campaign (more violent actions around the world, finding justifications for attacks on freedom, new anti-terrorism legislation, worsening sectarian tensions, more support for Middle East dictatorships and so on), isn't it about time to change our methods?", "label":"assumption"}
+  ],
+  [
+    {"number":61, "text":"Remember", "label":"assumption"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"the wave of the Arab Spring uprisings in 2011 and 2012 resulted in a loss of credit for al-Qaeda", "label":"assumption"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"as they paved a path for political and democratic change in Arab countries", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ]
+]}

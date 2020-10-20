@@ -1,0 +1,111 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Responding to the massacre: Revenge or resolution?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"There are many unanswered questions about the TTP", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"How big is the group?", "label":"assumption"},
+    {"number":5, "text":"Have its ties to the Pakistani intelligence agencies become stronger since Mullah Fazlullah, of Swat fame, became its leader, given his own past affiliation with Pakistan's powerful spy agency ISI (Inter-Services Intelligence)?", "label":"assumption"},
+    {"number":6, "text":"Or is the group closer now to other foreign funders?", "label":"assumption"}
+  ],
+  [
+    {"number":7, "text":"The absence of convincing answers to such questions has resulted in ongoing debates on the appropriate response to this horror", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"From US-backed media personalities supporting the establishment of concentration camps for entire populations in some parts of the tribal areas, to the broadening of ongoing military operations,", "label":"no-unit"},
+    {"number":10, "text":"the overwhelming thrust among many vocal commentators has been for countering this violence with more violence", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"However", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" there is also a deep scepticism about a primarily military response within the Pakistani society", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"which is why successive governments have been secretive about such operations", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Despite repeated calls for stronger military action by the US government and also many influential commentators within Pakistan, there is widespread suspicion that these army operations end up killing more civilians than militants", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"It is easy, but completely misleading, to write off this widespread scepticism about military responses to the Taliban violence as driven by sympathetic sentiments or worse", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"as", "label":"no-unit"},
+    {"number":23, "text":"the inability of Pakistanis to face the hard facts of home-grown terror", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"We must recognise that it is a mistrust borne of experience with the military's role in Pakistani politics", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"More critically", "label":"no-unit"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"we need to recognise the long-term impact of the Pakistani state's support for the \"war on terror\" and its operations in the tribal areas over the last decade", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"There is a growing sense of deprivation and discrimination among Pashtuns across the country", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"and", "label":"no-unit"},
+    {"number":34, "text":"further state violence in the region has to be carefully weighed against the very real possibility of serious backlash", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"While", "label":"no-unit"},
+    {"number":37, "text":"we all agree that there must be a response to these atrocities", "label":"assumption"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"for it to be effective, both at the state and societal level,", "label":"no-unit"},
+    {"number":40, "text":"it is imperative that it is calibrated to the level of threat posed by wide range of groups contained within the category \"Taliban\"", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"All four are a direct result of the chaos created by the US' war in the region and the supply of drugs, arms and men that such a war invariably engenders", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"But these four groups all require different responses", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"The local defence militias can be ignored for now", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"The mercenaries and criminals need to be treated precisely as that", "label":"assumption"},
+    {"number":49, "text":":", "label":"no-unit"},
+    {"number":50, "text":"controlling and managing their sources of incomes or in some cases, completely eroding them", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"However", "label":"no-unit"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":" the first two groups require a much broader and more complex response", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"There is, unfortunately, no short-cut to political transparency that is required for their dismantling", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Aggressive and persistent public questioning and scrutiny of Pakistani generals and politicians associated with the state funded militia, as well as their support for the \"war on terror\" in the region, is the only viable strategy available to citizens of Pakistan for a lasting resolution", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"In this context, the religious vs secular binary is completely artificial", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"The most secular generals of the Pakistani army have been happy to support some versions of Taliban as well as to benefit financially and politically by supporting the US war in the region", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"A key step in this direction has to be the demand for greater information about the militants who attacked the school in Peshawar", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Although TTP has claimed responsibility for the tragedy", "label":"anecdote"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"it is important to establish who precisely is involved", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"How did they get past the three check points in the defence colony where the school is located?", "label":"assumption"},
+    {"number":71, "text":"Which cities/villages did the militants who were killed come from?", "label":"assumption"},
+    {"number":72, "text":"How does that correspond to the profiles of the attackers in the past?", "label":"assumption"},
+    {"number":73, "text":"Where is that information about past attackers anyway?", "label":"assumption"},
+    {"number":74, "text":"What are their organisational careers and educational backgrounds?", "label":"assumption"},
+    {"number":75, "text":"Where are their families", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"and", "label":"no-unit"},
+    {"number":78, "text":"what can they tell us about the path their sons took?", "label":"assumption"}
+  ],
+  [
+    {"number":79, "text":"Calling on the very same generals to carry out military operations against the operatives they have supported and created is surely a strategy fraught with contradictions, though favoured by some vocal analysts and by the US government", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"The collective punishment of the people of the tribal areas as a \"solution\" may appeal to some because of its deceptive simplicity", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"but", "label":"no-unit"},
+    {"number":84, "text":"it is an extremely dangerous strategy likely to further shred the fabric of Pakistani public life", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ]
+]}

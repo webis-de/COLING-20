@@ -1,0 +1,110 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Mario Cuomo and the folly of progressivism.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"How precious in the sight of progressives was one of their saints, Mario Cuomo, the three-term governor of New York who died last week at age 82", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"He was a model of progressivism and a gifted rhetorician", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"In most media accounts, references were made to two speeches Cuomo delivered in 1984, one at the Democratic National Convention in San Francisco where Walter Mondale was nominated for president, and the other at the University of Notre Dame where Cuomo spoke about abortion and the \"proper\" role of religion in politics", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The thing about progressivism is that it resembles floor wax -- all shine and no depth", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"In his Democratic convention speech, Cuomo referenced Ronald Reagan's line about America being a \"shining city on a hill.\"", "label":"anecdote"},
+    {"number":11, "text":"Cuomo responded,\"A shining city is perhaps all the president sees from the portico of the White House or the veranda of his ranch, where everyone seems to be doing well", "label":"testimony"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"But there's another city; there' s another part to the shining city.... In this part of the city, there are more poor than ever", "label":"testimony"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"More families in trouble", "label":"testimony"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"More and more people who need help but can't find it", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"... There are people who sleep in the city streets, in the gutter where the glitter doesn't show.\"", "label":"testimony"}
+  ],
+  [
+    {"number":20, "text":"This is boilerplate Democratic rhetoric we've heard since the days of Franklin Roosevelt", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"After Democrats Roosevelt, Truman, Kennedy, Johnson, Carter, Clinton and Obama, are fewer families in trouble?", "label":"assumption"},
+    {"number":23, "text":"Are there fewer poor people, especially since Johnson's \"War on Poverty\" promised to end it?", "label":"assumption"}
+  ],
+  [
+    {"number":24, "text":"Statistics reveal there are not", "label":"assumption"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"so why do so many embrace progressive ideas?", "label":"assumption"},
+    {"number":27, "text":"If", "label":"no-unit"},
+    {"number":28, "text":"something isn't working", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"why repeat the errors?", "label":"assumption"}
+  ],
+  [
+    {"number":31, "text":"As Reagan noted, government too often adds to problems", "label":"assumption"},
+    {"number":32, "text":";", "label":"no-unit"},
+    {"number":33, "text":"it doesn' t solve them", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Government doesn't create jobs", "label":"assumption"},
+    {"number":36, "text":";", "label":"no-unit"},
+    {"number":37, "text":"a thriving private economy does", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Government welfare mostly doesn't incentivize people to escape poverty, but too often sustains them in poverty and addicts them to government handouts", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"On the issue of church and state, Cuomo bisected the subjects in his Notre Dame speech", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"While", "label":"no-unit"},
+    {"number":44, "text":"he said he accepted Catholic teaching against capital punishment", "label":"testimony"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"he rejected its opposition to abortion", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"In this, the late Cardinal Joseph Bernardin expressed opposition to both issues while eloquently arguing that the Catholic Church believes that each is part of a \"seamless garment\" of life and that all life matters and should not be taken by individuals, or the state", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"This is another flaw of progressivism", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Progressives are happy to embrace church teachings when it favors their political agenda, but reject them when those teachings don't conform to their politics", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"My one encounter with Cuomo came after a column I wrote following his 2007 debate with former Speaker Newt Gingrich at Cooper Union in New York, the site of a famous speech by Abraham Lincoln", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"I said that Gingrich clearly won the debate and made a mockery of Cuomo's liberalism", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Cuomo called me and after identifying himself launched into a tirade that lasted about 90 seconds", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"He then hung up giving me no opportunity to say much more than \"hello, nice to hear from you.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":61, "text":"Vanity", "label":"no-unit"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Vanity", "label":"no-unit"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Most obituaries and news reports called Cuomo \"inspiring.\"", "label":"assumption"},
+    {"number":66, "text":"A New York Times editorial correctly noted:\"For all his idealism, Mr  Cuomo's years as governor were dogged by economic recession that blunted his hopes to leave great programs and innovation as his legacy", "label":"testimony"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"He had to cut services and scratch for scarce revenue.\"", "label":"testimony"}
+  ],
+  [
+    {"number":69, "text":"Inspiration is good if it motivates people to do for themselves and improve their lives", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Otherwise", "label":"no-unit"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":" it's nothing more than floor wax", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"May Gov  Cuomo rest in peace", "label":"other"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ]
+]}

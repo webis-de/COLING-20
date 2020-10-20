@@ -1,0 +1,154 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Iran talks: Moving beyond 'worn out' policies.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The stakes are high in the latest round of nuclear talks starting today in Geneva between Iran and the P5+1 at the deputy foreign minister level", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Over the past week, US Secretary of State John Kerry and his Iranian counterpart Mohammad Jawed Zarif have held long conversations in Geneva and Paris, lasting over seven hours", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Both realise that more flexibility is required to avoid the break up of the talks", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"British Prime Minister David Cameron spoke on the subject with US President Barack Obama and the foreign ministers of France, Germany and the EU foreign policy chief all held talks separately with Zarif", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Yet", "label":"no-unit"},
+    {"number":11, "text":"if", "label":"no-unit"},
+    {"number":12, "text":"both sides continue to stick to their strict red lines", "label":"assumption"},
+    {"number":13, "text":"it is questionable whether this round of talks will be any better than the last", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"It may be time for more flexible red lines", "label":"assumption"},
+    {"number":16, "text":"if", "label":"no-unit"},
+    {"number":17, "text":"failure is to be avoided", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"\"Chances are less than 50/50,\" admits Obama, in a joint press conference with the British Prime Minister David Cameron", "label":"testimony"},
+    {"number":20, "text":"when both leaders spent well over half of their press conferences spelling out what was at stake if a deal with Iran was not finalised by the June deadline", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Obama explained how\"the most successful, the most effective sanctions regime\" had eventually led Iran to the negotiating table", "label":"testimony"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"He said:\"If we can get a verifiable deal with the necessary assurances then that would be the best deal.\"", "label":"testimony"}
+  ],
+  [
+    {"number":25, "text":"Yet Iran's foreign ministry spokesperson said sanctions are a \"worn out policy\" and asked the White House to adopt a \"logical approach\"", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Iran would not accept a deal that constrains its enrichment programme without the West reducing sanctions", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"\"Now we have come to a stage in the talks that requires the other side to take its decision to enable us to move forward,\" said Zarif when arriving in Geneva", "label":"testimony"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"\"There needs to be some new and comprehensive proposals.\"", "label":"testimony"}
+  ],
+  [
+    {"number":32, "text":"The latest directive from Iran's leader, Ali Khamenei is that officials \"should take away the weapon of sanctions from the enemy\"", "label":"testimony"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"\"Even one step in retreat will lead to enemy's advance,\" he said", "label":"testimony"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"He is angered that \"Americans say flagrantly that even if Iran withdraws in the nuclear issue, the sanctions will not be lifted all together and at once\"", "label":"testimony"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Khamenei is referring to the main point of contention; the issue of the period of curbing Iran's enrichment programme in exchange for the lifting of four sets of sanctions imposed on Iran by the UN, EU and the US", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"The US wants the curbing of sanctions to be in a period covering well over 10 years, closer to 20 or in \"double digits\" as US administration officials put it", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"This is to ensure Iran's breakout time is prolonged", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Iran sees this as an attempt for forcing it to forego what it calls its peaceful enrichment programme", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"It does not accept this long period of curbing its enrichment programme without the reciprocal reduction in sanctions", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"It is believed that the Iranian leader could be persuaded with anything below 10 years or a timeframe in a \"single digit\"", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"\"Iran is deeply suspicious of the US and the West,\" said Obama", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Mutual distrust is at the core of the failure of the unwillingness on both side to be flexible", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Khamenei still refers to the US as\"enemy\" and the US continues to refuse to lift sanctions fearing Iran's return to enrichment", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"It is not clear if western trust has taken another blow from reports that Syria is still trying to make nuclear weapons and has been getting help from Iran and North Korea", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"The two sides would not be able to reach an agreement especially when the US Congress is pushing daily for imposing further sanctions in support of the Israeli lobby", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Republican Senator Mark Kirk and Democratic Senator Robert Menendez are finalising a bill for tougher sanctions", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Senator Bob Corker is also working on a bill to ensure the congress must approve any final deal with Iran", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Iran hardliners answer sanctions with the threat of enrichment", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"\"Further sanctions will result in a vote in the Iranian parliament for continuing enrichment,\" said Ali Larijani, the head of Judiciary", "label":"testimony"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"\"The enemies wanted to deprive Iran from its right to the nuclear technology and even resorted to military threats to this end.\"", "label":"testimony"}
+  ],
+  [
+    {"number":69, "text":"Hardline members of parliament are proposing a bill to increase the uranium enrichment programme to 60 percent", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"\"I am not, repeat, not suggesting that we are in immediate war footing, should negotiations with Iran fail,\" said Obama", "label":"testimony"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"At the same time he made it clear he would veto any congressional attempts at new sanctions against Iran", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"\"Hold your fire,\" he told the congress", "label":"testimony"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"\"We must not jeopardise the chance\" to get a verifiable deal with Iran", "label":"testimony"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"Although Republicans now hold a 54-46 seat majority in the Senate", "label":"anecdote"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"it is not clear whether there would manage to get the 67 votes required in the Senate to override an Obama veto of any Iran legislation", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"In intensive meetings with his European counterpart, Zarif has no doubt conveyed to them that if there is no easing of the sanctions there would be little he could do back home", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"He has asked for \"serious and brave decisions\" in order to move forward", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"The world has heard expressions of commitments and hope from Iran and the countries P5+1 for over a year now", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Yet those brave words must be coupled either with more flexibility as recommended by experts or coupled alternatively with new ideas, new methods and possibly new redlines", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"There is still time", "label":"assumption"},
+    {"number":92, "text":"and", "label":"no-unit"},
+    {"number":93, "text":"several avenues are still open", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"For example there could be more direct involvement by UN Secretary General Ban Ki-moon, in the form of a representative, a high calibre UN negotiator", "label":"assumption"},
+    {"number":96, "text":",", "label":"no-unit"},
+    {"number":97, "text":"who could add momentum to the talks and create synergy", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"Otherwise it is difficult to see how the negotiators can come up with a solution if they have not managed it in the past 14 months", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,147 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"What do black and white, rich and poor Americans have in common with one another, anyhow?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"2014 was a year marked by greater division between groups of Americans than I can remember in my adult life", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Racial tensions resurfaced in violent protests following the deaths of Michael Brown and Eric Garner", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"New York City's mayor and police split ranks over the mayor's comment that his biracial son faced perpetual danger from police officers, followed by the assassination of two New York City police officers", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The gap in wealth between the richer and poorer segments of Americans widened to record levels", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"The Democratic and Republican parties became more polarized -- with gun rights, immigration, abortion and health insurance leading people not only to argue the issues more vehemently with people from the other party, but to feel like they might have little in common with people from the other party, period", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Whether one supports President Obama or not, I believe most people would agree our nation is more divided than it was when he took office", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"White and black Americans may have thought they were electing a black leader who could unite the country", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"and", "label":"no-unit"},
+    {"number":17, "text":"that seemed to point to an American future of unity and promise", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"But something went horribly wrong", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"To my eye, it was as if the president's own unhealed wounds were ripping open the wounds of our nation", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"So it makes me wonder: What do we Americans really have in common, whether black or white, rich or poor, young or old?", "label":"assumption"}
+  ],
+  [
+    {"number":24, "text":"What should we remember about one another that could bind us together while aggressively arguing the political and social issues that threaten to pull us apart?", "label":"assumption"}
+  ],
+  [
+    {"number":25, "text":"First", "label":"no-unit"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":" we are all human beings", "label":"common-ground"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"which means we all suffer", "label":"common-ground"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"None of us avoids pain, whether from trauma or loss", "label":"common-ground"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"and just the chapters of our life stories in which we have felt powerless against loved ones falling ill, or falling ill ourselves, should remind us that we are all intensely vulnerable at all times", "label":"common-ground"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Our vulnerability means that we owe a duty of care to one another", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The universal capacity to hurt is only the flip side of our calling to compassion ", "label":"assumption"},
+    {"number":38, "text":"--", "label":"no-unit"},
+    {"number":39, "text":"which is closely aligned with our capacity to heal", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"We should, therefore, debate vigorously, but with this in mind", "label":"assumption"},
+    {"number":42, "text":":", "label":"no-unit"},
+    {"number":43, "text":"There are very few issues that would keep us on grandstands or podiums or behind television cameras or microphones if, God forbid, we got a call from a doctor with very bad news about our health or -- far worse, in my mind -- the health of our children", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"And", "label":"no-unit"},
+    {"number":46, "text":"think about this", "label":"no-unit"},
+    {"number":47, "text":":", "label":"no-unit"},
+    {"number":48, "text":"How violent would protests be if protesters knew that a few dozen of the police officers standing guard in the streets had sick or disabled kids at home?", "label":"assumption"}
+  ],
+  [
+    {"number":49, "text":"Second", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" I believe all human beings are born with the capacity for good", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Every single one", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"No exceptions", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"And I believe it is a profound tragedy when that capacity is not realized", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"So think about this", "label":"assumption"},
+    {"number":60, "text":":", "label":"no-unit"},
+    {"number":61, "text":"How much more care would we take to try to support parents, even when their children run horribly afoul of the law, if we imagined our own children, broken by forces in their communities or their families or their fragile psyches, paying the price at 17 or 19 and being locked behind bars, alone, for years?", "label":"assumption"}
+  ],
+  [
+    {"number":62, "text":"The loss of Michael Brown -- to the streets, or unwieldy forces in his psyche, or to a bullet -- is everyone's loss", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"The loss of two New York City police officers -- to the twisted rage of a twisted man -- is everyone's loss", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"And even the suicide of that murderer, who started out as a baby and infant and child with no designs, whatsoever, on the life of another -- is everyone's loss", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"We are all bleeding, all of the time", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"This is the human condition", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Third", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" I believe all Americans share the roughly 238-year struggle -- still ongoing -- for America to realize her greatest self", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"This struggle, after a War of Independence and through a Civil War and two World Wars and a host of other bloody conflicts inside our boundaries and beyond our boundaries, unites us on a path toward a more perfect union that mirrors every individual's path toward a more perfect self", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"This struggle is part of every American's story, woven into our historical and emotional DNA", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"and", "label":"no-unit"},
+    {"number":81, "text":"perhaps(scientists now tell us) literally encoded in the amino acids that make up our actual DNA", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Yes, we become enraged with one another", "label":"common-ground"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Yes, we argue passionately about the future of America", "label":"common-ground"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"These things are inevitable", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"They are even necessary when the stakes are freedom and the future", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"But it might serve us well to remember that if every one of us can grieve and every one of us can suffer and every one of us is mortal and every one of us has the capacity for compassion and every one of us is an inextricable part of this whole we call America, that we are brothers and sisters, as surely as if we shared a single home, the same last name and the same skin", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Let the arguments between us be both very loud and, yet, always, quietly loving", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"I think this much is possible", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Because we are more alike than different in our needs and fears", "label":"assumption"},
+    {"number":98, "text":",", "label":"no-unit"},
+    {"number":99, "text":"and", "label":"no-unit"},
+    {"number":100, "text":"we have remained much more strangers to one another than we need to be", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Dr  Keith Ablow is a psychiatrist and member of the Fox News Medical A-Team", "label":"anecdote"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"Dr  Ablow can be reached at info@keithablow.com", "label":"other"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ]
+]}

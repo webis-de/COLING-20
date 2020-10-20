@@ -1,0 +1,140 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Ho Ho No: School bans Santa from winter concert.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A Massachusetts school that advertises itself as an \"inclusive community\" banned Santa Claus from its annual Christmas concert in the hometown of Harvard University after someone complained", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"\"I am writing to you today to inform you of a change in our concert series this winter,\" wrote Principal Jennifer Ford in a letter to parents of the Peabody School in Cambridge", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"\"Our first through fourth grade concert as well as our kindergarten concert will not include a visit from Santa Claus this year.\"", "label":"testimony"}
+  ],
+  [
+    {"number":7, "text":"The principal did not explain why Santa was banned from the December 12 concert", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"Could local environmentalists have taken issue with his carbon footprint?", "label":"assumption"},
+    {"number":10, "text":"Did animal rights activists complain about the welfare of Prancer and Vixen?", "label":"assumption"},
+    {"number":11, "text":"Did the milk and cookies violate the school's \"Let's Move\" food rules?", "label":"assumption"}
+  ],
+  [
+    {"number":12, "text":"It's hard to know for sure", "label":"assumption"},
+    {"number":13, "text":"-- but", "label":"no-unit"},
+    {"number":14, "text":"I'm going to take a wild guess and say they probably thought Santa was the \"Reason for the Season.\"", "label":"assumption"}
+  ],
+  [
+    {"number":15, "text":"CLICK HERE", "label":"no-unit"},
+    {"number":16, "text":"TO FOLLOW TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION", "label":"no-unit"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Moms and dads around Cambridge, Mass  say the principal's ban is naughty, not nice", "label":"assumption"},
+    {"number":19, "text":"and", "label":"no-unit"},
+    {"number":20, "text":"some are ready to jingle somebody's bells", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"\"I come from a city that celebrates diversity and tolerance,\" parent Robert Thompson told Fox & Friends", "label":"testimony"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"\"At its base this decision reeks of intolerance.\"", "label":"testimony"}
+  ],
+  [
+    {"number":25, "text":"Instead", "label":"no-unit"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":" Jolly Old Saint Nick has been relegated to a family sing-along on the day before Christmas Eve", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Thompson said as if they are saying Santa is not \"good enough for the main show.\"", "label":"assumption"}
+  ],
+  [
+    {"number":30, "text":"The school was afraid even that even the presence of Old St  Nick overly sensitive residents", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"\"I am sensitive to the fact that you may not want your child involved in this event,\" Ford wrote in a letter obtained by the Boston Globe", "label":"testimony"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"\"If", "label":"no-unit"},
+    {"number":35, "text":"you prefer that your child spend time with me that afternoon", "label":"assumption"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"please let me know", "label":"testimony"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"I will be in the library, playing games and reading books with the children.\"", "label":"testimony"}
+  ],
+  [
+    {"number":40, "text":"How's that for an unadulterated does of liberal lunacy?", "label":"assumption"},
+    {"number":41, "text":"It's enough to curdle your egg nog", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Jeffrey Young is the superintendent of this calamitous mess of public education", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"He told the Globe he doesn't understand why Santa needs to visit the Peabody School", "label":"testimony"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"\"There's no anti-Santa sentiment,\" he told the newspaper", "label":"testimony"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"\"It's just that there's no pro-Santa sentiment either... Santa's not on the top of my list\"", "label":"testimony"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"I'd be willing to bet a pound of fruitcake the superintendent is at the top of Santa's list", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Mr  Thompson said the school celebrates all sorts of cultures", "label":"testimony"},
+    {"number":54, "text":"- so why not his?", "label":"assumption"}
+  ],
+  [
+    {"number":55, "text":"\"They are telling me mine is not acceptable,\" he said", "label":"testimony"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Of course", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":" this is the hometown of Harvard University", "label":"common-ground"},
+    {"number":60, "text":"-", "label":"no-unit"},
+    {"number":61, "text":"so it's fair to say they have a disproportionate number of certifiable citizens", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"This is the same town that in 2007 stopped a Boy Scout troop from collecting care packages for American soldiers", "label":"anecdote"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"They scouts were accused of making a political statement", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"And how can we forget about the city's war on carbonation?", "label":"assumption"},
+    {"number":68, "text":"The mayor wanted to ban any bottled soft drinks larger than 16 ounces", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"They also wanted to decide how much popcorn citizens could pop and how many milkshakes citizens could slurp", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"And", "label":"no-unit"},
+    {"number":73, "text":"if", "label":"no-unit"},
+    {"number":74, "text":"you need further proof that Cambridge is to the left of Vladimir Putin", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"consider this item from the 2006 edition of The Harvard Crimson", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"A member of the Cambridge Public Schools Committee compared a law mandating the recitation of the Pledge of Allegiance to a \"post 9/11 ultra-patriotism push.\"", "label":"assumption"}
+  ],
+  [
+    {"number":79, "text":"School committee member Luc Schuster told the newspaper that \"pledging blind allegiance\" to the United States stifles the intellectual capacity of children.\"", "label":"testimony"}
+  ],
+  [
+    {"number":80, "text":"You just can't argue with that kind of ignorance, folks", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Sounds to me like they've been smoking too much mistletoe", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"As they say back home in Tennessee- the cheese has done slid off the cracker", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"Ho, ho, ho, America!", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,131 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Putin and Erdogan: Partnership of convenience?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The fate of the multibillion dollar project had been up in the air for a few months", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Breaching EU competition rules, the pipeline project could have gone through", "label":"assumption"},
+    {"number":5, "text":"if", "label":"no-unit"},
+    {"number":6, "text":"it had allowed access to suppliers other than Gazprom", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The crisis in Ukraine and the mounting tensions gave EU policymakers an additional reason not to accommodate Russia's demands for special treatment", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"As a result, Putin declared that resources will be directed towards upgrading gas pipeline infrastructure linking Russia to Turkey - or even building an altogether new pipeline, in an attempt to save face and offset the losses incurred over South Stream", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"This decision underscores the pragmatism in the way Moscow and Ankara deal with each other", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Meetings and official phone conversations between Putin and Turkish President Recep Tayyip Erdogan, more than 35 over the past few years, usually follow a very similar script", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The two leaders agree to disagree on the ongoing human tragedy in Syria, where they sit on opposing sides, and proceed with bilateral business", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"This time around, they made the usual pledge to triple the volume of trade between the two countries from the current figure of $33bn to $100bn by the end of this decade", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"That might be an ambitious target", "label":"assumption"},
+    {"number":21, "text":"but", "label":"no-unit"},
+    {"number":22, "text":"one should not forget that Russia is already Turkey's second largest trading partner after Germany", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"It is, furthermore, the second biggest market for Russian gas exports outside the former Soviet Union, with Germany again the frontrunner", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Turkish construction firms have carved out a niche in the Russian market", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"benefiting handsomely from large public-funded project such as the Sochi Winter Olympics", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"This explains why Erdogan was deaf to calls for Turks of Circassian origin to boycott the games", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"which were set in the part of the Caucasus they were uprooted from back in the 1860s", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Currently, there is a problem with gas deliveries over the Trans-Balkan pipeline to western Turkey via Ukraine, Moldova, Romania and Bulgaria", "label":"anecdote"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"because of disruptions due to the constant wrangling between Gazprom and Ukraine's Naftohaz", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"If", "label":"no-unit"},
+    {"number":39, "text":"the winter is harsh", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"heating in Istanbul and other large cities in the Marmara region will suffer", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"That is not a welcome prospect for the Turkish government", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"which is heading for general elections in the first half of 2015 and is therefore determined to avoid such unpleasant shocks and also keep gas prices low", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"High-ranking Russian representatives, including Gazprom's CEO Alexei Miller, who was in Ankara last week, promise to step up volumes through the Blue Stream, the pipeline connecting the Russian grid to central Anatolia via the Black Sea, and reach a total of 30 billion cubic metres in 2014, from 25.6 billion cubic metres the previous year", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"In this context, it makes perfect sense that investment should be redirected from the botched South Stream project to the upgrade of Blue Stream", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"In the long run, Ankara would also like to move away from dependence on Russia and tap into new gas flowing from Azerbaijan - via the Trans Anatolian Natural Gas Pipeline (TANAP) coming onstream in 2019 - Northern Iraq, Iran and, should a solution be reached on the Cyprus Issue, the Eastern Mediterranean", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"The AKP government has helped decrease imports from Russia to 57 percent of the overall volume", "label":"statistics"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"but", "label":"no-unit"},
+    {"number":56, "text":"in absolute terms, consumption in an expanding economy like Turkey's is only going higher", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Luckily, the plummeting prices of oil have come as a huge bonus to the government", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"reducing Turkey's bill and improving the balance of payments vis-a-vis Russia", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"What Turkey is offering in exchange is neutrality in Putin's confrontation with the West", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Ankara has a lot of reasons to be unhappy about the annexation of Crimea, home to a large Tatar community which views Turkey as a kin state, and about the frozen conflict in Eastern Ukraine", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Yet", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":" unlike all other members of NATO, it has declined to join the sanctions imposed on Russia", "label":"anecdote"},
+    {"number":69, "text":"(imports of Turkish poultry and seafood have rocketed since)", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"The strategic value of Turkey's neutrality has only gone up", "label":"assumption"},
+    {"number":72, "text":"after", "label":"no-unit"},
+    {"number":73, "text":"Putin found himself shouldered aside by most emerging powers at the recent G20 summit in Brisbane, Australia", "label":"anecdote"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Russia has long encouraged Turkey's pursuit of an autonomous foreign policy and emancipation from NATO and the US", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"As", "label":"no-unit"},
+    {"number":78, "text":"the Turkish city of Antalya hosts the next G20 summit", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"there will be a renewed emphasis on Turkey's transformation into a global leader rather than a pliant western periphery", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"But geopolitical gains may not give Russia sufficient incentive to accommodate Turkish demands", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Putin came with a delegation of 10 government ministers and a shopping list too", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"He would like to see progress on Rosatom's $20bn project to build Turkey's first nuclear power station at Akkuyu near Mersin", "label":"anecdote"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"Construction work is expected to start in May", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"but", "label":"no-unit"},
+    {"number":91, "text":"reportedly Putin has insisted on a preferential treatment for the Russian state company by the Turkish tax authorities", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"It seems, however", "label":"no-unit"},
+    {"number":94, "text":",", "label":"no-unit"},
+    {"number":95, "text":"that Erdogan has held his ground this time around", "label":"assumption"},
+    {"number":96, "text":"and", "label":"no-unit"},
+    {"number":97, "text":"Rosatom has not obtained what it wanted", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"Though", "label":"no-unit"},
+    {"number":100, "text":"Putin's visit will be remembered for the South Stream announcement", "label":"assumption"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":"what is most remarkable about it is the continued development of Russian- Turkish relations, amid mounting tensions between Putin and the West", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ]
+]}

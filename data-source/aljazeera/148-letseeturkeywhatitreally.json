@@ -1,0 +1,120 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Let's see Turkey for what it really is.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"How times have changed", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In the 18th century, Russian meddling in Crimea and Syria would have likely led to war with Turkey", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Today, Russia's actions in the former Ottoman world mean a state visit for Russian President Vladimir Putin, discounted natural gas, and lucrative trade deals", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Turkey's recent coziness with Russia, and its reluctance to take on the ISIL, have left many politicians in the West confused and frustrated", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"However", "label":"no-unit"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"to understand Turkish foreign policy one must first look at US and European foreign policy", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"The lack of any coherent US-Middle East policy has made Turkey reluctant to respond to ISIL in any meaningful way", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"US President Barack Obama's disinterest in the region began with his hell-bent desire to remove all US forces from Iraq, no matter what the security situation was like", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"As far as Ankara was concerned, the US left behind unfinished business in Iraq", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Next came the US response to the so-called Arab Spring", "label":"anecdote"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"which amounted to telling regional autocrats that they had to go", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"and", "label":"no-unit"},
+    {"number":25, "text":"when they did not leave, the US failed to do anything about it", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Perhaps the biggest failure of Obama's Middle East policy was drawing a \"red line\", and then failing to enforce it when Bashar al-Assad used chemical weapons against his own people", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"Pushing Turkey away", "label":"no-unit"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"Since Turkey does not believe the US will see through to the completion of its mission to take on ISIL and force Assad out of power", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"understandably, Ankara has been reluctant to come on board", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"As far as Ankara is concerned, US creditability in the Middle East is bankrupt", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"It is not just US foreign policy pushing Turkey away from the West", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"This week, the EU's new foreign policy chief, Federica Mogherini, visited Ankara and told a group of journalists that the EU's \"top priority will be Turkey's EU accession process\"", "label":"testimony"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"After years of delays by Brussels, it is not likely anyone in Turkey will believe these words", "label":"assumption"},
+    {"number":42, "text":"- nor should they", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Europe's empty promises of EU membership, and its weak response over Russia's invasion of Ukraine, has forced Turkey to hedge its bets that closer ties with Moscow are preferable to those with Brussels", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Making a bad situation worse is the degree of European xenophobia lurking inside the debate around Turkish membership of the EU", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Make no mistake", "label":"no-unit"},
+    {"number":49, "text":";", "label":"no-unit"},
+    {"number":50, "text":"Turkey's President Recep Tayyip Erdogan has not been the easiest leader for the West to work with", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Apart from some of his more ridiculous, but harmless statements -\"Muslim sailors reached the American continent 314 years before Columbus, in 1178\" - many in the West have been put off by his crackdown on political dissent, limitations on press freedom, and his drive to bring a more conservative brand of Islam into what is still a largely secular society", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Leaders in the West would be wise not to dismiss Turkey altogether because of Erdogan's ironfisted leadership style", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Turkey is a parliamentary democracy", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"but", "label":"no-unit"},
+    {"number":59, "text":"as the president, Erdogan derives his extensive powers because his Justice and Development Party (AKP) currently controls parliament", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Without an AKP majority in parliament, the centre of power in Turkish politics is likely to shift back to the prime minister's office", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"In June, Turkey will hold its next parliamentary elections", "label":"anecdote"},
+    {"number":64, "text":"- and", "label":"no-unit"},
+    {"number":65, "text":"if", "label":"no-unit"},
+    {"number":66, "text":"the elections are anything like Turkey's 2014 presidential elections", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"the race will be close", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"If", "label":"no-unit"},
+    {"number":71, "text":"the AKP does not get a majority, or if they have to form a coalition", "label":"assumption"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"Erdogan's power and influence will be significantly curtailed", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Turkey is situated in a dangerous neighbourhood", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"It has land borders with Syria, Iraq, and Iran", "label":"common-ground"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"Its border with Armenia is closed", "label":"common-ground"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"A recent investigation uncovered a terror organisation operating inside Turkey with links to Iran's Revolutionary Guard Corps", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"ISIL controls huge swaths of land along the Turkish border with Syria and Iran", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The threat from Assad is so great that NATO currently provides air defence units to protect Turkish airspace", "label":"anecdote"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"It is clear that foreign policy decisions taken by the US and Europe have left Turkey feeling exposed", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Short-sighted leaders in the West need to open their eyes and see Turkey for what it really is: a valued NATO partner, a secular state (at least for now) bridging Europe and the Islamic world, a developing economy and a major player in the energy market", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"What a tragedy it would be if broken promises from Europe, combined with a lack of US leadership and strategy in the Middle East, results in a Turkey that becomes more fundamentalist, anti-western, and pro- Russian", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ]
+]}

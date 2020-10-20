@@ -1,0 +1,135 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Sydney Hostage Crisis: Australia has lost its innocence.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Australia is known as the \"lucky country.\"", "label":"assumption"}
+  ],
+  [
+    {"number":3, "text":"It was a phrase first coined in 1964 by social critic Donald Horne, and has come to represent the visceral feelings of both Australians, and visitors to the nation", "label":"anecdote"},
+    {"number":4, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":5, "text":"It is seen as a reflection of a high standard of living, and a geographical insulation from the bad actors of the world theater", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"But ten days out from Christmas, Australia has lost its innocence", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"On a day of brilliant blue skies, the terrorism of the post-9/11 world finally arrived on Australian soil", "label":"anecdote"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"taking hold of city streets", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"A man wielding a gun and an Islamic flag took customers and staff hostage at a cafe in central Sydney", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"As a native of Sydney, home for the holidays, safe and sound but shaken and furious, December 15 is a day that will forever be seared into my mind", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"I've been to the Lindt Cafe", "label":"anecdote"},
+    {"number":18, "text":";", "label":"no-unit"},
+    {"number":19, "text":"in fact", "label":"no-unit"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":" I once worked across the street from it", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Emotions have run high here all day -- from fear to anger to a desire for vengeance", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"I never expected this in Sydney", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"The profoundly shocking standoff with all its disruptions to city life has struck fear in Sydneysiders, unaccustomed to these types of events", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"The mood in Sydney is one of fear and uncertainty", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"Until now, Australian authorities have been flawless in preventing terror attacks on Australian soil", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"They have been aggressive in their pursuit of intelligence and would-be terrorists", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"foiling plot after plot", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"September saw the biggest anti-terrorism operation in Australia's history", "label":"anecdote"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"involving up to 800 police in coordinated raids", "label":"anecdote"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"sparked by intelligence reports that Islamic State supporters were planning to seize a random member of the public and behead them live on camera", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Yet", "label":"no-unit"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"it was inevitable that one would finally slip through the cracks", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"and", "label":"no-unit"},
+    {"number":48, "text":"Monday Sydney joined the ranks of cities such as New York, London and Madrid as the latest victim of what appears to be Islamic terrorism", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Monday's distressing events have renewed Australians' concerns about Islamist objectives, and a growing Islamic presence in the country", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Some Australians recognize that this likely terrorist attack is a result of the poor immigration decisions of Australian governments, both conservative and liberal, over the last four decades", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"A lack of liberty, an abandonment of reason, the imposition of Sharia on Muslims and non-Muslims, as well as the treatment of women are just some of the serious moral problems within the Muslim world", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Islamist views are incompatible with the liberty enjoyed by Australians and Americans", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Interestingly, Monday's events have also prompted Australians to revisit their gun laws", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"With Islamic supremacism a mainstream interpretation of Islam, deeply rooted in Islamic scripture and endorsed by many of Islam's most influential scholars, Australians are beginning to understand the nature of the Islamic threat", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"and studying their own weaknesses in its wake", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"The United Kingdom has had two beheadings of members of the public in the last two years, with neither police nor civilians able to prevent it", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"It also has prohibitive gun laws", "label":"common-ground"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Australians are looking to America, and not the UK for guidance", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"With this sort of threat, the normal calculus of a civilized society with a small, armed (or unarmed) police force upon which the citizens are forced to rely, no longer adds up", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"It is unsurprising that home-grown terrorism is most rampant in nations with strict gun control", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"It is a reality that Australia's powerful anti-gun lobby seems to wish to ignore", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"It is times like these that Americans should be thankful for their Second Amendment, and crush any effort or force seeking to weaken or remove it", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Right now, they are the envy of a growing number of Australians that wish they were armed", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Australia will never be the same again", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Sydney just lost a little of its shine", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ]
+]}

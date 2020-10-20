@@ -1,0 +1,114 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Is it not time to dismantle the CIA?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It's not as if we weren't warned about the CIA", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Some 50 years before the Senate Intelligence Committee issued its 500-page report on torture, former President Harry Truman published an opinion piece in the Washington Post asserting that the CIA was out of control and calling for it to be broken up", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Truman's column appeared on December 22, 1963, a month to the day following US President John F Kennedy's assassination and 11 years after he himself moved out of the White House", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Truman argued, as the president who authorised its establishment in 1947, that the CIA had strayed from the mission he had intended for it", "label":"testimony"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"He had favoured creation of the CIA so that a president would have one agency providing him with objective foreign intelligence, rather than having to rely upon the often conflicting information being served up by the Departments of State, Defense, and others who \"slanted to conform to established positions of a given department\"", "label":"testimony"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Viewing intelligence gathering as its sole mission, Truman was disturbed \"by the way the CIA has been diverted from its original assignment", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"It has become an operational and at times a policy-making arm of the government.\"", "label":"testimony"},
+    {"number":15, "text":"He said he had \"never had any thought\" that the CIA would involve itself in \"cloak and dagger operations\"", "label":"testimony"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"But it had which \"has led to trouble and may have compounded our difficulties in several explosive areas\"", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"It is clearly of some significance that Truman published his piece just one month after Kennedy's assassination", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Although there is no evidence that Truman was suggesting CIA involvement in the assassination", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"it is impossible to believe that the late president's difficulties with the CIA were far from Truman's mind", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"As a former president who the Kennedy White House regularly briefed on foreign policy issues and decisions, Truman knew how the CIA essentially steamrolled Kennedy into the disastrous Bay of Pigs invasion of Cuba (and other anti- Castro actions), leading Kennedy to tell a friend that he wanted\"to splinter the CIA into a thousand pieces and scatter it to the winds\"", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Kennedy never had the chance to follow up on that idea", "label":"common-ground"},
+    {"number":28, "text":"but", "label":"no-unit"},
+    {"number":29, "text":"it was essentially what Truman suggested a month after Kennedy's death", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"Obviously, Truman's recommendation had no effect", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"In fact", "label":"no-unit"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":" the Washington establishment apparently took action to see that Truman's piece disappeared almost without a trace (easier in those pre-internet days)", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"According to former CIA analyst Ray McGovern, the Washington Post only published the piece in its morning edition, pulling it from view after that (a peculiar way to treat an opinion piece by a former president, especially on such a weighty issue)", "label":"testimony"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"McGovern also reports that former CIA Director Allen Dulles, who Kennedy fired after the Bay of Pigs debacle, actually flew down to Truman's home in Independence, Missouri to get the former president to retract", "label":"testimony"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Although Dulles reported back to his friends that Truman had indeed recanted", "label":"anecdote"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"he clearly never did", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"In fact", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":" six months after publishing the column in the Post, Truman wrote to the managing editor of Look Magazine that he intended the CIA as an intelligence gathering agency only and not a place where\"strange activities\" would be launched", "label":"testimony"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"No doubt, the Bay of Pigs and Cuba, in general, were not the only examples of CIA interventions that disturbed Truman", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"In the years between the end of Truman's administration and his Washington Post column, the CIA had orchestrated the overthrow of governments in Iran (1953), Guatemala (1954), Congo (1960), Dominican Republic (1961), South Vietnam (1963), Brazil (1964)", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Within a year following Truman's death, the CIA successfully brought down the Allende government in Chile (1973)", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"As for its activities since, its intelligence activities have clearly continued to be a low priority", "label":"assumption"},
+    {"number":56, "text":"(it has gotten Iraq wrong from the start, culminating most recently in its failure to predict the rise of ISIL)", "label":"assumption"},
+    {"number":57, "text":"while", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"what Truman called its \"cloak and dagger\" operations, have proliferated", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"According to historian William Blum, writing in Foreign Policy Journal, in the last 69 years, the CIA has (often in conjunction with the military) \"(1) attempted to overthrow more than 50 governments, most of which were democratically-elected, (2) attempted to suppress a populist or nationalist movement in 20 countries, (3) grossly interfered in democratic elections in at least 30 countries, (4) dropped bombs on the people of more than 30 countries, (5) attempted to assassinate more than 50 foreign leaders.\"", "label":"testimony"}
+  ],
+  [
+    {"number":62, "text":"And now there are the horrific reports of torture and, equally appalling, the defense of CIA torture by former CIA driectors, other top CIA officials and, most enthusiastically, former Vice President Dick Cheney", "label":"assumption"},
+    {"number":63, "text":"who famously told NBC five days after 9/11 that it was now time for US intelligence agencies to operate on the \"dark side\"", "label":"testimony"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"That is the context of the torture debate", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"As Truman understood, the CIA was dangerous and should be broken up or, in Kennedy's words, \"splinter[ed] into a thousand pieces and scatter[ed] to the winds\"", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"That was 50 years and nine presidents ago", "label":"common-ground"},
+    {"number":70, "text":"and", "label":"no-unit"},
+    {"number":71, "text":"since John F Kennedy, no president has challenged the CIA", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Perhaps each of them have understood there are battles that not even a president could win", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ]
+]}

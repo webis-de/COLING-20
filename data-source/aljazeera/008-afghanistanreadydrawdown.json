@@ -1,0 +1,148 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Is Afghanistan ready for the drawdown?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"After 13 years of the International Security Assistance Force (ISAF), the United States and a number of its NATO partners will start the Resolute Support Mission in Afghanistan", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The number of NATO and US forces is reduced from 140,000 to 13,500 - most of them American- starting January 1", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"How will the new national unity government in Kabul weather the NATO drawdown, despite a resilient insurgency and intensified fighting?", "label":"anecdote"}
+  ],
+  [
+    {"number":7, "text":"There has been much speculation about the security transition in 2014 in Afghanistan", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"In 2012, I wrote an Oped for the New York Times, warning that \"Kabul risks political meltdown\"", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Many other analysts have also predicted a sombre year, particularly after the refusal of former President Hamid Karzai to sign the Bilateral Security Agreement (BSA) with the US", "label":"testimony"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"However", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":" for the time being, we were all proved wrong as the democratic process that began at the Bonn Conference in 2001, survived", "label":"assumption"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"and", "label":"no-unit"},
+    {"number":18, "text":"the country was saved from the brink of a new civil war", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Indeed we have achieved important strategic gains in the last few months, starting with the landmark peaceful transfer of political power from one democratically elected leader to another, for the first time in Afghanistan's history", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"This milestone was made possible by the will of ordinary Afghan people", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"who twice braved the threat of violence imposed by the Taliban and came out en masse, voting for their candidates of choice", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Meanwhile, the Taliban has tried hard to undermine the electoral process", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"By confronting Afghan security forces in 16 different provinces, they wanted to gain significant territory", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"thus declaring themselves as an alternative governing force in the country", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Nevertheless", "label":"no-unit"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":" the Afghan security forces have been able to hold ground and push back the insurgent offensives in almost all fronts", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"which has became a source of pride for the Afghan government and people", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"This proved wrong skeptics who doubted the capacity of the Afghan security forces to defend their country", "label":"assumption"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"which has taken responsibility for security in many provinces since the start of the security transition in 2012", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Following the inauguration of President Ashraf Ghani and Chief Executive Officer (CEO) Abdullah Abdullah, the BSA was immediately signed, approved by an overwhelming majority of Afghan Members of Parliament", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"In addition to the BSA, the signing of the Status of Force Agreement (SOFA) between NATO and the new Afghan government has created a new momentum in the country, while ensuring continued military and financial assistance for the new government", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"This has inherited an economic crisis, characterised by a fiscal gap resulting from the failures of the previous government", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Afghanistan's strategic gains are still contingent upon two important factors", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Firstly, there must be continued NATO support for the Afghan security forces", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"This is done by building the capacity of the forces; providing adequate resources such as fire power and particularly air power; assisting in intelligence gathering; and logistics support", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Without the technical and financial support from the US and NATO countries, the Afghan security forces will not be able to sustain a high rate of casualties against the Taliban", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"For instance in 2014, an additional 5,000 members of the Afghan security forces were killed either in direct fighting against the Taliban or because of terrorist attacks such as suicide and road side bombings", "label":"statistics"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Secondly, the government has the capacity to reform the security intuitions in order to reduce the level of corruption and eliminate political influence exercised by important power brokers", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"The financing of the Afghan security forces are beyond the Afghan government's resources and is totally dependent on donors' contribution", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The government could make significant contributions by reducing costs", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"This could be done through reducing corruption and improving management", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Meanwhile", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":" eliminating political influence in appointments of senior officials and promotion of officers could boost the morale of the security forces and increase their fighting capacity", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Alas, despite tremendous strategic gains, the new National Unity Afghan government is struggling with key cabinet appointments, particularly in the security sector", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"which might have been caused by heavy political influence by power brokers", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"In fact", "label":"no-unit"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":" failures inherited from the previous government such as bad governance, corruption, nepotism and many other symptoms that have caused a growing popular resentment, remain a serious threat to the national unity government", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"While people admit that improvements in the security and economic sectors require time", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"they will not tolerate any failure in fixing a dysfunctional government which has failed to address endemic corruption and a culture of impunity", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"The inability of the new national unity government to implement a comprehensive reform agenda, could undermine the security transition", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"It is clear to us in Afghanistan that the donor countries will not tolerate anymore corruption and bad governance", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"which could weaken their financial commitments pledged during the NATO Summit in Wales", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"Any reduction in funding for the Afghan government could negatively impact the Afghan security forces", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"while the Taliban will increase their offensive", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"The biggest test for the security transition is ahead of us", "label":"assumption"},
+    {"number":93, "text":"because the insurgents will further intensify their attacks in the beginning of next spring", "label":"assumption"},
+    {"number":94, "text":"and", "label":"no-unit"},
+    {"number":95, "text":"we might see a Taliban surge next summer", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"The Afghan government has little time to prepare itself for the upcoming fighting season", "label":"assumption"},
+    {"number":98, "text":",", "label":"no-unit"},
+    {"number":99, "text":"which has impacted the US and NATO military missions in Afghanistan since 2001", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ]
+]}

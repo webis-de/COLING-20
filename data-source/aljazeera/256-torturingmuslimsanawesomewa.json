@@ -1,0 +1,205 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Torturing Muslims is an 'awesome' way to get things done.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On December 9, the Senate Select Committee released a partial report of the horrifying, illegal torture tactics used by the CIA during the Bush administration", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Some question the timing", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"I think the timing is perfect", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"We are now in a position to recall what past black activists, from Martin Luther King to Angela Davis to Muhammad Ali, knew when they spoke against the immoral actions of their nation in Vietnam", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The protesters in Ferguson got a sneak peek, or a reminder, of this lesson in August, when Palestinians, who had experience with being shot at with US-made weaponry, advised US protesters on how to treat the searing pain of tear gas bombs", "label":"anecdote"},
+    {"number":11, "text":"(pour Coca-Cola directly over the eyes)", "label":"no-unit"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"But recently, because of the quick succession of the failures to indict the killers of Michael Brown and Eric Garner, and then the release of the torture report, we are at a moment in which the link between our domestic terrorism and our international terrorism is being drawn for the rest of us", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Immediately after the release of the report, many in the media did their best to claim that the release of this report was part of some wider conspiracy to demoralise Americans", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"The best example of this would be Fox News' Andrea Tantaros", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"who, in the middle of a conversation about the report, began shouting that \"The United States of America is awesome, we are awesome.\"", "label":"anecdote"},
+    {"number":20, "text":"She seemed positively indignant that the Obama administration was attempting to \"have this discussion to show us how we're not awesome\"", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"For those unfamiliar with the slang of US hipsters and teenagers, we generally use the \"awesome/not awesome\" binary to evaluate things like pizza, beer, or surfboards - not the moral character of a nation-state", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"But", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"if", "label":"no-unit"},
+    {"number":27, "text":"we are to adopt her method of expression", "label":"assumption"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"Tantaros seems to be forgetting that she is able to be on television in part because one or two generations ago, a few people declared that women not being able to participate in news media was not very \"awesome\"", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"She also forgets that a couple generations before that, her Greek last name would have prevented her from being considered\"white\"", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"and", "label":"no-unit"},
+    {"number":34, "text":"she thus would not have been allowed in front of a camera", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"Whether Tantaros accepts it or not, the history of equality in the US has been one of people deciding that things were not yet awesome, and taking it upon themselves to make them more awesome", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"But we should note that Tantaros was primarily angry at being forced to have a public conversation, and at being embarrassed that the world was seeing us have a discussion about our behaviour", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"\"This makes us look bad,\" she pleaded", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"\"And all this does is have our enemies laughing at us.\"", "label":"testimony"}
+  ],
+  [
+    {"number":43, "text":"Not only is torture illegal", "label":"common-ground"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"but", "label":"no-unit"},
+    {"number":46, "text":"by US' own standards, it is ineffective", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"The CIA knew this", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The 1992 US Army Field Manual on Interrogation explicitly advises that \"the use of force is a poor technique, as it yields unreliable results\", and can \"induce the source to say whatever he thinks the interrogator wants to hear\"", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"This ended up being true", "label":"assumption"},
+    {"number":53, "text":"-", "label":"no-unit"},
+    {"number":54, "text":"we now know that one prisoner told the CIA that he was trying to recruit black Muslims in the US to attack gas stations", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"He later admitted that he made up the story,\"because he thought that's what interrogators wanted to hear\"", "label":"testimony"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"This year has also shown us that ineptitude can also happen at home, with our domestic police forces", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"The Ferguson Police Department has utterly failed to de-escalate tensions at every possible opportunity", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"We now know the officer that killed 12-year-old Tamir Rice was not fit to hold a pistol, much less a badge", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"In fact", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":" a report by the Justice Department has shown that Cleveland police officers routinely use unjustified force in arrests, and fire their weapons \"carelessly\"", "label":"testimony"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"putting both innocent bystanders and themselves in danger", "label":"common-ground"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"If", "label":"no-unit"},
+    {"number":71, "text":"the timing of the one-two punch of public revelations of anti-black racism and criminal torture do not convince us", "label":"assumption"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"then we can at least recognise a pattern in the people that are desperate to deny both", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"The torture report is available to anyone to view online, provided they are willing to wade through pages and pages of gruesome accounts", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"There is an account of putting a prisoner in a diaper, shackling him to the ceiling, and leaving him for days", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"One prisoner died of hypothermia after being chained, nearly naked, to a concrete floor", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Many were sexually assaulted", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Despite this, Republican Congressman Peter King attempted to wave these facts away, declaring that no harmful torture occurred", "label":"testimony"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Instead", "label":"no-unit"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":" he brushed it off as merely a few\"people made to stand in awkward positions\"", "label":"testimony"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"This is the same Peter King who said that Eric Garner did not die because of a chokehold, but because he was overweight", "label":"testimony"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"It is also the same Peter King that implied that Garner, in his final moments, was lying about not being able to breathe", "label":"testimony"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"If", "label":"no-unit"},
+    {"number":94, "text":"Tantaros' reaction to the defiling of the \"awesomeness\" of the US seems childish", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"Peter King's reaction is worse", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"It is the rhetorical equivalent of sticking your fingers in your ears, and shouting \"nyah, nyah, I can't hear you\" - as your brother drowns beside you", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"And", "label":"no-unit"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":"as if we needed any clearer indication on how racism and callousness regarding the torture of non-whites were connected", "label":"assumption"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"we were given a clear reminder last week", "label":"assumption"},
+    {"number":105, "text":",", "label":"no-unit"},
+    {"number":106, "text":"when", "label":"no-unit"},
+    {"number":107, "text":"Facebook released a 23 second commercial about a feature of its service, and cast a Sikh man as the spokesperson", "label":"anecdote"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"The video was immediately bombarded with angry comments calling the man an \"ISIL terrorist\", a \"raghead\", and a \"sand nigger\"", "label":"anecdote"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"One commenter blasted Facebook itself, asking\"Why do you have a Muslim on this pic?\"", "label":"anecdote"},
+    {"number":112, "text":"When another user replied that he was a Sikh, the commenter responded:\"Same thing.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":113, "text":"We might chalk this up to ignorance", "label":"assumption"},
+    {"number":114, "text":":", "label":"no-unit"},
+    {"number":115, "text":"Our education system is focused on white European and US history", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"Most Americans don't know the difference between a friendly Sikh man and a scary Muslim terrorist", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"Actually, most Americans couldn't tell you the difference between a fatwah and a plate of chapati", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"But we should be more precise here", "label":"assumption"},
+    {"number":122, "text":"-", "label":"no-unit"},
+    {"number":123, "text":"it's not that we don't know", "label":"assumption"},
+    {"number":124, "text":",", "label":"no-unit"},
+    {"number":125, "text":"it's that we don't want to know", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":127, "text":"But then again", "label":"no-unit"},
+    {"number":128, "text":",", "label":"no-unit"},
+    {"number":129, "text":"separating \"good\" brown people from \"bad\" ones isn't the point, and wouldn't make a difference", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"},
+    {"number":131, "text":"For too many of us, anyone brown and bearded is automatically al-Qaeda, and deserves to be tortured and killed", "label":"assumption"},
+    {"number":132, "text":".", "label":"no-unit"},
+    {"number":133, "text":"Our understanding of humanity does not apply to anyone that can be mistaken for Muslim or Arab", "label":"assumption"},
+    {"number":134, "text":",", "label":"no-unit"},
+    {"number":135, "text":"and", "label":"no-unit"},
+    {"number":136, "text":"we excuse ourselves for this moral exception by constantly reminding ourselves that our country was attacked in 2001", "label":"assumption"},
+    {"number":137, "text":".", "label":"no-unit"},
+    {"number":138, "text":"It's not that we can't know that we are terrorising black people", "label":"assumption"},
+    {"number":139, "text":".", "label":"no-unit"},
+    {"number":140, "text":"It's not that we can't know that the people we tortured in those prisons were people", "label":"assumption"},
+    {"number":141, "text":".", "label":"no-unit"},
+    {"number":142, "text":"We could, if we wanted to", "label":"assumption"},
+    {"number":143, "text":".", "label":"no-unit"},
+    {"number":144, "text":"But we don't want to", "label":"assumption"},
+    {"number":145, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":146, "text":"The events of the past few months have shown us that we are not up against a few crooked cops, a group of rogue rednecks, or a wacky news station", "label":"assumption"},
+    {"number":147, "text":".", "label":"no-unit"},
+    {"number":148, "text":"We are up against an empire of immorality that, in its fear, would rather shoot and waterboard the world, than to learn about it", "label":"assumption"},
+    {"number":149, "text":".", "label":"no-unit"},
+    {"number":150, "text":"If", "label":"no-unit"},
+    {"number":151, "text":"there is a true \"enemy\"", "label":"assumption"},
+    {"number":152, "text":",", "label":"no-unit"},
+    {"number":153, "text":"it is that Empire", "label":"assumption"},
+    {"number":154, "text":".", "label":"no-unit"},
+    {"number":155, "text":"It has been hiding in plain sight", "label":"assumption"},
+    {"number":156, "text":",", "label":"no-unit"},
+    {"number":157, "text":"and", "label":"no-unit"},
+    {"number":158, "text":"this year, it has revealed itself- in the mirror", "label":"assumption"},
+    {"number":159, "text":".", "label":"no-unit"},
+    {"number":160, "text":"As Tantaros says, it laughs at us", "label":"assumption"},
+    {"number":161, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":162, "text":"What we choose to do about that is up to us", "label":"assumption"},
+    {"number":163, "text":".", "label":"no-unit"}
+  ]
+]}

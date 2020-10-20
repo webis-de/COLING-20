@@ -1,0 +1,91 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The general election: let's see the party leaders go beyond their scripts.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Nobody can be sure who will govern us after May", "label":"common-ground"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"That uncertainty is the great gift of a democracy", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"But", "label":"no-unit"},
+    {"number":7, "text":"what a gap between the ideal of citizens interrogating leaders, to decide whether power should change hands, and the arid long campaign this looks set to become", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"In response to their difficulty in capturing anybody's attention, the party strategists have decided that the leaders should mostly try to say much the same thing every day for the next four months", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"British Future's state of the nation poll illuminates why that approach might seem to make sense-", "label":"no-unit"},
+    {"number":12, "text":"but also why it won't be enough", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Half the electorate knows who they are voting for and what they think the \"big issue\" is for the election - with the committed voters of each party differing on whether it is the NHS, the economy or immigration that matters most", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"The contrast between the certainties of these partisan tribes and the uncertainties of the broader electorate will set the tone of the election year", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"It's not just Conservative and Labour voters, but Ukippers too who think their party will be in government - or that Nigel Farage might be prime minister in May", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Across the spectrum, those with the strongest views overestimate how many people share them", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Overall", "label":"no-unit"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":" the public gives a thumbs-down verdict to every party when asked if they would like them in power", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"More worryingly, only a quarter of people are confident that Britain will come through the election without the tone of the debate damaging relations between different groups in Britain today", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Uncertainty about the democratic outcome is a good thing", "label":"assumption"},
+    {"number":29, "text":";", "label":"no-unit"},
+    {"number":30, "text":"uncertainty about whether Britain can handle the election-year debates is not", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Both the Conservatives, in omitting immigration from their six priority themes, and Labour in advising canvassers to move the conversation on, have ironically shown that it is possible to get headlines by not talking about immigration", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Running scared from the issue simply misunderstands public opinion", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"Most people want a politics that engages with the pressures brought by immigration and yet secures the benefits too", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"So our appeal for an open and responsible debate can be made not just to the social conscience of politicians but to their enlightened self-interest too", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"The new state of the nation findings offer an important reason why we might find more confidence in Britain's ability to handle the immigration and identity debates", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"In a polarised \"culture war\" - between those who don't understand why everywhere is not like London and those who dislike everything that has changed since the 1950s- there will be no winners, only losers, whether the argument is about immigration, identity or Islam or, indeed, gender and gay rights", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"Of course", "label":"no-unit"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":" there will be some votes in appeals to either pole of the political spectrum", "label":"assumption"},
+    {"number":47, "text":"-", "label":"no-unit"},
+    {"number":48, "text":"but no majority victory nor stable governing coalition could be won on the basis of a political offer that fails to appeal beyond a party's core support", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Voters expect our politicians to articulate our disagreements", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"We know they need to make sure their own supporters do go out and vote", "label":"common-ground"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"But leadership is also about helping us to find the common ground", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Which of them could yet find the voice to engage beyond their own political tribe, to come off the \"grid\" and do more than put out the line that the script demands?", "label":"assumption"}
+  ],
+  [
+    {"number":57, "text":"In an uncertain and fractious society, there is a greater appetite for politicians with the confidence to speak to people of different generations, to engage in both the cities and out on the coast, and to reach across class, geography and ethnicity", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"Will anyone step up to meet that challenge in the next three months?", "label":"assumption"},
+    {"number":60, "text":"If not, that could still be the voice that much of Britain is waiting to hear", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Sunder Katwala is the director of British Future", "label":"other"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ]
+]}

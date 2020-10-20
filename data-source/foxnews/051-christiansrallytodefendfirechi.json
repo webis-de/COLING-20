@@ -1,0 +1,143 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Christians rally to defend fire chief who wrote 'anti-gay' book.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Kelvin Cochran is a decorated firefighter", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"He is also a devout Christian", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"He's a deacon at a Baptist church and also teaches Sunday school", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"By all accounts - he is a decent and honorable man", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"And now- he is unemployed", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Cochran, who served seven years as the chief of the Atlanta Fire Departmant lost his job over a book he wrote about biblical morality titled,\"Who Told You That You Were Naked?\"", "label":"assumption"},
+    {"number":13, "text":"A small portion of the book contained what critics called homophobic language", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Atlanta Mayor Kasim Reed suspended Cochran last month", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"He was fired on Jan  6- the day he was supposed to return to work", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"\"I profoundly disagree with and am deeply disturbed by the sentiments expressed in the paperback regarding the LGBT community,\" Reed wrote last November on his official Facebook page", "label":"testimony"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"\"I will not tolerate discrimination of any kind within my administration.\"", "label":"testimony"}
+  ],
+  [
+    {"number":22, "text":"Reed told reporters Cochran was not fired because of his religious beliefs", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Rather", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"he said, the fire chief was ousted because of poor judgment", "label":"testimony"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"The mayor accused the chief of not getting permission to write the book- a charge Cochran denies", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"The mayor also alleged Cochran distributed the book to members of the fire department", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Cochran readily admits that he gave copies of the book to close associates within the department", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"It should be noted that the individual who initially complained about the book did not receive a copy from the fire chief", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"And for the record - a city investigation determined the fire chief had not discriminated against LGBT employees", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"But The New York Times editorial board said it doesn't matter if Chief Cochran was innocent", "label":"testimony"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"That's not the point, they wrote Tuesday in a scathing editorial titled,\"God, Gays and the Atlanta Fire Department.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":41, "text":"\"It should not matter that the investigation found no evidence that Mr  Cochran had mistreated gays or lesbians,\" the Times wrote", "label":"testimony"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"\"His position as a high-level public servant makes his remarks especially problematic, and requires that he be held to a different standard.\"", "label":"testimony"}
+  ],
+  [
+    {"number":44, "text":"Robert White, executive director of the Georgia Baptist Convention, called The New York Times editorial \"quite remarkable.\"", "label":"testimony"}
+  ],
+  [
+    {"number":45, "text":"\"It declares his innocence and then declares him guilty,\" he said", "label":"testimony"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"\"Guilty of what? He didn't discriminate against any homosexuals. He vowed that he wanted to have a healthy work place for all of his employees.\"", "label":"testimony"}
+  ],
+  [
+    {"number":48, "text":"The Times went on to argue that while Cochran is free to believe whatever he wants- there are limits to where he can believe and still maintain gainful employment in the public arena", "label":"testimony"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"\"If he wants to work as a public official, however, he may not foist his religious views on other city employees who have the right to a boss who does not speak of them as second-class citizens,\" the Times wrote", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"\"There is a prejudice against Christians in this country right now,\" White told me", "label":"testimony"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Dr  White made his bold proclamation just hours before hundreds of Christians were expected to gather at the Georgia capitol to protest the firing of Atlanta Fire Chief Kelvin Cochran", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Among those taking up his cause are the Billy Graham Evangelistic Association, the Georgia Baptist Convention and the Family Research Council", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Click here", "label":"no-unit"},
+    {"number":59, "text":"to follow Todd on Facebook!", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"\"What happened to Chief Cochran goes to the core of religious freedom,\" he said", "label":"testimony"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"\"Georgia Baptists are deeply concerned about the mistreatment of Kelvin Cochran.\"", "label":"testimony"}
+  ],
+  [
+    {"number":63, "text":"Franklin Graham said Cochran was a target of \"politically correct bullying against Bible-believing Christians\" and vowed to stand alongside the embattled former fire chief", "label":"testimony"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Tony Perkins, president of the Family Research Council, said the Times had \"reached a new low in blatant hypocrisy.\"", "label":"testimony"}
+  ],
+  [
+    {"number":66, "text":"\"The New York Times is calling for public servants to be held to a different standard when it comes to their freedom of speech and religion,\" Perkins said", "label":"testimony"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"\"I think most Americans are quite happy with the standard that we have had for the last 226 years- the First Amendment.\"", "label":"testimony"}
+  ],
+  [
+    {"number":69, "text":"If", "label":"no-unit"},
+    {"number":70, "text":"nothing else", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"Cochran's public shaming at the hands of Atlanta's mayor has unified Georgia Christians from all denominations and races", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"\"This is one of those things that can bring people together from all of the political spectrum,\" Garland Hunt, chairman of the Network of Politically Active Christians, told me", "label":"testimony"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"\"This is about religious freedom. This is not about whether a person is conservative or liberal.\"", "label":"testimony"}
+  ],
+  [
+    {"number":77, "text":"The reality is that a good man - a husband and father and grandfather - was fired from his job because his boss objected to his religious beliefs", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"That just ought not to happen in the United States", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"I'm reminded of something Chief Cochran told me", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"\"The LGBT members of our community have a right to be able to express their views and convictions about sexuality and deserve to be respected for their position without hate or discrimination,\" he said", "label":"testimony"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"\"But Christians also have a right to express our belief regarding our faith and be respected for our position without hate and without discrimination. In the United States, no one should be vilified, hated or discriminated against for expressing their beliefs.\"", "label":"testimony"}
+  ],
+  [
+    {"number":86, "text":"Maybe those who preach tolerance and diversity might want to consider practicing it, too", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ]
+]}

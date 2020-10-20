@@ -1,0 +1,163 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Let the Iraqi Army have its day.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On January 6, Iraq will hold its annual Army Day parade in Baghdad", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The ceremony evokes mixed feelings amongst Iraqis", "label":"assumption"},
+    {"number":5, "text":":", "label":"no-unit"},
+    {"number":6, "text":"after all", "label":"no-unit"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":" the parade marches under massive crossed swords wielded by giant bronze hands modelled on those of Saddam Hussein himself", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"For the Kurds it is an ominous ritual, a leftover from an era when Baghdad's military power far outstripped that of the Kurds and when Iraqi state power was used ruthlessly against northern rebellions", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"The stronger the Iraqi army gets, the Kurds reckon, the more chance it will be used against Kurdistan again", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Iraq's Sunnis were the leading force within the Iraqi army since its foundation on January 6, 1921", "label":"common-ground"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"In general", "label":"no-unit"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":" the Sunnis fondly remember the pre-2003 army as a national institution of unrivalled prestige but view today's Iraqi army as a weak shadow of its former self, dominated by Shia officers", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"The views of Iraq's Shia community may be more complex", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Before 2003, the Iraqi military was regularly used as a tool of oppression against the Iraqi Shia", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"yet", "label":"no-unit"},
+    {"number":25, "text":"many older Shia also remember the army as a symbol of modernity and Arab nationalist pride", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"With a Shia-led government in Baghdad, young Shia were beginning to recognise the army as a friendly institution", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"The collapse of Iraqi army divisions in northern and western Iraq in June 2014 dented the army's reputation, with recent victories being credited to the predominately-Shia popular mobilisation militias (al-Hashd al-Shaabi) or else the tiny cadre of special forces - the so-called Golden Division", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"This is a critical year for the Iraqi army", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"which is in danger of losing its status as the nation's premier armed force", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"In 2009, when the US-led\"train and equip\" effort reached its zenith, the Iraqi army fielded 55 combat brigades with approximately 210,000 troops", "label":"statistics"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The Iraqi Ministry of Interior (MoI) fielded around 30 smaller brigades, totaling around 120,000 troops", "label":"statistics"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Today the Iraqi army fields 40 weak brigades with a total combat strength of around 48,000 troops", "label":"statistics"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In contrast", "label":"no-unit"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":" the MoI survived the summer comparatively well and now fields 24 brigades, totaling around 36,000 troops", "label":"statistics"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"The gap has narrowed between the two security ministries", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"In addition to the army and MoI, there are two other security forces that are on the rise", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"One is the Popular Mobilisation forces", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"which seem to field approximately 100,000 troops, including a well-trained offensive cadre of around 20,000 fighters", "label":"statistics"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"The final potential force is the National Guard that is being considered as an option by Iraqi politicians", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"This force would, in theory, be trained, equipped and paid by the federal government, whilst being recruited and operated by the provincial councils", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"In a step towards this concept, a 5,000-strong US-equipped Tribal Security Force brigade has been provided with $13.5 million worth of US weapons and training in the new US Department of Defense budget", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"It is now up to Iraq's government whether the country will pay these troops as part of the first National Guard units in the forthcoming 2015 budget", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"It is also unclear exactly which ministry would administer the training, equipping and paying of National Guard troops: the US-backed Ministry of Defense (MoD) under Minister Khalid al-Ubeidi, a Sunni from Mosul, or the MoI, led by Badr leader Mohammed Ghabban, a close lieutenant of Badr leader Hadi al-Amiri", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"The scheme could become a way of permanently employing the Popular Mobilisation forces in the National Guard units of the predominately-Shia southern provinces", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"With the Kurdish Peshmerga representing another large force of around 54 brigades with 113,000 troops, the Iraqi army is thus on-track to become one of the smaller security forces in Iraq", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"In 2015, the army's performance and the international support provided to Iraq's MoD will be critical factors in determining the future of this proud institution", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"In the background, the slow process of rebuilding the army has already begun", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"New half-manned brigades are popping up at training bases in Nasiriya, Kirkush and at the collection points for the shattered army divisions across north- central Iraq", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"More units will follow in the coming months", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Meanwhile a US-funded $1.6 billion train and equip programme will aim to produce a further nine full-strength Iraqi army brigades in 2015, adding a further 45,000 troops to the army and nearly doubling its frontline combat strength", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"(Three Peshmerga brigades or 15,000 troops will also be re-equipped under the programme)", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"The first of 250 US-provided Mine-Resistant Ambush Protected (MRAP) vehicles have arrived in Iraq, sent directly by the United States at no cost from Afghanistan", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Another 3,496 tactical vehicles (Hummers, trucks, fuel tankers and engineering vehicles) will also be provided to the Iraqi army cost-free by the US military", "label":"anecdote"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"and", "label":"no-unit"},
+    {"number":84, "text":"Iraq will probably buy a further 1,000 newly-built M1151A1 up-armoured Hummers in 2015", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"If", "label":"no-unit"},
+    {"number":87, "text":"the US follows through on its pledges of training and equipment", "label":"assumption"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"the Iraqi army could survive its disastrous year in 2014 and play a key role in the struggle to evict Islamic State of Iraq and the Levant (ISIL) forces from cities like Mosul, Tikrit, Ramadi and Fallujah", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"The Iraqi army can draw on some illustrious history", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"In 1973, it deployed 18,000 troops with 300 tanks to save Damascus during the \"October War\"", "label":"anecdote"},
+    {"number":94, "text":":", "label":"no-unit"},
+    {"number":95, "text":"this feat, mustering and moving an army 1,200km in just six days, remains deeply impressive", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"Iraq's five lightning offensives in April, May and June of 1988 shattered the Iranian army and were textbook examples of planning and execution", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"If", "label":"no-unit"},
+    {"number":100, "text":"the Iraqi army can be rebuilt with Shia, Sunni Arab and Kurdish political support", "label":"assumption"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":"and", "label":"no-unit"},
+    {"number":103, "text":"if", "label":"no-unit"},
+    {"number":104, "text":"the well-led Ministry of Defense can guide the National Guard initiative", "label":"assumption"},
+    {"number":105, "text":",", "label":"no-unit"},
+    {"number":106, "text":"the coming year could witness new Iraqi army victories at Mosul", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":108, "text":"Successful operations undertaken by this national institution, with deep roots in the Iraq's history, will be far more beneficial to the country than victories scored solely by Shia militias or local Sunni uprisings, either of which could further fracture Iraq", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ]
+]}

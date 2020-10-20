@@ -1,0 +1,125 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"EEOC: School wrong to fire teacher who gave Bible to student.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A New Jersey school district violated the law when it fired a teacher who handed a Bible to a student", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"the U.S  Equal Employment Opportunity Commission ruled on December 15, 2014", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The ruling was made public Tuesday", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The EEOC determined there was reasonable cause to believe the Phillipsburg School District discriminated against Walt Tutka, a substitute teacher", "label":"testimony"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The EEOC also said religion and retaliation played a factor in Tutka's firing", "label":"testimony"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"\"This is a great indication the EEOC is taking religious liberty seriously and they are going to enforce the law-- and in this case make sure Walt's rights are protected,\" Liberty Institute attorney Hiram Sasser told me", "label":"testimony"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Liberty Institute is a law firm that specializes in religious liberty cases", "label":"common-ground"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"\"This sends a message to school districts that their natural allergic reaction to religion is misplaced, and not only is it wrong-- but it's also an egregious violation of the law,\" Sasser said", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"As I first reported, Tutka was working as a substitute teacher on Oct  12, 2013", "label":"anecdote"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"when he ran afoul of school policies", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"He told a straggling student at the end of a line, \"The first shall be last and the last shall be first.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":23, "text":"The student asked on a number of occasions where the line was from", "label":"anecdote"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"and", "label":"no-unit"},
+    {"number":26, "text":"Tutka told him it was from the Bible", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"When", "label":"no-unit"},
+    {"number":29, "text":"he discovered the child did not have a Bible", "label":"anecdote"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"Tutka gave him his personal copy", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"It was not all that unusual", "label":"assumption"},
+    {"number":34, "text":"because Tutka is a member of Gideons International, a ministry known for providing Bibles to school children across the world", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"On Oct  18, Tutka was summoned to the principal's office", "label":"anecdote"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"where he was accused of violating a school policy that bans the distribution of religious materials and another that directs teachers to be neutral when discussion religious material", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"He was fired on Jan  14", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Sasser said he hopes the school district will reinstate Tutka", "label":"testimony"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"\"If they don't do the right thing, they will face some serious consequences,\" he told me", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"\"They are going to be liable for damages.\"", "label":"testimony"}
+  ],
+  [
+    {"number":47, "text":"I reached out to George Chando, the superintendent of the Phillipsburg School District", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"He declined to return my call", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"My advice to him is to do the right thing", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"or", "label":"no-unit"},
+    {"number":54, "text":"Liberty Institute will go after him like a pit bull going after a pork chop", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Sasser said the EEOC ruling should serve as a warning to other school districts around the nation", "label":"testimony"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"\"You can't just fire people because they happen to hand a Bible to somebody while they are at work,\" he said", "label":"testimony"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Sasser said he believes the school district was out to get Walt because he is a Gideon", "label":"testimony"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"I obtained a copy of an email from Phillipsburg Middle School Assistant Principal John Stillo that suggest the school district had an issue with the well-known religious group", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"\"It has been brought to the administration's attention that Gideons may be near our campus to distribute literature to our students,\" Stillo wrote in a memo to the school's staff", "label":"testimony"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"\"Please make sure they DO NOT step foot onto our campus at any time. There will be added police and security presence at dismissal.\"", "label":"testimony"}
+  ],
+  [
+    {"number":67, "text":"Gideon International has a long history of providing Bibles to public school students", "label":"anecdote"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"but", "label":"no-unit"},
+    {"number":70, "text":"many districts have banned the religious society in recent years", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Ironically, the Gideons are welcome to distribute Bibles and deliver speeches in Russian schools", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"The Phillipsburg School District should rehire Walt", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"And it owes him a big apology", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"They waged a disgusting public war against this fine, upstanding man simply because he gave a child a Bible", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Shame on you, Phillipsburg School District", "label":"other"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Shame on you", "label":"no-unit"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ]
+]}

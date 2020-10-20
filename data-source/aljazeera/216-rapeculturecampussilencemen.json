@@ -1,0 +1,128 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Rape culture on campus: The silence of men.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"There are some voices that have been conspicuously absent since the publication of Sabrina Rubin Erdely's Rolling Stone article \"A Rape on Campus: A Brutal Assault and a Struggle for Justice at UVA.\"", "label":"assumption"},
+    {"number":3, "text":"Administrators at UVA were forced to respond to the allegations of a 2012 gang rape at the Phi Kappa Psi fraternity", "label":"anecdote"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"and", "label":"no-unit"},
+    {"number":6, "text":"women came out in force to share their stories of sexual violence on campus", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Erdely received so much testimony from women on the UVA campus about the rape culture that she wrote a follow-up article \"Rape at UVA: Readers Say Jackie Wasn't Alone.\"", "label":"anecdote"},
+    {"number":9, "text":"However", "label":"no-unit"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":" the fraternities on campus have been silent as a whole", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"And this is not only a UVA problem", "label":"assumption"},
+    {"number":14, "text":"-", "label":"no-unit"},
+    {"number":15, "text":"rape culture, often cantered in the hypermasculine environment of fraternities, is an epidemic at colleges across the US", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Gregory Orr, who has taught at UVA for the past 39 years, argued:\"Fraternity culture is about as deeply implicated in misogyny and other prejudicial evils as you can imagine.\"", "label":"testimony"}
+  ],
+  [
+    {"number":18, "text":"In September, New York Magazine ran a feature\"Meet the College Women Who Are Starting a Revolution Against Campus Sexual Assault\" that included the story of Emma Sulkowicz", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"She is a Columbia University student who, in response to being raped and seeing inaction on the part of her university to seek justice, strapped a mattress to her back and vowed to walk around campus until her rapist was expelled", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Women like Sulkowicz and Jackie (the victim at UVA) are insulted, mistreated, and ignored by the university administration", "label":"assumption"},
+    {"number":23, "text":"until", "label":"no-unit"},
+    {"number":24, "text":"they take their stories public", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"In many of these stories of sexual violence, the victims are transformed into activists", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"But where are the men, and in particular, where are the fraternity brothers?", "label":"assumption"},
+    {"number":29, "text":"In the case of Jackie, seven fraternity brothers participated in the rape while two watched", "label":"anecdote"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"it took place at a fraternity party", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"We know that there were witnesses", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"and yet the fraternity and its members have been silent", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"While", "label":"no-unit"},
+    {"number":39, "text":"some critics are calling for an end to Greek life", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"I ask that fraternity brothers speak out about sexual violence", "label":"other"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"which has been widely documented across the country, and act in solidarity with victims of violence", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"I reached out to several fraternity brothers on the UVA campus for interviews", "label":"anecdote"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"and", "label":"no-unit"},
+    {"number":48, "text":"I got only one response", "label":"anecdote"},
+    {"number":49, "text":":", "label":"no-unit"},
+    {"number":50, "text":"\"I'm sure you're aware of the moratorium the IFC placed on fraternities in regards to speaking to journalists about the Rolling Stone article.\"", "label":"testimony"}
+  ],
+  [
+    {"number":51, "text":"The IFC should take this moment to promote open dialogue about sexual violence", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"and", "label":"no-unit"},
+    {"number":54, "text":"this requires admitting that the documented culture of sexual violence in fraternities has validity", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"and", "label":"no-unit"},
+    {"number":57, "text":"that fraternity brothers have been complicit in a culture that shames and silences rape victims", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Across the board denial of any mistreatment of women seems to be the modus operandi of fraternities", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"One fraternity brother at UVA agreed to speak to me as long as I didn't use his name or identify his fraternity", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"He said:\"The only times I've ever seen or heard of disrespect towards women happening at our fraternity house was at the hand of non-brothers, and they were promptly thrown out.\"", "label":"testimony"}
+  ],
+  [
+    {"number":64, "text":"To say the least", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"I find this hard to believe", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Stories of disrespect towards women at fraternities or elsewhere on campus abound not only at UVA, but nationwide", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Fraternity culture is a vestige of the past, of a money and power pipeline that installs men into a network that protects and provides for them for life", "label":"assumption"},
+    {"number":71, "text":"if", "label":"no-unit"},
+    {"number":72, "text":"they are loyal", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"That power was on display when UVA made a choice about hiring an \"independent\" investigator to look into the gang rape allegations", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Lawyer Mark Filip was selected to lead the independent investigation, this despite the fact that he was a member of the Phi Kappa Psi fraternity, the very same one whose members were accused of gang rape", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"He was later recused from the case", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Fraternity culture also represents antiquated values about gender", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"and", "label":"no-unit"},
+    {"number":83, "text":"on the UVA campus it manifests itself in a system in which fraternities have a monopoly on serving alcohol(drinking is not allowed at sororities)", "label":"anecdote"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"This installs fraternities at the very centre of college drinking and socialisation culture", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"I wish I was writing the article,\"Meet the College Fraternity Brothers Who Are Starting a Revolution Against Campus Sexual Assault,\"", "label":"anecdote"},
+    {"number":88, "text":"but", "label":"no-unit"},
+    {"number":89, "text":"that would mean that fraternities would have to quickly usher themselves into the 21st century", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"All it takes is a few inspired, outspoken individuals to start a movement against sexual violence, as victims of sexual violence have shown", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"It is time for fraternity brothers to join them", "label":"assumption"},
+    {"number":94, "text":",", "label":"no-unit"},
+    {"number":95, "text":"to use their strength and numbers to speak out against rape culture and work to change it", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ]
+]}

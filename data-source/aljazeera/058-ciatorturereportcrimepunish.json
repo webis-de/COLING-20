@@ -1,0 +1,156 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Punishment, not apology after CIA torture report.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"What a dark day for the United States", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Five years and nine months after Senators Dianne Feinstein and Kit Bond, the chair and vice chair of the Senate Intelligence Committee, announced a review of the CIA's detention and interrogation programme in the so-called \"war on terror\", the 500-page executive summary of that report has been made publicly available", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Its conclusions are shocking", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"As Feinstein explained in an interview with the Los Angeles Times at the weekend,\"We have to get this report out. Anybody who reads this is going to never let this happen again.\"", "label":"testimony"}
+  ],
+  [
+    {"number":9, "text":"Let us hope so - and let us also hope that senior officials in the Bush administration, as well as senior CIA personnel, will eventually be held accountable for their actions", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"The CIA's torture programme, initiated almost immediately after the 9/11 attacks, remained a closely guarded secret for many years", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"An early revelation was a June 2004 leak of a memo", "label":"anecdote"},
+    {"number":14, "text":"which purported to redefine torture so that it could be used by the CIA", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The memo was written by John Yoo, a lawyer in the Department of Justice's Office of Legal Counsel (OLC)", "label":"anecdote"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"who was close to Dick Cheney", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"The CIA's \"black sites\" in Europe were not publicly exposed until November 2005", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"The Bush administration still refused to openly acknowledge the programme until September 2006", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"when then President George W Bush announced that, with the arrival of 14 \"high-value detainees\" at Guantanamo from various \"black sites\", the programme he had denied the existence of until that time had now closed down", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"That statement, we subsequently learned, was not entirely true", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"as a few other prisoners arrived at Guantanamo from CIA custody in 2007 and 2008", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"but", "label":"no-unit"},
+    {"number":31, "text":"the torture report provides conclusive proof", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"\"By March 2006,\" the report states,\"the programme was operating in only one country. The CIA last used its enhanced interrogation techniques on November 8, 2007. The CIA did not hold any detainees after April 2008.\"", "label":"testimony"}
+  ],
+  [
+    {"number":34, "text":"After the arrival of the \"high-value detainees\" at Guantanamo, numerous attempts were made to pierce the veil of secrecy that surrounded the programme", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"In 2007, Swiss Senator Dick Marty published an influential report for the Council of Europe about secret prisons and rendition in Europe", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"In February 2008, CIA Director Michael Hayden admitted that three \"high-value detainees\" had been subjected to waterboarding", "label":"testimony"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"In December 2008, the Senate Armed Services Committee published a powerful report about how the policies for dealing with prisoners in the \"war on terror\" had developed - including detailed analysis of how the US military's SERE programme (intended to train US personnel to resist torture if captured by a hostile enemy) had been reverse-engineered for the \"war on terror\"", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"In April 2009, harrowing interviews with the 14 \"high-value detainees\", conducted by representatives of the International Committee of the Red Cross, were leaked", "label":"anecdote"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"and", "label":"no-unit"},
+    {"number":45, "text":"in August 2009 an internal CIA report from 2004 into the agency's detention and interrogation policies after 9/11 was released", "label":"anecdote"},
+    {"number":46, "text":"containing details of how one prisoner, Abd al-Rahim al-Nashiri (one of the three men waterboarded, along with Abu Zubaydah and Khalid Sheikh Muhammad), was physically abused and threatened with a gun and power drill while hooded at a \"black site\" in Thailand", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"In 2010 I wrote a detailed analysis of the secret detention programme for a UN study", "label":"anecdote"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"in which I sought to ascertain the identities of the 94 \"ghost prisoners\" in CIA custody - including 28 subjected to \"enhanced interrogation\" ", "label":"anecdote"},
+    {"number":51, "text":"-", "label":"no-unit"},
+    {"number":52, "text":"who were referred to in a memo from 2005 by OLC lawyer Steven G Bradbury that was released by the Obama administration in April 2009", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Another major report, by the Constitution Project, was published in 2013", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"And yet", "label":"no-unit"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"although some of the gruesome facts about the torture programme were known", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"the Senate Intelligence Committee's report provides far more", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"In its \"Findings and Conclusions\", for example, the report states", "label":"no-unit"},
+    {"number":63, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"There are many more examples", "label":"no-unit"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"The report states", "label":"assumption"},
+    {"number":67, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"In addition", "label":"no-unit"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"\"sleep deprivation involved keeping detainees awake for up to 180 hours\"", "label":"testimony"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"and", "label":"no-unit"},
+    {"number":73, "text":"although some \"experienced disturbing hallucinations\", in at least two cases the CIA continued its abuse", "label":"testimony"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"These examples - and many more in the summary - demonstrate clearly the committee's conclusion that the interrogations \"were brutal and far worse than the CIA represented to policymakers and others\"", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Perhaps more importantly, however, the committee also concludes that torture was \"not an effective means of acquiring intelligence or gaining cooperation from detainees\", that the CIA made \"inaccurate claims\" about the \"effectiveness\" of the programme in an attempt to justify it and that it led to friction with other agencies that endangered national security, as well as providing false statements that led to costly and worthless wild goose chases", "label":"testimony"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"The report also concludes that non-approved techniques were used widely", "label":"testimony"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"and that \"[a]t least 17 detainees were subjected to CIA enhanced interrogation techniques without authorisation from CIA headquarters\", and that \"multiple detainees were subjected to techniques that were applied in ways that diverged from the specific authorisation, or were subjected to enhanced interrogation techniques by interrogators", "label":"testimony"},
+    {"number":82, "text":"who had not been authorised to use them\"", "label":"testimony"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"The committee was also critical of the central role played by two contract psychologists from the SERE programme", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"even though neither of them \"had any experience as an interrogator, nor did either have specialised knowledge of al-Qaeda, a background in counterterrorism, or any relevant cultural or linguistic expertise\"", "label":"testimony"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"The committee also concluded that Steven Bradbury's numbers were wrong, and that the CIA \"detained at least 119 individuals, of whom at least 39 were subjected to the CIA's enhanced interrogation techniques\"", "label":"testimony"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Moreover", "label":"no-unit"},
+    {"number":91, "text":",", "label":"no-unit"},
+    {"number":92, "text":" of these 119 \"at least 26 were wrongfully held and did not meet the detention standard\" in the still-secret Bush administration memorandum establishing the programme in September 2001", "label":"testimony"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"In the days and weeks to come, there will be concerted efforts by the CIA and by former Bush administration officials to defend their actions", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"but", "label":"no-unit"},
+    {"number":97, "text":"the report makes clear that any kind of defence is untenable", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Crimes were committed, authorised at the highest level of the US government", "label":"assumption"},
+    {"number":100, "text":",", "label":"no-unit"},
+    {"number":101, "text":"and", "label":"no-unit"},
+    {"number":102, "text":",", "label":"no-unit"},
+    {"number":103, "text":"although Obama came into office in 2009 expressing \"a belief that we need to look forward as opposed to looking backwards\"", "label":"testimony"},
+    {"number":104, "text":",", "label":"no-unit"},
+    {"number":105, "text":"that is not acceptable", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"The Senate Intelligence Committee's torture report - all 6,700 pages of it, costing $40m and involving an analysis of more than six million pages of classified documents - must be the trigger not just for an airing of apologies, but for those who instigated and authorised the torture programme to be held accountable - up to and including President George W Bush and Vice President Dick Cheney", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ]
+]}

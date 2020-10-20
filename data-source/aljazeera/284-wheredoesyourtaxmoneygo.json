@@ -1,0 +1,151 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Where does your tax money go?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"To many people overseas, the United States government is viewed as an aggressive empire of military bases, drones, and special forces that transcend national borders", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"But to big corporations, the US government is a patsy that gives away trillions of dollars of natural resources, tax revenues and public assets to grasping giant companies and industries", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"The US has an unsurpassed record of transferring what belongs to all Americans to a few giant business interests", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Unlike any other country, the federal government, under the 1872 Mining Act, gives away hard rock minerals (eg gold, silver, platinum, molybdenum) discovered on federal lands that belong to the American people, to the foreign or domestic companies that find these minerals", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"In 1986, for example, a gold company found over $9bn worth of gold under federal land in Nevada", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"The company bought rights to that gold for $5 per acre(less than $6,000 total) without having to pay any royalties on the mined gold back to the Department of Interior", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"For over 100 years, valuable minerals worth hundreds of billions of dollars have been given away to the mining industry for $5 or less per acre", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Once these mines are exhausted, the law only requires companies to do little to clean up their toxic waters and waste", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"As for other natural resources on federal land such as timber, grazing fields, oil, gas and coal, the companies pay very low fees to the government to obtain these valuable natural resources", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"The public airwaves belong to the people", "label":"common-ground"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Yet", "label":"no-unit"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":" under a law passed in 1934 by the radio lobby (sustained later by the television industry), the broadcasting stations control their licensed portion of the broadcast spectrum 24/7 for free", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"As tenants they pay nothing to the Federal Communications Commission", "label":"anecdote"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"which represents the landlords", "label":"anecdote"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"who are the people", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"These free licenses allow radio and television stations to exclusively decide who gets airtime and who does not", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Entertainment and advertisements now make up over 90 percent of the broadcasting time of these very profitable commercial stations, using our public airwaves", "label":"statistics"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"For many decades, the federal government has used taxpayer-funded research and development as hand-outs for private industries in the US", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"For instance", "label":"no-unit"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":" the research and development of the Pentagon has resulted in technologies that built the aero-space, computer and containerisation industries", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"It was the Pentagon that funded the basic and applied research that led to the creation of the Internet", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"The National Aeronautics and Space Administration (NASA) has transferred, for free, many diverse technologies that were developed through taxpayer-funded research and development to the transportation, detection and medical service industries", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"The National Institutes of Health (NIH) has funded many of the major pharmaceuticals which, under contracts known as CRADA agreements, are given away to large drug companies", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"The anti-cancer drug, Taxol, was developed with $31m of taxpayer funds by the National Cancer Institute and, after clinical testing, given away to Bristol- Myers-Squibb under a monopoly marketing agreement", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The biotechnology industry was formed out of free NIH research programmes", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Without a century of freely transferred research and development investments by the US Department of Agriculture, pesticide, herbicide and other chemical industries would not be where they are today", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"At the state and local level, companies and their consulting firms put the location of new factories, warehouses or large retail stores up for bidding by the states and municipalities", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"It becomes a race to the bottom by states and municipalities competing against each other to create the most \"business friendly environment\" with incentives like tax breaks, cash donations and other subsidies to convince companies to locate to a community called corporate welfare or crony capitalism", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"These deals amount to governments paying companies to make money while depleting their public tax base that pays for schools, public works and other public services", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Recently, Tesla, the electric car company, put the location of a proposed one billion dollar factory to produce lithium ion batteries up for bid", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Texas, California, Arizona, and Nevada offered large giveaways in incentive subsidies", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Nevada won, offering a package worth at least $1bn that included tax vacations, cash reimbursements of expenses and even a cash bonus for signing", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Similarly", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":" professional sports businesses have routinely demanded taxpayer- funded stadiums and ballparks as a condition of either staying in a city or relocating to another", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Many billions of dollars have been spent to make these rich football and baseball giants even richer", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"This is money that could have been spent to create and improve neighbourhood recreational facilities for participatory sports and healthy exercise", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Under those corporate subsidies, the taxpayers are paying far too much (sometimes between $100,000 to $200,000 per job) for their governments' race to the bottom during these bidding wars", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"There are many thousands of similar corporate subsidy programmes", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"which are not regularly reviewed by the federal government", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Instead", "label":"no-unit"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":" Congress just lets them continue on indefinitely without regulatory standards, cost-benefit tests or sunset provisions", "label":"assumption"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"which is exactly what these corporate lobbyists are paying for with their ample campaign contributions to these indentured legislators", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"The most profitable companies in the world make demands for such subsidies", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"Some years ago the former CEO of Intel Corporation, Andy Grove, testified before the Senate urging continuation of the generous tax credits given to computer companies like Cisco, Microsoft, Google, and Apple", "label":"anecdote"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"These are companies with staggering profit margins, year after year", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Grove was candid when he told the Senators that his industry was not very eager to spend money to do basic research", "label":"testimony"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"What these companies do, he noted, is apply the research to their products and services", "label":"testimony"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"He called on the government to take this responsibility by extending tax credits (big checks) from the Treasury to pay companies to do such basic work", "label":"testimony"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"The unfairness of all these giveaways is inducing a Left-Right alliance that opposes such giveaways", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"The Left calls this corporate welfare", "label":"anecdote"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":"while", "label":"no-unit"},
+    {"number":103, "text":"the Right calls it crony capitalism", "label":"anecdote"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"Thus far, the politicians from both the Democratic and the Republican parties have not wanted to make these giveaways debatable issues in their electoral campaigns or the subject of thorough congressional or state legislative hearings", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"The time is coming for a Left-Right public coalition to go operational and exert political demands for reform of this gigantic largesse", "label":"assumption"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":"while", "label":"no-unit"},
+    {"number":110, "text":"many other necessities of the people are subjected to cruel, austere cutbacks", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,133 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"If Greece turns left, will Europe follow?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Greece is heading towards snap elections on January 25 after the conservative coalition government, currently in office, failed to reach a supermajority of 180 MPs in order to elect the new president of the republic as dictated by the Greek constitution", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Stavros Demas, a former European Commissioner and candidate of choice of the two ruling parties, was never really proposed with the purpose to achieve and express the maximum consensus among the Greek population", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Demas is coming from the heart of the ruling conservative New Democracy party and symbolises the party's loyalty to the current establishment in the EU", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The main opposition party, SYRIZA, openly invested in the constitutional opportunity to overturn the government months ago claiming that its endurance in office for two more years would be abnormal as it would contradict the popular sentiment tracked in every opinion poll during the past year or so", "label":"testimony"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"By all odds", "label":"no-unit"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"SYRIZA is leading the polls by 3 percent to 10 percent and is expected to form a government either based on a robust majority of the left in parliament, or, in coalition with minor parties who are willing to follow its agenda, renegotiate a bailout agreement that will not be catastrophic for Greek society and the Greek economy", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Despite the fact that both the German and the Greek conservative governments present the current bailout programme as a \"success story\", most analysts around the globe agree that it has actually failed", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Six years of continuing recession have resulted in a loss of 25 percent of GDP and a rise of unemployment to 27 percent", "label":"statistics"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Greek debt is well over 170 percent of GDP now", "label":"assumption"},
+    {"number":19, "text":"and", "label":"no-unit"},
+    {"number":20, "text":"according to Troika estimations it will be no less than 120 percent by 2020", "label":"testimony"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"These facts translate to two things", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Firstly", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"there can be no development under austerity policies for the majority of the population", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"even if the Eurozone fixes its competitiveness problem and exits deflation and the Greek economy starts developing at a growth rate of over 4 percent ", "label":"assumption"},
+    {"number":29, "text":"-", "label":"no-unit"},
+    {"number":30, "text":"which is highly unlikely", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Secondly, there can be no functioning democracy so long as Greece is not given choices other than poverty, degrowth and exclusion", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Greece is in the state of protectorate at the moment, bound in a bailout agreement that strips its ability to produce and reject different solutions", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"But it's not just Greece", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Spain follows the same path both in regards to the social crisis and the political management of that crisis", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Poverty and unemployment figures look much like the Greek ones and the Spanish conservative government resorts to authoritarian measures in order to keep the Spanish society tight", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"For example", "label":"no-unit"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":" the public security law voted a few days ago is a clear attempt of the government to muzzle protests over its handling of the financial crisis", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Deflation hits Europe and the prospects of its biggest economies like France's, Italy's and Germany's, are not looking good to pull the Eurozone back to the track of growth", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"As a result, political forces that question austerity are gaining momentum", "label":"assumption"},
+    {"number":49, "text":"whether", "label":"no-unit"},
+    {"number":50, "text":"they are nationalist Euroskeptic and even fascist, or progressive, democratic and pro-European like the Spanish ally party of SYRIZA, Podemos", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"What is striking about SYRIZA is that its critique and analysis since 2009 have been proven to be correct despite the continuing fear campaign against him both inside and out of the country", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Recently Prime Minister Antonis Samaras accused the party of the radical left that it will lead Greece to default and bankruptcy if it tries to negotiate lighter terms for the repayment of the Greek debt", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Jean Claude Juncker's Commission has been issuing exhortations to the Greek electorate not to vote for SYRIZA", "label":"testimony"},
+    {"number":57, "text":"and", "label":"no-unit"},
+    {"number":58, "text":"German finance minister is openly saying that there is no alternative for Greece, no matter which government comes in office", "label":"testimony"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"But economic analysts who have defended the reforms are starting to agree with SYRIZA on several issues, including the need to stop austerity and move faster to a process of debt forgiveness", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"FT's Wolfgang Munchau writes that \"the radical left is right about Europe's debt\"", "label":"testimony"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Bloomberg argues that the end of austerity may boost the global economy", "label":"testimony"},
+    {"number":65, "text":"and", "label":"no-unit"},
+    {"number":66, "text":"even Morgan Stanley asks bond holders not to be afraid of the coming elections", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Despite the fear-mongering campaign, economic analysts reject now a possible \"grexit\" due to markets' belief that some kind of deal is preferable both for Greece and the EU", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"In this environment, a SYRIZA victory would mean two very important things; the return of the power to decide to a democratically elected government and the restoration of inclusiveness and national sovereignty and the opening of a new chapter in European politics", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"where the parties and the organisations who challenge austerity will have the momentum", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"The Greek people have patiently given the opportunity to the neoliberal technocrats of the IMF and the EU along with their local counterparts in the conservative coalition government to experiment and find a way out of the mess for more than five years only to receive back pain and failure", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Now they're being given the opportunity to exercise their democratic right to choose which way the country will turn", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"SYRIZA is asking for debt forgiveness and a New Deal for Europe, both rather moderate demands coming from a radical left party", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"If", "label":"no-unit"},
+    {"number":81, "text":"SYRIZA actually wins the elections", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"the Greek people will be the first to send a clear message against austerity, one that can spark change, much needed on the continent right now", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"And", "label":"no-unit"},
+    {"number":86, "text":"if", "label":"no-unit"},
+    {"number":87, "text":"SYRIZA succeeds then", "label":"assumption"},
+    {"number":88, "text":"Europe may start a new page in its economic and political history", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ]
+]}

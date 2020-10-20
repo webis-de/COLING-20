@@ -1,0 +1,168 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Palestine's wasted time at the UN.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Even by the standards of the Israeli-Palestinian peace process, the Palestinian Authority's just-thwarted attempt at a UN Security Council resolution was a spectacular waste of time, and needlessly handed Israel a symbolic diplomatic victory", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"The draft - which called for peace with Israel within a year, and an end to the occupation by 2017- fell one yes vote short of the minimum nine required in the 15-member Council", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Five countries abstained", "label":"anecdote"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"and", "label":"no-unit"},
+    {"number":9, "text":"two - the US and Australia - voted no", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Draft resolutions are usually preceded by consultations with Council members, so whoever submits them knows, beforehand, which way the vote will go", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"This draft was no different", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"In fact", "label":"no-unit"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":" insufficient support among Council members was the initial reason given months ago by the PA for a delay in the vote", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"As such, it must have known prior to presenting the draft that it would fail", "label":"assumption"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"so", "label":"no-unit"},
+    {"number":22, "text":"why go through with it?", "label":"assumption"}
+  ],
+  [
+    {"number":23, "text":"In fact", "label":"no-unit"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":" why did the PA try to push through a resolution in the first place?", "label":"assumption"},
+    {"number":26, "text":"Even if", "label":"no-unit"},
+    {"number":27, "text":"it mustered the minimum votes", "label":"assumption"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"the US would have used its veto", "label":"assumption"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"the PA knew it", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Not only have the Americans consistently scuppered any resolution that places even the slightest criticism or pressure on Israel", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"but", "label":"no-unit"},
+    {"number":37, "text":"Washington had been explicit about its intention to use its veto this time round if necessary", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"As such, it is puzzling that Jordan's UN Ambassador Dina Kawar, whose country submitted the draft with the backing of the PA and the Arab League, said she thought Council members should have had more time to discuss the proposal", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"What would be the point in the face of an assured American veto?", "label":"assumption"}
+  ],
+  [
+    {"number":42, "text":"The only way Washington would acquiesce was if the resolution called for an end to the Palestinian occupation of Israel", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"This makes PA President Mahmoud Abbas's recent statement that he had repeatedly postponed the resolution due to US pressure equally puzzling", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Did he actually think anything he could say or do would lead to the US dropping such pressure, or that it would accept the draft that was presented?", "label":"assumption"}
+  ],
+  [
+    {"number":47, "text":"In any case, months of consultations and various reasons for delays only resulted in the continued watering down of the text", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"This led to widespread Palestinian condemnation, from the public and from every faction", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Among the most prominent critics is the widely popular senior Fatah figure Marwan Barghouti", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"whose party dominates the PA and includes Abbas", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"Barghouti described the text as an \"unjustified fallback which will adversely affect the Palestinian position\"", "label":"testimony"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Moreover", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":" the draft was not put forward as a Chapter VII resolution", "label":"anecdote"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"which would entail punitive measures for lack of compliance", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"As such", "label":"no-unit"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"even if", "label":"no-unit"},
+    {"number":66, "text":"it was passed", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"Israel - which flatly condemned the PA's push from the outset- would be free to ignore it without consequence", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"as it has done with all the numerous Security Council resolutions over the decades", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Indeed", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" the draft did not contain any wording that would cause Israel to worry", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Given that the US veto shields Israel", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"and", "label":"no-unit"},
+    {"number":79, "text":"that existing resolutions are ignored with impunity", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"it is astounding that the PA had any faith left in the Council to attempt its latest futile exercise at statehood", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Even", "label":"no-unit"},
+    {"number":84, "text":"the response of its UN Ambassador Riyad Mansour was telling in this regard", "label":"assumption"},
+    {"number":85, "text":";", "label":"no-unit"},
+    {"number":86, "text":"\"The Security Council has once again failed to uphold its charter duties to address this crises and to meaningfully contribute to a lasting solution in accordance with its own resolutions.\"", "label":"testimony"}
+  ],
+  [
+    {"number":87, "text":"It has long been clear that the UN is a highly unlikely place for Palestinians to seek justice", "label":"assumption"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"as", "label":"no-unit"},
+    {"number":90, "text":"the consistent wishes and support of the international community for their cause is held hostage by just one country", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"The very notion of Security Council vetoes makes the UN an inherently and woefully undemocratic institution", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"The irony is that in the case of Palestine, a democracy is to blame", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"The US ambassador to the UN, Samantha Power, had the gall to say the resolution undermined efforts to \"achieve two states for two people\"", "label":"testimony"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"The entire point of the resolution was to create a state that the existing state is determined to deny", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"As such, one wonders if she even read the draft", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"It seems the mere mention of Israel automatically triggers an American veto", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"This whole months-long affair was an obvious exercise in futility", "label":"assumption"},
+    {"number":105, "text":",", "label":"no-unit"},
+    {"number":106, "text":"during which time", "label":"no-unit"},
+    {"number":107, "text":"Israel has further entrenched its occupation and colonisation of Palestine", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"The day after the resolution failed", "label":"assumption"},
+    {"number":110, "text":",", "label":"no-unit"},
+    {"number":111, "text":"Abbas signed a document requesting membership of the International Criminal Court", "label":"anecdote"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"Given numerous previous threats to join the ICC, this is a welcome development", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"However", "label":"no-unit"},
+    {"number":116, "text":",", "label":"no-unit"},
+    {"number":117, "text":" he should have done this the moment Palestine's upgraded status at the UN allowed it do so more than two years ago", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"Amid Israel's relentless colonisation and occupation, and after more than 20 years of fruitless negotiations, the Palestinians do not have the luxury of waiting indefinitely for statehood", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":121, "text":"As such, the PA must act with the necessary urgency and focus", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,132 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Who is a German?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A spectre is haunting Germany and Europe", "label":"assumption"},
+    {"number":3, "text":"and", "label":"no-unit"},
+    {"number":4, "text":"the spectre is called PEGIDA", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Until recently only a few people had heard of PEGIDA, acronym for \"Patriotic Europeans against the Islamisation of the Occident.\"", "label":"assumption"},
+    {"number":7, "text":"It started as a small protest movement in the eastern city of Dresden against the influx of immigrants, foreign workers and asylum seekers and, above all, against the \"Islamisation\" of Germany", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"Adopting the slogan\"We are the people\" of the weekly anti-communist demonstrations in 1989 which ultimately led to the overthrow of the German Democratic Republic, PEGIDA's appeal seems to have grown week after week", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"The hundreds of demonstrators of the first few Monday evening \"walks\" in Dresden have swollen to tens of thousands", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Besides Dresden, there are now similar weekly rallies in other big German cities", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"With its history of anti-Semitism and fascism many find it shocking that a considerable number of Germans, particularly in the east of the country, are flocking to a xenophobic, racist and Islamophobic movement", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"The surge of the anti-Islamisation movement has led to polarisation of the public opinion, many counter demonstrations and a fierce public debate, involving politicians, church leaders and academics", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Chancellor Angela Merkel strongly criticised PEGIDA and called on Germans not to attend their rallies", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"\"Do not follow the people who organise these, for their hearts are cold and often full of prejudice, and even hate,\" Merkel said in her New Year's Eve speech", "label":"testimony"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"Marginalised", "label":"no-unit"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Not everybody agrees", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"Development Minister Gerd Muller of the Bavarian Christian Social Union (CSU), warned not to exclude PEGIDA sympathisers", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"\"The overwhelming majority of those demonstrators are not racists at all", "label":"testimony"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Many of them are low income Germans", "label":"testimony"},
+    {"number":32, "text":"and they feel they are being neglected, while refugees are offered help", "label":"testimony"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The refugees, but also other migrants, are perceived by these people as competitors", "label":"testimony"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"In spite of our flourishing economy there are millions of poor families in Germany", "label":"testimony"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"The poor feel marginalised and not represented.\"", "label":"testimony"}
+  ],
+  [
+    {"number":39, "text":"The CSU, Merkel's CDU's sister party and longtime political ally, has been accused of showing a bit too much understanding for PEGIDA", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In fact the CSU's positions on immigration, integration and tougher rules for asylum seekers are quite similar to PEGIDA's", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"It may well be that the CSU is distancing itself from Merkel because it is worried about right-wing competitors like the anti-establishment and eurosceptic AfD, Alternative fur Deutschland (Germany's Alternative)", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"The AfD may succeed in winning over many of the PEGIDA-sympathisers", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"AfD-chairman Bernd Lucke has gone out of his way to advocate a dialogue with this \"new civil movement\" and listen carefully to its arguments", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"At the same time Lucke tried carefully not to alienate the more \"respectable\" right-wing voters and to distance himself from a too xenophobic discourse", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Other AfD leaders are less ambiguous and clearly show support of PEGIDA by participating in their marches and inviting PEGIDA organisers to Saxony's regional parliament", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Some German observers don't doubt the existence of an alliance between AfD and PEGIDA", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"Analyst Volker Wagener sees the AfD as the \"parliamentary voice of the street\"", "label":"testimony"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"He notes that the AfD manages to score with a xenophobic discourse especially in the east of Germany", "label":"testimony"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"If", "label":"no-unit"},
+    {"number":60, "text":"the AfD succeeds in translating PEGIDA's objectives politically and electorally", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"it may take a role not unsimilar to Marine le Pen's National Front in France and especially Geert Wilders' Freedom Party in the Netherlands", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"In fact", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":" there is a striking similarity between the anti- Islamisation positions of Geert Wilders and PEGIDA", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Like Wilders' Freedom Party, PEGIDA does not only condemn jihadists and Islamist terrorists but Islam itself", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Refugees, asylum seekers, migrants and the islamic religion are all lumped together in a vague, scary, threatening mix", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Both the Freedom Party and PEGIDA claim to defend the \"conservation of the Judeo-Christian heritage\"", "label":"testimony"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Both claim not to be radical", "label":"testimony"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"but", "label":"no-unit"},
+    {"number":77, "text":"PEGIDA and Wilders' party do in fact appeal to right wing radicals and extremists", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"Neo- Nazis and violent\"hooligans against Salafists\" openly support PEGIDA", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"Both forces represent a significant portion of the population in Germany and the Netherlands", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"If", "label":"no-unit"},
+    {"number":84, "text":"there would be parliamentary elections in the Netherlands now,", "label":"no-unit"},
+    {"number":85, "text":"Wilders' Freedom Party would be the first or second political force in the country (depending on which poll to believe)", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"In Germany, around 30 percent of the population thinks PEGIDA's concerns are legitimate", "label":"statistics"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Some German experts say the debate shows the need for a redefinition of\"who is a German\" and recognition of Germany as an immigration country", "label":"anecdote"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"According to a recent study, most Germans see somebody as \"German\" when he or she speaks German well and has a German passport", "label":"statistics"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Some 38 percent of those polled said that women who wore headscarves could not be German", "label":"statistics"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"To define a new concept of \"German-ness\" and promote a welcoming culture of tolerance and openness will not be an easy task, and should probably not be left to the politicians", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ]
+]}

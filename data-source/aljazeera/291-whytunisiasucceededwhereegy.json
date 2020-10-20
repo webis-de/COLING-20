@@ -1,0 +1,165 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why Tunisia succeeded where Egypt failed.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The coincidence couldn't be more striking", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"As Tunisians prepare for a run-off in their first full presidential elections, an Egyptian court has declared invalid all remaining murder and corruption charges against former President Hosni Mubarak", "label":"anecdote"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"which stemmed from his three decades of misrule and the hundreds killed in the brutal crackdown he launched to preserve it", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"While", "label":"no-unit"},
+    {"number":9, "text":"denizens of Tunis debate whether interim President Moncef Marzouki or Ben Ali era veteran Beji Caid Essebsi can best move the country forward", "label":"assumption"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"security forces in Cairo fired on crowds who attempted to enter Tahrir Square, the erstwhile centre of the revolution, to protest the Mubarak decision, killing at least one person while arresting dozens", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"The untold thousands of peaceful protesters and activists rotting in Egypt's jails and the cult of personality today surrounding President Abdel Fattah el- Sisi tell the story of how the reluctant decision by Tahrir's revolutionaries to agree to a military-led transition turned out", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"In Tunisia, the elements of the state, such as the interior ministry, remain bastions of the ancien regime", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"But the country has undeniably moved further than any Arab country towards a real and sustainable democracy", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"This should not surprise anyone familiar with Tunisia's history", "label":"assumption"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"as the country boasts the Arab - indeed, Muslim - world's first modern constitution, from 1861, and has long been among the most cosmopolitan and open in the region", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"But the central issue today is precisely how the country built its post-Ben Ali leadership", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"Whatever one wants to say about the Islamist Nahda Party, its spiritual and political leader Rachid Ghannoushi re-entered Tunisian politics with a long history of supporting pluralism and democracy", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"And", "label":"no-unit"},
+    {"number":28, "text":"when it was clear that the party could not govern effectively, it ceded power and agreed to new elections", "label":"anecdote"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"while", "label":"no-unit"},
+    {"number":31, "text":"members have engaged in public self-criticism about its failings", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Equally if not more important, Marzouki is one of the Arab world's most respected human rights figures", "label":"anecdote"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"whose Congress for the Republic Party has brought together various opposition tendencies since its creation in 2001", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"His term in office has been far from a sterling success", "label":"assumption"},
+    {"number":38, "text":"-", "label":"no-unit"},
+    {"number":39, "text":"it could not have been otherwise, given the Herculean task of building a new governing system on the still functioning body of Ben Ali's mafia state", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"But despite political assassinations, flaring religious extremism, and deep- seated economic problems, the country has moved to solidify a new civil and democratic political system", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"The contrast with the Egyptian post-revolutionary leadership couldn't be clearer", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"There are many structural reasons why Tunisia has progressed politically while Egypt has seemingly returned to its pharaonic roots(as many commentators like to describe its penchant for authoritarian leaders)", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"The most prominent are the exponentially greater power of the Egyptian military vis-a-vis its North African counterpart and its far larger, and poorer, population", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"But I would argue that the centrality, at least politically, of human rights to the national discourse has been one of the unheralded heroes of the post- revolutionary period", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Just compare Tunisia and its president with the situation in Egypt", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"As", "label":"no-unit"},
+    {"number":54, "text":"Abdel Basset Hassan, head of the Arab Institute for Human Rights in Tunis and a long-time resident of Cairo, explained to me when we met in September, human rights are clearly being institutionalised to a strong degree", "label":"testimony"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"The problem is that human rights is a frail political discourse", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Whether in the most \"advanced\" democracies like the United States and UK, or developing countries like Egypt and Tunisia, it's easily swept aside by appeals to core national and/or religious identities and the creation of threats", "label":"assumption"},
+    {"number":59, "text":"whose defeat inevitably requires watering down the protections afforded to all citizens", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"More broadly, human rights exists in a contradictory political framework", "label":"assumption"},
+    {"number":62, "text":":", "label":"no-unit"},
+    {"number":63, "text":"In most societies they both require revolutionary change to be fully implemented and yet are routinely violated in revolutionary situations where one form of power is, more or less violently, overpowering and superseding another", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"As revolutions from Iran to Cuba have shown, its all too easy for revolutions fought in the name of human rights, justice and dignity to themselves produce violent and repressive systems", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"What's", "label":"no-unit"},
+    {"number":68, "text":"more", "label":"no-unit"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"human rights is intimately tied to a notion of individual personhood that can all too easily be hijacked to a kind of market fundamentalist liberalism", "label":"assumption"},
+    {"number":71, "text":"in which broad political freedom masks incredibly deep and destruction inequalities, exploitation, and repression - whether of colonised peoples \"outremer\" or of working classes at home", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Yet", "label":"no-unit"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":" for anyone who's experienced the Egyptian and Tunisian revolutions in action, the power and importance of human rights is undeniable", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"It remains one of the most radical concepts of the modern era; first, because it demands recognising others as inherently equal to oneself regardless of their differences- ethnic, racial, gender, religion, class, or nation", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"Second", "label":"no-unit"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":" they demand strict limitation on state power", "label":"assumption"},
+    {"number":82, "text":"which is inherently and, unless checked, normatively abusive of citizens", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"And this is where the situation in Tunisia remains perilous despite the smooth parliamentary and presidential elections of the last two months", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"While", "label":"no-unit"},
+    {"number":87, "text":"Marzouki's Congress for the Republic party represents a poorer and more traditional (and southern) component of Tunisian society", "label":"assumption"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"Essebsi's Nida Tounes Party is not merely tied to the old regime, but to the international financial interests to which it was beholden", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Indeed", "label":"no-unit"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":" the main threat in Tunisia today, in this regard, is not a religious- secular divide but left-neoliberal, with the two powerful parties working together to suppress all opposition to once again making Tunisia the Arab world's \"poster child\" for a \"broken down\" neoliberal reform model", "label":"assumption"},
+    {"number":94, "text":"which has always produced- and masked - the desperate inequalities that led to the revolution against Ben Ali in the first place", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"For decades, neoliberalism has produced the same results most everywhere it has been implemented: aggregate growth that mask growing inequality, increasing corruption, crime, environmental degradation and repression", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"The only check on such policies would be a strong and united left (the opposite of the present situation, by some accounts) centred broadly on labour rights, a fair distribution of wealth and resources and fighting against the corruption that fatally weakened the previous state", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"But one of the signature strengths of neoliberal ideologies, from Kansas to Cairo, is precisely how efficiently they motivate people to support leaders and policies that are manifestly against their economic interests", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"A Nida Tounes-Nahda alignment would provide a powerful ideological and political cover for retrenching the policies that brought Tunisia to the brink of revolution", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"On the other hand", "label":"no-unit"},
+    {"number":105, "text":", there are more positive countervailing forces at work in Tunis that are cause for long-term hope", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"This process is exemplified by the establishment of Dar Essaida, or Saida House, a human rights centre located in and emerging from the local community in one of Tunis' poorest quarters", "label":"anecdote"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"As Hassan explained, encouraging the poor and working class to(re) define the political and cultural discourses of human rights in ways that reflect their struggles and desires marks an important moment in the evolution of human rights practice", "label":"testimony"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"\"It's about implementing a complete vision, and as important, getting it out to the widest public,\" Hassan declared", "label":"testimony"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"\"This is the only way to strengthen advances in areas such as women's rights or constitutional reforms", "label":"testimony"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"But", "label":"no-unit"},
+    {"number":116, "text":"the culture is harder to change", "label":"testimony"},
+    {"number":117, "text":",", "label":"no-unit"},
+    {"number":118, "text":"and", "label":"no-unit"},
+    {"number":119, "text":"you can't just root out all the networks of the former mafia state in one year, or even ten", "label":"testimony"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"It's a long process", "label":"testimony"},
+    {"number":122, "text":"and", "label":"no-unit"},
+    {"number":123, "text":"it's not fruitful to use the angle of 'better or worse' to judge it now.\"", "label":"testimony"}
+  ]
+]}

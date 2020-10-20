@@ -1,0 +1,129 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama hands Cuba's Castros a major victory, but Congress can still stop it.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Establishing ties with Cuba has been on President Obama's bucket list for some time", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Health care", "label":"no-unit"},
+    {"number":5, "text":"--", "label":"no-unit"},
+    {"number":6, "text":"done", "label":"no-unit"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Amnesty for illegal immigrants ", "label":"no-unit"},
+    {"number":9, "text":"--", "label":"no-unit"},
+    {"number":10, "text":"done", "label":"no-unit"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Cuba -- next", "label":"no-unit"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"This last one also has the added bonus point that it puts him right with the international left", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"which lionizes Castro", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"And the president will go on picking off the next items on the bucket list for the next two years of his term unless Congress decides to stop him", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Should they work up the gumption", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"lawmakers will find they can do many things to stand up for the prerogatives of the legislative branch", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Obviously, the release of the 65-year-old American hostage Alan Gross should be welcome", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"His \"crime\" was to bring computers to Jews on the island", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"For the last five years, he has been a victim of Cuba's state terrorism", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"just as 11 million Cubans have been held hostage by their government for the past five decades", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Exchanging three hardened Cuban spies for Gross, however", "label":"no-unit"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":" establishes an insulting moral and legal equivalency", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"The spies actions led to the death of an American in the 1990s", "label":"anecdote"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"and", "label":"no-unit"},
+    {"number":39, "text":"they were duly convicted", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Their release in exchange for Gross creates an incentive for rogue regimes and individual actors to kidnap Americans all over the world", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Not only does President Obama's action fail to advance freedom in Cuba", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"it throws a lifeline to Cuba's dictators", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"whose current supplier of funds, Venezuela, is on the ropes because of plunging oil prices", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"It surrenders to the demands for normalization that the Castros have been making for decades", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"So what can Congress do?", "label":"assumption"}
+  ],
+  [
+    {"number":52, "text":"Right off the bat, Congress must make it crystal clear to President Obama that he lacks the authority to lift the embargo on Cuba, allow trade to take place between the two nations, let tourists to go to Cuba to bail out the regime or give Cuba have access to capital markets", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"U.S  law--the Helms-Burton Act of 1996--gives the Congress power to override any action taken by the executive to lift the embargo", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"In order to lift the embargo, the Cuban government would have to give the Cuban people a number of rights--of association, speech, political activity, etc ", "label":"assumption"},
+    {"number":57, "text":"--", "label":"no-unit"},
+    {"number":58, "text":"that President Obama obviously failed to secure in his 45-minute conversation with Cuban dictator Raul Castro Tuesday", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Congress can also make clear to the president that there are statutory criteria that must be met", "label":"assumption"},
+    {"number":61, "text":"before his administration can take Cuba off the State Department list of terrorism sponsors", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"The president must inform Congress that there has been a change of leadership and policies of the Cuban government and that Castro has given assurances that it will no longer support terrorist acts", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Can President Obama do any of that?", "label":"assumption"}
+  ],
+  [
+    {"number":66, "text":"Senators should also make clear that they will put a hold on any ambassador that Mr  Obama nominates to serve in Cuba", "label":"assumption"},
+    {"number":67, "text":"unless", "label":"no-unit"},
+    {"number":68, "text":"he can guarantee that the Cuban government is no longer a threat to the United States and has decided to grant freedom to people in Cuba", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Sen  Marco Rubio, R-Fla , has already said he plans to do that", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Additionally", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" Congress can look into the possibility of using policy riders in the upcoming DHS appropriations debate in February and the Fiscal Year 2016 appropriations process to deny the president funds for setting up relations", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Congress must act", "label":"assumption"},
+    {"number":77, "text":"because President Obama has been completely feckless in his entire approach to Cuba", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"He received nothing in exchange for many substantial concessions made to the Communist regime", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"After five years of \"negotiations\" President Obama ended exactly where Raul Castro's demands began five years ago", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"As Senator Marco Rubio said, President \"Obama is the worst negotiator since Carter.\"", "label":"testimony"}
+  ],
+  [
+    {"number":84, "text":"Mr  Obama's statement was filled with Havana's communist talking points, such as affirming that Cubans are poor and unfree because of the embargo, or that Cuba was a U.S  colony", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"None of that is true", "label":"assumption"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":"and", "label":"no-unit"},
+    {"number":89, "text":"yet Mr  Obama said it", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Congress must act to limit the damage inherent in this Havana Giveaway", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Left", "label":"no-unit"},
+    {"number":94, "text":"unchecked", "label":"no-unit"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"Obama will simply move on to the next misguided item on his bucket list", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ]
+]}

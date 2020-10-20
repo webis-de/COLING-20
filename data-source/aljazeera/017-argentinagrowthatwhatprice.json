@@ -1,0 +1,105 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Argentina: Growth at what price?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Argentina has chosen a certain path for development that is diametrically opposed to what is required to mitigate the problems of climate change", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"And", "label":"no-unit"},
+    {"number":5, "text":"as Argentinean representatives attend the Climate Change Summit in Peru", "label":"assumption"},
+    {"number":6, "text":",", "label":"no-unit"},
+    {"number":7, "text":"it's worth looking at its poor environmental record", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"Average temperature in the southern region of Patagonia has increased one degree Celsius in the last 50 years", "label":"statistics"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"provoking the retreat of the largest glaciers in the region", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"During the same period, rains increased by 10 percent in the east", "label":"statistics"},
+    {"number":14, "text":";", "label":"no-unit"},
+    {"number":15, "text":"severe flooding in northeastern Argentina has been linked to the change in the use of the land and the deterioration of local ecosystems", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"In addition", "label":"no-unit"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":" the country has suffered from increased sea levels, reduction in fresh water bodies, desertification, severe storms and tornadoes", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Argentina has a rate of deforestation of 0.8 percent per year - twice that of the Amazon region, or about 26 hectares per hour", "label":"statistics"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Despite the Forest Act coming into force in February 2009", "label":"no-unit"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"over one million hectares of native woods were destroyed between 2009 and 2012", "label":"statistics"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"The Forest Act budget for 2015 has been set at just 300 million pesos ($27m) instead of the 3.1 billion pesos ($364m)", "label":"anecdote"},
+    {"number":28, "text":"as", "label":"no-unit"},
+    {"number":29, "text":"requested by environmental activists", "label":"no-unit"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"The national government has consistently failed to properly fund the implementation of the Forest Act, making it completely ineffective", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Local governments continue to authorise the deforestation of protected woods at the request of local landowners, generating a serious environmental impact, the displacement of indigenous and peasant populations and the persecution of environmental activists", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"While high temperatures continue to push the consumption of electricity to record levels", "label":"assumption"},
+    {"number":36, "text":"and", "label":"no-unit"},
+    {"number":37, "text":"demand for electricity is set to grow at an average of 5.5 percent per year", "label":"statistics"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"Argentina is far from achieving its target of 8 percent renewable energy generation by 2016", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In 2013, investment for smaller scale hydro clean energy fell 70 percent from $2.7bn to just $153m", "label":"statistics"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"At the end of 2012, only 1.4 percent of all electricity produced was from renewable resources", "label":"statistics"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Meanwhile in 2013, the Supreme Court lifted an embargo on Chevron's assets in Argentina", "label":"anecdote"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"so", "label":"no-unit"},
+    {"number":48, "text":"it could enter into an agreement to exploit the shale gas site at Vaca Muerta, in the province of Neuquen", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Chevron, which has been condemned by courts in Ecuador for environmental damage, has pledged $1.5bn to develop it", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Each of the 1,500 planned fracking wells will use up to 12 million litres of water", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"The Mapuche indigenous communities living nearby oppose the development", "label":"anecdote"},
+    {"number":55, "text":"as", "label":"no-unit"},
+    {"number":56, "text":"it will increase contamination of their subterranean water supply", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Argentina is the third largest producer of soy after the US and Brazil, exporting practically all of its production to Europe and China and providing much needed revenue for the government at a time when it faces increased demands to pay its external debts", "label":"statistics"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"The use of soy for biofuels has promoted deforestation", "label":"assumption"},
+    {"number":61, "text":"and", "label":"no-unit"},
+    {"number":62, "text":"its expansion has generated enormous greenhouse gas emissions due to the loss of forest mass and the changes in the use of the land", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Thanks to a reduction in the taxation of biofuel exports and other tax incentives, the production of biodiesel reached a historical record in September 2014, totalling nearly 1.9m tonnes in the first nine months of 2014", "label":"statistics"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"In the last few years, the area for maize cultivation for biofuel has increased", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Greenpeace points out that corn-based bioethanol has an extremely poor energetic balance", "label":"testimony"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"while civil society organisations question the use of agricultural land to produce grains to feed machines rather than people", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Still", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" there are signs of hope", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"On December 3, the Argentinean Senate approved tax incentives for the generation of electricity from renewable energy sources", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"The Chamber of Deputies is likely to make it law next year", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"But in light of Argentina's environmental record, there is clearly a lot of work yet to be done and many more laws and policies to be implemented", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ]
+]}

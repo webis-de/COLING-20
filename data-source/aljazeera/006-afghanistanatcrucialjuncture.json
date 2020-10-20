@@ -1,0 +1,157 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Afghanistan at crucial juncture.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On Thursday, the so-called London Conference on Afghanistan will convene", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Of all the high-profile international conferences that have been held on Afghanistan over the years- in Bonn, Tokyo, and Istanbul - this comes at a crucial juncture", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"At the end of October, British forces lowered the flag at Camp Bastion - from where they had engaged in the most intense fighting the British army had seen since the Falklands War- and handed over the base to Afghan forces", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Just over a month later, the Taliban mounted a 14-hour attack on the very same site, killing six Afghan soldiers", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"To the north, in the capital Kabul, insurgents have pulled off a dozen attacks in the space of the last few weeks, striking at diplomats, NGOs, and US contractors", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"What explains this spate of violence, and is it a portent for the future of Afghanistan?", "label":"assumption"}
+  ],
+  [
+    {"number":13, "text":"The International Security Assistance Force (ISAF), a US-led group that includes NATO members and others, winds up its mission on New Year's Eve", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"A slimmed-down force of 12,000 foreign troops - mostly American - will stay behind", "label":"anecdote"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"and", "label":"no-unit"},
+    {"number":18, "text":"US President Barack Obama has authorised the US contingent to continue supporting Afghan National Security Forces (ANSF) throughout 2015, with all of these forces scheduled to leave by the end of 2016", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"The US is not, therefore, leaving Afghanistan in the abrupt manner than it left Iraq in 2011", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"But this is a time of dramatic change", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Drastic effects on casualties", "label":"no-unit"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"For one thing, the ANSF are doing much of the fighting themselves, with drastic effects on casualties", "label":"assumption"},
+    {"number":27, "text":":", "label":"no-unit"},
+    {"number":28, "text":"over 9,000 Afghan troops have died since 2013, four times greater than the entire American death toll since 2001", "label":"statistics"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Afghan police officers are suffering especially badly, with thousands being killed every month", "label":"statistics"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"At the political level, a new government of national unity, led by President Ashraf Ghani and Chief Executive Abdullah Abdullah, has taken charge after Hamid Karzai's departure", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Ghani is already reported to have opened backchannel talks with the Taliban, visiting both Pakistan and Beijing to seek their help in this effort, cancelling an earlier arms request from India, and even making a highly unorthodox visit to Pakistan's army headquarters, in recognition of Pakistan's long-standing support for the insurgents", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"On the ground, the overall picture is mixed", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"This year, Taliban-initiated attacks are reported to have fallen by 25 percent", "label":"statistics"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"and", "label":"no-unit"},
+    {"number":41, "text":"ANSF mounted offensives four to five times more frequently than last year", "label":"statistics"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"At the same time", "label":"no-unit"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"as political scientist Jason Lyall observed, the recently-concluded fighting season - from April to October - \"witnessed the appearance of large Taliban units on the battlefield\" for the first time, with a tenth of all Afghan districts seeing \"at least one major Taliban offensive\"", "label":"testimony"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Lyall also notes reports of over 1,000 insurgents on the battlefield,\"numbers not seen since the Taliban's original push to capture Kabul during the 1992-96 civil war\"", "label":"testimony"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"While we should take these reports with a pinch of salt", "label":"assumption"},
+    {"number":50, "text":"-", "label":"no-unit"},
+    {"number":51, "text":"NATO commanders accuse their Afghan counterparts of exaggerating", "label":"testimony"},
+    {"number":52, "text":"-", "label":"no-unit"},
+    {"number":53, "text":"they do point to a simple, stark fact", "label":"assumption"},
+    {"number":54, "text":":", "label":"no-unit"},
+    {"number":55, "text":"The insurgency is far from broken", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"and", "label":"no-unit"},
+    {"number":58, "text":"it will be able to pressure the Afghan state for years to come", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"In this context, the wave of insurgent attacks might be explained in several ways", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"First", "label":"no-unit"},
+    {"number":63, "text":", these attacks might be intended to drive a wedge between the Afghan government and its foreign patrons, encouraging the latter to abandon their allies more quickly", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"As a Taliban spokesman put it bluntly:\"Our objective is to force the foreigners to flee Kabul. Before, the foreigners were visible in the provinces. Now that they have limited more of their activities to Kabul, we have also gone to Kabul to target them there.\"", "label":"testimony"},
+    {"number":66, "text":"To some extent, this has worked", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Many aid agencies have pulled out their staff, and restricted their movements", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Tarnished credibility", "label":"no-unit"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Second", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" the insurgents failed to seriously disrupt either round of this year's Afghan elections, as they had vowed to do, leaving their credibility somewhat tarnished", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Prominent attacks - publicised with videos - redress this issue, and project strength at the end of a fighting season", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"They might also be ways of strengthening the insurgency's bargaining position in advance of any peace talks that gain momentum over the next year", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Third", "label":"no-unit"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"the insurgency is not a monolith", "label":"assumption"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"and", "label":"no-unit"},
+    {"number":85, "text":"different parts of the Taliban might be responsible for different attacks", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"The Haqqani Network, a semi- autonomous group with close ties to Pakistani intelligence, has proven most effective at projecting suicide bombings into Kabul", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"The Haqqanis were blamed for the most deadly atrocity of the past month, the bombing of a volleyball game in which over 50 Afghans were killed", "label":"anecdote"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"In the past, moves towards dialogue between the Afghan government and the Taliban have been met with carefully targeted attacks intended less to strengthen bargaining positions than to disrupt such talks altogether", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Whatever", "label":"no-unit"},
+    {"number":94, "text":"the explanation", "label":"no-unit"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"Afghanistan faces an extremely test period", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Although the presence of US forces provides a safety net throughout next year", "label":"assumption"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"things look more precarious after that", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"International funding commitments for Afghanistan currently run to 2017", "label":"common-ground"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"but that timeline had assumed the insurgency would lose steam by then, allowing ANSF to slim down", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"If", "label":"no-unit"},
+    {"number":107, "text":"that isn't possible", "label":"assumption"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":"the annual $4-6bn bill for the security forces is simply unsustainable", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"This week's London Conference is an opportunity to secure much greater contributions from regional powers", "label":"assumption"},
+    {"number":112, "text":",", "label":"no-unit"},
+    {"number":113, "text":"who have the most at stake if Afghanistan does fall apart once more", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"China is, for instance, one of the world's largest economies, a direct neighbour of Afghanistan, and a significant investor there", "label":"anecdote"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"But", "label":"no-unit"},
+    {"number":118, "text":"if", "label":"no-unit"},
+    {"number":119, "text":"Beijing is unwilling to offer more than a meagre $327m - nearly half the amount Iran pledged in 2012, and far less than Japan or the EU", "label":"assumption"},
+    {"number":120, "text":"- then", "label":"no-unit"},
+    {"number":121, "text":"how are western governments, with their attention directed to threats from Russia and ISIL, supposed to persuade their own public that, after a decade of war, Afghanistan must stay on financial life-support?", "label":"assumption"}
+  ]
+]}

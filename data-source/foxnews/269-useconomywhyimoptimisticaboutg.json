@@ -1,0 +1,184 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"US economy: Why I'm optimistic about growth in 2015.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Could 2015 be the breakout year for the economy?", "label":"assumption"}
+  ],
+  [
+    {"number":3, "text":"Last week we got very joyful news", "label":"assumption"},
+    {"number":4, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":5, "text":"All of this is good news as we ring in the new year", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"And the best may be yet to come", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"So why is the economy finally shifting into a higher gear?", "label":"assumption"},
+    {"number":10, "text":"This isn' t a story of government-directed growth or stimulus spending", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"It's the opposite", "label":"assumption"},
+    {"number":13, "text":":", "label":"no-unit"},
+    {"number":14, "text":"Washington's role in the economy is starting to shrink after years of Obama administration activism", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The private sector is starting to take over", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"The growth was propelled by a big rise in business investment, up nearly 9 percent; personal consumption, up 3.2 percent; and exports, up 4.5 percent", "label":"statistics"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Government spending, which is a negative for the economy, grew by 4.4 percent, thanks to a big rise in military spending", "label":"statistics"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"but", "label":"no-unit"},
+    {"number":23, "text":"domestic spending is still restrained", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"The news was so good that even the threat that the Fed will now have an excuse to raise interest rates hasn't deterred the bulls on Wall Street", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Here is the case for optimism going forward", "label":"other"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"First", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":" a huge factor in the economic rebound has been the fall in energy costs", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"As the price of oil has fallen from $105 a barrel this summer to closer $70 by September,(and at the end of December it was at $53) the cost of oil imports has tumbled", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Imports fell by nearly 2 percent", "label":"statistics"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"and", "label":"no-unit"},
+    {"number":38, "text":"this alone added almost 0.2 percentage points to GDP growth", "label":"statistics"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Even that greatly understates the economic windfall from cheap energy", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Production costs fall when energy costs do", "label":"common-ground"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"so", "label":"no-unit"},
+    {"number":45, "text":"the supply of American-produced non-oil and gas products, such as manufactured goods, rises when gas is cheap", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Gas prices should continue to fall", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"the good-news story rolls on", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"the addition to GDP from energy should be even higher", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Thank you, Texas and Oklahoma and North Dakota", "label":"other"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"And thank you, fracking", "label":"other"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Second", "label":"no-unit"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"businesses are clearly feeling less trepidation about investing", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"and", "label":"no-unit"},
+    {"number":63, "text":"some of the wet blanket of Obama's anti-business, anti-shareholder agenda has dissipated as the Republican Congress repels his worst ideas: cap-and-trade, minimum wage hikes, new taxes on the energy industry and massive new spending initiatives out of Washington", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Gridlock now looks to be built into the political system for the next two years, and in many ways that's reassuring", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"Third", "label":"no-unit"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":" government spending has fallen a lot more than people think", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Despite the boost in military spending in the last quarter, the biggest story of the U.S  economy over the last three years has been the retrenchment of government spending", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Federal spending has fallen from 24.4 percent of GDP in 2009 and 23.4 percent of GDP in 2010 to 21 percent of GDP in 2014", "label":"statistics"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Even better news is that in the fourth quarter of 2014, federal spending as a share of GDP fell to below 20 percent, according to a new analysis by Dan Clifton of Strategas, an economic policy consulting firm", "label":"statistics"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"This is creating an anti-Keynesian boost to growth, because the government is taking fewer private sector resources each month", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"The 4 percentage points less of GDP that the government is spending means 4 percent more GDP for private businesses and families to spend", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"That's close to $700 billion a year more for private investment and construction and spending", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"This, by the way, shows the foolhardiness of the Keynesian notion of a government-spending free lunch", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Five years ago the Obama economics team was talking about multiplier effects from higher federal outlays -- the stimulus bill spent $830 billion-- that would juice the economy with even more private spending", "label":"anecdote"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"It never happened", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Even President Obama's own economic analysis found the economy grew more slowly than it would have without the government debt- financed spending", "label":"statistics"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"The real effect of government spending is to crowd out private spending", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"A final reason for optimism is that the incoming class of Republican governors and conservative state legislators across the country should mean more growth policies coming out of state capitals", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"At least a dozen governors from Massachusetts to Illinois to Tennessee are talking about tax cuts to create jobs", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"So", "label":"no-unit"},
+    {"number":98, "text":"even if", "label":"no-unit"},
+    {"number":99, "text":"we don't get tax reform at the federal level", "label":"assumption"},
+    {"number":100, "text":",", "label":"no-unit"},
+    {"number":101, "text":"states should be providing an additional tax cut stimulus", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":103, "text":"Skeptics will say that Obama's executive actions on climate change, immigration, energy policy and so on will continue to be a restraint on growth", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"That's for sure", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"This recovery from recession is still nearly $2 trillion behind where we should would be if we had a Reagan-paced boom", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"This is still one of the most anemic recoveries", "label":"assumption"},
+    {"number":110, "text":",", "label":"no-unit"},
+    {"number":111, "text":"though it is belatedly picking up steam", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"It's also true that wages are still flat for most workers", "label":"assumption"},
+    {"number":114, "text":",", "label":"no-unit"},
+    {"number":115, "text":"so", "label":"no-unit"},
+    {"number":116, "text":"the big challenge for the economy is raising productivity so Americans get a well- deserved pay raise", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"As 2014 comes to a close, here's where we are", "label":"assumption"},
+    {"number":119, "text":":", "label":"no-unit"},
+    {"number":120, "text":"Interest rates are as low as they've been in 40 years", "label":"statistics"},
+    {"number":121, "text":";", "label":"no-unit"},
+    {"number":122, "text":"inflation is tame, thanks to the surge in oil and gas output", "label":"assumption"},
+    {"number":123, "text":";", "label":"no-unit"},
+    {"number":124, "text":"and", "label":"no-unit"},
+    {"number":125, "text":"corporate profits remain high", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":127, "text":"The rest of the world economy, from Germany to Japan to Russia, is a debacle", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"But that's all the more reason to bet on the USA in 2015", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":131, "text":"And", "label":"no-unit"},
+    {"number":132, "text":",", "label":"no-unit"},
+    {"number":133, "text":" no, Mr  President, you didn't build that", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ]
+]}

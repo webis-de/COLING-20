@@ -1,0 +1,136 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Argentina's Debt Crisis: Country turns to UN to avoid accountability.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Defaulting on sovereign debt is never a good strategy", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Just ask Argentina", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The South American nation has defaulted 10 times- -most recently this summer--on its international obligations and has experienced sharp economic decline as a result", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"In the early 1900s, Argentina ranked among the world's top 10 in per capita income", "label":"statistics"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"By 2012, it had fallen to 55th", "label":"statistics"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Rather than", "label":"no-unit"},
+    {"number":13, "text":"learn anything from this unhappy history", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"however", "label":"no-unit"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":" Argentina is opting for stubbornness, bullying and intimidation of its debt-holders, all with a helping hand from the United Nations", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"as", "label":"no-unit"},
+    {"number":20, "text":"it refuses to pay back bondholders for billions of dollars", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"What Argentina wants is to establish \"a multilateral legal framework for sovereign debt restructuring processes.\"", "label":"assumption"},
+    {"number":23, "text":"Such a multilateral endeavor -- established, run, and funded by governments -- will no doubt be more sympathetic to financial deadbeats like Argentina than a U.S  court that has to give equal standing to the private sector", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"It's also the kind of thing that the United Nations loves to endorse: high- minded and technical sounding, larded with ostensible respect for international legal processes, and standing above any single national interest--with absolutely no chance whatsoever that it will be any of these things", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Sure enough, Argentina has successfully rallied a majority of U.N  member nations to join in denouncing Argentina's debt holders and endorsing its multilateral debt restructuring framework", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"This September the U.N  General Assembly voted 124-11, with 41 abstentions, to support Argentina's position", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"The U.N  Human Rights Council soon followed suit, adopting a similar resolution 33-5, with 9 abstentions", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"The notorious Council, which includes some of the world's worst human rights violators in its membership, got involved because it says excessive debt is an impediment to full realization of \"social, economic and cultural\" rights", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"It is certainly true that debt defaults take a huge toll", "label":"assumption"},
+    {"number":36, "text":"because", "label":"no-unit"},
+    {"number":37, "text":"the defaulting country loses access to international financial markets and foreign exchange, limiting its ability to finance expenditures and obligations and pay for imported goods", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"The end result is typically sharp recession and rising unemployment", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"But Argentina's latest default is is different from earlier defaults", "label":"assumption"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"which were driven by economic crises", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"The 2014 crisis, though rooted in a previous $100 billion default that occurred 13 years ago, is a deliberate--and unnecessary--choice of the Argentine government", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"In 2005 and 2010, Argentina offered to exchange bonds that it had defaulted on at about 35 cents on the dollar", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Eventually", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" about 93 percent of debt holders agreed to the swap", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Some debt holders, however, held out and went to U.S  court arguing that Argentina had to pay them the full value of their bonds", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"In 2012, a U.S  judge ruled in their favor and further ruled that any financial institution that assisted in partial payment would be in contempt", "label":"anecdote"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Following the court's ruling, Argentina could have complied or at least paid interest on the bonds while trying to renegotiate a more favorable debt arrangement", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"Instead, this summer it decided to pay nothing, abandon negotiations, and rely on demagoguery to press its case in the court of public opinion", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"Argentina has denounced its debt holders--shrilly and often--as \"vulture\" funds", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Of course, it never mentions that it was Argentina that voluntarily issued the debt in the first place, presumably in good faith", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Nor does it acknowledge that the government's own reckless economic policies precipitated the debt crisis in the first place", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"If you think that sort of dishonest name-calling would fall on deaf ears, you don't know the United Nations", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"Argentina's success in rallying a majority of U.N  member nations to join in denouncing the debt holders results from an underlying fact", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"At the U.N  the agenda of many developing nations consists of blaming others for the consequences their poor economic choices and demanding that the developed nations provide more aid, less accountability for money already given, and no right to object when feckless countries misbehave", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"The U.N  resolutions in support of Argentina do not have the force of law", "label":"common-ground"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"But the intended goal is clearly to establish a \"a multilateral legal framework for sovereign debt restructuring processes\" via a treaty or international convention", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"Historically, U.N  resolutions are the first step in this process", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"That is clearly the hope of Hector Timerman, Argentina's Minister for Foreign Affairs", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"who made clear why his country had pressed so hard to get the resolutions", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"\"Vulture funds will not stop until we put the brake on...,\" he declared", "label":"testimony"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"\"The resolution not only condemns vulture's activities, but also urges the UN to investigate their behavior and analyze their effect over sovereign economies.\"", "label":"testimony"}
+  ],
+  [
+    {"number":86, "text":"In other words, he is arguing: Let's point the finger at someone else to avoid responsibility for our own economic failings", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"As the U.S  made clear in its statement opposing the effort, if", "label":"no-unit"},
+    {"number":89, "text":"the terms of debt obligations are subject to review, renegotiation, or negation by a government as it feels like it", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"the cost of lending to everyone will rise to meet the perceived risk", "label":"testimony"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Indeed many countries may find it impossible to access international capital markets at all", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"And many of the countries hardest hit will be a lot poorer than Argentina, a middle income country that has never learned to live within its means", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"U.N.-endorsed demagoguery is no way to resolve a problem of habitual economic and fiscal incompetence", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Unfortunately, however, it may be an effective means for seducing other countries to join Argentina in the misery of being a financial pariah", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ]
+]}

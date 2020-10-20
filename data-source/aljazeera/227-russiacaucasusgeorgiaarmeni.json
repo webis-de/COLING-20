@@ -1,0 +1,182 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Russia's next acquisition.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It is no secret that Russia views the South Caucasus as being in its natural sphere of influence", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In light of Russia's annexation of Crimea, and on the back of Moscow's recent treaties with Abkhazia and South Ossetia, Georgians have legitimate reasons to believe that Russian activity in their country will only increase in 2015", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Consequently", "label":"no-unit"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":" many are keeping a close eye on the Georgian province of Samtskhe-Javakheti- a majority ethnically Armenian region located just three hours' drive from the nation's capital city of Tbilisi", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Causing instability in Samtskhe-Javakheti would achieve two goals for Moscow", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"First", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" it would further dismember the territorial integrity of Georgia", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The Georgian provinces of South Ossetia and Abkhazia are already under Russian occupation", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"By some accounts they are closer than ever to being annexed by Moscow", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"An independent Samtskhe-Javakheti, or one under Russian influence, would divide Georgia down the middle", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Armenian separatism in Samtskhe-Javakheti might not be as vocal as it was only a few years ago", "label":"assumption"},
+    {"number":23, "text":";", "label":"no-unit"},
+    {"number":24, "text":"but", "label":"no-unit"},
+    {"number":25, "text":"there is still a fear that Moscow could easily reenergise separatist movements in the region", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Secondly, and more importantly for Russia, bringing the region under Moscow's influence would make a land corridor between Russia and Armenia, via South Ossetia, one step closer", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"This is important", "label":"assumption"},
+    {"number":30, "text":"because Russia maintains a sizeable military presence in Armenia", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"The bulk of the Russian force is based in the city of Gyumri and consists of approximately 5,000 soldiers and dozens of fighter planes and attack helicopters", "label":"statistics"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Russia has long had the difficult challenge of supplying these forces", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"especially since Georgia and Turkey refuse transit rights", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"This has left a reliance on Iran", "label":"assumption"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"which for obvious reasons, is not ideal for Russia", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"It is not only for Russia that Samtskhe-Javakheti is strategically important, but also for Europe", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"The Baku-Tbilisi-Ceyhan pipeline and the South Caucasus Pipeline, carrying oil and gas respectively from the Caspian Sea to the Mediterranean Sea, passes through the province", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"As", "label":"no-unit"},
+    {"number":47, "text":"the possibility of more Central Asian oil and gas finding its way to Europe becomes likely", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"these pipelines bypassing Russia will become a vital part of Europe's energy security", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"In addition", "label":"no-unit"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":" the Kars-Tbilisi-Baku railway, which is due to open later this year, passes through Samtskhe-Javakheti", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"It is expected that this rail line will eventually transport 3 million passengers and over 15 million tons of freight each year", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"There is a perfect storm brewing in the region", "label":"assumption"},
+    {"number":58, "text":"and", "label":"no-unit"},
+    {"number":59, "text":"if", "label":"no-unit"},
+    {"number":60, "text":"Russia wanted to exploit the situation in Samtskhe-Javakheti", "label":"assumption"},
+    {"number":61, "text":"it could not ask for better timing than now", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"First is the fact that many Javakheti Armenians have Russian sympathies", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Until its closure in 2007, the Russian military base there was the single biggest source of employment", "label":"statistics"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"It has also been reportedthat Moscow is issuing Russian passports to ethnic Armenians living in the region", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"This in itself is telling", "label":"assumption"},
+    {"number":70, "text":";", "label":"no-unit"},
+    {"number":71, "text":"Russia issued passports to Abkhazians and South Ossetians just before its 2008 invasion of Georgia and also issued passports to Crimeans ahead of the annexation of Crimea last year", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"But Russia is only part of the problem", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Many of the grievances Javakheti Armenians have are a result of poor policy making by the central government in Tbilisi", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Many Javakheti Armenians feel that their culture and language are discriminated against", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"There has been a decrease in the quality of education among the Javakheti Armenian population", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"The bilingual education program of teaching in both Georgian and Armenian has been described as a \"total failure\"", "label":"assumption"},
+    {"number":82, "text":"because there are not enough qualified teachers with proficiency in both languages", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Unemployment is high in Samtskhe-Javakheti", "label":"assumption"},
+    {"number":85, "text":"and", "label":"no-unit"},
+    {"number":86, "text":"future economic prospects in the region look bleak", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"Many Javakheti Armenians travel to Russia or Armenia for work", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"Economy strained", "label":"no-unit"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Thanks to the drop in the value of the Russian ruble - almost one-third of its value in the past year ", "label":"assumption"},
+    {"number":93, "text":"-", "label":"no-unit"},
+    {"number":94, "text":"remittances have also decreased", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"The unusually harsh winter in the region is placing a further strain on economic activity", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Then there is the issue of citizenship and immigration", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Many Javakheti Armenians do not have Georgian citizenship", "label":"anecdote"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Instead", "label":"no-unit"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":" many hold Armenian passports", "label":"anecdote"},
+    {"number":105, "text":"because finding seasonal work in Armenia and Russia is easier this way", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"Until recently, Armenian citizens were allowed to live and work inside Georgia without any special authorisation", "label":"assumption"},
+    {"number":108, "text":"as long as", "label":"no-unit"},
+    {"number":109, "text":"they crossed the border back into Armenia at least once a year", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"Last September this changed", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"Now Javakheti Armenians without Georgian citizenship can only stay in Georgia for three months at a time", "label":"anecdote"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"Longer term residency permits are costly", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":117, "text":"These policies breed animosity and form a perfect storm that could easily be exploited by Russia", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"It does not have to be this way", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"Sensible policies can be pursued by Tbilisi to address the legitimate grievances of the Javakheti Armenians", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"The West can make it clear to Russia that further meddling in Georgia's domestic affairs could lead to additional sanctions", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":125, "text":"The last thing the South Caucasus needs is another sectarian conflict", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,153 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why Charlie Hebdo attack is not about Islam.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Twelve people were massacred in Paris on Wednesday merely for expressing their opinion through art", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Many might not like the art that prompted the carnage", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"They may consider it obscene and even an attack on their faith", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"But in the 21st, 15th or 57th century - whatever your religion, calendar, or country- there is no excuse or justification for responding to art with murder", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"But there is a clear and frightening explanation for this violence, one that demands not merely outrage at the act itself, but at the system that has made it both predictable and inevitable", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"The problem is that this system is hundreds of years old, implicates most everyone, and has only become more entrenched in the last several decades", "label":"assumption"},
+    {"number":13, "text":"as the world has become ever more globalised", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Where does the story begin?", "label":"other"},
+    {"number":16, "text":"Quite simply with colonialism", "label":"no-unit"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"It's no mere coincidence that at least two of the Charlie Hebdo attackers are reportedly of Algerian descent and the third from Senegal", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"France's 1830 invasion of Algeria began a 130-year odyssey of murder, expropriation, racism, exploitation and misrule that only ended after a vicious anti-colonial struggle costing well over one million Algerian lives", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"\"Colonisation brought the genocide of our identity, of our history, of our language, of our traditions\" is how President Abdelaziz Bouteflika well described it", "label":"testimony"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"French rule in sub-Saharan West Africa was even more costly, particularly in the context of the centuries-long slave trade", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Of course", "label":"no-unit"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":" as in so many newly independent countries, post-independence Algeria and Senegal were ruled by a government that was tied umbilically to the former coloniser", "label":"assumption"},
+    {"number":29, "text":"and", "label":"no-unit"},
+    {"number":30, "text":"which, however \"postcolonial\" their official ideology and credentials, became increasing authoritarian and corrupt", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"In Algeria, the petroleum-rich FLN state - known as \"the pouvoir\" because of its all-pervasive power - went so far as to launch a brutal internal war that claimed 100,000 lives in the 1990s with the direct support of the West, all to preserve its absolute grip on power", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Nigeria, another major oil producer, received similar support for its even more ruinous war against Biafra in the late 1960s", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"The devastation it caused, including at least one million dead, is one of the rarely discussed causes of the Boko Haram phenomenon", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"The experiences of Algeria and Senegal are in no way unique", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"They comprise the story of the modern Muslim world", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"where with the exception of Turkey, Iran and part of the Arabian peninsula most every society from Morocco to Indonesia fell under generations of European rule in the 19th and 20th centuries", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"The collective wound of colonialism, its distortion and often destruction of existing pathways to modernity, is for all practical purposes immeasurable", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"As with a body that takes only seconds to stab or shoot", "label":"no-unit"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"the deep wounds of foreign domination and postcolonial dictatorship can take a lifetime to heal properly, if ever", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Chances of healing", "label":"no-unit"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Indeed", "label":"no-unit"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":" the chances of healing - of some level of local, democratically accountable control of political and economic development - have become even more remote in the era of neoliberal globalisation", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"which has been rightly seen by many across the region as essentially colonialism dressed in new clothes", "label":"assumption"},
+    {"number":57, "text":"(IMF and World Bank policies strongly resemble those of the international banks that brought Tunisia, Egypt and the Ottoman Empire to bankruptcy, and ultimately foreign control, between 1863 and 1875)", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Radical Islam has today charted a path that mirrors radical capitalism", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"using violence only shocks \"us\"", "label":"assumption"},
+    {"number":62, "text":"because we've managed to make the violence unleashed and supported for so long in our name morally and politically invisible", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"The major world powers have long coddled favoured local despots of whatever ideological stripe", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"But the strength of the relationships between western governments and the petroleum-rich states of the Arab world, secured by trillions of dollars cycling back and forth between them through oil and arms sales, finance and heavy industry, is historically unprecedented", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Both are rapidly anti-democratic, support the concentration of wealth and power, and draw much of their strength from violence, war and a manageable level of chaos that keep oil prices high and petrodollars recycled via everything from fancy weapons to even fancier real estate", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"French reckoning", "label":"no-unit"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Add to that the ongoing and well-documented structural racism against France's large Arab/Muslim and African communities", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"which has included mass murder in the streets of Paris and remains \"rampant\" not merely in the poor suburbs of major cities", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"where concentrated poverty and marginalisation lead so many to crime, drugs, prison and, not uncommonly, to radicalisation", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"When newspapers such as the left-leaning Liberation declare that \"Europe's leaders are in shock\" over the latest attack, their naivety is hard to forgive", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Shocking?", "label":"assumption"}
+  ],
+  [
+    {"number":81, "text":"It's no more shocking that some Muslims have become psychotic enough to murder, rape and pillage their way across eastern Nigeria and eastern Paris than it is that France, home of \"liberty\", \"equality\", and \"fraternity\", sells billions of dollars of weapons and otherwise provides political and diplomatic support to countries that practice the polar opposite of all three", "label":"assumption"},
+    {"number":82, "text":";", "label":"no-unit"},
+    {"number":83, "text":"that the US kills thousands of civilians with drones (and tens of thousands with conventional weapons) that are as merciless as the terrorists they presumably target", "label":"assumption"},
+    {"number":84, "text":";", "label":"no-unit"},
+    {"number":85, "text":"that Israel kills 1,500 Palestinians with the complete acquiescence of the US and Europe", "label":"assumption"},
+    {"number":86, "text":";", "label":"no-unit"},
+    {"number":87, "text":"or", "label":"no-unit"},
+    {"number":88, "text":"that most every Muslim government condemning the attack on Charlie Hebdo routinely imprisons and tortures artists and activists for far less offensive expression, all with the support of the West", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"As the Lebanese cartoonist Karl Sharro (aka Karl reMarks) points out, ultimately the violence against Charlie Hebdo is not about Islam per se", "label":"testimony"},
+    {"number":91, "text":";", "label":"no-unit"},
+    {"number":92, "text":"it's about a contemporary world system that is particularly adept at grinding down whatever decent values exist in Islam and other faith systems (and in liberal capitalism as well)", "label":"testimony"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"Decades of the combined onslaught of extreme capitalism and extreme religion have shaped a necropolitics of the oppressed", "label":"assumption"},
+    {"number":95, "text":"that is the mirror image of the necropolitics of local and western governments, and the oppression and violence they've imposed", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"Former Charlie Hebdo editor Philippe Val, who lost most of his close friends on Wednesday, lamented that \"our country will never be the same\", and called on France's Muslim community to \"be with us\" as they confront the scourge of nihilistic terror", "label":"testimony"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"But", "label":"no-unit"},
+    {"number":100, "text":"to what France can Muslims truly belong?", "label":"assumption"},
+    {"number":101, "text":"And", "label":"no-unit"},
+    {"number":102, "text":"which Islam can empower them towards a modernity that provides at least a modicum of \"bread, dignity and social justice\" ", "label":"other"},
+    {"number":103, "text":"-", "label":"no-unit"},
+    {"number":104, "text":"to quote the catch phrase of the now distant Arab Spring", "label":"no-unit"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"If", "label":"no-unit"},
+    {"number":107, "text":"Charlie Hebdo reminds us of anything it is that the arc of blowback can stretch for decades", "label":"assumption"},
+    {"number":108, "text":", growing more uncontrollable as the political, economic, social and technological chaos of the contemporary world increases", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ]
+]}

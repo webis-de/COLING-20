@@ -1,0 +1,108 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Mosul - a city on death row.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"December 9 marks the six-month anniversary of ISIL's capture of Mosul", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The capture both put ISIL on the map and simultaneously threatened to fundamentally redraw it", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Coverage of the low level civil war in Iraq had long disappeared off the front pages with a war weary western public happy to be \"out\" of a complex conflict that seemed to have no end", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The boldness of ISIL's sweep through the region and the taking of Mosul was the trigger that sparked a new focus on Iraq and put US warplanes back in the sky", "label":"assumption"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"but", "label":"no-unit"},
+    {"number":11, "text":"the city itself was quickly forgotten", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Today, Mosul is a city on death row enduring both a terrible present and the potential of a worse future", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Initial ideas of a swift retaking of the city were dispelled by the ousting of Prime Minister Nouri al-Maliki and the emergence of US President Barack Obama's anti-ISIL coalition", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"ISIL has proved to be a resilient opponent", "label":"assumption"},
+    {"number":18, "text":"and", "label":"no-unit"},
+    {"number":19, "text":"while", "label":"no-unit"},
+    {"number":20, "text":"its march forward has been held up in Kobane", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"Mosul remains under the black flag", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"In November, Deputy Governor of Mosul Nuraddin Kaplan said that \"the sooner the operation begins the better. The more time that passes, the harder it will become\"", "label":"testimony"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Moves to retake Mosul are in the pipeline", "label":"assumption"},
+    {"number":27, "text":"but", "label":"no-unit"},
+    {"number":28, "text":"I would argue that the priority should be given to the strategy of prompting a collapse from within as opposed to a destructive attempt to take it by force", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"ISIL's predecessors, \"al-Qaeda in Iraq\", struggled to turn from capturing large urban areas to governing them", "label":"assumption"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"reports out of Mosul would suggest a similar trend is at play", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"What information there is that manages to come out paints a bleak picture under ISIL rule", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"In October, the Guardian reported \"severe shortages of food and water, no functioning public institutions, and the local economy in a state of near collapse\"", "label":"testimony"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"The school system has been \"ISIL-ed\" with an education tax imposed, genders segregated and subjects such as art banned", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Christian homes and Shia shrines have reportedly been looted and displaced residents of Mosul testified to Al- Monitor that ISIL had arrested up to 25,000 people between June and October", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"We've also learnt the ISIL-style of city governance elsewhere and in particular in Raqqa, their nominal capital", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"An incredibly brave piece of citizen journalism shot by a resident in a hijab showed a city dominated by young, bearded men with guns on every street corner imposing both their ideas of urban management and social control", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Prayer and conservative appearance is strictly enforced", "label":"assumption"},
+    {"number":47, "text":"and", "label":"no-unit"},
+    {"number":48, "text":"executions, even crucifixions, are commonplace", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"There is a bitter irony that residents of Raqqa have swapped one police state for another", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"A smart strategy would seek to win Mosul from within", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"ISIL's ability to attract disillusioned Iraqi Sunnis is being met by new Prime Minister Haider al-Abbadi's far more inclusive vision for the country", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Appointing a defence minister from Mosul and finally agreeing on an oil sharing agreement with the Kurds is evidence of this work in progress from the new premier", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Abbadi's appeal to Iraqi nationalism and sensitivity to tribal and sectarian dynamics must be able to offer a bigger pull than the ISIL offer of a dysfunctional caliphate", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Residents of ISIL-controlled Raqqa have spoken of feeling like \"strangers in their own city\"", "label":"testimony"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Effective propaganda can help split Iraqi members of ISIL from their often foreign leadership", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"This won't be easy", "label":"assumption"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"reports have suggested that ISIL has decided to shut down most mobile telecommunications inside the city, perhaps conscious of the need to protect their battle for hearts and minds", "label":"testimony"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"The alternative is far more dangerous for the city", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"US intelligence estimates that ISIL has the weapons to fight for two years", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"A rejuvenated Iraqi army that has put competency, sectarian and \"ghost soldiers\" issues aside is estimated to need some 80,000 troops to \"take\" the city", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Supposedly accurate US weapons destroyed a large part of Fallujah in order to \"win it\" back in 2004", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"With this in mind, there is a high chance Mosul would be hit even harder", "label":"assumption"},
+    {"number":77, "text":"leaving a trail of rubble and refugees strewn across the north of the country", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"The fate of Syria's second city, Aleppo, must serve as a warning as to the future of Iraq's second city, Mosul", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"An effective and joined up political and military strategy led by Iraq's new government must make the residents of Mosul hate the caliphate and, at tremendous risk to themselves, take on ISIL from within rather than allow their city to become yet another Middle East urban graveyard", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Mosul is a city of immense history but currently stares at the fate of becoming history itself", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ]
+]}

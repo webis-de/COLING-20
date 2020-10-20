@@ -1,0 +1,154 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Russia's Arctic opportunity.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In 1904, Russia and Japan went to war over control of the Liaodong Peninsula in modern day China", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Russia needed a year-round ice-free port for its naval fleet", "label":"anecdote"},
+    {"number":5, "text":"and", "label":"no-unit"},
+    {"number":6, "text":"Imperial Japan saw this encroachment as a threat", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"After early setbacks in the war, Russia needed to quickly reinforce its naval fleet in the Pacific Ocean with its Baltic Fleet", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"With its Baltic Fleet literally on the other side of the world, Russia's options were limited", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Ice blocked the route along Russia's northern coastline", "label":"anecdote"},
+    {"number":13, "text":"-", "label":"no-unit"},
+    {"number":14, "text":"known today as the Northern Sea Route", "label":"no-unit"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The British blocked access to the Suez Canal", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"It finally took the Baltic Fleet seven months to get to the Sea of Japan via the Cape of Good Hope", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"The fleet arrived knackered and ill-prepared for battle", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"On May 28, 1905, nearly the entire Russian fleet was destroyed during the Battle of Tsushima", "label":"anecdote"},
+    {"number":23, "text":"-", "label":"no-unit"},
+    {"number":24, "text":"Russia had no choice but to sue for peace", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"If", "label":"no-unit"},
+    {"number":27, "text":"Arctic ice continues to decrease at its current rate", "label":"assumption"},
+    {"number":28, "text":"it is possible Russia will not have this problem in the future", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Each year more ships are making the journey through the Northern Sea Route", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"In some cases this reduces the distance between European and north Asian ports by 30 percent", "label":"statistics"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"While", "label":"no-unit"},
+    {"number":35, "text":"the economic advantages are obvious", "label":"assumption"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"the use of the Northern Sea Route offers military advantages as well", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Russia's interests in the Arctic go beyond the economic and military advantages offered by the Northern Sea Route", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"The region is rich in minerals, wildlife, fish, and other natural resources", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Some estimates claim that 13 percent of the world's undiscovered oil reserves and almost one-third of the world's undiscovered natural gas reserves are located in the Arctic region", "label":"statistics"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"The majority of these untapped resources are also in areas to which Russia lays claim", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"For now", "label":"no-unit"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"the Arctic region is an area of low conflict", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"it is in everyone's interest to keep it that way", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Although the security challenges currently faced in the Arctic are not military in nature", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"there is still a requirement for military capability in the region that can support civilian authorities", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"For example", "label":"no-unit"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":" civilian search and rescue and natural disaster response - in such an unforgiving environment as the Arctic - can be augmented by the military", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"So it should be no surprise that like Russia, other Arctic countries deploy military assets into the region", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Even so, Russia has taken steps to increase military capability in the region that seems to be beyond the scope of supporting civilian operations", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"One must consider the implications of Russia's increased military presence in the region in light of Moscow's recent aggression against Ukraine", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"This month, Russia activated its new Arctic command to better coordinate all Russian military activities in the Arctic", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The ultimate goal for Russia to deploy a combined arms force in the Arctic by 2020, appears to be on track", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Russia's primary military focus in the Arctic is in the maritime sphere", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"A cause for concern", "label":"no-unit"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"New Russian naval doctrine calls for Russia to increase its maritime presence in the Arctic", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Already, Russia's Northern Fleet, which is based in the Arctic, counts for two-thirds of the Russian navy", "label":"statistics"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"There will be a significant increase of Russian ground troops based in the region too", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Over the next few years two new so-called Arctic brigades will be permanently based above the Arctic Circle", "label":"assumption"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"and", "label":"no-unit"},
+    {"number":85, "text":"the current regiment of marines assigned to the Northern Fleet will increase by one-third", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Russia has plans to build 13 airfields as well as 10 radar posts along the course of the Northern Sea Route", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Most of these airfields will be refurbished Soviet era bases", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"but", "label":"no-unit"},
+    {"number":92, "text":"others will be new", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"For Russian President Vladimir Putin, the Arctic is an area that allows Russia to flex its muscles without incurring any significant geopolitical risk", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"Because nationalism is on the rise in Russia", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"Putin's Arctic strategy is popular among the population", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"Russian activity in the Arctic, whether military, economic or scientific, harks back to images of Peter the Great and the Great Northern Expedition in the 18th century", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"This helps Putin with his dream of bringing Russia back to its former imperial glory", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"It is Russia's prerogative to place military assets inside its national territory, however, these actions should be of concern to others in the region", "label":"assumption"},
+    {"number":105, "text":"because Moscow has shown its willingness to use military force to achieve its national objectives outside its national borders", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"One must assume the Arctic region would be no different", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ]
+]}

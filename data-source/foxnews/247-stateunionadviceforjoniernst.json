@@ -1,0 +1,105 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"State of the Union: Advice for Joni Ernst.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Here's a suggestion for Joni Ernst, the new Republican senator from Iowa", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"who will deliver the GOP response to the State of the Union address Tuesday night", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Get a chorus together and open with this old Sammy Cahn-Jule Styne number:\"It seems to me I've heard that song before; it's from an old familiar score, I know it well, that melody.\"", "label":"assumption"}
+  ],
+  [
+    {"number":7, "text":"Advance leaks of the president's address indicate he will call for higher taxes on the wealthy and successful in order to pay for programs for the poor and middle class", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"This is boilerplate Democratic wealth redistribution we've heard since New Deal days", "label":"assumption"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"which appeals more to emotions than it does to principles with a long history of success", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Since the advent of modern \"anti-poverty\" programs 50 years ago, according to an analysis by The Heritage Foundation, \"U.S  taxpayers have spent over $22 trillion on anti-poverty programs.\"", "label":"statistics"},
+    {"number":14, "text":"And yet the poverty rate remains essentially unchanged", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"One might conclude then that if", "label":"no-unit"},
+    {"number":17, "text":"you've spent 50 years and $22 trillion trying without success to fix something", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"perhaps you're doing it wrong and should try a different approach", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"If", "label":"no-unit"},
+    {"number":22, "text":"the goal is more successful people who can take care of themselves", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"incentives must be put in place to encourage people to make right decisions", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"First on any anti-poverty help-the-middle-class list must be a stable family life", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"A two-parent home where adults love and are committed to each other and in which their children feel loved creates a climate in which moral and economic values like hard work, self-control, personal responsibility and accountability flourish", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"To help achieve this, parents must be educated", "label":"assumption"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"they must have jobs", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Government can make this easier by reforming the tax code to remove the \"marriage penalty,\" which in too many instances charges higher taxes to married couples than to singles, and increasing the exemption deductible for children, which might make it possible for one parent to stay home with young children; allow college tuition to be deductible to incentivize more people to obtain a college education and ease their debt upon graduation", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Better yet, scrap the tax code entirely and replace it with a flat tax or consumption tax that allows people to save, invest and spend more of the money they earn", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Economically, there must be a change in attitude from working to pay bills, to working to build wealth", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Bills, like the poor, we will always have with us, but in building wealth one moves toward independence and personal satisfaction that pays dividends in liberty and personal choice", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Government should also make it easier for people to move in pursuit of new opportunities", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"My late grandfather worked for the B and O Railroad for 50 years", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"He retired with a pension, a gold-plated watch and a lifetime train pass", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Those days are long gone", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"People need to be ready to move to places in pursuit of opportunities that can bring economic and career growth", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Earning more produces more in taxable income and more income means more tax money for federal and state treasuries", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"My wife and I have moved eight times (so far) and each move provided new opportunities, more experience and eventually higher incomes", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Here's another suggestion for Sen  Ernst and the new Republican Congress", "label":"other"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Let the Democrats focus on misery, poverty and failure", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"You promote hope, opportunity and achievement", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Begin featuring people with stories to tell of how they overcame difficult circumstances -- from poverty, welfare, addiction, single motherhood, and so on -- and are now independent, strong and if not prosperous, then at least free of their addiction to government", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Leaders should inspire others to follow examples of people who have succeeded in life", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Instead", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":" the Democrats' mantra has been that the poor and middle class can't succeed without government help", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"If", "label":"no-unit"},
+    {"number":71, "text":"that were true", "label":"assumption"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"the money spent on programs aimed at the poor and middle class would have succeeded by now", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"It's long past time for a new direction and for a new \"song\" with different words", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"In the month we observe the birthday of Martin Luther King Jr , how about \"We HAVE overcome\"?", "label":"assumption"}
+  ]
+]}

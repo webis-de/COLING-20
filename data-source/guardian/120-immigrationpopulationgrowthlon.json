@@ -1,0 +1,125 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"More immigration and population growth? London can take it.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Listen to the doomsayers, the scaremongers and the Farage brigade, and you would be forgiven for thinking that London is full", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Our capital, just like our country, they say, can't cope with any more people", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Everything from traffic jams to NHS waiting times is blamed on immigrants", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The only answer, they tell us, is to pull up the drawbridge and close our borders, turning our back on the globalised world that this country did so much to create", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"How, then, do they explain the fact that, according to forecasts, only today will London's population surpass that of 1939 - topping 8.6 million for the first time?", "label":"statistics"},
+    {"number":11, "text":"It is a stark rebuttal of the frequently peddled myth that says London must stop growing", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Instead of the huge influx of immigrants that headlines wrongly report, in reality the capital's population has only gradually been creeping back to the level of 75 years ago, before the blitz destroyed many parts of the city", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Today, though, shows more than just the falsity of the immigration scare stories", "label":"assumption"},
+    {"number":16, "text":"-", "label":"no-unit"},
+    {"number":17, "text":"it highlights the huge success of London as a city", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Our capital continues to attract people from all over the country and all over the globe because of the opportunities it offers", "label":"assumption"},
+    {"number":20, "text":":", "label":"no-unit"},
+    {"number":21, "text":"to find work, set down roots, enjoy a world-class cultural scene and be accepted regardless of who you are and where you come from", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"That success should be a cause of great celebration, not something to curse and try to curtail", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"But no one should deny the pressures that come with a growing population", "label":"assumption"},
+    {"number":26, "text":"- pressures that are particularly acute in the capital", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"London is in the midst of the deepest housing crisis in decades", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"as", "label":"no-unit"},
+    {"number":31, "text":"average house prices soar to 14 times the average salary and rents rise uncontrollably", "label":"statistics"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"The city's transport system is struggling to cope with demand, with commuters crammed into conditions in which it would be illegal to transport livestock, and fares rising year on year", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"The opportunities to get a decent job, buy a house, and enjoy all the city has to offer are becoming fewer", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The reality is becoming detached from the dream", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"These problems arise not because of growing demand alone but because of the failure of political leaders to respond to it", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Londoners have a right to expect more from their mayor than the 17,000 new homes that were built in the capital last year", "label":"assumption"},
+    {"number":42, "text":"- less than a third of the 63,000 a year that are needed to solve the city's housing crisis", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"That Boris Johnson has missed his own affordable housing targets in every year of his mayoralty is an abject failure of political leadership", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"The government's unwillingness to commit to vital transport infrastructure, such as Crossrail 2 and new Thames bridges, is scarcely better", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"History shows us what can be achieved when politicians take population growth seriously and rise to the challenges it creates", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"In the midst of the second world war, even as bombs fell and the city burned, a plan was devised to respond to London's growth", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"The Abercrombie plan, officially called the Greater London plan, laid out an ambitious vision for a new postwar London: decent housing replacing slums, efficient transport, full employment, new parks and open spaces", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"It was a radical and comprehensive document that provided the detail for rebuilding London after the devastation of the war", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"New towns including Stevenage and Crawley were built in the south-east", "label":"anecdote"},
+    {"number":57, "text":";", "label":"no-unit"},
+    {"number":58, "text":"modern transport infrastructure, including the north and south circular roads, was planned to cope with the increasing number of cars", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"The requirements of a successful London were drawn up and implemented", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"A growing population and new pressures on services mean we need a new, equally ambitious plan today", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Empty words about more homes and better jobs will not cut it", "label":"assumption"},
+    {"number":65, "text":";", "label":"no-unit"},
+    {"number":66, "text":"they are no substitute for a serious and detailed proposal for building at least 63,000 homes a year and rebalancing the city's economy to create jobs and opportunities for Londoners while continuing to invest in the industries of tomorrow", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"The city's creaking transport system must be upgraded, with Crossrail 2 and other new infrastructure built", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"This must happen without the continuous and excessive raising of fares", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"which burns holes in Londoners' pockets", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Keeping London affordable for ordinary people must be central to the plan, and improving the quality of life of Londoners a core theme", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Given that London successfully adapted to growing demands in the middle of a world war, we can be optimistic about our chances of doing the same today", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"We should not let those with a political agenda use London's growing population to support their anti-immigration rhetoric", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"and", "label":"no-unit"},
+    {"number":81, "text":"we should challenge those who want to label London's global attraction a flaw rather than a strength", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"That our capital is back at its peak population is a sign of its success as a great global city", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"People from all corners of the globe still take great risks, at great expense, to become Londoners and to benefit from the city's opportunities", "label":"common-ground"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"But this isn't a time for complacency", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Whoever the next mayor is, they must focus their gaze on solving the problems that stem from growing demand on London's infrastructure", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"As", "label":"no-unit"},
+    {"number":92, "text":"population continues towards 10 million", "label":"assumption"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":"we need a new plan to take London forward together according to the qualities of the city at its best", "label":"assumption"},
+    {"number":95, "text":":", "label":"no-unit"},
+    {"number":96, "text":"inclusive, diverse, ambitious, forward-looking and offering a wealth of opportunities to all who live here", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ]
+]}

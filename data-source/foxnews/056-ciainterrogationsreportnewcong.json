@@ -1,0 +1,144 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"CIA interrogations report: New Congress must tackle how to get intelligence right.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"As I read news reports detailing the Senate Committee Report on the CIA interrogation program after the September 2001 terrorist attacks", "label":"anecdote"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"I concluded there are several recurring problems to this latest effort to govern our national intelligence agencies", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"As an old man, I have had the opportunity to have first-hand exposure to how complex it is for Congress or even the White House to assert control over these vital intelligence activities", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"After there were revelations in the 60's that the CIA had engaged in a variety of activities that were highly questionable including efforts to kill Fidel Castro and others", "label":"assumption"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"the Carter administration reacted and went through the kind of political process that many are urging should be done today", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"In an attempt to purge the agency of its tendency to use nefarious individuals to carry out some of its covert projects, the CIA was directed to refuse to associate with any persons who could not meet the test of good character", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"One CIA officer told me how absurd that directive was", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"\"We are trying to get people to betray their governments and to lie and cheat on our behalf. You cannot expect us to find those people in the front pew at the local churches.\"", "label":"testimony"},
+    {"number":17, "text":"Perhaps the directive was well-intentioned", "label":"assumption"},
+    {"number":18, "text":"but", "label":"no-unit"},
+    {"number":19, "text":"it made no sense", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Richard Helms, the CIA head from 1966 to 1973, whom I knew well and admired greatly, told me of his personal problems when he was indicted by the Carter Justice Department for perjury", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"In testimony he gave to the Congress, Helms denied under oath his agency had been involved in the overthrow of the Allende government in Chile, an action ordered by President Nixon", "label":"testimony"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Helms told me he was following instructions he had been given repeatedly by various Senators including such powerful men as Senators Richard Russell and Walter George to the effect", "label":"anecdote"},
+    {"number":26, "text":"that if he were ever asked at an open hearing a question the answer to which \"would put any of our people at risk\" he should feel free to protect the secrets in whatever manner he wished", "label":"testimony"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Of course Helms knew of many instances when he and others in the Agency had relied on that authority", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Helms was defended by the powerful Washington lawyer, Edward Bennett Williams", "label":"anecdote"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"the case against Helms was quickly resolved", "label":"assumption"},
+    {"number":33, "text":"when Williams explained to the Justice Department his plan to have Helms take the stand and recite all the covert programs that had been protected by various forms of prevarications by intelligence officials", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Of course", "label":"no-unit"},
+    {"number":36, "text":"no such trial in public made any sense", "label":"assumption"},
+    {"number":37, "text":"and", "label":"no-unit"},
+    {"number":38, "text":"the danger to ongoing intelligence activities of testimony such as Williams would have had Helms provide was so great the ill- advised indictment of Helms resulted only in a slap on the wrist", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Williams made a deal in which Helms pled guilty to a misdemeanor with no punishment", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Later", "label":"no-unit"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":" President Ronald Reagan gave Helms the National Intelligence Medal as an obvious act of apology", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Perjury is not to be condoned and lying before the Congress is criminal conduct", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"But the intelligence world involves subtle issues", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"If", "label":"no-unit"},
+    {"number":51, "text":"we want to have a major intelligence effort", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"there are clear costs to be accepted", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"One of them is that much of the necessary supervision by Congress has to be done with deft caution", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"It can hardly be conducted in open hearings", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Alan Dershowitz, the Harvard Law Professor and prominent civil libertarian, contends torture to save lives should be permitted as long as there are rigorous procedural safeguards", "label":"testimony"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"He points out the Israelis have used torture for years with apparent success", "label":"testimony"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Getting information from unwilling prisoners cannot be done without some risks to civilized process", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"It can be a dirty game", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"I once visited Vice President Walter Mondale at his White House office", "label":"anecdote"},
+    {"number":68, "text":"where he served under President Carter from 1977 to 1981", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"His desk was piled high with documents he said were mainly reports from the CIA", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"He volunteered his frustration at the then weaknesses at the CIA", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"He told me he had come to regret he had been such a vigorous supporter of the gutting of that agency that followed the suggestions of the so-called Church Committee on which Mondale had served as a Senator", "label":"testimony"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"His comment was an isolated one and I merely listened", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"But", "label":"no-unit"},
+    {"number":79, "text":"the effects of the Church Committee recommendations were damaging to the CIA", "label":"assumption"},
+    {"number":80, "text":"and", "label":"no-unit"},
+    {"number":81, "text":"the remedial work took years", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Every forty years we may have to endure periodic reports like those produced under Senators Church and Feinstein that represent well intentioned reviews of the intelligence community", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The suggested reforms speak of following our sense of justice and fairness and civility", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"The problem is obvious", "label":"assumption"},
+    {"number":88, "text":":", "label":"no-unit"},
+    {"number":89, "text":"Our enemies do not play fair", "label":"assumption"},
+    {"number":90, "text":"and", "label":"no-unit"},
+    {"number":91, "text":"war is Hell", "label":"common-ground"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Any reforms of the intelligence universe cannot easily be effected", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"The idea of a transparent intelligence agency is an inherent contradiction", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Moreover how can Congress talk openly of reforms without damaging our intelligence efforts?", "label":"assumption"},
+    {"number":98, "text":"And politicians are among those least likely to be willing to accept the secrecy that is at the core of any well managed intelligence agency", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Can we imagine a Congress that can keep the secrets?", "label":"assumption"}
+  ],
+  [
+    {"number":101, "text":"The new flurry of attacks on the intelligence community -- harmful and unnecessary-- will not have any more lasting impact than did the indictment of Helms or the work of the Church Committee", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"But there should be some quiet and thoughtful debate within our Congress about how it can supervise these vital intelligence programs", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"After all", "label":"no-unit"},
+    {"number":106, "text":",", "label":"no-unit"},
+    {"number":107, "text":" our national intelligence work is existential", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,162 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Will Congress give Alibaba a green light to crush America's small businesses?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"I actually know something about China", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"I lived there and helped U.S  companies negotiate trade deals and contracts", "label":"anecdote"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"but", "label":"no-unit"},
+    {"number":7, "text":"it was not a glamorous job", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"I spent my last night in China in June 1989 in a baggage X-ray machine at the Beijing Airport as tanks rolled into Tiananmen Square", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Only one bus full of Japanese tourists made it to the airport the next morning", "label":"anecdote"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"and", "label":"no-unit"},
+    {"number":14, "text":"I sneaked out of my hiding place and slipped into their lines ... unnoticed", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Not long after that I watched on television as a brave young man tried to block a phalanx of tanks heading into the square", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"The world learned something very important that day: Get in the way of the Chinese Communist Party and you'll be crushed", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"The Chinese economy is now estimated by some to be larger than our own", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Radio talk show host Mark Levin even predicted on his show that the U.S  would lose its technological advantage to the Chinese within 10 years", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"How will this happen?", "label":"assumption"},
+    {"number":25, "text":"Will China send its tanks to New York City and invade the banks, or to Silicon Valley to steal away our intellectual property?", "label":"assumption"},
+    {"number":26, "text":"No need to", "label":"assumption"},
+    {"number":27, "text":";", "label":"no-unit"},
+    {"number":28, "text":"we're actually handing them our wealth", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"And", "label":"no-unit"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":" oddly enough, many seem pretty content about it", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"I'm not a protectionist", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"but", "label":"no-unit"},
+    {"number":37, "text":"I'm no sucker, either", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Preserving free markets takes work", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"but", "label":"no-unit"},
+    {"number":42, "text":"what's strange is that today we're actively distorting markets to the detriment of our domestic industries", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"History is replete with governments working against Adam Smith's invisible hand, but always with the intention of protecting their own", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"We're doing the opposite", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"There has been a debate brewing for decades within conservative circles over whether Congress should give deference to the 10th Amendment and allow States to control their own sales tax systems, or whether they should be prevented from collecting sales taxes on goods sold online under the guise of lower taxes", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"In my mind there's nothing conservative or free market about protecting businesses from competition", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Since", "label":"no-unit"},
+    {"number":53, "text":"online shopping became the rage a decade and a half ago", "label":"common-ground"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"Americans have enjoyed buying items -- from home necessities to Christmas presents -- without paying sales tax", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"I made up my mind on this issue in the 1990s after I kept hearing some politicians assert that Internet companies must be nurtured and protected while in their infancy", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"There' s nothing conservative or free market about protecting businesses from competition", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Amazon and eBay look extremely well nurtured after decades of special tax treatment", "label":"assumption"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"while", "label":"no-unit"},
+    {"number":64, "text":"mom-and-pop Main Street retailers have been forced to charge sales tax", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Well, a game changer named Alibaba, a billion-dollar Chinese e-commerce marketplace that's bigger than Amazon and eBay,combined, is now entering the American market", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Fresh off the largest IPO in Wall Street history and flush with cash, within two years Alibaba and its hundreds of thousands of Chinese retailers will be selling the same goods and products to Americans the same way Amazon does", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"It's bad enough that local stores have had to compete on a tilted playing field against American e-tailers", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"but", "label":"no-unit"},
+    {"number":73, "text":"extending this uncompetitive advantage to subsidized overseas giants like Alibaba could spell the end for countless American business owners", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Congress has the power to change this", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"and", "label":"no-unit"},
+    {"number":78, "text":"the U.S  Senate has already overwhelmingly voted 69-27 to pass the Marketplace Fairness Act to close the online sales tax loophole", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Even Amazon, which fought closing the sales tax loophole for years, now supports the Marketplace Fairness Act", "label":"anecdote"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"Conservatives in the Senate were divided on this vote", "label":"anecdote"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"my hope is state legislatures will follow conservative Gov  Scott Walker's lead in Wisconsin and pass laws offsetting any revenue increases with corresponding income tax cuts", "label":"anecdote"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Conservatives should be of one mind to keep taxes as low as possible", "label":"assumption"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":"and", "label":"no-unit"},
+    {"number":89, "text":"we can also work to ensure that markets remain free and competitive", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"It is now up to the House of Representatives to decide if they're going to stand up for small businesses or cut them off at the knees with a wet kiss for Alibaba", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"If", "label":"no-unit"},
+    {"number":94, "text":"you're kissing Alibaba", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"you're essentially in bed with the Chinese government and its Communist Party", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"which cares even less about the American economy than it cared for the heroic student who stood in front of the tanks in Tiananmen Square", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"As a recent Wall Street Journal editorial put it", "label":"testimony"},
+    {"number":101, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"\"[N]o one in China earns or keeps such wealth or celebrity without support from the Communist Party", "label":"testimony"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"...", "label":"no-unit"},
+    {"number":105, "text":"[Alibaba's Chairman Jack] Ma recently accompanied President Xi Jinping on a state visit to South Korea", "label":"testimony"},
+    {"number":106, "text":",", "label":"no-unit"},
+    {"number":107, "text":"and", "label":"no-unit"},
+    {"number":108, "text":"a strong IPO debut could yield billion-dollar payouts for Beijing's sovereign wealth fund and several private investment firms tied to children and grandchildren of Party leaders.\"", "label":"testimony"}
+  ],
+  [
+    {"number":109, "text":"Why on earth would conservatives and Republicans want to undercut the local small businesses they claim to represent in favor of an online retailing Goliath backed by the Chinese government?", "label":"assumption"},
+    {"number":110, "text":"This would be the height of lunacy", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":112, "text":"A standard talking point for GOP leaders, office holders and candidates has been to strongly advocate for small business", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"If", "label":"no-unit"},
+    {"number":115, "text":"House Republicans don't close this loophole", "label":"assumption"},
+    {"number":116, "text":", the damage done to the GOP's relationship with one of its core constituencies could be irreparable", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"How many GOP incumbents want to see this ad run against them in the next election?", "label":"assumption"}
+  ],
+  [
+    {"number":119, "text":"It would be both good politics and good policy to close the loophole so everyone - including Alibaba - has to compete by the same rules", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"That is, after all, what a free market is all about", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":123, "text":"Dan Schneider is executive director of the American Conservative Union", "label":"anecdote"},
+    {"number":124, "text":".", "label":"no-unit"}
+  ]
+]}

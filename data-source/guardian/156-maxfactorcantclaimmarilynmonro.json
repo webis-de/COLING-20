@@ -1,0 +1,125 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Max Factor can't claim credit for Marilyn Monroe.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Max Factor has appointed Marilyn Monroe as its new \"global ambassador\", leaving some people bemused at the idea of selecting an ambassador who has been dead since 1962", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"They seem to suspect this might limit her diplomatic utility", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"But Monroe represents just what Max Factor wants to resuscitate: the glamour for which the company was once a byword", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"In the era of classic Hollywood (about 1920-1965), Max Factor ran the only cosmetic game in town", "label":"anecdote"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"pioneering the use of makeup for cinema, and then, with his sons, adapting and selling those products commercially", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Monroe remains one of the most iconic Hollywood movie stars", "label":"common-ground"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"and", "label":"no-unit"},
+    {"number":15, "text":"Max Factor's spokeswoman said they chose her because she epitomises their history", "label":"testimony"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"\"Marilyn made the sultry red lip, creamy skin and dramatically lined eyes the most famous beauty look of the 1940s, and it's a look that continues to dominate the beauty and fashion industry. It is the ultimate look that defines glamour - nothing else compares,\" the spokeswoman said", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"The campaign will emphasise Monroe's metamorphosis, it was reported this week, from \"mousey\" Norma Jeane Mortenson to glamorous Marilyn Monroe, a decision that seems, at face value, rather canny", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Certainly it has stirred up a bit of welcome publicity around the campaign", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"which claims in particular that it was Max Factor Jr's idea to bleach the star's naturally chestnut hair to that famous platinum blonde", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The ad campaign reads: \"From Norma Jeane to Marilyn Monroe. Created By Max Factor.\"", "label":"testimony"},
+    {"number":26, "text":"Hang on, boys", "label":"other"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Created by whom?", "label":"assumption"}
+  ],
+  [
+    {"number":29, "text":"If", "label":"no-unit"},
+    {"number":30, "text":"Max Factor wants to emphasise history", "label":"assumption"},
+    {"number":31, "text":"it should start by paying a little more attention to it", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Monroe had her first - tiny - film role in 1947", "label":"anecdote"},
+    {"number":34, "text":";", "label":"no-unit"},
+    {"number":35, "text":"she did not have her first starring role until 1952", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Throughout the 1940s, she was still \"mousey\" Norma Jeane", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"For my book on Monroe, I read every major biography then published, as well as many ancillary accounts - about 300 books in all", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Not one reported that Max Factor suggested the aspiring starlet should bleach her hair", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"I don't think any of them mentioned Max Factor at all", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Instead", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":" nearly all credit a woman named Emmeline Snively, the head of Monroe's first modelling agency, with whom she signed in 1945", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Snively gave Marilyn lessons in fashion, lighting and grooming, and, most biographers report, recommended that she lighten her hair", "label":"testimony"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"\"because a blonde could be photographed in any wardrobe and in any light\"", "label":"testimony"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"By 1946 the model Norma Jeane had appeared on 33 magazine covers - quite a feat for a \"mousey\" young woman waiting to be created by Max Factor", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Marilyn Monroe was not created by Max Factor - or by her studio head, Darryl F Zanuck(who hated her); or by her agent, Johnny Hyde, who paid for her to have minor plastic surgery (to the tip of her nose and her jawline) and got her first big roles; or by any of her directors, or husbands, or any other of a legion of men, and a handful of women", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"who have tried to claim the credit, now including Max Factor's heirs", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"She was not created by makeup, in any sense", "label":"assumption"},
+    {"number":60, "text":":", "label":"no-unit"},
+    {"number":61, "text":"cosmetics were not sufficient to create Marilyn Monroe", "label":"assumption"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"and", "label":"no-unit"},
+    {"number":64, "text":"neither were other people", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Emmeline Snively herself said that what distinguished the girl she knew was how hard she worked", "label":"testimony"},
+    {"number":67, "text":":", "label":"no-unit"},
+    {"number":68, "text":"\"She wanted to learn, wanted to be somebody, more than anybody I ever saw before in my life.\"", "label":"testimony"}
+  ],
+  [
+    {"number":69, "text":"Everyone from Elton John to Joyce Carol Oates(who should know better) has trotted out this tenacious, tiresome story", "label":"assumption"},
+    {"number":70, "text":":", "label":"no-unit"},
+    {"number":71, "text":"\"ordinary\" Norma Jeane was changed by someone else into the glamorous movie star Marilyn Monroe", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"But Norma Jeane Baker, as she was known in childhood(Mortenson was the name on her birth certificate, but she never knew her father), was always an extremely beautiful girl", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"An army photographer discovered her when she was 19, working at a munitions factory", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"She went on to be a popular model on the cover of dozens of magazines", "label":"anecdote"},
+    {"number":78, "text":"before she bleached her hair or focused her look", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"There was never anything \"mousey\" about this woman", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"and", "label":"no-unit"},
+    {"number":83, "text":"when", "label":"no-unit"},
+    {"number":84, "text":"she changed her hair, her makeup, and her name", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"she didn't become a different person", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"She created an iconic style", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"which she developed in collaboration with her personal makeup artist for many years, Whitey Snyder", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"No doubt Marilyn attended the Max Factor beauty salon near Hollywood Boulevard in the 1940s, along with hundreds of other young starlets", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"I have no reason to disbelieve that she may have worked with Max Factor Jr himself in the 1950s, once she was famous", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"But", "label":"no-unit"},
+    {"number":97, "text":"no one except Marilyn Monroe created Marilyn Monroe", "label":"assumption"},
+    {"number":98, "text":",", "label":"no-unit"},
+    {"number":99, "text":"and", "label":"no-unit"},
+    {"number":100, "text":"in 2015 it's past time for us to give credit to the woman who earned it", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ]
+]}

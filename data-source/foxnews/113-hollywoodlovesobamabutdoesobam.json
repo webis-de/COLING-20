@@ -1,0 +1,139 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Hollywood loves Obama, but does Obama love it back?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Hollywood loves Barack Obama", "label":"assumption"},
+    {"number":3, "text":"and", "label":"no-unit"},
+    {"number":4, "text":"it has expressed this in every way it knows how, from celebrity endorsements and campaign appearances to huge donations", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"In the 2012 presidential race, show biz folks gave Obama more than six million dollars, five times as much as Romney got", "label":"statistics"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"It has even been announced that a biopic of Obama's first date with Michelle--dinner and a Spike Lee movie--is on the way", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Without spoiling the plot I can reveal that it has a happy ending", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"So Hollywood loves Obama", "label":"assumption"},
+    {"number":13, "text":"and", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"not surprisingly, Obama loves it right back", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"In fact", "label":"no-unit"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":" he is an admirer of its role in the world", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"\"Believe it or not, entertainment is part of our American diplomacy,\" Obama told an A-list gathering of movie stars and film executives at DreamWorks, in November 2013", "label":"testimony"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"\"It is part of what makes us exceptional, part of what makes us such a world power", "label":"testimony"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"Hundreds of millions of people may never set foot in the United States, but thanks to you, they've experienced a small part of what makes our country special", "label":"testimony"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"They've learned something about our values", "label":"testimony"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"We have shaped a world culture through you...in a way that has made the world better.\"", "label":"testimony"}
+  ],
+  [
+    {"number":30, "text":"This is what is known as a matter of opinion", "label":"common-ground"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"A dissenting view is held by hundreds of millions of Muslims who consider the incursions of the American cinema to be a dangerous and despicable form of Zionist-Crusader cultural imperialism", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Obama's speech to Hollywood will not disabuse them of this belief", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"\".[Foreigners] might not know the Gettysburg Address,\" Obama said", "label":"testimony"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"\"but if they're watching some old movie, maybe \"Guess Who's Coming to Dinner,\" or \"The Mary Tyler Moore Show,\" or \"Will and Grace\" and \"Modern Family,\" they've had a front-row seat to our march towards progress, even if their own nations haven't made that progress yet", "label":"testimony"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"And young people in countries all around the world suddenly make a connection and have an affinity to people who look don't like them and maybe originally they might have been fearful of, and now suddenly they say, oh, this person is like me -- which is one of the powers of art", "label":"testimony"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"but", "label":"no-unit"},
+    {"number":43, "text":"that's what you transmit.\"", "label":"testimony"}
+  ],
+  [
+    {"number":44, "text":"It would be comforting to think that the president was simply flattering his audience", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"If", "label":"no-unit"},
+    {"number":47, "text":"he actually believes this", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"his lack of sophistication about the Middle East makes George W  Bush look like Lawrence of Arabia", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"\"Mary Tyler Moore\"?", "label":"no-unit"},
+    {"number":52, "text":"Women aren't even allowed to drive in Saudi Arabia", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"They are forced to wear \"modest\" clothing down to their ankles in Iran", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"In most of the region, a woman who disobeys her husband or talks back to him faces a beating at best, usually with the hearty approval of the wife's family father and brothers", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"\"Will and Grace\"?", "label":"no-unit"},
+    {"number":59, "text":"Homosexuality is a capital crime throughout most of the Arab world", "label":"assumption"},
+    {"number":60, "text":"because it is seen as an offense against Allah and the family", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The only gay bars in the Arab world and Iran are on the windows of prison cells", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"\"Guess Who's Coming to Dinner\"?", "label":"anecdote"},
+    {"number":65, "text":"A Muslim girl crazy enough to bring home an infidel fiance is inviting a sequel: \"Guess Who's Having a Funeral\"?", "label":"assumption"}
+  ],
+  [
+    {"number":66, "text":"Parents, clergy and community elders in the Middle East are not entertained, let alone edified, by Hollywood values", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"They are horrified by what they see as a godless foreign assault on their children, their religion and their way of life", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"In most places even G-rated films are considered transgressive", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"They can be found mostly via under-the-counter bootleggers or downloaded in secret", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"And they are", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Their impact on young people is not the liberation Obama imagines", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"however", "label":"no-unit"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Unmarried men do not have unfettered access to members of the opposite sex", "label":"assumption"},
+    {"number":81, "text":"and", "label":"no-unit"},
+    {"number":82, "text":"many find explicit depictions to be frustrating and humiliating", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"In some, they even inspire a militant puritanical Islam that makes posthumous sex the ultimate reward for killing infidels", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Unmarried young women, lacking even that outlet, need to be careful and obedient to the code of conduct", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"A girl caught trying to emulate the tamest teenage movie role model puts her life in danger", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"My point is not that Hollywood is wrong to make movies and television shows that reflect American social values and suit the American audience", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"And I certainly don't expect the president to inform his biggest boosters that their creations ignite resentment, hostility and holy war", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"I do hope, though, that the president and his advisers understand this:\"Will and Grace,\" \"Mary Tyler Moore\" and even the new Obama biopic may win Oscars and Emmys, but in a struggle for hearts and minds in a region where cutting- edge refers to swords, not cinema, Hollywood is not a strategic American asset", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ]
+]}

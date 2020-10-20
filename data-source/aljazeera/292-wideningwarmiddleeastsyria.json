@@ -1,0 +1,105 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The widening war in the Middle East.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It has been a week of air strikes \"whodunnit\" mysteries in the Middle East", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Firstly, Al Jazeera broke the news that Iranian F-4 Phantoms were bombing ISIL in Iraq", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The Iranians initially denied being in the same airspace bombing the same enemies as the Americans but later came clean about their role to the Guardian", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"We've also heard rumours of the US A-10 \"tank buster\" arriving to support the US mission in Iraq", "label":"assumption"},
+    {"number":9, "text":"although, again, nothing has been confirmed at this point", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Then", "label":"no-unit"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":" on as normal a Sunday as Damascus has experienced in the last few years, the Syrian regime released grainy photographs supposedly showing the trails of Israeli aircraft following a bombing run on targets in the area", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Among the rumoured sites that were hit were areas of Damascus International Airport", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"This caps a busy weekend for Syria's airbases", "label":"assumption"},
+    {"number":18, "text":"which withstood ISIL attacks in the east of the country on Saturday", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"While", "label":"no-unit"},
+    {"number":21, "text":"at a tactical level it is impossible to understand what impact the strikes have had", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"at a political level it works for all sides", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The Syrian regime has used its conflict with Israel to justify an internal state of emergency and restrictions to freedoms for decades and can now sell to the war weary public who remain in their controlled areas, the twin threat of ISIL and Israeli \"terrorism\"", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"For Benjamin Netanyahu, with elections looming, there is no better time for Israel's prime minister to act \"prime ministerial\" and remind voters of his eternal vigilance of the threat coming from Syria", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"Indeed", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":" earlier in the week, Netanyahu said that Israel \"is following the Middle East and what is happening very closely, with wide open eyes and ears- and a lot is happening", "label":"testimony"},
+    {"number":32, "text":"...", "label":"no-unit"},
+    {"number":33, "text":"We will continue to keep our fingers on the pulse and we will deal with these threats and these challenges, which never take time off\"", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"In a letter to Secretary General Ban Ki-moon, Syria's foreign ministry claimed the bombing happened to distract from the break up of Netanyahu's coalition", "label":"testimony"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Israeli officials meanwhile, would neither confirm nor deny the attacks with an Israeli army spokesman saying he would not comment on the \"foreign reports\"", "label":"testimony"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"While", "label":"no-unit"},
+    {"number":40, "text":"Syrian state media should always be read with a healthy pinch of salt", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"if", "label":"no-unit"},
+    {"number":43, "text":"confirmed", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"the latest Israeli attack comes in a series that preceded the outbreak of civil war", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"There is a certain format to this low level state of eternal conflict between the two parties", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Israel's September 2007 attack on Syria's al-Kibar facility was again initially unconfirmed but would eventually be told as a strategic masterstroke taking down Syria's nuclear programme at a critical time", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Following the attacks, Syria responded with bombastic rhetoric over what it would do in the face of the strikes", "label":"assumption"},
+    {"number":52, "text":"but", "label":"no-unit"},
+    {"number":53, "text":"nothing ever happened", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Since the Syrian uprising and civil war, Israel's primary concern has been with certain types of hi-tech weaponry going to Hezbollah", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"which was used to explain strikes in January and May of 2013", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"A year later and Israel responded to the very physical spillover of the Syrian conflict by launching strikes in June 2014", "label":"anecdote"},
+    {"number":60, "text":"after shells were fired at their positions on the Golan Heights", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Syria responded to the January bombings by warning of a \"surprise\"", "label":"anecdote"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"but", "label":"no-unit"},
+    {"number":65, "text":"in fact their actual reaction has been predictably mute", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"The airspace over Syria has never been busier with different nations pursuing different enemies with metrics of success hard to distinguish among the smoke and debris of the destruction", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"This weekend's attacks, if they are eventually claimed by Israel, would further entrench the growing irrelevance of many of the region's borders as recognised and respected lines", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"While", "label":"no-unit"},
+    {"number":72, "text":"the focus of global attention has been on ISIL's dismantling of the Iraq-Syria border", "label":"anecdote"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"the Lebanon-Syria border is also becoming functionally blurred and clearly no longer deters Israel's strategic decision makers", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"At the most immediate level, the strikes will likely embolden Assad to play a traditional nationalist card to strengthen support among his remaining loyalists", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Over in Israel, Netanyahu can appear to be making statesmanlike decisions ahead of a likely bruising election", "label":"assumption"},
+    {"number":79, "text":"and", "label":"no-unit"},
+    {"number":80, "text":"it cannot be a coincidence that he was in the US when the bombing happened - a nod perhaps to a US green light and the durability of that continued relationship", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ]
+]}

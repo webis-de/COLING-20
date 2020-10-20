@@ -1,0 +1,124 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"New Year's Resolution for the VA: Lose the 'ICARE' pin, embrace real reform.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Visit a U.S  Department of Veterans Affairs facility and there' s a good chance you'll see a VA employee sporting a shiny lapel pin that reads\"ICARE.\"", "label":"assumption"}
+  ],
+  [
+    {"number":3, "text":"That's an acronym for \"Integrity, Commitment, Advocacy, Respect and Excellence,\" a list of words that represents the VA's \"core values.\"", "label":"assumption"},
+    {"number":4, "text":"As one of VA Secretary Bob McDonald's first orders of business, the ICARE pins were intended to signal a renewed commitment to service and honesty at the troubled VA", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"During his confirmation in August, McDonald promised he would lead the push for \"unprecedented and critical cultural change and accountability\" at the VA", "label":"testimony"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Instead", "label":"no-unit"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":" five months later, most of what veterans have to show for it are watered-down reforms and a new slogan", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Or", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"as", "label":"no-unit"},
+    {"number":15, "text":"a few of our members put it", "label":"assumption"},
+    {"number":16, "text":":", "label":"no-unit"},
+    {"number":17, "text":"\"We pass historic VA reforms through Congress, and all we got was a lousy ICARE lapel pin.\"", "label":"testimony"}
+  ],
+  [
+    {"number":18, "text":"It's not enough to hire a slick PR firm to devise a catchy acronym that says you \"care\"", "label":"assumption"},
+    {"number":19, "text":";", "label":"no-unit"},
+    {"number":20, "text":"what matters to veterans and their families is that you demonstrate your \"care\" through the results you deliver", "label":"common-ground"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"That is why the ICARE lapel pins are such an affront to those of us who fought so hard for reform last year", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"So how can veterans get the results we want to see at the VA in the new year?", "label":"assumption"},
+    {"number":25, "text":"We need to continually press McDonald and his department to take a much more decisive approach to reform that gets to the real root of the problem: an entrenched and unaccountable bureaucracy", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"After all", "label":"no-unit"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":" it's much easier to put on an ICARE pin every morning than it is to shoulder the shame that too many VA executives should feel", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Make no mistake about it", "label":"no-unit"},
+    {"number":32, "text":";", "label":"no-unit"},
+    {"number":33, "text":"corrupt employees and a bloated bureaucracy are the problems that must be addressed -- and urgently", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"To be fair to McDonald, there have been limited signs of progress at the VA, thanks to reforms passed by Congress that bring greater accountability and more patient choice to what is now the government's second-largest department", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"For example", "label":"no-unit"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":" Sharon Helman, the director of the VA's Phoenix Medical Center, which was ground zero for the secret waiting list scandal, was finally terminated in November ", "label":"anecdote"},
+    {"number":40, "text":"--", "label":"no-unit"},
+    {"number":41, "text":"but only after more than 200 days of paid administrative leave", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"A handful of other VA officials have also been forced out, but only after being given a chance to retire with benefits", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"It's a start, but not nearly adequate considering the depth and breadth of dysfunction", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"McDonald must keep up -- or preferably turn up -- the pressure in the year to come", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Moreover", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" the VA needs to stop resisting the expansion of patient choice for veterans that Congress has mandated", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"The department has been slow-walking the implementation of the reform law's provisions that would allow veterans who are facing a wait of more than 30 days to see a physician, or those who live far from VA facilities to consult with a medical provider in the private sector", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"This is an important measure that will ensure veterans more timely access to care, while bringing much needed competitive pressure to bear on the VA care system", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"If", "label":"no-unit"},
+    {"number":58, "text":"he is truly going to put the care of veterans above the agency he leads", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"McDonald should make good on his promise and champion patient choice expansion, rather than treat it as a pilot project", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"In all honesty, the great risk for McDonald in the new year is that he'll \"go native\" and embrace, defend and shield the dysfunctional culture of the department he promised to change", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"That's a risk, and a temptation, for anyone who is charged with leading a large bureaucracy", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"We cannot allow it", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Perhaps McDonald's slowness in taking action is part of a strategy of presenting himself as a friend to VA employees in order to earn their trust and confidence", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"But it's not bureaucrats who have lost trust in the VA", "label":"assumption"},
+    {"number":71, "text":"--", "label":"no-unit"},
+    {"number":72, "text":"it's veterans, taxpayers and Congress", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"It remains to be seen whether he'll reveal himself to be a tough-love manager who will stand up to the self-serving bureaucrats who have proven time and again that they \"care\" more about their job security and compensation than the patients they are supposed to serve", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"If", "label":"no-unit"},
+    {"number":77, "text":"McDonald, and the entire VA, want to show that they truly \"care\" about veterans in 2015", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"they should resolve to take off the cheesy ICARE pins and get real results for veterans", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"My advice to veterans, their families and advocates is this: Keep up the pressure", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"The VA bureaucracy is expecting that with scandals fading from the headlines, attention will move elsewhere", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"All they want is to don their pins and go back to the same old way of doing business", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Our job is to keep that from happening", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ]
+]}

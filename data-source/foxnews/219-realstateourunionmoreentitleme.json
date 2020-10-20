@@ -1,0 +1,153 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The Real State of Our Union: More entitlements, taxes and unemployment.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In his State of the Union address, President Obama will propose much he knows the Republican-controlled Congress will not enact", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"but", "label":"no-unit"},
+    {"number":5, "text":"his real agenda is to set the table for Hillary Clinton's 2016 presidential campaign", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"Once again, the president will propose soaking the rich with higher estate, capital gains and bank taxes, while adding to entitlements for the working poor and middle class--new tax credits, higher child care allowance and more college tuition assistance", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"It all sounds appealing in an economy where the top 10 percent have done quite well", "label":"assumption"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"while", "label":"no-unit"},
+    {"number":12, "text":"the rest struggle", "label":"assumption"},
+    {"number":13, "text":"--", "label":"no-unit"},
+    {"number":14, "text":"but", "label":"no-unit"},
+    {"number":15, "text":"it is not that simple", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"The president will argue the economy--and especially the rich-- can afford the taxes he wants", "label":"assumption"},
+    {"number":18, "text":"because economic growth is so strong", "label":"assumption"},
+    {"number":19, "text":"--", "label":"no-unit"},
+    {"number":20, "text":"but", "label":"no-unit"},
+    {"number":21, "text":"that's a fib", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"Since the recovery began, GDP growth has averaged a mere 2.3 percent a year", "label":"statistics"},
+    {"number":24, "text":"--", "label":"no-unit"},
+    {"number":25, "text":"that's about half what Ronald Reagan accomplished climbing out of a recession of comparable depth", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Now the recovery faces tough headwinds", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Falling oil prices are curbing drilling in places like North Dakota and Texas", "label":"assumption"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"and", "label":"no-unit"},
+    {"number":32, "text":"big layoffs are not far behind", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"The dollar is quite strong against other currencies, limiting exports and boosting job-killing imports", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"because China's growth is faltering", "label":"assumption"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"Japan remains in neutral", "label":"assumption"},
+    {"number":39, "text":"and", "label":"no-unit"},
+    {"number":40, "text":"Europe is on the edge of collapse under the weight of statism", "label":"assumption"},
+    {"number":41, "text":"--", "label":"no-unit"},
+    {"number":42, "text":"the very kind Obama and Clinton want to impose on Americans", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"The president proposes to legislate the basic contract between employers and workers", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"On top of higher minimum wages and mandated business financed health benefits, he wants employers to pay for mandatory sick leave and six weeks of paid parental leave", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"After five years, Reagan increased employment by 9.4 percent", "label":"statistics"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"whereas", "label":"no-unit"},
+    {"number":51, "text":"Obama has boosted jobs only 4.5 percent", "label":"statistics"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Consequently", "label":"no-unit"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"nearly one in six prime working age men between 25 and 54 is not working", "label":"statistics"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"and", "label":"no-unit"},
+    {"number":58, "text":"72 percent of those are not even bothering to look", "label":"statistics"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Obama has made Medicaid, food stamps and social security disability quite easy to get", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"and", "label":"no-unit"},
+    {"number":63, "text":"idle men form a new leisure class by combining those benefits with handouts from relatives and girlfriends", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"For employers, a higher minimum wage, compulsory health insurance, and sick and parental leave will make those men even more costly to hire", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"Enter stage left", "label":"no-unit"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"more worker replacing robots", "label":"no-unit"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"The number of young people--and especially young men--starting small businesses has fallen dramatically", "label":"assumption"},
+    {"number":72, "text":"--", "label":"no-unit"},
+    {"number":73, "text":"and", "label":"no-unit"},
+    {"number":74, "text":"that means fewer jobs over the next generation for everyone", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Young folks start enterprises by raising a lot of capital from older rich people", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Wealthy folks take the plunge on risky ventures", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"because the capital gains tax on successful enterprises is currently taxed at about 25 percent", "label":"anecdote"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"whereas", "label":"no-unit"},
+    {"number":83, "text":"combined federal, state and local tax rates on ordinary income is often above 50 percent", "label":"statistics"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"Young entrepreneurs, who generally have not amassed much wealth, can't borrow nearly what they need from banks", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Higher taxes on banks will make that problem worse", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Hiking capital gains taxes will directly discourage older successful investors", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"who also bring a wealth of practical management experience and advice for getting young ventures off the ground", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Older rich folks also take the plunge", "label":"assumption"},
+    {"number":94, "text":",", "label":"no-unit"},
+    {"number":95, "text":"because they can pass along assets at death to their children", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"But now the president wants to hike the tax rate on their estates", "label":"assumption"},
+    {"number":98, "text":",", "label":"no-unit"},
+    {"number":99, "text":"which is already 40 percent", "label":"statistics"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"The president calls it fair", "label":"assumption"},
+    {"number":102, "text":"because it only falls on one percent of the population, and will paint Republicans who resist as defending the rich to the detriment of struggling Americans", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"His aim is to give Americans buyer's remorse about electing a Republican Congress and boost a Clinton campaign for the White House emphasizing similar themes", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"It would seem one out of six men unemployed, subsisting on government benefits and burdening relatives is not too high a price to elect another Democratic president", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"}
+  ]
+]}

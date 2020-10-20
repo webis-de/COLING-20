@@ -1,0 +1,113 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"What freedom of speech?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The photos of 40 of the world's government leaders marching arm-in-arm along a Paris boulevard on Sunday with the president of the United States not among them was a provocative image that has fomented much debate", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The march was, of course, in direct response to the murderous attacks on workers at the French satirical magazine Charlie Hebdo by a pair of brothers named Kouachi, and on shoppers at a Paris kosher supermarket by one of the brothers' comrades", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"The debate has been about whether President Obama should have been at the march", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The march was billed as a defense of freedom of speech in the West", "label":"assumption"},
+    {"number":9, "text":";", "label":"no-unit"},
+    {"number":10, "text":"yet", "label":"no-unit"},
+    {"number":11, "text":"it hardly could have been held in a less free speech-friendly Western environment", "label":"assumption"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"and", "label":"no-unit"},
+    {"number":14, "text":"the debate over Obama's absence misses the point", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"In the post-World War II era, French governments have adopted a policy advanced upon them nearly 100 years ago by Woodrow Wilson", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"He pioneered the modern idea that countries' constitutions don't limit governments; they unleash them", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Thus", "label":"no-unit"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"even though the French Constitution guarantees freedom of speech, French governments treat speech as a gift from the government, not as a natural right of all persons", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"as our Constitution does", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"The French government has prohibited speech it considers to be hateful and even made it criminal", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"When the predecessor magazine to Charlie Hebdo once mocked the death of Charles de Gaulle, the French government shut it down -- permanently", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"The theory of anti-hate speech laws is that hate speech often leads to violence, and violence demands police and thus the expenditure of public resources, and so the government can make it illegal to spout hatred in order to conserve its resources", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"This attitude presumes, as Wilson did when he prosecuted folks for publicly singing German songs during World War I, that the government is the origin of free speech and can lawfully limit the speech it hates and fears", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"It also presumes that all ideas are equal, and none is worthy of hatred", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"When the massacres occurred last week in Paris, all three of the murderers knew that the police would be unarmed and so would be their victims", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"It was as if they were shooting fish in a barrel", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Why is that?", "label":"no-unit"},
+    {"number":41, "text":"The answer lies in the same mentality that believes it can eradicate hate by regulating speech", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"That mentality demands that government have a monopoly on violence, even violence against evil", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"So, to those who embrace this dreadful theory, the great loss in Paris last week was not human life, which is a gift from God", "label":"assumption"},
+    {"number":46, "text":";", "label":"no-unit"},
+    {"number":47, "text":"it was free speech, which is a gift from the state", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Hence the French government, which seems not to care about innocent life, instead of addressing these massacres as crimes against innocent people, proclaimed the massacres crimes against the freedom of speech", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Would the French government have reacted similarly if the murderers had killed workers at an ammunition factory, instead of at a satirical magazine?", "label":"assumption"}
+  ],
+  [
+    {"number":52, "text":"And", "label":"no-unit"},
+    {"number":53, "text":"how hypocritical was it of the French government to claim it defends free speech!", "label":"assumption"},
+    {"number":54, "text":"In France, you can go to jail if you publicly express hatred for a group whose members may be defined generally by characteristics of birth, such as gender, age, race, place of origin or religion", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"You can also go to jail for using speech to defy the government", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"This past weekend, millions of folks in France wore buttons and headbands that proclaimed in French:\"I am Charlie Hebdo.\"", "label":"anecdote"},
+    {"number":59, "text":"Those whose buttons proclaimed\"I am not Charlie Hebdo\" were asked by the police to remove them", "label":"anecdote"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Those who wore buttons that proclaimed, either satirically or hatefully,\"I am Kouachi\" were arrested", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Arrested for speech at a march in support of free speech?", "label":"assumption"},
+    {"number":64, "text":"Yes", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"What's going on here?", "label":"assumption"},
+    {"number":67, "text":"What's going on in France, and what might be the future in America, is the government defending the speech with which it agrees and punishing the speech with which it disagrees", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"What's going on is the assault by some in radical Islam not on speech, but on vulnerable innocents in their everyday lives in order to intimidate their governments", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"What's going on is the deployment of 90,000 French troops to catch and kill three murderers", "label":"anecdote"},
+    {"number":72, "text":"because the government does not trust the local police to use guns to keep the streets safe or private persons to use guns to defend their own lives", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Why do some in radical Islam kill innocents in the West in order to affect the policies of Western governments?", "label":"assumption"},
+    {"number":75, "text":"Might it be because the fruitless Western invasion of Iraq killed 650,000 persons, most of whom were innocent civilians?", "label":"assumption"},
+    {"number":76, "text":"Might it be because that invasion brought al-Qaida to the region and spawned ISIS?", "label":"assumption"},
+    {"number":77, "text":"Might it be because Obama has killed more innocent civilians in the Middle East with his drones than were killed by the planes in the U.S  on 9/11?", "label":"assumption"}
+  ],
+  [
+    {"number":78, "text":"Might it be because our spies are listening to us, rather than to those who pose real dangers?", "label":"assumption"}
+  ],
+  [
+    {"number":79, "text":"What does all this have to do with freedom of speech?", "label":"assumption"},
+    {"number":80, "text":"Nothing -- unless you believe the French government", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ]
+]}

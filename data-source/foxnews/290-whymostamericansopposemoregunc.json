@@ -1,0 +1,152 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why most Americans oppose more gun control.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A new Pew Research Center survey finds that, for the first time in their surveys, the majority of Americans oppose more gun control", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Gallup and CNN polls tell a similar story", "label":"statistics"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Opposition to gun control has been increasing over at least the last couple of decades", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Gun control groups have spent hundreds of millions of dollars to try to convince Americans that gun control is the answer", "label":"statistics"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"In 2013, gun owners' groups -- including the NRA -- spent less than one seventh as much on television advertisements", "label":"statistics"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"This year looks to be even more lopsided, thanks to the unrelenting efforts of individuals such as Michael Bloomberg, George Soros and Gabriel Giffords", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Perceptions have changed dramatically, with most people now believing the \"More Guns, Less Crime\" hypothesis", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Gallup recently asked Americans if they thought residents are safer with a gun in the home", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"People answered \"Yes\" by a margin of 63 to 30 percent", "label":"statistics"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"In 2000, Americans gave just the opposite answer by a margin of 51 to 35 percent", "label":"statistics"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"In 2013,[3] Sixty percent of gun owners listed \"Personal Safety/Protection\" as the reason for owning a gun", "label":"statistics"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Academic research aligns with current public opinion", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"If", "label":"no-unit"},
+    {"number":27, "text":"you have a gun in the home", "label":"assumption"},
+    {"number":28, "text":", that gun is far more likely to prevent murder than it is to be used in an accidental shooting or to kill a loved one", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Accidental gun deaths get a lot of press coverage", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"but", "label":"no-unit"},
+    {"number":33, "text":"the press is quite misleading when it talks about juvenile gun deaths", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"In fact", "label":"no-unit"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":" many news reports lump in young deaths involving gang fights", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"These deaths are also tragic", "label":"common-ground"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"but", "label":"no-unit"},
+    {"number":42, "text":"they have nothing to do with whether law-abiding citizens should own guns", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"The Centers for Disease Control reports that, in 2012, there were 58 accidental gun deaths involving children under the age of 15", "label":"statistics"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"More than 20 times as many children died due to accidental suffocation", "label":"statistics"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"In most cases, an adult accidentally shoots a child, not children shooting themselves or other children", "label":"statistics"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"And many of those adults have criminal records and drug or alcohol problems", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Between 2000 and 2014, the number of concealed handgun permits soared from about 2.7 million to well over 12 million", "label":"statistics"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Similarly, the annual number of federal background checks increased from 8.5 to 21 million", "label":"statistics"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"According to Gallup, 42 percent of Americans now have a gun in the home", "label":"statistics"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"The Pew Research Center survey found that 57 percent of Americans believe gun ownership \"protects people from becoming victims of crime.\"", "label":"statistics"},
+    {"number":59, "text":"Thirty-eight percent believe that it \"puts people's safety at risk.\"", "label":"statistics"},
+    {"number":60, "text":"Support for gun ownership has grown particularly sharply among blacks and women, with their support since 2012 rising by 25 and 11 percentage points respectively", "label":"statistics"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"My research shows that since blacks are the most likely victims of violent crime, they are also the ones who benefit most from being able to defend themselves", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Women and the elderly are especially unlikely to be able to fend off a male attacker without the benefit of a firearm", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Gary Kleck, Larry Southwick and other academics have shown that having a gun is by far the safest option when confronted by a criminal", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Police are extremely important in reducing crime", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Indeed", "label":"no-unit"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":" I have found that they are by far the single most important factor", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"But police know that they almost always arrive on the crime scene after a crime has occurred", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"and", "label":"no-unit"},
+    {"number":77, "text":"because of that police are among the strongest supporters for private gun ownership", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"PoliceOne, which has a membership of about 450,000 active and retired police officers, found last year that 76 percent of its members believe legally armed citizens are either extremely or very important to stopping crime", "label":"statistics"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Over 91 percent of members \"support the concealed carry of firearms by civilians who have not been convicted of a felony and/ or not been deemed psychologically/medically incapable.\"", "label":"statistics"},
+    {"number":82, "text":"This is a less stringent standard than exists in most right-to-carry states", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"In the wake of tragedies such as Newtown, gun control advocates keep pushing for more restrictions", "label":"anecdote"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"But the proposed regulations have nothing to do with the tragedies", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"Even Mark Glaze, who was executive director of Bloomberg's Everytown For Gun Safety until earlier this year, conceded to the Wall Street Journal,\"Is it a messaging problem when a mass shooting happens and nothing that we have to offer would have stopped that mass shooting? Sure it's a challenge....\"", "label":"testimony"}
+  ],
+  [
+    {"number":89, "text":"Even worse for gun control advocates, people are realizing that regulations -- such as gun-free zones -- tend to encourage attacks by disarming law-abiding citizens instead of criminals", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Hopefully, cities such as Washington, Los Angeles and New York will change their rules as more poor blacks and women recognize the benefits of gun ownership", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"At present, only rich, well-connected people can get concealed carry permits in those places", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"The poor have every bit as much right to defend themselves", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"Increased gun ownership may solve another problem", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"There are two ways to protect poor law-abiding blacks in high-crime urban areas", "label":"assumption"},
+    {"number":100, "text":":", "label":"no-unit"},
+    {"number":101, "text":"Either rely more on the police or make it easier for people to defend themselves", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Given the polls show that blacks have a greater trust in guns than the police making them safer, why not make it easier for law-abiding poor blacks to arm themselves?", "label":"assumption"}
+  ],
+  [
+    {"number":104, "text":"John R  Lott, Jr  is a columnist for FoxNews.com", "label":"anecdote"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"He is an economist and was formerly chief economist at the United States Sentencing Commission", "label":"anecdote"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"Lott is also a leading expert on guns and op-eds on that issue are done in conjunction with the Crime Prevention Research Center", "label":"anecdote"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"He is the author of eight books including \"More Guns, Less Crime.\"", "label":"other"},
+    {"number":111, "text":"His latest book is\"Dumbing Down the Courts: How Politics Keeps the Smartest Judges Off the Bench\" Bascom Hill Publishing Group (September 17, 2013)", "label":"other"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"Follow him on Twitter@johnrlottjr", "label":"other"},
+    {"number":114, "text":".", "label":"no-unit"}
+  ]
+]}

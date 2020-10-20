@@ -1,0 +1,122 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Diversity among police officers is key, but it won't solve the problems with policing.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In Ferguson, Missouri, 50 of the 53 police officers are white in a city that is two-thirds African American", "label":"statistics"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In Connecticut's state capital, Hartford, 66% of the police department is white", "label":"statistics"},
+    {"number":5, "text":"but", "label":"no-unit"},
+    {"number":6, "text":"only 16% of the residents are", "label":"statistics"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"And these are just two examples: despite progress over the past 50 years, many police departments remain predominantly white in cities and towns", "label":"assumption"},
+    {"number":9, "text":"where the majority of the population is nonwhite", "label":"statistics"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"There are some important exceptions to the disparity pattern", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Several big city police departments are majority-black or majority-Hispanic (Atlanta, Birmingham, Detroit, Washington, Miami, Santa Fe and El Paso, for instance)", "label":"statistics"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"while others (such as Chicago) are so diverse that no single group comprises the majority", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Yet for many other cities, the gap between the complexion of the police department and the local population is huge", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Why does this matter?", "label":"assumption"},
+    {"number":20, "text":"Do police officers of different racial and ethnic backgrounds act differently while on the job?", "label":"assumption"},
+    {"number":21, "text":"Do they have different kinds of relationships with minority communities?", "label":"assumption"},
+    {"number":22, "text":"Aren't all officers trained to do their jobs similarly and to treat all civilians the same regardless of race?", "label":"assumption"}
+  ],
+  [
+    {"number":23, "text":"Research shows that, in general in the US, there is not a strong correlation, let alone a causal relationship, between an officer's race and how officers treat members of the public when they respond to calls from civilians or stop and question them on the streets Statistics", "label":"assumption"},
+    {"number":24, "text":"are, of course, not predictive of individual behavior", "label":"assumption"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"and", "label":"no-unit"},
+    {"number":27, "text":"studies of specific departments or communities vary", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"A 2004 study in Indianapolis (Indiana) and St  Petersburg (Florida) by Ivan Sun and Brian Payne, for example, found that black officers were more likely than white officers working in black neighborhoods to provide information, referrals to other agencies, and to treat residents respectfully", "label":"statistics"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"although the black officers were also more likely to use physical force against citizens in conflict situations", "label":"statistics"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"But", "label":"no-unit"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":" again, most studies find similarities overall in police behavior irrespective of officers' racial background", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Shared training in the academy, as well as on-the-job socialization by fellow officers, results in more similarities than differences among officers when it comes to their policing activities, including similarities in how officers of all races treat white versus non-white citizens", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"So we should not view racial diversification on the force as a panacea for improving police treatment of minorities", "label":"assumption"},
+    {"number":40, "text":":", "label":"no-unit"},
+    {"number":41, "text":"instead if", "label":"no-unit"},
+    {"number":42, "text":"minority officers adopt majority attitudes about those they serve and protect", "label":"assumption"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"it might hardly help at all", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"A 2008 study in Baltimore, Maryland by Peter Moskos documented precisely this shared mentality among both white and black officers", "label":"statistics"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"But it can pay major dividends in other ways", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"In one poll of 1,791 Americans that I and a colleague conducted for our book, Race and Policing in America, more than 70% of blacks, Hispanics and whites in the United States believed that a city's police department should have a similar racial composition to the city", "label":"statistics"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"The same study found that very few blacks and Hispanics (only 5%) want most officers who work in their neighborhoods to be exclusively of the same race as the residents", "label":"statistics"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"and", "label":"no-unit"},
+    {"number":55, "text":"instead most people prefer to see racially- mixed teams of officers patrolling their streets", "label":"statistics"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Importantly, such diversity can help to build trust and confidence in the police", "label":"assumption"},
+    {"number":59, "text":":", "label":"no-unit"},
+    {"number":60, "text":"the more a police department reflects the composition of the local population, the higher the department's reputation among residents", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"which can provide a foundation to build further trust, coupled with other needed reforms", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"It also helps, in majority-black or majority-Hispanic cities, if the chief of police comes from that community as well because, as the public face of the department, he or she can allay suspicions", "label":"assumption"},
+    {"number":65, "text":"when controversial incidents occur in a way that white police chiefs may not be able to do", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"A diverse police force can also help to decrease the sense that individuals are being stopped and questioned solely because of their race", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"This clearly applies when the officers and citizens are of the same race", "label":"assumption"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":"but", "label":"no-unit"},
+    {"number":72, "text":"even encounters between white officers and minority citizens may be perceived as less racialized when the department has a critical mass of minority officers", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"A representative police force can, in other words, have symbolic benefits that enhance the overall status of a police department and also reduce the perception that actions, such as stops or searches, are based on racial profiling", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Most police chiefs realize the advantages of a department that represents the local community", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"but", "label":"no-unit"},
+    {"number":79, "text":"there are big challenges in recruiting more minority officers", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Many Hispanics and African Americans are reluctant to consider a career in law enforcement - not surprising, given the history of policing in America coupled with more recent events", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Highly-publicized incidents like the killing of Michael Brown in Ferguson and Eric Garner in New York only make it more difficult for police departments to recruit minority officers", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"Recruiters can have some success, however, if they broaden their outreach efforts to include churches and community centers - and if there are pre- existing positive relationships between the police and residents in those minority neighborhoods where community policing has already taken root", "label":"assumption"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"which can be built on", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Although troubled interactions between minorities and police garner most of the headlines, there are neighborhoods in American cities where working-class and middle-class black and Hispanic residents - including youths - have better relationships with the authorities than on average, as I found in a study of Washington DC neighborhoods", "label":"statistics"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"It is in these communities that the police can enhance their recruitment efforts and achieve at least some success", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Racial diversification is one crucial ingredient in a larger program of reform that is required to improve police departments throughout the country", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"A representative police force is not a panacea", "label":"assumption"},
+    {"number":96, "text":"- but", "label":"no-unit"},
+    {"number":97, "text":"it is a positive reform, and an achievable one", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,83 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Europe's fear of Syria's ghost boats.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The story of the Ezadeen, the ship set on autopilot and set towards Europe with 450 fleeing Syrian refugees on board, could be a turning point in the European response to the crisis in Syria", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"With a conflict that has killed some 200,000 people burning brightly on its doorstep Europe's prime focus to date has been on ensuring that it stays away from the flames", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The emergence of \"ghost ships\", the latest gruesome tactic to come out of a conflict that has also put the \"barrel bomb\" into the popular lexicon, may force a much needed revaluation on the strategy of Europe's response", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The discovery of the Ezadeen is simply the latest in an increasing number of horror stories emerging from the Mediterranean Sea", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The boat, aptly a former livestock carrier, was found in rough seas some 40 nautical miles off the Italian coast - the second vessel in four days to be found sailing abandoned by its crew", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"The ghost ships represent both a new tactic - using large cargo ships to move people in winter across longer crossing- and a new trend - that of the refugees coming from Syria", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Last year some 230,000 people arrived illegally across the Mediterranean into the EU with Italy receiving the lion's share of 160,000 whilst 3,500 people died trying to make the crossing", "label":"statistics"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The UNHCR explained that in 2014 for the first time, people mainly from Syria \"have become a major component in this tragic flow, accounting for almost 50 per cent of the total\"", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"The policy of the EU has largely been one of \"Fortress Europe\" characterised by the reduction of humanitarian support to sea born refugees and tighter border fences to the east", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Whilst Syria's neighbours have accepted the lion's share of the over 3 million Syrian refugees Europe's record remains dismal with a recent summit agreeing on only 33,000 more asylum cases", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"EU policy is as adrift as many of the refugees who struggle to survive in the Med", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"The sudden up tick in refugees attempting to travel from Syria and the high risk ghost ships that are used should prompt a review of both the national polices of EU member states and the supra-national EU policy at large", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"The conflict in Syria is getting worse with 5,000 Syrians fleeing every day (over three a minute)", "label":"statistics"},
+    {"number":27, "text":"and", "label":"no-unit"},
+    {"number":28, "text":"2015 could see the number of refugees top 4 million", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Europe needs to adopt a more strategic and moral policy towards the Syrian refugee crisis rather than the current position whose failure is measured in the increasing numbers of lives lost to the Mediterranean", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"It is far easier to attract the attention of policy makers with a counter- terrorism argument than a humanitarian one", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The fact is that the smugglers who are purchasing ships for between $100,000 - $150,000 and then filling them up with hundreds of desperate refugees paying $6,000 per person for passage are making serious illicit money", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Criminal gangs in North Africa and the Middle East that experts warn are \"making millions\" should be a red flag considering the current conflict with trans-national criminals such as ISIL", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"Resources should be put into a joined up policing effort that addresses the space that these increasingly wealthy smugglers are able to operate in", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"The Syrians taking this journey are risking it all on what the UNHCR are calling the \"most lethal route in the world\"", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"One refugee on board the Ezadeen put it succinctly when he told Italian Coast Guards that \"we are alone and we have no one to help us\"", "label":"testimony"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"We must better understand that a conflict that has seen over 12,000 children killed - 3,500 last year alone- is going to force people to desperate ends to find hope of a better tomorrow", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Europe must look seriously into accepting larger asylum quotas and focus on giving the most vulnerable a legitimate means of getting to their shores", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Meanwhile if the conditions for the vast majority of those refugees in the neighbouring countries deteriorate then again it shouldn't be a surprise to see refugees risk their lives to travel elsewhere", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The fact that the World Food Programme had to briefly cut food rations to Syrian refugees due to lack of funding in December is a scandal that shouldn't be allowed to happen again", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Finally of course we should never lose sight of the bigger picture", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"The refugees, whether sheltering from winter in the Bekaa Valley in Lebanon or enduring the waves of the Mediterranean, are all symptoms of a conflict whose end appears nowhere in sight", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"A new year gives Europe a chance to involve itself a new on addressing that most difficult of challenges", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ]
+]}

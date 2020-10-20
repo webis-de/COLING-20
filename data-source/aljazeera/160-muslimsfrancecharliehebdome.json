@@ -1,0 +1,132 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Muslims in the news only when they're behind the gun.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Ahmed Merabat was the first of the 12 innocents killed in Wednesday's targeted attack on the French satirical magazine, Charlie Hebdo", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The 42-year-old French Muslim policeman was executed on the sidewalk of Paris' 11th borough - the enclave where Charlie Hebdo's headquarters is located", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Merabat was shot, point-blank, by one of the three assassins, minutes before they broke into Charlie Hebdo's offices, and slaughtered the magazine's top editor and celebrated cartoonists", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The coverage of the \"Paris shootings\" centred almost exclusively on Stephane Charbonnier, Georges Wolinski, Jean Cabut and Bernard Verlhac - the prominent and unyieldingly provocative minds behind Charlie Hebdo", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"The first victim, Ahmed Merabat, was purged from the headlines", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"The political and representational ramifications that come with highlighting Merabat's victimhood cannot be ignored", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"First", "label":"no-unit"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":" it complicates the broader narrative that rigidly caricatures Muslims as terrorists, outsiders and marginals", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"And second, refutes the state-sponsored indictment of Muslims in France as perpetrators of subversion, instead of law-abiding citizens", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Muslim and French", "label":"no-unit"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Apart from the obvious tragedy, the Charlie Hebdo killings manifest the baseline that Muslim identity is only relevant - and indeed newsworthy - when the subject is standing behind the gun. Not in front of it", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"In most everywhere in the world, but especially France - the architect of modern Islamophobia", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Muslims comprise a considerable percentage of the French polity", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Islam is the nation's second biggest religion", "label":"statistics"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"and", "label":"no-unit"},
+    {"number":31, "text":"figures place the Muslim population at 5 percent to 10 percent of France's 66 million citizens", "label":"statistics"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"Islam's size, and demographical rise, has spurred some of the most draconian policies against Muslims in modern times", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"The headscarf ban in 2004, followed by illegalisation of the niqab, or face covering, in 2010, codified core Islamophobic ideas", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"This legislation also functioned as a firm and fervent declaration by the state that Muslim and French identities were at odds and irreconcilable", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"The French laicite model provided the structural underpinnings to carry forward Islamophobic legislation", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"But more nefariously, guise it under the banner of state-sponsored secularism", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Expectedly, the religious expression bans disparately impacted French Muslims", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"In addition", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":" they chilled bodily and verbal expressions of Muslim identity", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The state aim of compelling secularisation upon its Muslim citizenry was based upon the civilisational binary, and ultimatum, to choose between \"Islam and the West\", \"Muslim lands or France\"", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Despite this ultimatum handed down from the state, the overwhelming majority of French Muslims exercised their faith amid pervasive bigotry", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"And simultaneously, embraced their national identities as Frenchmen and women", "label":"no-unit"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Extreme voices from within the state, and French civil society, looked to the three terrorists as representatives of the nation's 3 to 6 million Frenchmen and women", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"Collateral indictment of French Muslims, by politicians and media alike, infused with an already fervent culture of Islamophobia on the ground, will surely incite violent backlash against Muslims and Muslim communities in the country", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Although unimaginable before Wednesday, French Islamophobia stands to become far more severe and strident", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"The conflation of the terrorist's acts with France's Muslim population, from the perspective of hatemongers, holds the latter vicariously liable", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"This connection, that links three deviant actors with an entire faith and millions of disconnected citizens, will fuel rabid backlash against Muslims in France, and more than likely, claim additional victims", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Centring Muslim victims, instead of villains, would mitigate the backlash considerably", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"In addition", "label":"no-unit"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"focusing on the heroics of Merabat, instead of the evil of the three terrorists, asserts - and inserts - a competing narrative that France's Muslims are everyday citizens", "label":"assumption"},
+    {"number":70, "text":":", "label":"no-unit"},
+    {"number":71, "text":"Citizens with jobs, families, and interpretations of Islam that condemn violence, and contradict the malignant caricature of the faith constructed by the state", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Ahmed Merabat was more than a victim", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"He was far more than merely a Muslim", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"He, in both life and especially in death, stands as an archetype for the overwhelming majority of French Muslims", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"A law-abiding citizen, Merabat harmonised his religious identity with the responsibilities of being a Frenchman", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"He was both French and Muslim", "label":"anecdote"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"an existential integration eviscerated by the longstanding Islamophobic discourse in France, and ignored by the media firestorm following the attack", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"Although the first victim of the attack, Ahmed Merabat's story was shot down from the news headlines", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"And his name and face absent from the ongoing stream of reports and narratives emanating from Paris on Wednesday", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Inserting him into the story, and countering the barrage of vile Muslim representations with a rebuttal of victimhood and valour, will likely save lives in France", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Most importantly, retelling the story from the perspective of Ahmed Merabat will not only reveal that Muslim and French identity are reconcilable, but also resilient", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ]
+]}

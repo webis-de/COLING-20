@@ -1,0 +1,102 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The Guardian view on counter-terror cooperation: walking the line.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Ten days after the Paris attacks, the security repercussions continue", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Yesterday Sir John Sawers, recently retired as head of MI6, called for renewed cooperation between intelligence agencies and internet companies", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Meanwhile, European foreign ministers met to strengthen anti-terrorism coordination within the EU, and called for a stronger alliance with Arab states in combating jihadi networks", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The EU foreign policy chief, Federica Mogherini, said:\"The threat is not only the one we faced in Paris, but it is spreading in other parts of the world, starting from Muslim countries.\"", "label":"testimony"}
+  ],
+  [
+    {"number":9, "text":"Better coordination is undoubtedly needed to foil further attacks in Europe", "label":"assumption"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"where Islamist terrorists have struck in three capitals - Madrid, London and now Paris", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Anti-terrorism raids in France and Belgium confirm that the threat continues", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"The Paris killers had links with networks across the Middle East, including in Yemen", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"So the need to share intelligence to counter groups that themselves operate and communicate easily across borders cannot be disputed", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"A further illustration of this came", "label":"assumption"},
+    {"number":20, "text":"when", "label":"no-unit"},
+    {"number":21, "text":"an Algerian national appeared before a Greek prosecutor on Monday over a possible link to a foiled Islamist plot to attack police in Belgium", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"It is logical for Europe to reach out to Arab countries", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The first victims of violent jihadism are, after all, to be found in the Arab world", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"In the Middle East and north Africa, terrorists have targeted Muslims first and foremost", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"It came as little surprise that the Arab League secretary general, Nabil el-Araby - who has recently met Ms Mogherini- immediately declared his organisation's readiness to help European partners in dealing with a danger that spans many regions", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"It is, nevertheless, vital that such cooperation avoids the mistakes of the past", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"This is not a war of civilisations", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"It is a fight against a violent sectarian ideology that finds breeding grounds in Europe's disenfranchised communities and in the killing fields of the Middle East", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Ms Mogherini is correct to state that this is \"not an issue between Europe or the west and Islam\"", "label":"testimony"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"But this effort must give proper priority to precautions and standards that have, in the past, been all too often trampled upon", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"The global war on terror proclaimed in the aftermath of 9/11 involved measures that violated fundamental rights and international law", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Western cooperation with repressive Arab states involved rendition flights and the outsourcing of torture", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Many regimes used repressive methods and emergency legislation to crush dissent as much as to track terrorists", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Last month this system of abuses was detailed in the damning US Senate report on the secret CIA programme that ran detention sites and organised the transfer of detainees with the cooperation of partner countries", "label":"testimony"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"some of which were in the Arab and Muslim world", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Calling for an alliance between Europe and Arab countries in a renewed fight against terrorism is important", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"But it should not permit any amnesia about where this has led in the past decade", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"In the Middle East and north Africa, many regimes continue to show complete disregard for basic human rights and legal procedures", "label":"assumption"},
+    {"number":56, "text":"- as the recent flogging of a Saudi blogger has illustrated", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Only one country, Tunisia, can claim to have reached some form of stable democracy in the wake of the Arab spring", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Others are run by despots or by military juntas, as in Egypt, or have been caught in a spiral of anarchy, as in Libya", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Human rights activists and civil society struggle to do their work under immense pressure", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"There are few checks and balances", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Nor is there sufficient oversight of security forces conducting anti-terrorism efforts", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"So", "label":"no-unit"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"as Europeans reach out to these regimes", "label":"assumption"},
+    {"number":71, "text":", they must beware of the pitfalls", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"An alliance with authoritarian powers, made blindly or naively, can too easily involve the abandonment of values, a dangerous sense of impunity and even indifference towards the worst abuses", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"It can also backfire", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"because repression in some Arab states has provoked fresh discontent and radicalisation", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"All these things have happened in recent years", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"This time, therefore, Europe must rigorously uphold its standards as it embarks on this new era of cooperation", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"This time, the price of mutual assistance must not be a blind eye or a guilty silence about unacceptable abuses", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ]
+]}

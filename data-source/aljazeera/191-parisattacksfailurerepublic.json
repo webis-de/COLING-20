@@ -1,0 +1,141 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The Paris attacks and the failure of the republic.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Following the Paris attacks, there appears to be a consensus that France has experienced a turning point in its modern history", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Most commentators place an emphasis on the possible role external factors have played in this act of terrorism", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Various external factors are cited", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"but", "label":"no-unit"},
+    {"number":9, "text":"they mostly focus on the conflicts in the Middle East and international tensions in general, in a bid to link the Paris attacks to extremist ideologies that promote such murderous acts", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"A week after the attack, the French political class and key media outlets remain focused on the security aspect and barely attempt to address the issue from a different angle", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"They do not question the responsibility held by French society and state - as well as the role of the socioeconomic policies practised by successive French governments - in addressing the woes of the socially marginalised and disenfranchised zones from which the Kouachi brothers sprang", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"How can this act be attributed only to dogmatic ideological motivations and grievances over international conflicts, given that the religious and ideological indoctrination process is too complicated to be attributed solely to external factors?", "label":"assumption"}
+  ],
+  [
+    {"number":16, "text":"As both French officials and analysts respond with emotion", "label":"assumption"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"they ignore a series of socioeconomic factors that have fuelled the motivations of the actors", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"It is important to remember that the perpetrators of the attack were born and raised in France in a poor, disadvantaged area", "label":"assumption"},
+    {"number":21, "text":"where unemployment rates among the youth aged 18 to 24 years reaches 45 percent (compared to the national rate which is nearly 10 percent)", "label":"statistics"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"In these areas, called\"banlieues\", state infrastructure is almost non- existent and the population is subject to segregation and racial discrimination in terms of access to employment opportunities and housing", "label":"assumption"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"which in most cases leads to exclusion from the civic sphere", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"In 2006, an official case study focusing on access to employment conditions showed that 51 percent of young French candidates are subject to discrimination based on ethnic origin and/or skin colour", "label":"statistics"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"These conditions result in social marginalisation and promote delinquency", "label":"assumption"},
+    {"number":30, "text":"which in turn raises the chances of incarceration", "label":"assumption"},
+    {"number":31, "text":";", "label":"no-unit"},
+    {"number":32, "text":"a place", "label":"no-unit"},
+    {"number":33, "text":"where", "label":"no-unit"},
+    {"number":34, "text":"religious indoctrination and ideological radicalisation mostly occur", "label":"no-unit"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Sociologist Robert Castel describes the situation of young people in these deprived areas as follows:\"These young people are not completely [living] outside of society, however, they are not inside it either, for they do not enjoy any recognised space/role [...] Their situation is pretty paradoxical: they are citizens, who live on French territory, and yet they undergo differential and discriminatory treatment that disqualifies them. The republic, in contradiction with its own principles, seems incapable of integrating these young French people who live like the indigenous minority of the nation.\"", "label":"testimony"}
+  ],
+  [
+    {"number":37, "text":"This, combined with a conflicting social context that is constantly fuelled by debates over identity, religion and behavioural issues (such as the debate on national identity, the veil, halal food in schools, Islam and French secularism) further stigmatise this community and place it in a permanent state of confrontation with the rest of society", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"This vicious cycle prevents any change in the dynamics of this relationship into a cooperative one that could help find solutions in order to improve their socioeconomical status", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Not to mention the mainstream media discourse permanently framing those zones and communities as an ailment to the society", "label":"no-unit"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Young people are depicted in a caricaturist form, making it all the more difficult for them to socially and professionally integrate", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"which deepens their sense of marginalisation", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Such dynamics only complicate the relationship with the government, often seen as an opponent and sometimes as an enemy", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"This is the gap where religious indoctrination factors sneaks in - often occurring in prison environments", "label":"assumption"},
+    {"number":50, "text":"where ethnic groups are predominantly from these areas", "label":"anecdote"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"where 18- to 30 -year-olds represent 35 percent of the incarcerated population", "label":"statistics"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Are these good enough reasons to explain the motives behind committing such a terrorist act?", "label":"assumption"},
+    {"number":55, "text":"Of course not", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"But the conditions described above constitute the factors that facilitate and accelerate the ideological and religious indoctrination process", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Especially when protagonists have the financial resources(this is often the case) to attract the most fragile, the most helpless and the most excluded in order to step forward and enrol in extremist activities", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"the international context helps", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"With such a grim reality, the question going forward would be if purely security measures are sufficient to challenge the terrorism that threatens France", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"We expected to find an answer to this question in Prime Minister Manuel Valls's speech at the National Assembly in which he outlined \"exceptional\" measures to be taken", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"\"France is at war against terrorism and against radical Islam,\" he said", "label":"testimony"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"\"Exceptional measures will be taken to challenge terrorism.\"", "label":"testimony"}
+  ],
+  [
+    {"number":70, "text":"Valls mentioned exclusively security measures, such as reinforcing supervision within the prisons where Islamist prisoners are concentrated; establishing inter-European border controls; strengthening international intelligence cooperation", "label":"anecdote"},
+    {"number":71, "text":"...", "label":"no-unit"},
+    {"number":72, "text":"however", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" there was no mention of a possible revision of the government's social policies to address the problems in the marginalised zones; no announcement of a reflection on a possible serious debate to propose a new approach to address all the socioeconomic ills affecting them", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"The security measures announced by the prime minister are necessary, but not sufficient to contain terrorism", "label":"assumption"},
+    {"number":77, "text":";", "label":"no-unit"},
+    {"number":78, "text":"the roots of extremism, where the first frustrations are formed, remain untouched", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"That is not to say that the French government should be solely held responsible for the situation which France is facing today", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Nevertheless", "label":"no-unit"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":" failing to take into account the catastrophic socioeconomic factor would be tantamount to promoting the very context that contributes to the development of fundamentalist ideologies", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"The government urgently needs to review its social and economic policies towards these disadvantaged areas", "label":"assumption"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":"developing real socioeconomic infrastructure, strengthening solidarity, emphasising the fight against discrimination in employment and housing, strengthening anti-racist laws and promoting a fairer media discourse towards these populations in order to improve their lot in life", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"This will undoubtedly contribute towards sterilising any niches where extremist ideology can take root", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ]
+]}

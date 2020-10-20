@@ -1,0 +1,106 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Pope Francis' Vatican just gave Democrats a big boost for 2016.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A bombshell Vatican report released Monday that gives a green light to the social activism of left-wing U.S  nuns is the latest example of how the more liberal papacy of Pope Francis could affect the outcome of the 2016 US elections", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"The report forms the conclusion of an investigation, known as an \"Apostolic Visitation,\" into the practices and beliefs of sisters across the U.S that was launched in 2008 under the papacy of Pope Benedict XVI amid long-standing concerns that many orders had lost their way", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Although there are a significant number of vibrant orthodox orders, such as the pro-life Sisters of Life, the Dominican Sisters of St  Cecilia and the Little Sisters of the Poor", "label":"assumption"},
+    {"number":7, "text":"(who are currently fighting the ObamaCare contraception mandate)", "label":"assumption"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"a much larger number of orders have rejected Catholic doctrines on the divinity of Christ, on sacramental theology and on moral issues such as abortion, contraception and gay marriage", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Instead they substituted in alternative, non-Christian forms of spirituality that rejected fundamental Catholic truths, accompanied by a turn toward aggressively partisan left-wing social activism", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"What was being investigated was on show in 2012, with a group of left-wing nuns forming a slick national campaign called the \"Nuns on the Bus,\" campaigning against the proposed Ryan budget plan", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Last year their tour topic was another Democrat favorite -- amnesty for illegal immigrants", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"Heading up the travelling sisters is Sr. Simone Campbell -- a lawyer and lobbyist", "label":"anecdote"},
+    {"number":18, "text":"who also led the nuns who defied the US bishops' condemnation of ObamaCare, signed a letter supporting the law and attended the signing ceremony at which she received a hug from President Obama", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"At that time, the power of the \"Nuns on the Bus\" was limited by their designation as rebels", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"With a Vatican investigation under way, it made it difficult for the nuns to claim to be the authentic moral voice of Catholicism", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"However", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":" since then, Pope Francis has taken over and brought with him a certain interpretation of Catholic social teaching which adheres a lot closer to the tenets of the Democratic Party than more universally acknowledged truths pushed by Popes Benedict XVI and John Paul II", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"The results of the probe will no doubt invite speculation that Pope Francis has had heavy influence over the findings of the report", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"which can comfortably be described as a whitewash", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"The report mentions nothing of the \"secularist mentality\" and radical feminism that had been given as the reason for the launch of the investigation", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"and", "label":"no-unit"},
+    {"number":35, "text":"is mostly a document of praise which offers little-to-no criticism, no disciplinary action and says the nuns' work resonates with Pope Francis' emphasis on social justice", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"The report even manages to take a swipe at the U.S  economy", "label":"assumption"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"praising the nuns for working in an economy that too often \"creates inequity and exclusion.\"", "label":"testimony"},
+    {"number":40, "text":"It is better than anything the liberal nuns could have hoped for", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"The liberal orders aren't out of the woods yet", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"A separate investigation by the Vatican's Congregation for the Doctrine of the Faith into the Leadership Conference of Women Religious (LCWR) -- a coalition of predominantly left-wing orders -- is not complete", "label":"anecdote"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"and", "label":"no-unit"},
+    {"number":47, "text":"the doctrinal watchdog is likely to find something in a group that prides itself in rebelling against Church teaching", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"However", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" Monday's report gives left-wing nuns, and the Democratic Party a big boost for 2016", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"The Catholic vote has been decisive in modern U.S  politics", "label":"assumption"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"and", "label":"no-unit"},
+    {"number":56, "text":"Catholic Democrats have often hyped their faith around election time", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Joe Biden in particular has stood up as the advocate for liberal nuns, recently attending a \"Nuns on the Bus\" rally and in the past reportedly telling Pope Benedict XVI that he was being too hard on them and that he should \"lighten up.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":59, "text":"With a recent Vatican synod appearing to undermine Church teaching on controversial issues", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"the new report is another blow to more traditional Catholics", "label":"assumption"},
+    {"number":62, "text":"who, when the radical nuns are talking, have always been able to point out their status as rebels and dissenters ignoring Church teaching", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Unless", "label":"no-unit"},
+    {"number":65, "text":"the CDF does a dramatic about-face with its report", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"the Democrats' favorite nuns will now claim to have Vatican approval", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"With a green light from Rome, expect left-wing nuns and the Democrat Party to be emboldened in their push to present the nuns -- and the Democrats -- as the authentic voice of Catholicism, putting the Democrats in a better position to retain and expand upon the often-decisive Catholic vote in 2016", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ]
+]}

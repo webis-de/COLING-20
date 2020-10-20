@@ -1,0 +1,167 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"'Selma' sets off new fight over Martin Luther King's contested legacy.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Dr  Martin Luther King Jr  died young -- at age 39 -- and ever since his assassination in 1968 there has been a contest over his legacy", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"I've met black radicals who sneer at the national holiday celebrating his birth", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"They see the King holiday as white America's preference for celebrating a moderate, non-violent black leader instead of a militant, violent young Malcolm X.", "label":"assumption"}
+  ],
+  [
+    {"number":7, "text":"On the other side are critics who see the King holiday as political correctness taken to new heights", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"King was not a president, like Washington and Lincoln", "label":"common-ground"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"so", "label":"no-unit"},
+    {"number":12, "text":"they ask why he is deserving of a national holiday", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Blinded by racial bitterness, they suggest President Reagan signed the King holiday into law in 1983 as a token political gesture", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Now a very good, emotionally powerful new movie -- \"Selma\" -- about Dr  King's historic role in the struggle for voting rights has set off a new fight over his legacy", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"This dramatic film by director, Ava DuVernay, will be remembered less as a record of Dr  King's greatness and more as a sign of the racial power struggles of the early 21st century", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"I know the real civil rights story", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"I've written two best-selling histories of the period", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"The greatest social movement of the last century belongs to all Americans", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"But some people prefer to play racial games", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"This movie fits in with the racially divisive discussion about who owns the history of the civil rights movement", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"It fits with polarizing racial figures like Jesse Jackson and Al Sharpton", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"They regularly exploit the history of the civil rights movement for their own personal gain ", "label":"assumption"},
+    {"number":33, "text":"--", "label":"no-unit"},
+    {"number":34, "text":"hosting television shows and getting money from corporations", "label":"assumption"},
+    {"number":35, "text":"--", "label":"no-unit"},
+    {"number":36, "text":"while not doing the hard work of addressing high rates of black crime, school dropouts and family breakdown", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"It is also fits with many white politicians", "label":"assumption"},
+    {"number":39, "text":"who blame the poor for every problem and find it easy to push minority voters out of their districts while ignoring the nation's history of denying black people the right to vote", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Now a version of the same race hustle is on display in Hollywood", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"To celebrate King as a hero, the director, who is black decided to make President Lyndon Johnson into a white villain", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"In one scene Johnson erupts in anger at Dr  King, telling the civil rights leader,\"You've got one big issue, I've got one hundred and one.\"", "label":"anecdote"},
+    {"number":46, "text":"People who were in the room, black and white aides to the president and Dr  King, say no such confrontation ever happened", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"The movie also has Johnson approving of FBI Director J  Edgar Hoover's scheme to send Dr  King's wife an audio recording of her husband having sex with another woman", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The historical record is clear", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Yes, the tape is real", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"No, Johnson had nothing to do it", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"And the tape had nothing to do with events in Selma", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"All of that is what Bill Moyers called\"the worst kind of creative license suggesting the very opposite of the truth.\"", "label":"testimony"}
+  ],
+  [
+    {"number":59, "text":"And", "label":"no-unit"},
+    {"number":60, "text":"when", "label":"no-unit"},
+    {"number":61, "text":"the director, DuVernay, was called on the distortion, she said people who care about history are the problem", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"She argued that crediting Johnson with supporting the Selma march was \"jaw-dropping and offensive\" and amounted to ignoring \"black citizens who made it so.\"", "label":"testimony"},
+    {"number":64, "text":"To her, the fact that Johnson explicitly endorsed the idea of taking the movement to Selma in a recorded phone call to Dr  King is just a nuisance", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"White directors have similarly distorted civil rights history", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"The 1988 film \"Mississippi Burning\" featured two heroes, both white and both FBI agents", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"That was an incredible distortion of a story about the bravery of civil rights workers who dared to go south to stand with beleaguered black heroes against racial oppression", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"In truth, the FBI was often in league with local police departments in covering up racially motivated murder", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"In 1988 that distortion was rationalized as a smart box office decision to offer white heroes to white audiences", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Now that a black director has a chance to make Hollywood's first big movie about Dr  King, she sees it as time for payback and her own brand of distortion", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Race retains a powerful grip on American guilt, fear, lust and anger", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"That's why controlling the narrative is so important", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"And the key to the narrative is in the facts of slavery, legal segregation and the fight for equal rights", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"That is why facts about Dr  King are subject to a constant power struggle", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"DuVernay is saying she will tell her story as a black story for black audiences with a black hero", "label":"assumption"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":"and", "label":"no-unit"},
+    {"number":89, "text":"she will twist facts as she pleases", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Mark Twain said:\"Get your facts first, then you can distort them as much as you please.\"", "label":"testimony"}
+  ],
+  [
+    {"number":92, "text":"The facts are that mostly white students went south for Freedom Summer", "label":"assumption"},
+    {"number":93, "text":";", "label":"no-unit"},
+    {"number":94, "text":"white ministers and rabbis took great risks and even died for the cause", "label":"assumption"},
+    {"number":95, "text":";", "label":"no-unit"},
+    {"number":96, "text":"white government officials like John Doar and Nicholas Katzenbach put themselves between racist mobs and black people", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"None of this diminishes the contributions of black people", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"The truth is that President Johnson worked to make the movement a success", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"The president famously brought tears to Dr  King's eyes in 1965 when he told a joint session of Congress and a television audience of 70 million that every American should stand up for equal voting rights", "label":"anecdote"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"\"Their cause must be our cause, too,\" the president said", "label":"testimony"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"\"Because it's not just Negroes, but it's really all of us who must overcome the crippling legacy of bigotry and injustice.\"", "label":"testimony"}
+  ],
+  [
+    {"number":107, "text":"And then", "label":"no-unit"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":"in a rhetorical crescendo, the president said:\"And we shall overcome.\"", "label":"testimony"},
+    {"number":110, "text":"He used a phrase that told the nation he was on the side of civil rights for black people", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"As the author of a history of the civil rights movement, \"Eyes on the Prize -- America's Civil Rights Years,\" I've done enough research to know that any fair account of the great social movement has to acknowledge Lyndon Baines Johnson as a civil rights hero", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"And Dr  King doesn't need to have anyone put down so he can look heroic", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"He really is a hero", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"That's a fact", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ]
+]}

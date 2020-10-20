@@ -1,0 +1,107 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Jim Murphy's mansion-tax boast is a cynical attempt to buy Scottish votes.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"We have now embarked on the longest general election campaign in the history of Britain", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Even political obsessives quail at the thought", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"So I plead guilty to bringing a little genuine political debate into the process so early on in the process", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The issue is the new Scottish Labour leader, Jim Murphy, and his vainglorious boast that he is going to use mansion tax money from London and the south-east to pay for 1,000 new nurses in Scotland", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Let me stress that I support the mansion tax in principle", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"It is a redistributive tax", "label":"assumption"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"which is important", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"and", "label":"no-unit"},
+    {"number":17, "text":"taxes on assets are always worth considering", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"The complication is that it is, in effect, a tax on London, 80% of which will be paid by people in London and the south -east", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"And the distorted nature of London's housing market could mean a tax with wildly distorted effects", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"No one really knows how much it will raise", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"It seems likely that the people everyone agrees should pay it- the international super-wealthy - will use their expensive lawyers and accountants to evade it", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"But it will hit older Londoners, often public sector workers who bought houses in what were then unfashionable parts of London", "label":"assumption"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"as in my constituency, Hackney North and Stoke Newington", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Now they are living in houses worth ? 1m and rising", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"They are often asset rich but cash poor", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Having seen London house prices spiral in value", "label":"assumption"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"they are not reassured by the idea that the mansion tax kicks in only at? 2m", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"At the very least, a lot of work needs to be put in to reassure those voters, and to fashion a tax that will not hit those people unfairly", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Fortunately the shadow chancellor, Ed Balls, has an open mind on the subject", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"That is why it is surprising that Murphy has jumped in feet first, boasting about how he will spend money from a tax", "label":"assumption"},
+    {"number":44, "text":"when", "label":"no-unit"},
+    {"number":45, "text":"there is no agreement on exactly how it will be levied", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"I am a unionist", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"and", "label":"no-unit"},
+    {"number":50, "text":"I understand that the Labour party has a big electoral challenge in Scotland", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"But I cannot believe that Scottish voters will be taken in by a crude attempt to buy their votes with money expropriated from London", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"If", "label":"no-unit"},
+    {"number":55, "text":"Murphy is really interested in redistributing wealth", "label":"assumption"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"why isn't he talking about council tax revaluation or levels of income tax in Scotland?", "label":"assumption"},
+    {"number":58, "text":"Instead he seeks cheap applause by telling the Scots how he will extract money from England", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Recently there has been a series of reports, including from the London Finance Commission and the Royal Society of Arts City Growth Commission, calling for the devolution of powers to our great cities", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"In particular", "label":"no-unit"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":" experts are saying that big cities should be allowed to keep their property taxes", "label":"testimony"},
+    {"number":65, "text":"-", "label":"no-unit"},
+    {"number":66, "text":"I believe that this process should start with the mansion tax", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Devolution cannot be for Scotland alone", "label":"assumption"},
+    {"number":69, "text":";", "label":"no-unit"},
+    {"number":70, "text":"there should also be devolution of powers to the cities and regions", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Murphy cannot bully the rest of the UK about a considered devolution of fiscal powers to all our cities with a pre-emptive strike on the mansion tax", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"It is too easy to conflate London with bankers and the international glitterati", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"But London is more unequal than any other part of Britain", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Child poverty is a third higher in London than the rest of England as a whole", "label":"statistics"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"So, general election campaign or not, we need a proper debate on devolution of powers to our great cities", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"It is part of the battle against the poverty that still exists in the shadow of the glittering towers of the City of London", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"And some people need to be prepared to stand up for London in this important debate", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ]
+]}

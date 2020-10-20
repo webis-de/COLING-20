@@ -1,0 +1,127 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"A defining moment for the French right.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"France lost five of its most prominent political cartoonists yesterday", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"For decades, they had mocked the powerful, the sacred, the dictators, and all those who believed themselves above criticism", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"These cartoonists felt there was no better way to fight fundamentalism than through derision and laughter", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The late Charb, Charlie Hebdo's editor-in-chief, was killed, evoking the words of Spanish republican icon Dolores Ibarruri, who was known to boast:\"I'd rather die standing than live kneeling.\"", "label":"assumption"}
+  ],
+  [
+    {"number":9, "text":"It is this very impertinence, this freedom to rebel against ideologies, structures and hierarchies through art and literature, that has been targeted", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"France is known for its triad \"liberty, equality, brotherhood\" engraved at the helm of every school, on all official buildings", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"This motto attributed to French theologian and writer Francois Fenelon at the end of the 17th century was popularised during the French Revolution", "label":"anecdote"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"when", "label":"no-unit"},
+    {"number":16, "text":"popular unrest toppled religious and authoritative powers", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"This philosophy was central to Charlie Hebdo's editorial line and promoted by Charb, known for his firm leftist stands, and for advocating for more justice and wealth redistribution", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Yet", "label":"no-unit"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":" the likely beneficiaries of this heinous act will be the very opponents of this libertarian and humanist stance", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"A few hours after the events, extreme right leader Marine Le Pen immediately seized the opportunity to unleash her short-sighted Islamophobic attacks", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"While spontaneous gatherings and demonstrations took place across the country to show the country's grief and support for the victims", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"Le Pen dissuaded her supporters from participating", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"She later set conditions for taking part in the Republican march organised for next Sunday", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"This political move is unsurprising from Le Pen", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Her political platform is built upon her populist claims of the threats stemming from Islam and more generally, from immigrants", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"She built her political success on the rise of communitarianism and the growing rifts and dissent in French society", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"A solidarity march gathering all religions and all sectors of the population in favour of freedom of the press does not play to her political hand", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"While the French Muslim authorities have called on every mosque in the country to strongly condemn this act of terrorism and encourage participation in the march", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"Le Pen would rather continue her own crusade alone and capitalise on growing French fears", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"She would rather call for\"open war on Islam\" than demonstrate with the 99.99 percent of French Muslims who respect the Republican law", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Her traditional supporters, such as skinhead groups \"Riposte Laique\" and \"Bloc identitaire\", have called for a \"civil war in the country against Islamisation\"", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"But they have failed to mention that Ahmed Merabet, the brave policeman who tried to stop the terrorists and was shot dead in the street, was himself Muslim and defended French Republican values through a lifetime of service in the police force", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"While traditional parties call for national unity in a peaceful march", "label":"assumption"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":"Le Pen's supporters blow on the ashes of societal discontent", "label":"assumption"},
+    {"number":53, "text":",", "label":"no-unit"},
+    {"number":54, "text":"encouraging retaliation against this act of terrorism", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Mosques were reportedly shot at in Le Mans at midnight", "label":"anecdote"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"a kebab restaurant was bombed in Villefranche", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Barbary is answered by stupidity", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Ironically, Le Pen will likely benefit from the fears and shock after the attacks on Charlie Hebdo, a magazine that has been one of her strongest opponents", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Le Pen can hardly call for the protection of freedom of the press when her own party has regularly tried to limit it by selecting the newspapers and networks who could cover her meetings and ask her questions", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Two years ago, her own father vehemently criticised Charlie Hebdo", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"calling the publication a rag", "label":"assumption"},
+    {"number":69, "text":"after it ridiculed his political party", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Marine Le Pen herself then officially asked for the resignation of any journalist that would show Charlie Hebdo's cover on national TV", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Similarly", "label":"no-unit"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":" Nicolas Sarkozy is an awkward defender of Charlie Hebdo", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"First", "label":"no-unit"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":" his strategy to win back the presidency in 2017 is to stress on the inability of Francois Hollande to fill the shoes of president, constantly criticising his lack of authority and charisma", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"The current terrorist crisis is a defining moment for Hollande", "label":"assumption"},
+    {"number":82, "text":"who might now well prove his capacity to unite a grieving society", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"More importantly, Sarkozy can hardly support Charlie Hebdo and freedom of the press when he himself personally demanded the resignation of one of its cartoonists in 2008", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"At the time Sarkozy was furious that the magazine had published a cartoon mocking his son Jean Sarkozy", "label":"anecdote"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":"whose ambition dwarves the legendary one of his father", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Charlie Hebdo described Jean Sarkozy's marriage to a very wealthy Jewish heiress as an attempt to secure his future after failing to finish his university degree", "label":"testimony"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Nicolas Sarkozy managed to obtain the dismissal of the cartoonist Sine and put him on trial for anti-Semitism", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Ironically, his colleagues were not so fortunate yesterday when faced with fundamentalists claiming Charlie Hebdo was an enemy of the Muslim prophet", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ]
+]}

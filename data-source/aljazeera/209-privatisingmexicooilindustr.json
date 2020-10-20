@@ -1,0 +1,131 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Privatising Mexico's oil industry spells disaster.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Considering Mexico's history and the present political context, it's no surprise that the majority of the Mexican population nowadays is either deeply suspicious of President Pena Nieto or just opposed to the current fast-track drive to privatise oil and pass it into the hands of foreign oligopolies", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"At present, Mexico suffers from an extremely weak state", "label":"assumption"},
+    {"number":5, "text":"where the vast majority of crimes go unaddressed because of a judicial vacuum", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"More than 22,000 forced disappearances have occurred since 2007 and more than 70,000 people have been killed since 2006", "label":"statistics"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"Almost every week we hear about more mass graves discovered", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Most recently, a massacre of students in Iguala shook the nation", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Mexico also suffers from the third largest illicit economy in the world, according to the Global Financial Integrity Report", "label":"statistics"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Clearly, organised crime is openly challenging and fragmenting the state", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"In the face of these facts even President Nieto has admitted in public speeches that Mexico's legal system is in shambles", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"International experience and basic common sense indicate that a country must possess a minimum standard of the rule of law in order to be able to foster social benefits for most of its population when privatising state assets", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Without functional regulatory and judicial controls, it is technically and politically not feasible for any oil-funded social development fund to effectively spread wealth to future generations through new public education programmes, a modernised public health, adequate environmental standards and a much-improved physical infrastructure", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"Absolutely nothing today indicates that Mexico can implement privatisation of the oil infrastructure at even the most basic standards of security, transparency, effectiveness and efficiency", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Yet", "label":"no-unit"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":" a Mexican paradox occurs", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"While", "label":"no-unit"},
+    {"number":30, "text":"insecurity still runs at record highs", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"foreign money keeps pouring in", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"What's going on?", "label":"assumption"},
+    {"number":35, "text":"Since the beginning of the still unfinished democratic transition and since the economic opening to international trade of the early 1990s, Mexico managed to attract billions of dollars per year in foreign direct investment", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Yet", "label":"no-unit"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":" most of this money has been channelled into politically managed non-competitive sectors in the hands of Mexican \"state courtesans\" disguised as private entrepreneurs", "label":"assumption"},
+    {"number":40, "text":"who over the last 25 years created vast oligopolies out of the privatisation of state assets", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"The privatisation process in Mexico has largely been conducted through dubious procedures orchestrated by corrupt federal governments", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"All this happened in the midst of a Mexican economy lacking technological innovation with low productivity", "label":"assumption"},
+    {"number":45, "text":"and", "label":"no-unit"},
+    {"number":46, "text":"where more than half of what is produced and consumed is exchanged within informal/illicit markets", "label":"statistics"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Nevertheless", "label":"no-unit"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":" these so-called private oligopolies within the mining, banking and telecommunications industries operate in a crony capitalistic fashion by attracting foreign investors to politically protected markets in which governments (through bribes and subsidies) ensure rates of return two to five times above the international average", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"How can, for example, German or US oligopolies presently investing in Mexico fail to fall in love with such a \"generous\" corrupt system?", "label":"assumption"}
+  ],
+  [
+    {"number":53, "text":"The forthcoming Mexican oil privatisation falls comfortably within this \"legally corrupt\" economic framework", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Yet", "label":"no-unit"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":" harsh social realities have a way of trumping politics most of the time", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"Mexican writer and journalist Ana Lilia Perez published in 2012 a book titled\"The Black Cartel\"", "label":"anecdote"},
+    {"number":60, "text":"in which she provides a description of massive organised crime infiltration within the top managerial echelons of the state-run oil company, PEMEX", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The nature of the organised crime infiltration covers technical and political appointees at PEMEX", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Moreover", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":" with thorough documentation, Ms Perez provides a detailed account of how and where a large portion of the oil extracted and distributed by PEMEX is currently stolen through illegal operations", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"These have been linked to Mexican politicians and US and Mexican private companies selling illegal Mexican oil to the markets in Canada, Mexico and the US, with the complicity of the Mexican armed forces supposedly responsible for protecting the PEMEX infrastructure", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"The current illegal oil trafficking comes with high-level political corruption, intense armed conflict causing thousands of deaths per month and frequent acts of terrorism against the PEMEX infrastructure", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"One cannot expect this armed conflict scenario to just go away after privatisation", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"In this kind of context, any honest foreign investor bidding within a Mexican oil privatisation process should have his or her head checked or otherwise possess enough political clout within Mexico or the financial capacity to bribe with millions of dollars the government ladder and pay for a vast praetorian guard of security personnel to manage the armed chaos ahead", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"In comparison", "label":"no-unit"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"dealing with other oil producing countries with problematic states, such as Nigeria, would seem like a walk in the park", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Shareholders of oil companies can only expect low economic returns and chaos from investing in the Mexican oil sector", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"unless", "label":"no-unit"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"prior to any private investment drive, an international judicial cooperation effort starts dismantling the vast organised crime networks within the Mexican oil business and beyond", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"This international judicial cooperation must entail the actual implementation of a serious anti-corruption programme within the Mexican state with much broader conflict of interest and traffic of influence statutes, all monitored by reputable international civil society organisations", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"Furthermore", "label":"no-unit"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":" the failure of the Mexican state needs to be corrected with the installation of autonomous investigative units for economic crimes within each Mexican region and the creation of witness protection programmes for cases of political corruption linked to organised crime", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"These reforms will be good for Mexican society in general and also good for the pockets of Mexican and foreign oil investors", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ]
+]}

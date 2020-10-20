@@ -1,0 +1,207 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The trap of insecurity: Extrajudicial killings in Kenya.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Over the years, Kenyan police have acquired a dubious reputation of being a source of insecurity instead of one of security", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In many instances, the police represent clear, palpable and imminent danger to the lives of Kenyan citizens", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"The transformation of the police from a security institution into a bastion of insecurity didn't occur overnight", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"nor did it come as a surprise", "label":"assumption"},
+    {"number":9, "text":";", "label":"no-unit"},
+    {"number":10, "text":"it was the inevitable outcome of a number of factors", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Some of these factors are beyond their control", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"For instance", "label":"no-unit"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":" policemen are underpaid and ill-equipped to do their job", "label":"assumption"},
+    {"number":17, "text":";", "label":"no-unit"},
+    {"number":18, "text":"others seem to be an institutional choice, such as the endemic corruption within the police force", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Under the previous constitution, the police were at the beck and call of the executive", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"which used it as a tool of coercion to further its political goals", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"As a result", "label":"no-unit"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"when confronted by a new security situation, the executive's default response has been to set up a \"special\" police unit to address the situation", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"In most cases, t he unit would operate under minimum oversight and maximum impunity", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"More than any other institution in the country, the police has deep institutional problems", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"but", "label":"no-unit"},
+    {"number":33, "text":"one of the most detrimental ones is its involvement in extrajudicial killings.", "label":"assumption"},
+    {"number":34, "text":"Remarkably, this is not only a new phenomenon", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"but", "label":"no-unit"},
+    {"number":37, "text":"it is deeply entrenched with a clear pattern", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"In the 1990s, crime was on the rise in Kenya", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In order to stem the high rates of carjacking and violent robberies, in 1995 the government formed a new police unit called the Flying Squad.", "label":"anecdote"},
+    {"number":42, "text":"This special unit was given the express authority to shoot any suspect on sight without due process", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"As a result, the unit was implicated in multiple and egregious extrajudicial killings", "label":"assumption"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"which they claimed was their way of dealing with the new security reality", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"In some cases, the police officers were caught shooting suspects after they had surrendered or were lying face down", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"The unit executed several innocent people in cold blood", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"The police command instead of seeing the unit's trigger-happy attitude as dangerous, celebrated it as the only \"medicine\" with which to treat spiralling crime", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"The late 1980s and 1990s saw deep economic problems, shrinking political space for dissent and increasing insecurity", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"This was the time when criminal gangs emerged and flourished", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"These gangs e stablished their \"spheres of influence\"", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"mostly in slum areas, where the state's presence was negligible", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"To establish loyalty from the community and enhance their legitimacy, these groups provided security for a token fee", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"To exert their superiority, from time to time, these groups engaged each other over \"territories\" and business interests", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Among these groups were the Mungiki, the Taliban, the Kosovo boys, the Baghdad boys, Chinkororo, and the Kalenjin Warriors", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Mungiki is a Kikuyu word for multitude", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The organisation had both a cultural and political element to it", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"In the beginning of the group's existence, the social aspect was more prominent", "label":"assumption"},
+    {"number":73, "text":"and", "label":"no-unit"},
+    {"number":74, "text":"it involved traditional Kikuyu beliefs in the god named Ngai.", "label":"anecdote"},
+    {"number":75, "text":"But", "label":"no-unit"},
+    {"number":76, "text":"as the organisation expanded, it began taking an overtly political posture", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"which brought them into confrontation with the state", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Mungiki operated primarily in the Nairobi slums, in the Central Province and parts of the Rift Valley", "label":"anecdote"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"In these areas, the group started providing the poor in slum areas with protection and social services for a fee", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Refusal to pay the protection \" tax \" almost always resulted in violence and killings", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"In 2002, the Kenyan government banned 18 of these criminal gangs", "label":"anecdote"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"The spread of Mungiki's influence forced the government in 2007 to establish a special police unit called Kwekwe", "label":"anecdote"},
+    {"number":89, "text":"which was tasked primarily with hunting down members of Mungiki", "label":"anecdote"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"But Kwekwe's operation against the criminal group went too far", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"According to a National Commission on Human Rights 2008 report:\"Extrajudicial executions and other brutal acts of extreme cruelty have been perpetrated by the police against so-called Mungiki adherents and that these acts may have been committed pursuant to official policy sanctioned by the political leadership, the police commissioner and top police commander\"", "label":"testimony"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"HRW observed in 2008 that,\"The brutality of the police crackdown matched or even exceeded that of the Mungiki itself.\"", "label":"testimony"}
+  ],
+  [
+    {"number":96, "text":"Kenya has been in the crosshairs of the transnational jihadi movement", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"In the past, the fact that Kenya was seen as being firmly in the western sphere of influence made Kenya a target , with most of the incidents, including the 1998 US embassy attack, targeting western interests", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"However", "label":"no-unit"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":" after Kenya's intervention in Somalia in 2011, the country itself become a target", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"Terrorism activity in Kenya reached a peak with the attack on the Westgate shopping mall in September 2013", "label":"anecdote"},
+    {"number":105, "text":",", "label":"no-unit"},
+    {"number":106, "text":"when", "label":"no-unit"},
+    {"number":107, "text":"unidentified gunmen killed 67 people and injured almost 200 others", "label":"anecdote"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":109, "text":"As a response to the growing terrorism threat, the Kenyan government created the Anti-Terrorism Police Unit (ATPU) in March 2003, following the 2002 attack on an Israeli-owned Mombasa hotel", "label":"anecdote"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"This was also accompanied by the passage of Anti-Terrorism Act in 2012", "label":"anecdote"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"As part of the wider counterterrorism effort, the government also began a huge crackdo wn on the Somali and Muslim communities especially in Nairobi, parts of Northern Kenya and coastal Kenya", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":115, "text":"As", "label":"no-unit"},
+    {"number":116, "text":"the crackdown intensified, a number of extrajudicial killings of Muslim preachers took place, some in the coastal city of Mombasa", "label":"anecdote"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"Most of the victims were suspected of having connections with Somalia's al-Shabab group", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"While", "label":"no-unit"},
+    {"number":121, "text":"in almost all the cases the police deny culpability", "label":"assumption"},
+    {"number":122, "text":",", "label":"no-unit"},
+    {"number":123, "text":"research by human rights organisations reveals the ATPU's involvement", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"In its August 2014 report,\"Kenya: Killings, disappearance by anti-terror police,\" HRW points to\" ...evidence of at least 10 cases of extrajudicial killings of terrorism suspects, some of whom were last seen in ATPU custody or had been threatened by the unit's officers after courts had released them\"", "label":"testimony"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":127, "text":"The Kenyan government has accused some of the clerics who were killed of recruiting Muslim youth for terrorism activities through their mosques", "label":"testimony"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"However", "label":"no-unit"},
+    {"number":130, "text":",", "label":"no-unit"},
+    {"number":131, "text":" despite initiating investigations against them, the government never followed through to prosecute the imams", "label":"anecdote"},
+    {"number":132, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":133, "text":"After public outcry over the killing of Muslim cleric Ibrahim \"Rogo\" Omar, the government set up a task force to investigate his murder", "label":"anecdote"},
+    {"number":134, "text":".", "label":"no-unit"},
+    {"number":135, "text":"The director of public prosecution promised in 2013 that he will institute an inquest, but has not done so yet", "label":"anecdote"},
+    {"number":136, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":137, "text":"One of the commissions established following the 2007-2008 violence to look at the role of the police, was the Waki Commission", "label":"anecdote"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"Established to look into the circumstances and facts surrounding the violence and provide recommendations, the Waki Commission found that of the 1,500 deaths, the police was responsible for more than 30 percent of them", "label":"testimony"},
+    {"number":140, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":141, "text":"As a result several reform measures were proposed including the establishment of a civilian oversight of the police, and many other reforms", "label":"assumption"},
+    {"number":142, "text":".", "label":"no-unit"},
+    {"number":143, "text":"However", "label":"no-unit"},
+    {"number":144, "text":",", "label":"no-unit"},
+    {"number":145, "text":" due to lack of political will, the police reforms have stalled", "label":"assumption"},
+    {"number":146, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":147, "text":"The extrajudicial killings by the police in Kenya are anchored in a systemic lack of accountability and deeply entrenched culture of pervasive impunity", "label":"assumption"},
+    {"number":148, "text":".", "label":"no-unit"},
+    {"number":149, "text":"While", "label":"no-unit"},
+    {"number":150, "text":"the police undoubtedly face ever changing security challenges", "label":"assumption"},
+    {"number":151, "text":",", "label":"no-unit"},
+    {"number":152, "text":"its involvement in extrajudicial killings make matters worse", "label":"assumption"},
+    {"number":153, "text":".", "label":"no-unit"},
+    {"number":154, "text":"Effective security sector reform is the only way forward", "label":"assumption"},
+    {"number":155, "text":".", "label":"no-unit"}
+  ]
+]}

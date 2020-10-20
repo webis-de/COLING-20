@@ -1,0 +1,115 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"'Unbroken': Where's the rest of Louis Zamperini's story?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"I wanted to like the movie because I love the book", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Laura Hillenbrand's bestseller, \"Unbroken,\" is a classic", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"While", "label":"no-unit"},
+    {"number":7, "text":"I had heard reports that the turning point in the book never made it to film", "label":"anecdote"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"I attended a pre-release screening with an open mind", "label":"anecdote"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Audiences are told\"Unbroken\" is a \"true story.\"", "label":"assumption"},
+    {"number":12, "text":"It is true, as far as it goes", "label":"assumption"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"but", "label":"no-unit"},
+    {"number":15, "text":"the story is incomplete", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"There have been many World War II stories told in film depicting triumphs of personal courage and survival", "label":"common-ground"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"The story of Louis Zamperini is one such story, but with an added dimension", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Zamperini, who died earlier this year at age 97, came home an angry man", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"He became addicted to alcohol and cigarettes and verbally abused his young wife as he wrestled with his inner demons", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The skeleton of his story is in the film -- the plane crash at sea while on a rescue mission; the 47 days floating on a raft before being picked up by a Japanese ship and thrown into a prison camp; the relentless torture and eventual liberation at the end of the war", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"After returning to Los Angeles we see Zamperini hugging his brother and parents", "label":"anecdote"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"but", "label":"no-unit"},
+    {"number":30, "text":"the story ends there", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Director Angelina Jolie attempts to put some flesh on the bones at the end of the film with some still shots and words that tell us that Zamperini's faith led him to return to Japan on a personal mission of reconciliation", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"In media appearances, Jolie has refused to discuss why the most remarkable part of Zamperini's story was excluded from the film", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"That would be the night he was converted at the 1949 Billy Graham crusade in Los Angeles", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"As Hillenbrand tells it in her book, Louis came home, poured his alcohol down the drain, threw out his cigarettes, was reconciled to his wife and became a new man because, he said, he had asked Jesus Christ to be his savior", "label":"testimony"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"As", "label":"no-unit"},
+    {"number":41, "text":"stories about faith have made a recent comeback on TV and in movies", "label":"assumption"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"attracting high ratings and large ticket sales at the box office", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"it is puzzling why Jolie, who directed the film, and the Coen brothers, who wrote it, left out the most important part of Zamperini's story", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Once word gets around that Zamperini's conversion, which was so faithfully and beautifully chronicled in Hillenbrand's book, is not in the film, I suspect many who share Louis' faith will not buy tickets", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Apologists for Universal Pictures say people can always read the rest of the story in the book", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Yes, they can, but then why should they see a film that highlights only half a life?", "label":"assumption"}
+  ],
+  [
+    {"number":52, "text":"Just before he died, Jolie showed Zamperini a rough cut of the film", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"He professed to like it and said it doesn't force religion down people\\'s throats", "label":"testimony"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"That's a cliche", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"which doesn't really fit in this instance", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Nothing is \"forced\" when it is true", "label":"common-ground"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The film, \"Selma,\" which is scheduled for release on January 9, would be incomplete if it failed to depict Martin Luther King Jr  as a minister whose faith motivated him to be a modern-day Moses", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Fortunately, in addition to Hillenbrand's book, people can read Louis\\' story in his own words", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"His book is titled,\"Don't Give Up, Don't Give In: Lessons from an Extraordinary Life.\"", "label":"anecdote"},
+    {"number":67, "text":"The One who preserved his life to the end is more powerful than his Japanese prison camp abuser", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"In the film \"Kings Row,\" Ronald Reagan awakens to learn that a botched operation has resulted in the amputation of his legs", "label":"anecdote"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"\"Where's the rest of me?\" he asks", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Where' s the rest of Zamperini's story is the question I had after seeing \"Unbroken.\"", "label":"anecdote"}
+  ]
+]}

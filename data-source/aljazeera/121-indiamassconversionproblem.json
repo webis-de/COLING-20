@@ -1,0 +1,147 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"India's mass conversion problem.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"\"Homecoming\" in the Christmas season is supposed to be a joyous occasion, accompanied by camaraderie and cheer", "label":"common-ground"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Not so for the small community of Christians in Agra, a town in the northern Indian province of Uttar Pradesh", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"On Christmas Eve, the flock of believers were cowering in fear", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"because a couple of churches were burnt", "label":"anecdote"},
+    {"number":9, "text":"and", "label":"no-unit"},
+    {"number":10, "text":"there was the looming threat of more skirmishes with the belligerent among their Hindu brethren spiralling into serious communal clashes", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"More portentous was the grand ghar wapsi (homecoming, or mass-reconversion) programme announced by the Dharam Jagran Samiti (loosely translated into Hindi-Religious Awakening Front) in the neighbouring town of Aligarh", "label":"assumption"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"where Christmas was to be \"celebrated\" by bringing 4,000 Christians and 1,000 Muslims back into the folds of Hinduism", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"This Samiti, a not-so-small wing of the Vishwa Hindu Parishad, a militant Hindu organisation, contended that far from propagating religious intolerance, it was only righting historical wrongs and injustice perpetrated by Christian missionaries and Muslim clerics who, in order to bolster the numbers of their respective faiths, had lured and coerced Hindus to stray from their original religion", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Attack on secularism", "label":"no-unit"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"When", "label":"no-unit"},
+    {"number":21, "text":"these turn of events created a furore in parliament", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"the Narendra Modi- led central government instructed the local administration to thwart the Samiti's grandiose plans, and", "label":"no-unit"},
+    {"number":24, "text":"Christmas day went peacefully", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"But", "label":"no-unit"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":" the solution - a national legislation to ban and criminalise conversions - assertively advocated by the Bharatiya Janata Party (BJP), which commands an absolute majority in parliament, and despite repeated disavowals, remains rooted in essentially a chauvinistic, right-wing Hindu ideology, is far more disconcerting,", "label":"no-unit"},
+    {"number":29, "text":"and", "label":"no-unit"},
+    {"number":30, "text":"if", "label":"no-unit"},
+    {"number":31, "text":"implemented", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"would deal a grievous blow to the constitutional ideal of secularism", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"It would be downright specious, even dishonest, to claim that missionaries and proselytisers' activities in India had nothing but a salubrious effect", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Historical records bear ample testimony to the rigorous implementation of St Caprion's axiom - \"extra ecclessium nulla salus\" (outside the Church, no salvation), even by the proverbial fire and sword, especially by explorer-cum- conquistadors like Vasco da Gama, the tales of whose brutalities in enforcing a harvest of faith in the erstwhile Portuguese-controlled state of Goa are legion", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Active proselytisation was an integral part of the colonial project", "label":"assumption"},
+    {"number":40, "text":";", "label":"no-unit"},
+    {"number":41, "text":"indeed", "label":"no-unit"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"as historian Ranajit Guha states,\"the Bible and the toothbrush were one of the main instruments of the British colonialists\"", "label":"testimony"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"This reveals that the missionaries did bring \"material\" gifts to the native population - especially western medicine and hygiene", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"But these benefits aside, there was another more substantive reason why many Indians, especially the Dalits (Untouchables) and tribals embraced Christianity, and even Islam", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Both these religions liberate them, or at least hold out the promise of unshackling them from the pernicious burden of the caste-system", "label":"assumption"},
+    {"number":50, "text":"which is so deeply entrenched in Hinduism", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Though ostensibly secular in objective, the anti-conversion laws in force in various states of India - Odisha, Madhya Pradesh, Gujarat, Himachal Pradesh, Chhattisgarh (all areas with a significantly high population of tribals, Dalits, the depressed castes, and reeling from poverty, illiteracy and abysmal healthcare) in effect gives the government a vast swathe of control over people's choices in matters of faith and religion", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Going way beyond", "label":"no-unit"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"they endow the government with surveillance powers over a constituency of people", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Starting from the premise that the freedom of religion and religious chose of \"those who are converted\"(note; the laws never say \"those who convert\") need to be protected from incursions of proselytisers - the various anti-conversion legislations, ironically termed as \"freedom of religion\" laws - make it mandatory for the convertees to inform the head of the district administration", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"They will then give the go-ahead only once he is satisfied that one is not swapping religions for monetary benefits or other inducements, or by being taken in by fraud, or being swayed by either promises of salvation or threats of incurring divine displeasure, as the case may be", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The laws of Gujarat, Madhya Pradesh and Himachal Pradesh make it incumbent upon neighbours or villagers to inform the administration and the police of any activities of pastors, nuns and clergymen which could give rise to a suspicion of proselytising motives", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Without defining what all would, and could, possibly count as \"inducement\" or \"fraud\", these laws impose stringent criminal sanctions on violators", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Anyone found guilty is visited with imprisonment extending to three years, and with a financial penalty of 50,000 rupees (approximately $800)", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Tellingly, the punishment is doubled if those who convert are women, or members of the lower castes and tribal communities", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"These laws are invoked and enforced only when a group of people, not individuals, seek to move out of Hinduism", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"One might well question - in face of such provisions, do the laws even need to use the modifiers \"forcible\" or \"fraudulent\"?", "label":"assumption"}
+  ],
+  [
+    {"number":73, "text":"Also", "label":"no-unit"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":" not a single legislation even addresses, let alone punish, \"reconversion\"", "label":"assumption"},
+    {"number":76, "text":"which the many Hindu zealots are painstakingly claiming as totally voluntary and a righteous reply to the violation of rights by colonisers and their ilk", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Indians look up to the judiciary to uphold the secular values of the republic", "label":"assumption"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"and", "label":"no-unit"},
+    {"number":81, "text":"the Supreme Court has, time and again, thwarted onslaughts on people's core fundamental right of religious freedom", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"But its record in adjudicating the evidently unsecular anti-conversion statutes is dubious", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The last time it did was in 1977, in the Reverend Stanislaus case", "label":"assumption"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"wherein the Odisha and Madhya Pradesh statutes were upheld", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Basing its ruling on a 1956 report entitled \"Report of the Christian Missionaries Activity Enquiry Commission\", which deemed proselytisation as a threat to India's territorial integrity and internal security, the court ended up conflating every act of propagation of one's faith - Christianity, in this case (enshrined as a fundamental right in the constitution) as an attack on Hinduism and its followers, tantamount to blasphemy", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"which, incidentally, is also a criminal offence in India", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"A national anti-conversion law, if", "label":"no-unit"},
+    {"number":94, "text":"enacted", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"would definitely be challenged in the Supreme Court", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"In that case, the judges could remedy the errors of 1977 by seeking inspiration from the European Court of Human Right's 1993 ruling in the Kokkinakis case", "label":"assumption"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"which struck the right balance between keeping out improper proselytism and Christians' right to practise, profess, and propagate their faith", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ]
+]}

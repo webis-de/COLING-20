@@ -1,0 +1,216 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Simper while you sing. The ghastly Ed Sheeran effect.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Looking at what's seriously wrong with the world today, it definitely isn't Ed Sheeran", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"However", "label":"no-unit"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"looking at what's wrong with British music today, it almost definitely is Ed Sheeran", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"When the Brit nominations were recently announced, much of the focus was rightly on how \"white\" they were", "label":"anecdote"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"similar to the Oscars", "label":"no-unit"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"However", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" for me, this was not the only reason why the Brit nominations were unsettling", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"I was also disturbed by the fact that Ed received multiple nominations, including best album and solo artist", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"I know it's only the Brits, but come on people ", "label":"assumption"},
+    {"number":19, "text":"-", "label":"no-unit"},
+    {"number":20, "text":"how far do we intend to go with this?", "label":"assumption"}
+  ],
+  [
+    {"number":21, "text":"I'm no musical snob", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"I dislike pomposity about mainstream musical tastes", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"I even think The X Factor is a hoot, and have written on how it's more colour blind than other parts of the entertainment industry (a point reinforced by the recent nominations)", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"My stance has always been: calm down", "label":"assumption"},
+    {"number":28, "text":", there' s room for everybody, right?", "label":"assumption"}
+  ],
+  [
+    {"number":29, "text":"However", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":" it's as though Ed Sheeran has gone from being an artist to a syndrome, an effect, even a pox, and he/it is everywhere", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"There Ed is, performing on television shows, peddling his simpering vanilla-sound", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"At the Victoria's Secret fashion show, giggling at the ladies in bras like the last boy-virgin standing at freshers' week", "label":"no-unit"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Ed, whose whiny music makes him sound as though he's got his tongue permanently trapped in a child safety gate", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Who looks as though you'd get up close and he'd smell of Violet Bloom Febreze", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Whose lukewarm monotones I fervently feel should be banned in cars", "label":"assumption"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":"lest motorists are overcome with ennui and fatally fall asleep at the wheel", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"The other odd thing is that Ed, with his inane grin and funky waistcoats, is completely sexless- exuding all the carnal charisma of a pyjama case", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Sam Smith (another multiple Brit nominee) isn't much better", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"though he gets extra points for being gay, and being able to sing, instead of doing what Ed does", "label":"assumption"},
+    {"number":50, "text":"- whimpering like a dog thrown down a well", "label":"no-unit"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Is being unthreatening the point of Ed?", "label":"assumption"},
+    {"number":53, "text":"That he's a good musical starter-crush for little girls who might find One Direction too frightening?", "label":"assumption"},
+    {"number":54, "text":"If so, where' s the gender parity?", "label":"assumption"},
+    {"number":55, "text":"How come the likes of Sheeran are rewarded for being undersexualised", "label":"assumption"},
+    {"number":56, "text":"while most of the women in his industry are oversexualised - some because they want to be, others because they are told to", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"but", "label":"no-unit"},
+    {"number":59, "text":"all of them aware that the pressure is on", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"While there are always exceptions", "label":"common-ground"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"everyone knows that females are more likely to be coerced into using their sexuality", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"What's interesting is that now there's this corresponding bizarre inversion with males getting less and less sexy ", "label":"assumption"},
+    {"number":66, "text":"-", "label":"no-unit"},
+    {"number":67, "text":"until finally we arrive at the industry \"norm\" of Sheeran, a parentally approved pop boy-dolly", "label":"assumption"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"who comes with guitar accessories, and makes nice soothing noises", "label":"assumption"},
+    {"number":70, "text":"when you pull a string in his back", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Some might say it's what the audience demands", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"but", "label":"no-unit"},
+    {"number":75, "text":"isn't it more about being told what to want?", "label":"assumption"},
+    {"number":76, "text":"It seems unlikely that the same audience digging Ed's mellow vibe are demanding that equivalent female artists appear scantily clad, hellbent on fellating the microphone", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Do we truly believe that people sit at home saying:\"Well, I'm not listening to this - she's got all her clothes on and hasn't once pretended to orgasm,\"?", "label":"assumption"}
+  ],
+  [
+    {"number":79, "text":"In short", "label":"no-unit"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"does it occur to anyone that Sheeran's banality, the very fact that he's permitted to be so banal, is a profoundly chauvinist fact in itself?", "label":"assumption"},
+    {"number":82, "text":"Will we ever see a day when women would be rewarded for being as unsexy as Ed?", "label":"assumption"},
+    {"number":83, "text":"What about all the Eds he's inspiring", "label":"other"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"who are waiting in the wings", "label":"no-unit"},
+    {"number":86, "text":"-", "label":"no-unit"},
+    {"number":87, "text":"will it ever end?", "label":"assumption"},
+    {"number":88, "text":"Ed Sheeran might be the nicest guy in the world", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"but", "label":"no-unit"},
+    {"number":91, "text":"it's time that \"Ed Sheeran\", the effect and the pox, was identified and stopped", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Without meaning to be alarmist, I fear that there may be a royal clothes shortage", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"Kate, duchess of Cambridge, has always been congratulated for wearing (and re-wearing) high-street fashion", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Since becoming pregnant, she's won yet more plaudits for wearing non-maternity items", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"The whole thing has become overdone to the point where one could become seriously concerned that the duchess might not have enough clothes", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"A national embarrassment", "label":"no-unit"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"We can't have our queen-to-be scrabbling around for some decent threads", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"Perhaps we should all rifle through our wardrobes and donate something", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"I've got a couple of bits she could have", "label":"anecdote"},
+    {"number":108, "text":"-", "label":"no-unit"},
+    {"number":109, "text":"the hems have come down", "label":"assumption"},
+    {"number":110, "text":",", "label":"no-unit"},
+    {"number":111, "text":"and", "label":"no-unit"},
+    {"number":112, "text":"I'm not sure if she's into \"vintage ASOS\", huge flower prints or suspicious stains", "label":"other"},
+    {"number":113, "text":",", "label":"no-unit"},
+    {"number":114, "text":"but", "label":"no-unit"},
+    {"number":115, "text":"in her situation she can't afford to be too picky", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"I also need to know Kate's shoe size", "label":"assumption"},
+    {"number":118, "text":"-", "label":"no-unit"},
+    {"number":119, "text":"it seems only fair that the gesture is reciprocated", "label":"assumption"},
+    {"number":120, "text":",", "label":"no-unit"},
+    {"number":121, "text":"and", "label":"no-unit"},
+    {"number":122, "text":"I'm wondering if she has any furry Crocs I could borrow for the spring season?", "label":"assumption"}
+  ],
+  [
+    {"number":123, "text":"Obviously I'm being facetious, but does the duchess really have to be congratulated for doing what every woman does", "label":"assumption"},
+    {"number":124, "text":"-", "label":"no-unit"},
+    {"number":125, "text":"which is to wear her clothes more than once?", "label":"assumption"}
+  ],
+  [
+    {"number":126, "text":"Google Glass (the \"smart\" eyewear that made Joe Bloggs resemble Joe 90) is being phased out", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"},
+    {"number":128, "text":"The focus will now be on future versions of Glass, with the company feeling that the project \"allowed us to learn what's important to consumers and enterprises alike\"", "label":"testimony"},
+    {"number":129, "text":".", "label":"no-unit"},
+    {"number":130, "text":"Which appears to be corporate-speak for:\"We belatedly realised that everyone felt like complete berks wearing them.\"", "label":"assumption"}
+  ],
+  [
+    {"number":131, "text":"I don't pretend to be cutting-edge in any way", "label":"assumption"},
+    {"number":132, "text":".", "label":"no-unit"},
+    {"number":133, "text":"I'm one of life's late adopters", "label":"anecdote"},
+    {"number":134, "text":",", "label":"no-unit"},
+    {"number":135, "text":"which means that I watch other people go through teething problems with new technology", "label":"anecdote"},
+    {"number":136, "text":"while I stand on the sidelines looking gormless, occasionally jeering and feeling vindicated", "label":"anecdote"},
+    {"number":137, "text":"when things go wrong", "label":"anecdote"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"Like now, for instance", "label":"no-unit"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"It's not pretty", "label":"assumption"},
+    {"number":142, "text":",", "label":"no-unit"},
+    {"number":143, "text":"but", "label":"no-unit"},
+    {"number":144, "text":"it works for me", "label":"assumption"},
+    {"number":145, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":146, "text":"With Google Glass, I didn't have long to wait", "label":"anecdote"},
+    {"number":147, "text":".", "label":"no-unit"},
+    {"number":148, "text":"Even I could see that specs- with-screens was a non-starter and that the Nathan Barley-esque marketing line:\"Your chance to walk down the high street, watching pointless stuff with one eye while looking like a prize tit\" was never going to be a winner with the masses", "label":"anecdote"},
+    {"number":149, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":150, "text":"Commiserations to those", "label":"no-unit"},
+    {"number":151, "text":"who spent close to", "label":"no-unit"},
+    {"number":152, "text":"?", "label":"no-unit"},
+    {"number":153, "text":"1,000 on the wearable tech, produced under the Explorer programme", "label":"no-unit"},
+    {"number":154, "text":",", "label":"no-unit"},
+    {"number":155, "text":"expecting", "label":"no-unit"},
+    {"number":156, "text":"it to develop further", "label":"no-unit"},
+    {"number":157, "text":".", "label":"no-unit"},
+    {"number":158, "text":"I would tell them not to be bitter", "label":"assumption"},
+    {"number":159, "text":";", "label":"no-unit"},
+    {"number":160, "text":"they should feel proud of their early adopting ways", "label":"assumption"},
+    {"number":161, "text":".", "label":"no-unit"},
+    {"number":162, "text":"Many moons ago, there would have been people investing in inventors who wanted to fly, who ran about fields flapping big fake wings, before presumably being gently escorted to a nearby asylum", "label":"assumption"},
+    {"number":163, "text":".", "label":"no-unit"},
+    {"number":164, "text":"In time, this led to aeroplanes", "label":"assumption"},
+    {"number":165, "text":".", "label":"no-unit"},
+    {"number":166, "text":"Thus Google Glass purchasers can at least have the satisfaction of knowing that they were pioneers - the flint that created the spark that lit the fire", "label":"assumption"},
+    {"number":167, "text":".", "label":"no-unit"},
+    {"number":168, "text":"Or", "label":"no-unit"},
+    {"number":169, "text":"whatever", "label":"no-unit"},
+    {"number":170, "text":"analogy tech mugs prefer", "label":"no-unit"},
+    {"number":171, "text":"to make", "label":"no-unit"},
+    {"number":172, "text":"them feel better about", "label":"no-unit"},
+    {"number":173, "text":"being a grand lighter", "label":"no-unit"},
+    {"number":174, "text":".", "label":"no-unit"}
+  ]
+]}

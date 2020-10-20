@@ -1,0 +1,136 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why CIA interrogations report matters: Torture doesn't work and Americans need to know.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"As a former professional interviewer with the FBI, I know what works and doesn't", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Torture is not an effective way to get information", "label":"assumption"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"and", "label":"no-unit"},
+    {"number":7, "text":"the American people need to know that", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"That's why the Senate Intelligence Committee report on CIA interrogation and detention after 9/11 is important", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"The executive summary of the report, written after reviewing hundreds of thousands of the CIA's internal documents, shows that torture was more brutal and much less fruitful than the CIA claimed", "label":"testimony"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"In fact", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":" the committee concluded that all the claims about the value of intelligence gained from \"enhanced\" interrogation--including the claim that it helped the U.S  find Usama bin Laden-- are overstated or just plain false", "label":"testimony"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"Proponents of torture are contesting these well-documented findings", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"So let's look at the facts", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"On 9/11, the CIA had few, if any, experienced counterterrorism interrogators", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Their traditional purview had been intelligence collection during the Cold War", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"Inexperienced in this area and overwhelmed they resorted to techniques that merely sounded good but in fact worked against them", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"When concocting the legal opinions to authorize torture, the lawyers inside our government didn't consult trained interviewers or interrogation experts--the people who actually knew how to get information", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"They consulted psychologists who helped train U.S  military pilots to resist torture methods should they be captured", "label":"anecdote"},
+    {"number":30, "text":"(torture methods, it should be noted, designed to elicit false confessions)", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"If", "label":"no-unit"},
+    {"number":33, "text":"they had consulted trained interviewers", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"they would have found out what I and my colleagues had known for decades: Torture isn't just unnecessary; it's an unreliable way to get information", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Instead", "label":"no-unit"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"as the Senate report shows, the CIA brought in untrained interrogators and contractors and asked them to get answers out of Al Qaeda detainees using methods designed to inflict pain, both physical and mental, and even simulate death", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"The CIA also employed horrific methods, like forced rectal feedings, that were never approved", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"I recall when I learned that cruel techniques were being used", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"I spoke with several long-term CIA officers and CIA polygraph experts with whom I had worked over many years", "label":"anecdote"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"and", "label":"no-unit"},
+    {"number":48, "text":"we were all appalled", "label":"anecdote"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"not just by its immorality", "label":"assumption"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":"but", "label":"no-unit"},
+    {"number":53, "text":"because we knew it would be counterproductive", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Apologists say that these methods were used to put the detainees into a state of \"learned helplessness,\" in which the detainee would depend totally on his captor and give up all information", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"Those of us who have actually conducted interviews know that this isn't the way things work", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"To get good, accurate information, you want the subject to be as cognizant as possible", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"You want him to be able to remember all the details and to be able to tell you them", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"A person will say anything to try to stop the pain", "label":"assumption"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"and", "label":"no-unit"},
+    {"number":66, "text":"torture impairs the suspect's ability to remember the details that may be essential to your investigation", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Professionals don't need to use torture and never have", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"On top of that, torture is illegal, both here in the U.S  and internationally", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"The United States has even prosecuted people for the methods that the CIA used after 9/11", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"We are a nation of laws", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"and", "label":"no-unit"},
+    {"number":77, "text":"the conduct detailed in the Senate report is against the law", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"For these reasons, in October, I joined 22 other security, interrogation and interviewing experts to issue a statement of principles in opposition to using torture", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Not only is torture less reliable, illegal and immoral, we write", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"but", "label":"no-unit"},
+    {"number":84, "text":"it also makes our nation less safe", "label":"testimony"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"When we are not using effective and legal interviewing tactics, we miss information that may be vital to our nation's safety", "label":"common-ground"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"In using torture, we also encourage other nations and actors (including terrorist groups) to emulate our illegal actions, effectively lowering the bar for the rest of the world, and allow them to use U.S  torture as a recruiting tool", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"President Obama, on his second day in office, signed an executive order banning the CIA torture methods the Senate report describes", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"But this executive order could be overturned by a future president", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Now that the Senate report's executive summary has been released and", "label":"no-unit"},
+    {"number":95, "text":"the public knows the just how ineffective and brutal U.S  torture was, we need to make sure that this prohibition is permanent", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Working with Congress to pass legislation that makes sure a ban on torture extends to the CIA is one way that President Obama can make sure that the United States never again embraces the misguided, ineffective, and dangerous tactics of torture", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ]
+]}

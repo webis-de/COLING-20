@@ -1,0 +1,113 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Paris terror attack: Journalism is under fire.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Courageous journalism is under attack today", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"The horrifying shooting by masked gunmen at a Paris magazine office, which has left 12 dead, is an assault on everyone in the news business", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"And the fact that the paper, Charlie Hebdo, is a satirical publication matters not at all", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"since", "label":"no-unit"},
+    {"number":9, "text":"satire can sting as sharply as any media commentary -- especially when it comes to the sensitive subject of religion", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Several news outlets are reporting that the attackers identified themselves as being from Al Qaeda in Yemen", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"But", "label":"no-unit"},
+    {"number":14, "text":"whatever branch of Islamic terrorism is responsible for this heinous crime, the targeting of the French paper is no accident", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"On its cover today is a caricature of a controversial novelist, Michel Houellebecq", "label":"anecdote"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"whose book\"Submission\" forecasts a France run by Muslims and where polygamy is practiced", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"And the last tweet posted by the magazine was a mocking spoof of ISIS leader Abu Bakr al-Baghdadi", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Charlie Hebdo has been a target before", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Its offices were firebombed in 2011", "label":"anecdote"},
+    {"number":25, "text":"after the paper ran a cartoon of the Prophet Muhammad vowing \"100 lashes if you don't die laughing!\"", "label":"anecdote"}
+  ],
+  [
+    {"number":26, "text":"The vicious attack would be shocking news", "label":"assumption"},
+    {"number":27, "text":"even if", "label":"no-unit"},
+    {"number":28, "text":"the target was an insurance company office", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"But by", "label":"no-unit"},
+    {"number":31, "text":"singling out a media enterprise -- especially one that has dared to poke fun at Islam-- the terrorists are sending an even louder message", "label":"assumption"},
+    {"number":32, "text":",", "label":"no-unit"},
+    {"number":33, "text":"one designed to frighten and intimidate", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"We saw the same evil calculation in the decision by ISIS to kill journalists James Foley and Steve Sotloff and to circulate video of their beheadings", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"This was a way to amplify the propaganda value of such executions and generate even more coverage by journalists", "label":"assumption"},
+    {"number":38, "text":"who felt an instinctive kinship with their fallen brethren", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"That ploy worked", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"as", "label":"no-unit"},
+    {"number":43, "text":"ISIS sparked weeks of anguished coverage around the globe", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"and", "label":"no-unit"},
+    {"number":46, "text":"the images of the soon-to-be-murdered journalists, published far too often in my view, became the face of Islamic terror", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"After that, even as the U.S  and its allies struck back at ISIS in Iraq and Syria", "label":"assumption"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"the coverage greatly receded", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Terrorists understand the media's need to personalize a tragic story", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Wednesday's attack was also a far bloodier version of the Sony Pictures hacking", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"which was aimed at paralyzing and humiliating a media company over its ill-advised film that depicted North Korean strongman Kim Jong-un's head being blown up", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"That act of cyberterrorism also served as a warning to other media outfits that might take on North Korea", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Charlie Hebdo specialized in skewering sacred cows", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"\"Its pages are filled with vulgar caricatures and caustic humor, lampooning politicians, entertainers and media personalities of all stripes,\" the New York Times reported three years ago,\"and the magazine has found itself a frequent presence at Paris courts, accused on several dozen occasions of defamation or inciting hate", "label":"testimony"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"\"The world's religions have also been favorite targets of the paper, this being France, where state-mandated secularism is a sort of religion of its own. The cover page of one recent issue featured a cartoon of three rolls of toilet paper, labeled Bible, Koran and Torah, and the headline: 'In the toilet, all the religions", "label":"testimony"},
+    {"number":65, "text":".'\".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"The danger now is that journalists around the world will engage in self- censorship, that they will pull back on aggressive reporting and analysis of Islamic terrorism", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"For every potentially provocative article, headline or cartoon, some will ask themselves, is this worth the risk?", "label":"assumption"},
+    {"number":69, "text":"Wouldn't it be easier, safer, to let this one go?", "label":"assumption"}
+  ],
+  [
+    {"number":70, "text":"And each time that happens, the gunmen who unleashed a hail of bullets in a Paris magazine office Wednesday will have won", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Howard Kurtz is a Fox News analyst and the host of \"MediaBuzz\" (Sundays 11 a.m  and 5 p.m  ET)", "label":"other"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"He is the author of five books and is based in Washington", "label":"other"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Follow him at @HowardKurtz", "label":"no-unit"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Click here for more information on Howard Kurtz", "label":"no-unit"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,176 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Did Coltrane say 'Allah Supreme'?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"\"A Love Supreme\" is widely recognised as John Coltrane's masterwork, and a milestone recording in the history of jazz", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Many an aficionado came to jazz through that classic album- a 32-minute-long composition organised around a four-note bass routine", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The manuscript for the album is one of the National Museum of American History's treasures", "label":"assumption"},
+    {"number":7, "text":";", "label":"no-unit"},
+    {"number":8, "text":"the saxophone that Coltrane used to record the piece was recently gifted to the Smithsonian Museum", "label":"anecdote"},
+    {"number":9, "text":";", "label":"no-unit"},
+    {"number":10, "text":"and", "label":"no-unit"},
+    {"number":11, "text":"former US President Bill Clinton, a saxophonist and Coltrane fan, is said to have \"A Love Supreme\" set as the ringtone for when Hillary calls", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"This week marks the 50th anniversary of \"A Love Supreme\" ", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Recorded on December 9, 1964, the composition is being celebrated worldwide in concerts, festivals, academic symposia and even at churches", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"The Saint John Coltrane African Orthodox Church - founded in 1969 by two clerics who saw Coltrane perform live in the San Francisco, and experienced a \"sound baptism\"- celebrated \"A Love Supreme\" mass on December 8, in San Francisco's iconic Grace Cathedral", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"The recording has long been understood to be a deeply spiritual, even devotional, piece", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Its four phases - \"Acknowledgement\", \"Resolution\", \"Pursuance\" and \"Psalms\" - reflect what Coltrane described as a \"spiritual awakening\" in his overcoming of drug and alcohol problems", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"All praise belongs to God", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Yet", "label":"no-unit"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":" what was the nature of that \"spiritual awakening\"?", "label":"assumption"},
+    {"number":28, "text":"The conventional view is that by 1964, Coltrane had moved away from his Methodist upbringing, adopting a \"pan-religious\" outlook with a particular interest in Eastern mysticism", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"In spite of that", "label":"no-unit"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"\"A Love Supreme\" is still described as laden with Biblical symbolism: the title \"Psalm\", and the rising cadences, reminiscent of black preachers' style, are offered as evidence that Coltrane was still rooted in Christianity", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"But", "label":"no-unit"},
+    {"number":35, "text":"ask one of the jazzmen or Muslim elders who knew Coltrane, and you get a different answer", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"The saxophonist Yusef Lateef, who died at the age of 93 earlier this year, worked closely with Coltrane between 1963 and 1966", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"In his autobiography , \"A Gentle Giant\", Lateef says:\"The prayer that John wrote in 'A Love Supreme' repeats the phrase 'All praise belongs to God no matter what' several times", "label":"testimony"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"This phrase has the semantics of the al-Fatiha, which is the first chapter or sura of the Holy Quran", "label":"common-ground"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"The Arabic transliteration is 'al-Humdulilah", "label":"common-ground"},
+    {"number":44, "text":"...'", "label":"no-unit"},
+    {"number":45, "text":"Since all faithful Muslims say the al-Fatiha five times a day or more, it is reasonable to assume that John heard this phrase from [his Muslim wife] Sister Naima many times.\"", "label":"testimony"}
+  ],
+  [
+    {"number":46, "text":"Lateef is referring to the poem Coltrane wrote and included in the liner notes of the album", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Coltrane wrote:\"No matter what... It is with God. He is gracious and merciful\" and ends with \"All praise to God...\"", "label":"testimony"}
+  ],
+  [
+    {"number":49, "text":"What Lateef and others have noted is that \"gracious and merciful\" is a translation of \"rahman raheem\", the opening lines of the Fatiha", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Moreover", "label":"no-unit"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"say the elders, when Coltrane begins chanting the album's title for half a minute it sounds like a Sufi breathily repeating \"Allah supreme\"", "label":"testimony"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"The relationship between Islam and jazz is almost a century-old", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"It was in the 1920s that the Ahmadiyya movement, a heterodox Islamic movement that emerged in 19th century India, began sending missionaries to US cities, building a substantial following among African Americans in the decades to come", "label":"common-ground"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"In a trend that still intrigues historians and music critics, after World War II, scores of jazz musicians embraced Ahmadi Islam", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"When Coltrane arrived in Philadelphia in 1943, the Muslim presence in the \"city of brotherly love\" would rattle the young man", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"As he told an interviewer in 1958:\"This Muslim thing came up. I got introduced to that. And that kind of shook me.\"", "label":"testimony"}
+  ],
+  [
+    {"number":64, "text":"Ongoing debate in Philadelphia", "label":"no-unit"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"The saxophonist was surrounded by Muslims", "label":"assumption"},
+    {"number":67, "text":":", "label":"no-unit"},
+    {"number":68, "text":"his drummer Rashied Ali was Muslim, as was his pianist McCoy Tyner (Suleiman Saud), and saxophonist Lateef", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Coltrane then married Naima Grubbs, an observant Muslim", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Even Coltrane's band members have pondered his relationship to Islam", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"If", "label":"no-unit"},
+    {"number":75, "text":"Lateef suspected that Coltrane's art was influenced by the Quran", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"the drummer Rashied Ali thought that the saxophonist was \"a real country boy\" and that \"he was into being a Muslim and everything like that\"", "label":"testimony"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"\"Back then jazz and Islam were intertwined - the first time I heard the adhan on Temple University radio, I thought it was a Nina Simone song,\" says Imam Nadim Ali, a celebrated jazz deejay and community leader", "label":"testimony"},
+    {"number":80, "text":"who spent his youth in Philadelphia", "label":"common-ground"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"\"Artists were deeply influenced by Islam - sometimes publicly in their art, sometimes privately.\"", "label":"testimony"}
+  ],
+  [
+    {"number":83, "text":"It's not inconceivable that \"A Love Supreme\" could have been inspired by the Quran", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"After all", "label":"no-unit"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"as the elders will observe,\"Celebration\", that great funk hit by Kool & the Gang, was inspired by a Quranic sura", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"\"The initial idea came from the Quran,\" says Ronald Bell (Khalis Bayyan), the group's saxophonist and musical arranger", "label":"testimony"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"\"I was reading the passage, where God was creating Adam, and the angels were celebrating and singing praises", "label":"testimony"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"That inspired me to write the basic chords, the line, 'Everyone around the world, come on, celebration'.\"", "label":"testimony"}
+  ],
+  [
+    {"number":94, "text":"This song inspired by Islam - and released in 1980 - would become an international hit heard at ball games and political rallies in the US, and ironically was played by the Reagan administration on February 7, 1981, to welcome home the hostages held by students in the Islamic Republic of Iran", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"One also hears the argument that Coltrane wanted to title his composition \"Allah Supreme\"- instead of \"A Love Supreme\" - but was worried about a political backlash, given the ongoing conflict in the Middle East", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"The mass conversion of African Americans to Islam unsettled many European Americans and tensions rippled into the jazz world", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Jazz critics would often dismiss the converts as \"strange\" and \"confused\"", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Young converts", "label":"no-unit"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"In his memoir, Dizzy Gillespie candidly describes the pressures that faced young converts in the jazz world", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"\"The movement among jazz musicians towards Islam created quite a stir, especially with the surge of the Zionist movement,\" writes Dizzy Gillespie in\"To Be or Not to Bop\"", "label":"testimony"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"\"A lot of friction arose between Jews and Muslims, which took the form of a semi-boycott in New York of jazz musicians with Muslim names... Near the end of the '40s, the newspapers really got worried about whether I'd convert to Islam.\"", "label":"testimony"}
+  ],
+  [
+    {"number":109, "text":"Gillespie was, as he would say,\"intrigued\" by \"the beautiful sound of the word Quran and discussed Islam extensively with Lateef", "label":"testimony"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"But in 1948, in a shoot for a feature story with Life magazine, Gillespie was asked to pose shirtless, cross-legged, and bowing with his arms outstretched", "label":"anecdote"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"The magazine published the piece and claimed (falsely) that the trumpeter was bowing in prayer towards Mecca", "label":"testimony"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"The media ruckus that ensued about the King of Bebop's abandonment of Christianity incensed Gillespie. He would eventually become a Bahai.\"", "label":"testimony"}
+  ],
+  [
+    {"number":116, "text":"Political and racial pressures still bear heavily on black and Muslim artists (especially hip hop artists) today", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"And we may never know what Coltrane had in mind when he composed his masterpiece", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"},
+    {"number":120, "text":"But", "label":"no-unit"},
+    {"number":121, "text":"as the US celebrates and and tries to mainstream figures from the turbulent 1960s, voices from the communities that produced the likes of Coltrane, Malcolm X and Muhammad Ali, should be heard - especially as the domestic and foreign policies that pushed African Americans towards Islam a century ago are still with us", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":123, "text":"Hisham Aidi teaches at Columbia University", "label":"anecdote"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"He is the author of the critically acclaimed Rebel Music: Race, Empire and the New Muslim Youth Culture, a study of black internationalism and global youth culture", "label":"anecdote"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ]
+]}

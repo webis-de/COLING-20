@@ -1,0 +1,106 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Immigration debate: What US could learn from Britain's David Cameron.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"There is nothing like a little heat from a third political party to get the attention of career politicians who wish to stay in office", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Nigel Farage, leader of the upstart UK Independent Party (UKIP), has been turning up the heat on British Prime Minister David Cameron over the issue of migrants who come to the UK without jobs and immediately sign up for government benefits", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"The debate in Britain mirrors the one in the United States with one important exception", "label":"assumption"},
+    {"number":7, "text":":", "label":"no-unit"},
+    {"number":8, "text":"A treaty with the European Union requires Britain to accept migrants from all EU countries, no matter their employment status or health condition", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"As in America, this has put pressure on British taxpayers", "label":"assumption"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"many of whom think these migrants are taking jobs from British citizens and overburdening schools and the National Health Service", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"In a recent speech, Cameron proposed denying EU migrants access to certain welfare and other benefits for four years, including denial of a child allowance", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"unless", "label":"no-unit"},
+    {"number":17, "text":"the immigrant children live with their parents in Britain", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"\"Thus eliminating,\" writes the Wall Street Journal, \"an incentive for immigrant families that try to arbitrage Britain's generous welfare state by raising children back home where costs are lower.\"", "label":"testimony"},
+    {"number":20, "text":"One parent lives in Britain to get the benefit, another stays in their home country with the children", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"who live on Britain's pound", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"No child benefit or tax credits paid for children living outside the UK, Cameron proposes", "label":"testimony"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"And he's right", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"He hopes such a move, if approved by Parliament", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"might deter thousands more unemployed immigrants from coming to Britain", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Cameron still must win approval from the other EU member nations", "label":"assumption"},
+    {"number":33, "text":"and", "label":"no-unit"},
+    {"number":34, "text":"that is unlikely", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Poland has warned that it will vote against the proposal", "label":"assumption"},
+    {"number":37, "text":"unless", "label":"no-unit"},
+    {"number":38, "text":"it also applies to British citizens who are unemployed and seeking benefits", "label":"testimony"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"German Chancellor Angela Merkel was reported to be \"hopping mad\" over Cameron's proposal", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"so", "label":"no-unit"},
+    {"number":43, "text":"it remains doubtful if Cameron will get more than a short-term bump in his approval numbers ahead of next spring's anticipated elections", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Some conservatives within Cameron's Tory Party want Britain out of the EU, a position that goes back to the days of the late British Prime Minister Margaret Thatcher", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"who was skeptical of the EU from the start and feared the loss of British sovereignty and identity", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"The Washington Post recently reported \"Net migration into (Britain) is now nearly at a post-recession high -- and about 50 percent greater as a proportion of population than it is in the United States.\"", "label":"statistics"}
+  ],
+  [
+    {"number":50, "text":"The issue in the UK, as in America, is the character of the country", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"It isn't about resurgent \"nativism,\"", "label":"assumption"},
+    {"number":53, "text":"the label applied to some people who want to maintain the traditions, honor the history, save the English language and preserve other characteristics that make our countries attractive to residents and immigrants", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"No nation can long endure with unsecured borders", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"The Wall Street Journal recently suggested that Cameron might consider slashing the 20 percent value-added tax on consumption", "label":"testimony"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"\"which disproportionately affects those with lower incomes.\"", "label":"testimony"},
+    {"number":60, "text":"For that matter the VAT could be slashed altogether to create an economic boom", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"but", "label":"no-unit"},
+    {"number":63, "text":"that's a subject for another day", "label":"other"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"It isn' t xenophobic to suggest that immigrants ought to leave their political and other interests behind when they arrive in a new land", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"That's what immigrants to America did in the last century", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"They left their native countries because they believed America offered them and their children a better life", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"They intended to embrace all that is America, not hyphenate themselves into competing groups with dual loyalties", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Immigrants who wish to become fully British or fully American are the kind of people our countries want", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"What they don' t want are people who bring their agendas and seek to impose them on citizens", "label":"assumption"},
+    {"number":76, "text":"who, through military service and sacrifice, built something they wish to sustain for themselves and their posterity", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Is that too much to ask?", "label":"assumption"}
+  ]
+]}

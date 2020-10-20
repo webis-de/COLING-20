@@ -1,0 +1,131 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Iran Sanctions Fight: Three myths no lawmaker should believe.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The expected congressional vote on a new sanctions bill against the Iranian regime has rekindled debate over Tehran's nuclear defiance and the best way to confront it", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Congress has misgivings about a rogue regime intent on obtaining nuclear capability, and understandably wants to ensure that Washington does not strike a bad deal", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Some argue that a decisive approach toward Tehran will be counterproductive", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"But their position ignores historical lessons and stands on a number of myths that need to be debunked", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Myth #1", "label":"no-unit"},
+    {"number":11, "text":":", "label":"no-unit"},
+    {"number":12, "text":"More sanctions on Iran will prompt the regime to unilaterally walk away from the talks", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Iran cannot afford to walk away", "label":"assumption"},
+    {"number":15, "text":"because it is desperate and vulnerable", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"It has a genuine interest to secure the lifting of existing sanctions", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"which provided the initial impetus for the regime to talk", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Then", "label":"no-unit"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":" too, cynics argued that sanctions would prompt Tehran to accelerate its nuclear activities", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"The regime is playing a game of attrition, aiming to weaken U.S  resolve, win more concessions, and maintain its nuclear infrastructure", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"The bipartisan sanctions bill will force Tehran to consider speedy compliance", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"This month, Iranian President Hassan Rouhani reiterated,\"Breaking the anti- Iran sanctions is the only way to achieve national progress,\" acknowledging that Iran's devastated economy cannot endure the weight of further sanctions, especially after the recent decline in oil prices", "label":"testimony"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"The mullahs are paranoid of a disenchanted population already on edge", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"With rampant unemployment, inflation, and loss of oil revenues, walking away from the talks is not an option", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"especially if a sanctions-in-waiting bill is hovering over their head", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Myth #2", "label":"no-unit"},
+    {"number":38, "text":":", "label":"no-unit"},
+    {"number":39, "text":"With more sanctions, Tehran will blame Washington for sabotaging diplomacy, and start on the path towards war", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Even with slumping oil revenues - slashed by at least 45%- the official defense budget has jumped 30%, mostly allocated to the Islamic Revolutionary Guards Corp (IRGC)", "label":"statistics"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"And", "label":"no-unit"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"more money is being funneled into Syria and Iraq to execute Tehran's designs - a budget that is twice that of all the country's publically funded universities combined", "label":"statistics"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"If", "label":"no-unit"},
+    {"number":48, "text":"sanctions fail to force Tehran to abandon key parts of its nuclear program after over a year of negotiations", "label":"assumption"},
+    {"number":49, "text":", then", "label":"no-unit"},
+    {"number":50, "text":"continued talks with no additional leverage will fail as well", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"The IAEA still has no access to suspect nuclear sites", "label":"assumption"},
+    {"number":53, "text":"and", "label":"no-unit"},
+    {"number":54, "text":"its questions remain unanswered", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"IAEA Director General Yukiya Amano said in November 2014, \"Iran has not provided any explanations that enable the Agency to clarify the outstanding practical measures, nor has it proposed any new practical measures in the next step of the Framework for Cooperation, despite several requests from the Agency.\"", "label":"testimony"}
+  ],
+  [
+    {"number":57, "text":"Senior U.S  officials have repeatedly stated that even without additional sanctions the chances for reaching an agreement with Iran is less that 50 percent", "label":"testimony"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"So", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"as", "label":"no-unit"},
+    {"number":62, "text":"Iran tries to wear out western negotiators", "label":"assumption"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"clearly, additional leverage from Congress is necessary, not counterproductive", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Myth #3", "label":"no-unit"},
+    {"number":67, "text":":", "label":"no-unit"},
+    {"number":68, "text":"New sanctions will strengthen \"hardliners\" in Iran who want to sabotage a prospective deal", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"This is perhaps the most enduring myth in Washington that has dangerously infected Iran policy", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"The idea that there are moderate elements in Iran's body politic, and the U.S  needs to reach out to them by making more concessions is ludicrous", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"The oft-cited dichotomy between \"hardliners\" and \"moderates\" in Iran badly misrepresents a system whose elements are united in their strategic objectives", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Rouhani, himself a longtime confidant of Supreme Leader Ali Khamenei, was instructed by the latter to sign onto the Joint Plan of Action in November 2013", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Foreign Minister Zarif told the Iranian Parliament earlier this month that he has the full trust of Khamenei to continue the negotiations", "label":"testimony"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Experience has shown that diplomacy without leverage has never worked with dictators, especially in Tehran", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"This puts Congress on the right path", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"The sanctions bill can be a game- changer", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"It will strengthen Washington's hand while helping to peacefully arrest Tehran's advance towards the bomb", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"One thing is for certain", "label":"assumption"},
+    {"number":89, "text":":", "label":"no-unit"},
+    {"number":90, "text":"Tehran's nuclear objective is anything but a myth", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ]
+]}

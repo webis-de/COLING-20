@@ -1,0 +1,120 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Please Australia, don't let abusive boxer Floyd Mayweather in.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"While", "label":"no-unit"},
+    {"number":3, "text":"the boxing world's attention is focused on whether a fight between Floyd Mayweather and Manny Pacquiao might finally happen", "label":"assumption"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"Mayweather has announced that he will visit Australia at the end of the month", "label":"testimony"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"The world's best boxer and highest paid athlete won't be fighting of course, merely making promotional appearances in Sydney, Melbourne and Brisbane", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"Even leaving aside the disturbing idea that real, living people might pay to see the petulant man known as \"Money\" do anything other than box, there' s an issue: his extensive history of domestic violence", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"As", "label":"no-unit"},
+    {"number":12, "text":"Phil Lutton points out", "label":"assumption"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"Mayweather has been arrested or cited by police in seven assaults against five different women", "label":"testimony"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Mayweather's history of domestic violence began in 2001, just a month after dedicating his fight against Diego \"Chico\" Corrales to \"all the battered women in the world.\"", "label":"anecdote"},
+    {"number":17, "text":"He allegedly closed a car door on his then-partner Melissa Brim before repeatedly punching her while she lay on the back seat", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Not six months later he punched Brim in the neck at a Las Vegas shopping centre", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"He pleaded guilty and received a suspended sentence", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"In 2003 Mayweather allegedly punched two friends of his then-partner (and the mother of several of his children) Josie Harris in a nightclub and shook a female security guard", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"He was issued a citation and found guilty of two counts of battery", "label":"anecdote"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"though the verdict was vacated", "label":"anecdote"},
+    {"number":28, "text":"and", "label":"no-unit"},
+    {"number":29, "text":"the charges were \"dismissed per negotiations.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":30, "text":"The same year he allegedly pummelled Harris and dragged her from a car by her hair", "label":"anecdote"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"though she later dropped the charges and testified that she had lied to police", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Mayweather bought Harries a $500,000, 25-carat diamond ring shortly afterwards", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"In 2011 he finally did jail time (90 days) for savagely beating Harris in front of their children", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"He might have done many more if he wasn't a multi- millionaire and a linchpin of the economy in his home state of Nevada", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Even boxing fans, who are usually loathe to judge fighters for their conduct outside the ring(few boxers are angels, after all), are unimpressed with Mayweather", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"And", "label":"no-unit"},
+    {"number":43, "text":"though boxing is a bit of a cultural afterthought these days, comments Mayweather made in support of abuser Ray Rice before his most recent fight focused the attention of the mainstream media on his unsavoury past", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Nevertheless", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":" he was unrepentant", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Though Mayweather's criminal past might not automatically disqualify him from receiving an Australian visa", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"he would have to sit a \"character test\" on arrival", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"If", "label":"no-unit"},
+    {"number":54, "text":"you watch the video above", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"I'm sure you'll agree that such a test could be a major stumbling block", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"In a similar case, Australia granted Mike Tyson, who was jailed for rape in 1992, a visa in 2012", "label":"anecdote"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"though New Zealand did not", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"So", "label":"no-unit"},
+    {"number":63, "text":"should Australia bar Mayweather?", "label":"assumption"},
+    {"number":64, "text":"What's to gain from him visiting?", "label":"assumption"},
+    {"number":65, "text":"He's a disgusting, unrepentant assaulter of women", "label":"assumption"},
+    {"number":66, "text":"and", "label":"no-unit"},
+    {"number":67, "text":"his\"I do what I want-ism\" is totally undesirable", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"America might be stuck with him", "label":"assumption"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":"but", "label":"no-unit"},
+    {"number":72, "text":"I don't see why we should welcome him and allow him to make money in our country", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Last year Australia cancelled the visa of pick up artist Julien Blanc, whose techniques included simulated choking of women in bars, after a social media campaign and protests at venues", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"There has been nothing simulated about Mayweather's repeated punching of the women in his life", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"so", "label":"no-unit"},
+    {"number":79, "text":"I'd imagine he (and the venues that welcome him) can expect the same treatment", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"On a more selfish note, I simply can't face the prospect of sections of the Australian media writing seriously about Anthony Mundine fighting Mayweather", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Mundine has begun to retweet fans(they are out there) who want him to call Mayweather out", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The flow of indistinguishable-from-parody articles has already begun", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Please Floyd, concentrate on fighting Manny", "label":"other"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"We'll be fine without you", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"No, really", "label":"no-unit"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ]
+]}

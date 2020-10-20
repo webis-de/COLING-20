@@ -1,0 +1,122 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Revisiting the British conquest of Jerusalem.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On December 11, 1917, a mere two days after the above letter was written, British General Edmund Allenby entered Jerusalem triumphantly through the Jaffa gate", "label":"anecdote"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"and", "label":"no-unit"},
+    {"number":5, "text":"the city became an occupied territory", "label":"anecdote"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"On this historic occasion, Allenby reportedly declared that \"the wars of the crusades are now complete\"", "label":"testimony"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"Allenby's statement is a powerful reminder that the British entry into Jerusalem was a continuation of and a \"successful\" conclusion to the Crusades", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Certainly", "label":"no-unit"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":" Allenby's statement introduces a critical epistemic connection between the modern British colonial project in Palestine and the Crusades of the 11-14th century", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"The then Prime Minister David Lloyd George described the capture of Jerusalem as \"a Christmas present for the British people\"", "label":"testimony"},
+    {"number":16, "text":";", "label":"no-unit"},
+    {"number":17, "text":"he had advised Allenby to take the city before the Holidays", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Allenby's statement on the Crusades was not an isolated one, as illustrated by a number of British press and book publications from the period", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"For example, Punch ran a headline on December 19, 1917 declaring \"the Last Crusade\" with an illustration of \"Richard Coeur de Lion looking down towards Jerusalem and nodding contentedly, 'My dream comes true!'\"", "label":"testimony"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"The British press was initially instructed in a \"private and confidential\" memo dated November 15, 1917, not to refer to the \"military operations against Turkey in any sense as a Holy War, a modern Crusade, or anything whatever to do with religious questions\"", "label":"testimony"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"However", "label":"no-unit"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":" the press after a brief period ignored the instructions and started using the word \"Crusade\" in discussing the occupation of Jerusalem", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"The memo was intended to prevent any friction with Muslim troops recruited from British colonies to fight in the war and avoid harming the alliance with Sharif Hussein of Mecca", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"More importantly, the British Department of Information itself began to use the word \"Crusade\" to convey a very distinctive religious and historical connection to earlier periods", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"The department celebrated in a telegram from Palestine that \"two of the commanders who have played a great part in the South Palestine campaign are descended from knights who fought in the wars of the Crusades\"", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"A few months after the conquest of Jerusalem, the Department of Information produced a 40-minute documentary entitled\"The New Crusades: With the British Forces on the Palestine Front\", thus articulating the new colonial adventure in distinctive religious terms", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Furthermore", "label":"no-unit"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":" a large number of books from the period had \"Crusade\" incorporated into their titles: \"Khaki Crusaders\" (1919), \"Temporary Crusaders\" (1919), \"The Modern Crusaders\" (1920), \"The Last Crusade\" (1920), \"With Allenby's Crusaders\" (1923), and \"The Romance of the Last Crusade\" (1923)", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"There was a clear urge to frame the colonisation project in Palestine in religious terms and view it as a continuation of the earlier Muslim-Christian conflict, despite claims of fighting the Ottomans on the basis of European secularism and anti-religious modernity", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"The British were not the only ones thinking in these terms", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"In his book The Clash of Fundamentalisms: Crusades, Jihads and Modernity, Tariq Ali describes how the French commander Henri Gouraud upon entering Damascus with his troops, went to Saladin's tomb, kicked it and proclaimed;\"The Crusades have ended now! Awake Saladin, we have returned! My presence here consecrates the victory of the Cross over the Crescent\"", "label":"testimony"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"The idea of the \"Crusade\" was incorporated into the support extended to the Zionist movement and the plan to establish a Jewish homeland in Palestine", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Indeed", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" theological interpretations and attempts at recreating the biblical past were aimed at ushering in a distorted extreme right-wing Christian vision of the world that involved Israel as a stepping stone for its realisation in anticipation of the Second Coming", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Colonisation project", "label":"no-unit"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"The British Occupation in 1917 made it possible to put into action the Balfour Declaration and the plan for building a Jewish homeland at the expense of the Palestinians", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"The British undertook this project not out of love or concern for Jews", "label":"assumption"},
+    {"number":58, "text":"-", "label":"no-unit"},
+    {"number":59, "text":"on the contrary some of the strongest supporters of Zionism were ardent anti-Semites, including Lord Balfour himself", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Europe's theoretically constructed racist, bigoted and intolerant attitudes and policies towards Jews were the primary reason for supporting Zionism", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"December 11, 1917 is the day that Jerusalem was lost", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"On this date, Palestine entered the colonial tunnel and the dispossession of its indigenous population began", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"From this date forward, Palestine, Jerusalem and the Palestinians were set on a course of confrontation with the British and the Zionists", "label":"assumption"},
+    {"number":68, "text":"who worked together to create a national home for the Jewish people", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"While", "label":"no-unit"},
+    {"number":71, "text":"the 1948 Nakba led to the physical expulsion of some 750,000 Palestinians", "label":"anecdote"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":"it is the British occupation in 1917 followed by the Mandate that sealed Palestine's fate as the last colonial project to be commissioned", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Thus", "label":"no-unit"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":" Zionism was incubated in the British colonial womb with an umbilical cord connected to Europe's settler, colonial and racist epistemology", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"The British occupation made it possible for Zionism to get a foothold in Palestine", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"What followed was the tormenting of the Palestinians through ethnic cleansing and expulsion, massacres, home demolitions, settlement expansions, land confiscation, everyday violence, attacks on al-Aqsa, building an Apartheid Wall and issuing more than 40 laws descriminating Palestinians", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"The last chapter of this story will be written by the Palestinians and their allies around the world", "label":"assumption"},
+    {"number":84, "text":"and", "label":"no-unit"},
+    {"number":85, "text":"for sure it will praise freedom, dignity and the end of racist colonialism in Palestine", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ]
+]}

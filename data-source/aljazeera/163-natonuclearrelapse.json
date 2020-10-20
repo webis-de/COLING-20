@@ -1,0 +1,240 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"NATO's nuclear relapse.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Moscow's latest tests of intercontinental missiles and its parading of nuclear capable strategic bombers have rightly prompted international concern", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In December 2014, Russian Foreign Minister Sergei Lavrov implied that Russia might be moving nuclear weapons to Crimea", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"From violations of airspace to near mid-air collisions, the number of incidents between Russia and NATO has soared dramatically", "label":"assumption"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"increasing the danger of an unintended escalation", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Yet", "label":"no-unit"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":" it is rarely mentioned that NATO, too, is back in the game of nuclear deterrence", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Washington has recently sent its nuclear capable B-2 and B-52 to Europe for training missions with its NATO partners", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"It also continues to test intercontinental ballistic missiles", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Most problematically, the western military alliance is currently modernising the air-launched nuclear gravity bombs that fall under NATO's nuclear sharing initiative", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"It is a warm afternoon and thick clouds hang over the houses and farmyards of Buchel, a small village in western Germany and home to 20 of NATO's remaining thermonuclear bombs on European soil", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Or", "label":"no-unit"},
+    {"number":23, "text":"so", "label":"no-unit"},
+    {"number":24, "text":"we can only speculate, for the exact location of these approximately 180 air-launched B61 weapons is of course secret", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"The local baker smiles uneasily when I ask her about the base and is quick to assure me that there is nothing to see", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"After a 20-minute walk through muddy fields, I can glimpse a large barbed wire fence on the horizon and what seems to be a succession of bunkeresque fortifications", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"A biting smell of kerosene creeps up my nose", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"A sign warns me that soldiers may make use of their weapons if I enter", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"As", "label":"no-unit"},
+    {"number":35, "text":"I walk back across the fields, I frighten a herd of deer that scramble into the bushes", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Suddenly, a jet plane soars into the sky with a deafening thunder", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"In the event of a nuclear war, it would most likely be heading East from here", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Designed in the 1960s for use by high-speed aircraft, the thermonuclear B61 is a versatile weapon that comes both as an intermediate range strategic and a short-range tactical weapon with a wide variety of yields", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"A relic of the early Cold War, it is not just a US but a \"NATO weapon\"", "label":"assumption"},
+    {"number":44, "text":"in that its stationing and delivery also involves non-nuclear member states, such as Belgium, Germany, Italy, the Netherlands and Turkey", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Tactical nukes are particularly problematic", "label":"assumption"},
+    {"number":47, "text":"because their short range provides the missing link between a localised conventional war and a highly improbable global exchange of strategic nuclear missiles between Moscow and Washington", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Tactical nuclear weapons are no status quo weapons", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Their battlefield purpose increases the chance of a nuclear escalation", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"which is why the superpowers removed most of them from Central Europe in the late 1980s and early 1990s", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"If", "label":"no-unit"},
+    {"number":56, "text":"everything goes to plan", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"the controversial B61 weapons will be modernised by around 2020", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"This \"life extension programme\" is not simply an initiative to replace rusty old nukes with shiny new ones, but an attempt to increase their accuracy, to replace free fall with precision guided bombs", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Ultimately, this will transform the B61 into a new kind of weapon and undermine any pretence that the West is still in the game of denuclearisation", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Interestingly, plans to modernise the B61 were initiated in April 2010, only shortly after NATO decided to scrap its nuclear missile shield in Eastern Europe and in the same month that the two largest nuclear powers signed a new Strategic Arms Reductions Treaty", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"How does NATO explain this nuclear relapse precisely at a time when the alliance had just \"reset\" its relations with Russia?", "label":"assumption"},
+    {"number":67, "text":"And what role does the B61 play in the Ukrainian proxy war?", "label":"assumption"}
+  ],
+  [
+    {"number":68, "text":"Jamie Shea is famous in Brussels for his rhetorical skill, expressive body language and London twang", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"\"He could sell you a landmine if he wanted to\", an activist once told me about the man", "label":"testimony"},
+    {"number":71, "text":"who spun NATO's war against Serbia to a lethargic European public 15 years ago", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"The alliance's Deputy Assistant Secretary General has come to University College London to talk to students about the Ukrainian crisis and Europe's new security architecture", "label":"anecdote"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Charming his audience with jokes and anecdotes", "label":"no-unit"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"Shea tells the story of an underfunded alliance that urgently needs to up its military game", "label":"assumption"},
+    {"number":78, "text":"if", "label":"no-unit"},
+    {"number":79, "text":"it wants to stand up to Putin's Russia", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"He is excited about NATO's new \"very high readiness joint task force\" and about new and larger planned NATO manoeuvrrs in Eastern Europe", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"One topic he has precious little to say about is the alliance's nuclear policy", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"When", "label":"no-unit"},
+    {"number":86, "text":"I prompt him", "label":"assumption"},
+    {"number":87, "text":", Shea explains that while the life extension programme was originally meant to provide NATO with a bargaining chip for future nuclear disarmament talks with the Kremlin, Russia's involvement in Eastern Ukraine fundamentally altered the strategic context, rendering the B61 \"once again a part of NATO's deterrence posture\"", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"\"I'm not nostalgic for the Cold War\", he laughs,\"but you have to prepare for Cold War mark two even if you don't want it\"", "label":"testimony"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"In this, Shea is on the same page as US Secretary of State John Kerry", "label":"assumption"},
+    {"number":92, "text":"who recently claimed that the crisis in Ukraine was calling NATO\"back to the role that this alliance was originally created to perform\"", "label":"testimony"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Why this relapse to what Shea calls\"the nuclear game\"?", "label":"assumption"}
+  ],
+  [
+    {"number":95, "text":"The first part of the answer lies in NATO's recent failures", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Clearly, the stand off with Russia is a welcome distraction from its fiasco in Afghanistan and the alliance's lack of a purpose in the absence of Milosevic or Gaddafi", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Yet", "label":"no-unit"},
+    {"number":100, "text":",", "label":"no-unit"},
+    {"number":101, "text":" there is more to this than just an identity crisis", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"NATO, as Trine Flockhardt so aptly puts it, is something of a \"nuclear addict\"", "label":"testimony"},
+    {"number":104, "text":"-", "label":"no-unit"},
+    {"number":105, "text":"it hangs on to its nuclear weapons despite frequently declaring its desire to abandon them", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"Both US President Obama and NATO's new General Secretary Stoltenberg are known advocates of nuclear disarmament", "label":"assumption"},
+    {"number":108, "text":"- but", "label":"no-unit"},
+    {"number":109, "text":"in 2014 their alliance is stepping up its nuclear deterrence", "label":"assumption"},
+    {"number":110, "text":"and", "label":"no-unit"},
+    {"number":111, "text":"the US administration is pouring $1trn into the future of its nuclear weapons systems", "label":"anecdote"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"There are obvious pressures behind this nuclear habit, from the nuclear arms industry via hawkish politicians and generals to certain Eastern European NATO members", "label":"assumption"},
+    {"number":114, "text":"- but", "label":"no-unit"},
+    {"number":115, "text":"the real issue is a lack of public scrutiny", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"In the UK, the debate about nuclear weapons tends to concentrate on Britain's nuclear submarines and what would happen to them if Scotland declared independence", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"The US is currently preoccupied with the safety of its nuclear silos", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"These issues are of course important", "label":"assumption"},
+    {"number":122, "text":",", "label":"no-unit"},
+    {"number":123, "text":"but", "label":"no-unit"},
+    {"number":124, "text":"they should not cause us to overlook NATO's nuclear relapse", "label":"assumption"},
+    {"number":125, "text":".", "label":"no-unit"},
+    {"number":126, "text":"People like Shea publicly admit their relief that the public has kept so quiet about nuclear weapons since the end of the Cold War", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":128, "text":"Indeed", "label":"no-unit"},
+    {"number":129, "text":",", "label":"no-unit"},
+    {"number":130, "text":" governments remember all too well their predecessors' struggles with the peace and anti-nuclear movement of the 1980s", "label":"assumption"},
+    {"number":131, "text":".", "label":"no-unit"},
+    {"number":132, "text":"This is why today's NATO does\"not want to wake up a sleeping dog\", he explains", "label":"testimony"},
+    {"number":133, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":134, "text":"In 2014, the spotlight briefly returned to that one-time symbol of division in Europe, the Berlin wall", "label":"assumption"},
+    {"number":135, "text":".", "label":"no-unit"},
+    {"number":136, "text":"Even Mikhail Gorbachev attended the festivities on November 9, a spectacle of lights, balloons and emotions", "label":"anecdote"},
+    {"number":137, "text":".", "label":"no-unit"},
+    {"number":138, "text":"Twenty-five years after its fall, the Berlin wall is one of the world's most heavily memorialised sites, a tourist attraction like few other 20th century structures", "label":"assumption"},
+    {"number":139, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":140, "text":"But", "label":"no-unit"},
+    {"number":141, "text":"while", "label":"no-unit"},
+    {"number":142, "text":"the wall remains the symbol of the Cold War in schoolbooks, op-eds and emotive speeches", "label":"assumption"},
+    {"number":143, "text":",", "label":"no-unit"},
+    {"number":144, "text":"it is also a highly problematic one", "label":"assumption"},
+    {"number":145, "text":".", "label":"no-unit"},
+    {"number":146, "text":"Rather than representing the threat of mutual nuclear annihilation, it always stood for a much simpler lesson - that of the West's moral victory over the \"prison\" of real existing socialism", "label":"assumption"},
+    {"number":147, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":148, "text":"If", "label":"no-unit"},
+    {"number":149, "text":"we want to understand the Cold War in all its self-destructiveness", "label":"assumption"},
+    {"number":150, "text":",", "label":"no-unit"},
+    {"number":151, "text":"we need to look elsewhere", "label":"assumption"},
+    {"number":152, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":153, "text":"A visitor to villages that lie near nuclear weapons storage sites in Europe might be surprised to be greeted by American flags in shop windows and front gardens", "label":"assumption"},
+    {"number":154, "text":".", "label":"no-unit"},
+    {"number":155, "text":"This form of identification with US nuclear weapons is puzzling given that these sites would be primary targets in the event of a nuclear war with Moscow", "label":"assumption"},
+    {"number":156, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":157, "text":"The West is currently too preoccupied with Russia's new nuclear militarism to notice the way that its own military alliance functions as an agent of regional insecurity", "label":"assumption"},
+    {"number":158, "text":".", "label":"no-unit"},
+    {"number":159, "text":"Lest", "label":"no-unit"},
+    {"number":160, "text":"we forget", "label":"no-unit"},
+    {"number":161, "text":",", "label":"no-unit"},
+    {"number":162, "text":"NATO never abandoned its \"first use\" doctrine", "label":"assumption"},
+    {"number":163, "text":".", "label":"no-unit"},
+    {"number":164, "text":"It does not rule out the possibility of being first to go nuclear in an armed conflict with another nuclear power", "label":"assumption"},
+    {"number":165, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":166, "text":"Some will argue that \"now is not the time\" to start a public debate on NATO's tactical nukes", "label":"assumption"},
+    {"number":167, "text":",", "label":"no-unit"},
+    {"number":168, "text":"but", "label":"no-unit"},
+    {"number":169, "text":"even these critics would have to concede that the modernisation of the B61 further compromises the West's position in the 2015 revision of the Nuclear Non-Proliferation Treaty", "label":"assumption"},
+    {"number":170, "text":".", "label":"no-unit"},
+    {"number":171, "text":"If a new arms race is to be prevented in its infancy", "label":"assumption"},
+    {"number":172, "text":",", "label":"no-unit"},
+    {"number":173, "text":"the sleeping dog might have to learn to bark and bite again", "label":"assumption"},
+    {"number":174, "text":".", "label":"no-unit"}
+  ]
+]}

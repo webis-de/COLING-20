@@ -1,0 +1,168 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Can solar power replace oil in the Middle East?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The rise of shale has posed a rare challenge to Middle Eastern oil, culminating in a global oil price war and moving OPEC members to slash profits to retain market share", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"But at a time", "label":"no-unit"},
+    {"number":5, "text":"when OPEC's hegemony over the oil markets has been challenged", "label":"assumption"},
+    {"number":6, "text":",", "label":"no-unit"},
+    {"number":7, "text":"let us not forget there is another abundant natural energy resource the Middle East possesses - the sun", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"The abundance of sunlight (and therefore solar power) offers Middle Eastern energy producers an opportunity to achieve first-move advantage in a market that appears to be the longer-term future of energy", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"In light of recent instability in oil markets, the importance of alternative renewable energies, particularly solar, has become all the more pronounced", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"The drop in oil prices has precipitated an efficiency rush in energy production in all producer nations", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"In the US, oil producers are leaving no stone unturned in the hunt to become as efficient and sustainable as possible", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"In Europe, there is a renewed push for renewable energy", "label":"assumption"},
+    {"number":18, "text":"and", "label":"no-unit"},
+    {"number":19, "text":"some countries like the UK are also pursuing nuclear energy as a longer-term solution", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"In the Gulf, there are similar measures taking place to become more efficient in a more competitive energy market", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"and", "label":"no-unit"},
+    {"number":24, "text":"increasingly, they are turning to solar to achieve it", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Domestic budgets", "label":"no-unit"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"The Gulf states remains one of the biggest oil producers in the world, and make up the biggest exporting members of OPEC, especially Saudi Arabia", "label":"statistics"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"While some of these countries can afford to swallow current oil prices for now", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"they will nonetheless find it difficult to maintain their domestic budgets", "label":"assumption"},
+    {"number":33, "text":"- all OPEC countries chose to cut prices in order to hold onto market share", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"this means slashing profit", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"It would not be unprecedented for these countries to encounter domestic trouble", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"The other, more serious concerns for these major oil producers, is the increasing consumer demand in their own countries", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In past decades, the region has been able to sustain luxury alongside completely inefficient energy policies through government subsidies", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"But the entire energy outlook for the region is changing rapidly", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Rising populations, a growing middle class, industry diversification and increasing consumerism has turned a number of countries in the Gulf region into major energy consumers", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"In Saudi Arabia, oil accounts for over 65 percent of all electricity production", "label":"statistics"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"in Kuwait it is 71 percent", "label":"statistics"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"in Lebanon it is 94 percent", "label":"statistics"},
+    {"number":52, "text":"and", "label":"no-unit"},
+    {"number":53, "text":"in Yemen it's an astonishing 100 percent", "label":"statistics"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"This represents an energy policy that is inefficient and in the long run - unsustainable", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Saudi Arabia is the biggest petroleum consumer in the region", "label":"statistics"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"it is the world's second biggest consumer of total primary energy, 60 percent of which is petroleum-based", "label":"statistics"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"But most importantly, it paints a distressing future for the region's oil export industry", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"If", "label":"no-unit"},
+    {"number":64, "text":"consumer demand continues to grow", "label":"assumption"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"it will eventually result in downward pressure on oil exports and could start affecting subsidies", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Without a robust and efficient energy balance in the region, it will inevitably lead to these producer nations becoming less profitable with a weaker export outlook", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"And with competitors in the oil market like Russia, Iran and the North American shale, this is a long-term dynamic that will undermine Middle East's global energy dominance", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"However", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":" the possibilities associated with harnessing Middle Eastern solar energy could be a game-changer", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Solar is becoming much cheaper to invest in, and now has an established and ever improving infrastructure", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Substantial investment in solar will act as a shield for the region's more valued commodity; oil", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Saudi Arabia alone for example, could have made$43.8bn in additional oil revenue in 2013 were it not for its spiralling domestic consumption", "label":"statistics"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"It also would have acted as a massive stimulus to the country's finances", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Earlier this year, Saudi Aramco, the state oil company, announced it would be making solar energy investments across the country in an attempt to diversify the country's energy supplies", "label":"anecdote"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"It is also expected to conserve the country's oil resources primarily for export", "label":"anecdote"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"It has been a slow process but is nonetheless an important one for the future of the solar energy sector", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"One of the biggest success variables for any solar energy project is not just investment, but location", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"The Middle East's solar industry is one of the most economically sustainable and acts as the best conserver of the region's oil resources", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Investment opportunity", "label":"no-unit"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"It is also a very strong investment opportunity for those looking to invest in a sustainable, long-term energy sector with a ready market and significantly lower start-up costs then depleting energy exploration", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"But these new developments would also have another important advantage for the Middle East; a cleaner environment", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"The use of petroleum for electricity generation has made the Middle East's air quality one of the poorest in the world", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Twenty-nine of the world's most polluted cities are in the MENA region", "label":"statistics"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"Recent energy challenges could have very costly consequences for the region", "label":"assumption"},
+    {"number":105, "text":"if", "label":"no-unit"},
+    {"number":106, "text":"left unaddressed", "label":"assumption"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":"but", "label":"no-unit"},
+    {"number":109, "text":"they could also reap huge rewards", "label":"assumption"},
+    {"number":110, "text":"if", "label":"no-unit"},
+    {"number":111, "text":"met with robust energy reforms and additional investment in alternative energies, especially solar", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"And there are positive signs for the region", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"Saudi Arabia alone has announced a $109bn investment plan to generate a third of its electricity", "label":"statistics"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"Qatar has also made solar energy agreements with major renewable energy companies as part of its commitments to the Solar GCC alliance", "label":"anecdote"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"How these measures materialise over the next decade or so remains to be seen", "label":"assumption"},
+    {"number":120, "text":",", "label":"no-unit"},
+    {"number":121, "text":"but", "label":"no-unit"},
+    {"number":122, "text":"there is room for optimism", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"},
+    {"number":124, "text":"What's", "label":"no-unit"},
+    {"number":125, "text":"more", "label":"no-unit"},
+    {"number":126, "text":",", "label":"no-unit"},
+    {"number":127, "text":"the Middle East's unrivalled solar potential means that theoretically, it can become more then a just a world leader in fossil fuel production", "label":"assumption"},
+    {"number":128, "text":",", "label":"no-unit"},
+    {"number":129, "text":"it can become a world leader in renewable energy production as well", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"}
+  ]
+]}

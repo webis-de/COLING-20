@@ -1,0 +1,196 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Immigration: Congress must reassert its authority and preserve our Constitution.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It's unconstitutional", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"It's reckless", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"It's lawless", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"All these things have been said about President Obama's executive action on immigration--a breathtaking order that not only changes laws passed by Congress, but will likely send millions of mostly low-skill workers flooding into a workplace that is already struggling to raise wages and find room for all those needing jobs", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Immigration is a remarkably complex subject, and not just as a matter of policy", "label":"common-ground"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Our nation's immigration laws can be difficult to understand", "label":"common-ground"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Our Constitution, however, isn't complicated", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Our system of government is simple", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"Congress writes the law", "label":"common-ground"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"the president executes the law", "label":"common-ground"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"and", "label":"no-unit"},
+    {"number":23, "text":"the judiciary interprets the law", "label":"common-ground"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The president does not make new law", "label":"common-ground"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"That concept is called the \"separation of powers,\"", "label":"common-ground"},
+    {"number":28, "text":"and", "label":"no-unit"},
+    {"number":29, "text":"it's of core importance to our democracy", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"As a bulwark against tyranny, our Founders determined that no single branch of government could perform all the functions of government-- making, enforcing, and interpreting the law", "label":"common-ground"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"In other words", "label":"no-unit"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":" our Founders took the classic powers of a king and divided them between the legislative, executive, and judicial branches", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"For our government to work, those functions must remain separate", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"But President Obama disagrees with the Founders", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In his view, apparently, government is only truly \"working\" when he gets the policies he wants", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"When he doesn't, he calls that \"obstructionism\" and gets busy finding workarounds to democracy", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"While presidents do have a degree of discretion in determining exactly how to enforce the law", "label":"common-ground"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"President Obama's immigration actions go far, far beyond that lawful discretion and veer directly into lawmaking, the exclusive role of the legislature", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Here's how", "label":"other"},
+    {"number":50, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"President Obama is taking action in direct defiance to Congress's \"expressed or implied intent,\"", "label":"assumption"},
+    {"number":52, "text":"and", "label":"no-unit"},
+    {"number":53, "text":"that means his power--constitutionally--is at its \"lowest ebb.\"", "label":"assumption"}
+  ],
+  [
+    {"number":54, "text":"Supreme Court Justice Robert Jackson, in the seminal case of Youngstown Sheet & Tube Co  v  Sawyer, outlined an influential three-part test for executive action", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Presidential power is \"at its maximum\" when acting pursuant to congressional authorization", "label":"testimony"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"There is a \"zone of twilight\" when the distribution of power between Congress and the president is uncertain", "label":"testimony"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Then", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":" there's the \"lowest ebb,\" when the president defies Congress", "label":"testimony"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"That's exactly what President Obama did", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Article I of the Constitution grants Congress -- not the president -- the power to \"establish a uniform Rule of Naturalizations,\"", "label":"common-ground"},
+    {"number":67, "text":"and", "label":"no-unit"},
+    {"number":68, "text":"Congress has acted under that power to write and pass a comprehensive set of immigration statutes", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Many people disagree with those laws", "label":"assumption"},
+    {"number":71, "text":"--", "label":"no-unit"},
+    {"number":72, "text":"and", "label":"no-unit"},
+    {"number":73, "text":"President Obama is particularly dissatisfied", "label":"assumption"},
+    {"number":74, "text":"--", "label":"no-unit"},
+    {"number":75, "text":"but", "label":"no-unit"},
+    {"number":76, "text":"they are still the law", "label":"common-ground"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"And the president certainly can't hide behind \"prosecutorial discretion.\"", "label":"assumption"},
+    {"number":79, "text":"The Office of Legal Counsel (OLC) --the government lawyers President Obama asked to evaluate his proposed program-- were clear, declaring that the president cannot \"under the guise of exercising enforcement discretion, attempt to effectively rewrite the laws to match its policy preference.\"", "label":"testimony"}
+  ],
+  [
+    {"number":80, "text":"Thus", "label":"no-unit"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"as the Secretary of Homeland Security said,\"As an act of prosecutorial discretion, deferred action is legally available so long as it is granted on a case-by-case basis, and it may be terminated at any time at the agency's discretion.\"", "label":"testimony"}
+  ],
+  [
+    {"number":83, "text":"But", "label":"no-unit"},
+    {"number":84, "text":"did President Obama promise a \"case-by-case\" determination", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"or", "label":"no-unit"},
+    {"number":87, "text":"did he make a sweeping promise to millions of illegal immigrants?", "label":"assumption"},
+    {"number":88, "text":"He didn't promise them a careful review", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"he promised them a deal", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Here are his words", "label":"other"},
+    {"number":93, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"So we're going to offer the following deal: If you've with been in America more than five years. If you have children who are American citizens or illegal residents. If you register, pass a criminal background check and you're willing to pay your fair share of taxes, you'll be able to apply to stay in this country temporarily without fear of deportation", "label":"assumption"},
+    {"number":95, "text":". You can come out of the shadows and get right with the law. That's what this deal is", "label":"testimony"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"Tuesday, I am testifying before the House Judiciary Committee", "label":"anecdote"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"I am examining the \"deal\" President Obama offers and compare it with the requirements of the law -- the requirement of a case-by-case review", "label":"anecdote"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"The \"deal\" does not match the law", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":103, "text":"Put simply", "label":"no-unit"},
+    {"number":104, "text":",", "label":"no-unit"},
+    {"number":105, "text":"if", "label":"no-unit"},
+    {"number":106, "text":"President Obama is enacting the \"case-by-case\" review mandated by the OLC memo", "label":"assumption"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":"he is misleading the four million illegal aliens he encouraged to come \"out of the shadows.\"", "label":"assumption"},
+    {"number":109, "text":"If", "label":"no-unit"},
+    {"number":110, "text":"he is defying the attorneys at the OLC and giving illegal aliens the \"deal\" he promised", "label":"assumption"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":"then he is misleading the American public", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"No one disputes that our nation faces an immigration challenge", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"We've got a porous, dangerous border, a flood of illegal immigrants whose increasing numbers drive down wages and can overburden social services", "label":"assumption"},
+    {"number":117, "text":",", "label":"no-unit"},
+    {"number":118, "text":"and", "label":"no-unit"},
+    {"number":119, "text":"we've got millions of people in the country who are looking for some form of permanent status", "label":"statistics"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"No one doubts that legislative reform is necessary", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":123, "text":"I believe we need comprehensive immigration reform beginning with securing our borders", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"We truly are a nation of immigrants", "label":"common-ground"},
+    {"number":126, "text":".", "label":"no-unit"},
+    {"number":127, "text":"I am the grandson of a Russian immigrant", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"But that reform must be done lawfully and in accordance with the Constitution", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":131, "text":"The bottom line", "label":"no-unit"},
+    {"number":132, "text":":", "label":"no-unit"},
+    {"number":133, "text":"impatient presidents may not violate the Constitution if they don't get their way", "label":"common-ground"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":135, "text":"In doing so-- in circumventing Congress to change the law-- President Obama has set a dangerous precedent", "label":"assumption"},
+    {"number":136, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":137, "text":"Congress must reassert its authority and preserve our Constitution", "label":"assumption"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"Our democracy is at stake", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"}
+  ]
+]}

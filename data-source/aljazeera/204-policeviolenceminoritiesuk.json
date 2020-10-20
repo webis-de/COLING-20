@@ -1,0 +1,145 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"In the UK, we also can't breathe.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A member of the \"United Friends and Families Campaign\" spoke to protesters about some of these cases, including that of a 40-year-old mother, Joy Gardner", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Her only relation to Eric Garner, he explained, is that she, too, couldn't breathe after 13 feet of tape was wrapped in at least seven complete turns around her head", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"She fell into a coma and was pronounced dead four days later", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Azelle Rodney, 24, was killed in 2005", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"He was shot six times within two seconds of police officers ramming the vehicle in which he was travelling", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"His body was then left on the pavement for 16 hours - not unlike Mike Brown in the streets of Ferguson", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Only after nearly 10 years of campaigning led by Rodney's mother, Susan Alexander, is an officer now facing a murder charge", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Among those who addressed protesters was Marcia Rigg, the sister of Sean Rigg", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"He died in police custody at the entrance to Brixton police station in 2008 after a violent arrest", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Despite being clearly unwell, he had been handcuffed and left dying on the floor", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"A police officer, filmed on CCTV, said that he was \"faking it\"", "label":"testimony"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Christopher Alder died while in police custody at Queen's Gardens Police Station in Kingston upon Hull", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Having been taken to the station with a head injury, he was unresponsive", "label":"anecdote"},
+    {"number":27, "text":"when he was dragged from a police van", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"He lay on the floor of the custody suite for 11 minutes, CCTV footage shows, gasping for breath, with his hands cuffed behind him and his trousers round his ankles", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"A pool of blood formed around his mouth", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Instead of being given medical attention, five police officers stood around commenting that he was \"right as rain\" and his agony was \"just a show\"", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"They even made monkey noises", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"Four years earlier in 1994, Shiji Lapite died after being placed in a police van in east London", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"A post-mortem found that Lapite had died of asphyxiation, suggesting that police officers had used a chokehold", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"But", "label":"no-unit"},
+    {"number":42, "text":"while", "label":"no-unit"},
+    {"number":43, "text":"the inquest into his death recorded a verdict of unlawful killing", "label":"anecdote"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"the Crown Prosecution Service declined to prosecute the officers involved", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"In fact", "label":"no-unit"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":" no officer has been convicted over a death in police custody since 1969", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"when", "label":"no-unit"},
+    {"number":52, "text":"the two Leeds police officers responsible for the death of David Oluwale, were found guilty of assault", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Negative experiences of police treatment are a consistent feature of the lives of many people, especially those who are young, black and come from the working class", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Families often suffer not just the initial news of the deaths of their loved ones in custody, but a concerted media campaign from the police smearing the reputations of the victim in the following weeks", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"The family of Mark Duggan weren't even informed of his death, instead finding out from TV news", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"And these deaths represent only the worst and most painful cases of police violence", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Many \"lesser\" incidents go virtually unreported", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Even when these are recorded- as was a London police officer's threat that \"if you say one more fucking word, I'll smash your fucking Arab face in\" to a 16-year-old teenager in 2005- officers never face serious charges", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Since the Macpherson report of 1999, which famously pointed to \"institutional racism\" within the Met, there has been little evidence of structural or far- reaching change in the way the police are held accountable", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"As in other European countries, especially France, anger at the police in the UK has repeatedly boiled over into riots", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"The police killing of Duggan in 2011, which sparked the riots of that summer, is the clearest recent case", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Eighty-five percent of participants in those riots who were questioned by the Reading the Riots study said policing was an \"important\" or \"very important\" factor in why the riots happened", "label":"statistics"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"They pointed to long histories of being subjected to humiliating stop-and- searches and beatings by the police", "label":"testimony"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"who were often described as operating like a \"gang\"", "label":"testimony"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"The common view is that there is little point in attempting recourse via the official police complaint procedures", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"This was confirmed by a recent investigation by Channel 4 Dispatches", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"which showed that just one percent of allegations of racism by members of the public against the police in England and Wales were upheld over an eight year period", "label":"statistics"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"And yet", "label":"no-unit"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":" despite our knowledge that experiences of police violence have led to riots, the reaction of successive British governments has been to implement ever-harsher policing, especially in black and working-class communities", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"This coincides with a continued police clampdown in Muslim communities that has generated widespread anger for its methods, including the manufacture of evidence against Muslim suspects and long imprisonment periods for writing Facebook posts", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"We demonstrated on December 10 not only to show solidarity with those in the US, but also to point to the similar struggles for justice that we are facing here in the UK", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"In the late evening, dozens of protesters were corralled in the cold for over an hour before being arrested, loaded onto two buses commandeered for the purpose, and driven to various police stations around London", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"Many were kept in the cold for hours before being led to holding cells", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Many were released miles from home in the very early morning", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"There can be little doubt that this tactic of mass arrests, which is becoming more prominent, is aimed at dissuading future protest", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Those arrested are given \"interview\" dates well into the future - often with stringent bail conditions - and warned about commenting publicly before this date", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"They are, as such, effectively gagged", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"There is no small irony in this response to a demonstration about police violence", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"But we have little intention of remaining silent", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"After decades of campaigning led by affected families, the movement for police accountability is developing new tactics and involving a growing number of young people who are determined to be the generation that sees change", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"Along with our friends in the US, we adopt Garner's words to the police as our slogan", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"This stops today", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ]
+]}

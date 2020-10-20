@@ -1,0 +1,139 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Why Vladimir Putin should be at the Auschwitz memorial ceremony.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On 27 January 1945 a reconnaissance patrol from the Soviet 107th Rifle Division emerged from the snow-laden forest 70km west of Krakow", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The soldiers were mounted on shaggy ponies, their submachine guns slung across their backs", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"In front of them stood Auschwitz-Birkenau, the grimmest symbol of modern history", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"Officers gazed around in disbelief, then called in medical teams to care for the 3,000 sick prisoners left behind", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"It is a great shame that Vladimir Putin, having not been invited, won't be present at a memorial ceremony next week to mark the 70th anniversary", "label":"assumption"},
+    {"number":11, "text":"-", "label":"no-unit"},
+    {"number":12, "text":"at the very least, it would have reminded the world that the advance of Stalin's Red Army forced the SS to abandon the extermination camps in the east", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"And yet the muted row over the Russian president's absence is a reminder that this particular chapter in Russia's second world war history was, and remains, full of contradictions", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"The first death camp to be liberated by the Red Army was Majdanek just outside Lublin, in July 1944", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"The novelist and war correspondent Vasily Grossman was on the spot with the 8th Guards Army", "label":"anecdote"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"which had defended Stalingrad", "label":"anecdote"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"but", "label":"no-unit"},
+    {"number":24, "text":"an order came down that he was not to cover the story", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"The job was given instead to Konstantin Simonov, a favourite of the regime", "label":"anecdote"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"who managed to avoid mentioning that any of the victims in Majdanek were Jewish", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Grossman, despite warnings from his friend Ilya Ehrenburg, had been slow to believe that antisemitism could exist within the Soviet hierarchy during the death struggle with Nazism", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"But in 1943 he had noticed that any reference to Jewish suffering was being cut from his articles", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"He wrote to complain to Aleksandr Shcherbakov, the chief of the Red Army political department", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"Shcherbakov replied:\"The soldiers want to hear about [Russian military hero of the Napoleonic era] Suvorov, but you quote[German 19th-century poet] Heine\"", "label":"testimony"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"Grossman joined Ehrenburg on the Jewish Anti-Fascist Committee to chronicle Nazi crimes, unaware of how dangerous this might prove to be", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"Several of their colleagues were murdered by the secret police", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Certain truths about the Shoah could never be published", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"When", "label":"no-unit"},
+    {"number":45, "text":"Grossman wrote about the extermination camp of Treblinka", "label":"anecdote"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"he could not reveal that the auxiliary guards were mostly Ukrainian", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Collaboration with the enemy was a taboo subject", "label":"assumption"},
+    {"number":50, "text":"since", "label":"no-unit"},
+    {"number":51, "text":"it undermined the rhetoric of the Great Patriotic War", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"As the end of the war approached, controls became even stricter", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"Auschwitz may have been liberated at the end of January 1945", "label":"anecdote"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":"but", "label":"no-unit"},
+    {"number":58, "text":"no details were released until the final victory in May", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"The Jewish Anti-Fascist Committee soon found that its work was in direct opposition to the party instruction", "label":"assumption"},
+    {"number":61, "text":":", "label":"no-unit"},
+    {"number":62, "text":"\"Do not divide the dead!\"", "label":"testimony"},
+    {"number":63, "text":"Jews were not to be seen as a special category of suffering", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"They were to be described only as citizens of the USSR and Poland", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Thus in a way Stalin was the first Holocaust denier", "label":"assumption"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"even if", "label":"no-unit"},
+    {"number":70, "text":"his antisemitism was not quite the same as that of the Nazis", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"It was probably based more on a xenophobic suspicion of international connections than on racial hatred", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Soviet propaganda, while designating those killed at Auschwitz in collectively anonymous terms as \"victims of fascism\", also portrayed the extermination camp as the ultimate capitalist factory, where the workers were murdered when no longer useful", "label":"testimony"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"And there was a further twist away from the truth", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"The Stalinists emphasised how many Poles had died there to distract attention from their own crimes against the Polish people, both following the Red Army's unprovoked invasion in 1939 under the Molotov-Ribbentrop pact, and its brutal occupation from 1944", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"They portrayed Auschwitz as the place of martyrdom for the Polish nation", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"By talking only of the Polish Catholics who had died there, they hoped that the Poles might focus any anger at their bitter fate entirely against Germany and not against the Soviet Union", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Few Poles were taken in during those postwar years of Soviet oppression", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"And now Putin's ill-disguised attempts to reassert Russian control over Ukraine have of course reminded the Polish people all too clearly of what Soviet \"liberation\" meant for them in 1945", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"It is not therefore surprising that we should be seeing a certain amount of diplomatic shadow-boxing in the background", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"while", "label":"no-unit"},
+    {"number":91, "text":"both sides insist everything is normal", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"The Kremlin is pretending not to have been snubbed by the fact that President Putin has not been asked to the commemoration event", "label":"assumption"},
+    {"number":94, "text":";", "label":"no-unit"},
+    {"number":95, "text":"meanwhile, the Polish government insists it was not issuing formal invitations", "label":"testimony"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"The Auschwitz international committee, which includes a Russian representative, was simply asking each government who would be representing them", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"Putin made a speech at Auschwitz 10 years ago on the 60th anniversary", "label":"anecdote"},
+    {"number":100, "text":",", "label":"no-unit"},
+    {"number":101, "text":"and", "label":"no-unit"},
+    {"number":102, "text":"no doubt he will again proclaim in Moscow on 9 May- Russia's Victory Day - that the Red Army's defeat of \"the fascist beast\" saved Europe from Nazi slavery", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"But those countries, especially Poland and the Baltic states, that experienced the ensuing 40 years of Communist dictatorship glance nervously east once more", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"Russia, obsessed for centuries by a fear of encirclement and surprise attack, has always felt justified in dominating its \"near abroad\"", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"It was Stalin's shock at Hitler's invasion in 1941, and his consequent determination to create a defensive cordon, that led to the cold war", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"Putin, fortunately, is a very pale imitation of his hero", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":112, "text":"o Antony Beevor's next book, Ardennes - 1944: Hitler's Last Gamble, is out in May", "label":"other"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ]
+]}

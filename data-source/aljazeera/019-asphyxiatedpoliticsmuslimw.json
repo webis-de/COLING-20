@@ -1,0 +1,221 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The asphyxiated politics of the Muslim world.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"With", "label":"no-unit"},
+    {"number":3, "text":"ISIL spurring negative media for the past six months and other violent groups competing not far behind in evil acts", "label":"assumption"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"Muslims everywhere have been licking their wounds in recent times", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"2014 has been worse", "label":"assumption"},
+    {"number":8, "text":"and", "label":"no-unit"},
+    {"number":9, "text":"the crises are worsening", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Will the Muslim world be able to pull itself up from this low or enter into long-term anarchy?", "label":"assumption"}
+  ],
+  [
+    {"number":12, "text":"The fundamental reason behind this shameful situation in many Muslim countries is clearly the failure of political leadership, exacerbated by the sheepish role of the religious scholars and an absence of a strong civil society", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Islam is still central to Muslim life", "label":"assumption"},
+    {"number":15, "text":";", "label":"no-unit"},
+    {"number":16, "text":"it once shaped Muslims into a successful global community - an \"ummah\" of purpose - with a few core beliefs, values and deeds for the good of all", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"In spite of many pitfalls, sometimes big, Muslims succeeded in building a civilisation that upheld universal human values, blended with the Islamic principles of pluralism", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Unpleasant state of affairs", "label":"no-unit"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"But", "label":"no-unit"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":" with an increasing knowledge deficit over centuries, the Muslim social and spiritual capitals were dwindling", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"As their individual life was losing the spark of faith and positive action, their public life or political leadership was taken over by people of lower moral clarity and spiritual strength", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"Much of the world of Islam is now riddled with political strangulation, economic mismanagement and social division", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"The post-colonial breed of corrupt, incompetent and often repressive rulers - having little regard for the ordinary people and their human rights or respect for the rule of law - have made their countries ungovernable", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Some are no better than the Soviet-era communist rulers", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Failed politics has widened the rift between political camps, particularly between secularists and Islamists, in some countries", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"This has worsened the social divide, with increased intolerance and violence", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"All this is impacting negatively on the nascent Muslim minority communities in the West", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"The collapse of politics in Iraq and Syria in recent years set off a ruthless proxy war in these historic lands, with the destruction of infrastructure and an unprecedented refugee crisis", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"The rise of ISIL and its alluring attraction of young recruits from around the world, including from Muslim minority countries, has raised global Islamophobia to a new level", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"Politicians are meant to act in the interests of their people", "label":"common-ground"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"It is not only their civic duty but for a Muslim politician it is their Islamic obligation as well", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"No matter what their background is, they should work with fellow politicians with grace and a team ethos - as co-citizens and co-religionists, not as enemies to one another", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"This is not too big of a demand in the 21st century", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"The overwhelming majority of Muslims across the world are ordinary hardworking people, with love for their land and religion", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"They hate extremism and violence, whether political or religious", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"They expect some competency and humility from their social and political leaders", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"A call for a truce between", "label":"no-unit"},
+    {"number":59, "text":"opposing political forces", "label":"no-unit"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"But in much of the Muslim world this is not the case presently", "label":"assumption"},
+    {"number":62, "text":";", "label":"no-unit"},
+    {"number":63, "text":"politics has become an Achilles' heel", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"This legacy may go back to their dark days under colonial \"divide and rule\"", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"but", "label":"no-unit"},
+    {"number":68, "text":"this can no longer be an excuse", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"It is shocking that some Arab countries have degenerated into bloodletting between people of the same history and religion that made them great", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"They are on the verge of regressing to the days of pre-Islamic \"jahiliya\" (ignorance)", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Aside from the influence of unhelpful global politics, the root cause lies in the failure of their own political and religious leaders", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"Unless", "label":"no-unit"},
+    {"number":77, "text":"Muslim politicians and civic leaders come to their senses and adopt people-oriented principled politics, improve their accountability and regard themselves as people's servants", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"the situation is going to get worse", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"The current blame game is meaningless", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Politicians do have a higher degree of responsibility to bring a nation out of the political mess", "label":"assumption"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"but", "label":"no-unit"},
+    {"number":86, "text":"one should not forget that they originate from the society and carry its values, norms and culture", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"The whole society must now come to its senses and stand up against this self-annihilation", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"The bloodletting between diehard secularists and inexperienced hard-line Islamists in some countries is a boon to entrenched dictators to dig their heels and hegemonic powers to milk national wealth", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Islam is indeed very broad and has the ability to accommodate anyone and everyone", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"So, the difference between a Muslim secularist and an Islamist is a matter of degree", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"This is being blown up by people of ulterior motives and must be challenged", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Secularists have been in power in much of the Muslim world for decades", "label":"assumption"},
+    {"number":99, "text":"and", "label":"no-unit"},
+    {"number":100, "text":"they do not want to bow out without a fight", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Islamists want to unseat them", "label":"assumption"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"but lack the political experience in running the affairs of modern statecraft", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"Behind the furore, a democratic deficit and lack of confidence are big issues for many politicians", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":108, "text":"The demons must be slain", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"Wise individuals, senior citizens and authoritative institutions should raise their voice of sanity and help set the national conversation among politicians", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":112, "text":"Secularists should accept the social reality that there are Islamists in their midst", "label":"assumption"},
+    {"number":113, "text":";", "label":"no-unit"},
+    {"number":114, "text":"on the other hand", "label":"no-unit"},
+    {"number":115, "text":",", "label":"no-unit"},
+    {"number":116, "text":" Islamists will also do better", "label":"assumption"},
+    {"number":117, "text":"if", "label":"no-unit"},
+    {"number":118, "text":"they recognise that secularism is part of modern reality", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"Both groups consist of human beings and cannot be exterminated", "label":"common-ground"},
+    {"number":121, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":122, "text":"'Live and let live'", "label":"no-unit"},
+    {"number":123, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":124, "text":"There is no short-cut to end the chronic and acute political crisis in the Muslim world", "label":"assumption"},
+    {"number":125, "text":".", "label":"no-unit"},
+    {"number":126, "text":"But it is vital all political groups work on the basis of existing socio-political realities and find ways to reconcile with the principle of\"live and let live\"", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":128, "text":"Sensible and moderate people from various political camps should sit together, informally and formally, and find a pragmatic political framework to make democratic politics institutional and allow healthy transition of power", "label":"assumption"},
+    {"number":129, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":130, "text":"Every citizen has a right to rule", "label":"assumption"},
+    {"number":131, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":132, "text":"The long awaited Arab Spring and its failure in most countries have made things worse", "label":"assumption"},
+    {"number":133, "text":".", "label":"no-unit"},
+    {"number":134, "text":"However", "label":"no-unit"},
+    {"number":135, "text":",", "label":"no-unit"},
+    {"number":136, "text":" it has also left powerful legacy and lessons", "label":"assumption"},
+    {"number":137, "text":".", "label":"no-unit"},
+    {"number":138, "text":"The failure in Egypt and ongoing experiment in Tunisia are too vivid to ignore", "label":"assumption"},
+    {"number":139, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":140, "text":"The nobility in politics lies in bringing happiness to people's lives, peace in society and raising the dignity of a people", "label":"assumption"},
+    {"number":141, "text":".", "label":"no-unit"},
+    {"number":142, "text":"Muslim politicians would do better", "label":"assumption"},
+    {"number":143, "text":"if", "label":"no-unit"},
+    {"number":144, "text":"they keep in mind their Prophet's timeless statement:\"A leader of a people is their servant.\"", "label":"assumption"}
+  ],
+  [
+    {"number":145, "text":"The world of Islam is at a crossroad, either to make or break", "label":"assumption"},
+    {"number":146, "text":".", "label":"no-unit"},
+    {"number":147, "text":"There are plenty of talented and visionary people with personal integrity in Muslim societies", "label":"assumption"},
+    {"number":148, "text":"who should now come to politics and make a serious effort to cleanse it from the dirt", "label":"assumption"},
+    {"number":149, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":150, "text":"Let there arise a new breed of Muslim politicians who have the steel and skill of turning anarchy into optimism", "label":"other"},
+    {"number":151, "text":".", "label":"no-unit"}
+  ]
+]}

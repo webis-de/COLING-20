@@ -1,0 +1,155 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Treating Africans with an untested Ebola drug.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It was reported in The Guardian last week that Emergency, an Italian NGO, administered an untested heart drug known as Amiodarone, to patients at an Ebola treatment centre in Lakka, Sierra Leone", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The British medics sent to work at the centre raised alarm as early as November about Emergency's approaches to palliative care", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Amiodarone, a drug licenced to regulate the heartbeat, has never been tested outside of a lab setting to treat humans or animals infected with Ebola", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"It was neither approved by the Sierra Leonean health ministry nor listed among the 53 drugs that have an antiviral effect on Ebola", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"In a report to UK Med, the British healthcare professionals argued that \"the toxic side effects of Amiodarone could in fact be contributing to increased morbidity within the ETC [ebola treatment centre]\"", "label":"testimony"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"While the mortality rate at Emergency's centre is disputed", "label":"anecdote"},
+    {"number":13, "text":"-", "label":"no-unit"},
+    {"number":14, "text":"ranging from 58 and 67 percent", "label":"statistics"},
+    {"number":15, "text":"- the death rate at centres run by Medecins sans Frontieres (MSF), for instance, ranges from 50 and 60 percent", "label":"statistics"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"Most alarming is the concern that foreign-run Ebola treatment centres could be using unorthodox testing methods with impunity", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Emergency's use of Amiodarone without a proper clinical trial or patient consent prompted censure from a senior scientist about the recklessness of this approach and a walk-out over safety fears by the UK health workers sent to work at the treatment centre", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Apparently, the NGO stopped using the drug after receiving a request from the Department of International Development (DFID)", "label":"anecdote"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"which had been alerted by the British medics", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"When", "label":"no-unit"},
+    {"number":26, "text":"rumours circulated early-on during the Ebola outbreak, that the virus was a form of bio warfare", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"critics were quick to label these ideas \"conspiracy theories\"", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Yet", "label":"no-unit"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":" fears about western medicine being used to harm are neither irrational nor far-fetched", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"As", "label":"no-unit"},
+    {"number":35, "text":"unconscionable as Emergency's practices appear", "label":"assumption"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"there is a long history of unethical drug testing on poor and vulnerable communities across the globe", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Perhaps one of the most famous cases of unethical experimental treatment was in 1932", "label":"assumption"},
+    {"number":40, "text":"when", "label":"no-unit"},
+    {"number":41, "text":"Public Health Service in the United States began the \"Tuskegee Study of Untreated Syphilis in the Negro Male\" at a time when there was no known cure for syphilis", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"The study initially included 600 black men - 399 with and 201 without syphilis ", "label":"statistics"},
+    {"number":44, "text":"-", "label":"no-unit"},
+    {"number":45, "text":"most of whom were poor and illiterate sharecroppers enticed with incentives such as free medical exams, meals on examination days, and promises that their relatives would receive burial stipends in the event of their deaths", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"The men were deceived into thinking that they were being treated for \"bad blood\"", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"They neither received proper treatment nor were they informed of the true nature of the study", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Instead of lasting for six months, as originally projected, the study went on for 40 years", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"When penicillin was developed to treat syphilis in 1947", "label":"anecdote"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"treatment was withheld from all 600 subjects", "label":"anecdote"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"In 1973, a class action suit was filed on behalf of the men in the study and settled out of court for $9 million", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Similar experiments were held in Guatemala from 1946 to 1948", "label":"anecdote"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"when", "label":"no-unit"},
+    {"number":62, "text":"Public Health Service infected 1,610 total soldiers, female commercial sex workers, prisoners and mental health patients with one of three sexually transmitted diseases - syphilis, gonorrhoea, or chancroid", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Like the Tuskegee experiment, none of the human subjects were informed about the nature of the study", "label":"anecdote"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"nor did they give consent", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Unlike the Tuskegee study, however, patients in Guatemala were eventually inoculated with penicillin", "label":"anecdote"},
+    {"number":69, "text":"though", "label":"no-unit"},
+    {"number":70, "text":"it is unclear how many were actually cured", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Although vulnerable adult populations have borne the brunt of unethical medical testing", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"children have not been spared", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"In the mid-nineties, the world's largest research-based drug company, Pfizer, administered the experimental drug, Trovan, during a meningitis outbreak in Kano in northern Nigeria", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"The parents of eleven children who died sued Pfizer", "label":"anecdote"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"alleging that Trovan was used without their informed consent", "label":"testimony"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Pfizer eventually settled out of court in 2009, promising to pay the Kano state government $75 million", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"For too long, the bodies of poor and vulnerable communities have been exploited to serve the medical fetishes of big pharmaceutical companies, research institutions and Western governments", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"Yet", "label":"no-unit"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":" there is a growing tide against this warped practice", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"In his 2014 Reith lecture series entitled 'The Future of Medicine', renowned surgeon, writer and public health researcher Dr Atul Gawande argued convincingly that the well- being of a patient is more important than his/her \"health\"", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Therefore", "label":"no-unit"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":" the goal of medical practice should be \"caring\", and not simply \"curing\"", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"In the age of Ebola, it appears that the single-minded pursuit to \"cure\" has somehow superseded the Hippocratic Oath to which doctors must adhere to \"do no harm\"", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"The sudden race to find an antidote for Ebola- a disease that has been around since 1976- must not serve as an excuse to experiment on patients whose internal organs are at risk of shutting down", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"Unethical drug testing must be matched with harsh punishment, now and after Ebola", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"We must insist on a probe of the dubious treatment regime adopted by the Italian NGO Emergency, followed by criminal prosecution in the event of malpractice", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"They must answer to patients at the Lakka treatment centre in Sierra Leone", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ]
+]}

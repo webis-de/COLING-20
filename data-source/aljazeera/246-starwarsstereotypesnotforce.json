@@ -1,0 +1,129 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Star Wars stereotypes: Not a force for good.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Earlier Star Wars movies are noted for dramatic Middle East locations", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"but", "label":"no-unit"},
+    {"number":5, "text":"they contained some rather unpleasant regional cliches", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"With Abu Dhabi locations taking centre stage in the latest trailer, can we expect fairer treatment for the region?", "label":"assumption"}
+  ],
+  [
+    {"number":8, "text":"Unless", "label":"no-unit"},
+    {"number":9, "text":"you were stuck out in the far reaches of the solar system", "label":"assumption"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"you'll have noticed that the biggest cinema event of 2014 was released over the Thanksgiving weekend", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"What's surprising is that it was just one and a half minutes long", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"The buzz on the internet surrounding the new Star Wars trailer is showing that the franchise is assuredly a force to outmatch cat videos or even Kim Kardashian", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"It's almost four decades since George Lucas redefined blockbuster cinema with the original Star Wars - and despite his own attempts to undermine his legacy with a trio of poorly conceived prequels- the juggernaut shows no sign of slowing down", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Revitalised under the helm of JJ Abrams (Lost, the Star Trek reboots) and in the hands of Disney, the new movie is building its hype very early indeed", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"The teaser trailer hit our screens a full year before the movie itself is scheduled to be released", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"This triggered everything from frame by frame breakdowns by respectable newspapers, to a deluge of parodies", "label":"anecdote"},
+    {"number":24, "text":"(the Lego version is a favourite", "label":"other"},
+    {"number":25, "text":";", "label":"no-unit"},
+    {"number":26, "text":"while", "label":"no-unit"},
+    {"number":27, "text":"the George Lucas version will appeal to geeks)", "label":"other"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Even the Middle East's favourite home-grown parody site, the Pan Arabia Enquirer, got in the action, deftly skewering the Facebook updates and tweets from UAE residents adamant that the sand dunes of Abu Dhabi commanded the starring role in the new teaser", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"So heaven knows what they'd make of an entire column on the subject", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Because the thing is, the franchise has always had a long, if not entirely comfortable, relationship with the Middle East", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"In the first movie, scenes taking place on the desert world, Tatooine, were famously shot in Tunisia", "label":"anecdote"},
+    {"number":36, "text":";", "label":"no-unit"},
+    {"number":37, "text":"the fictional planet is even named after the Tunisian city of Tatouine as homage", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"By all accounts, the shoot there was difficult, with unseasonal rainstorms slowing production and sandstorms blitzing the complicated props", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Still that didn't stop the director from returning in 1997 to film scenes from the first prequel there", "label":"anecdote"},
+    {"number":42, "text":";", "label":"no-unit"},
+    {"number":43, "text":"the props and sets left behind from both shoots remain a tourist draw to this day", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Not much better were the scavenging, hustling Jawas, piloting a giant slave ship for robots around the dunes; or the Mos Eisley Cantina, a bar drawn straight from the malaria-fevered imaginations of an old colonial soak returned from some mythical Kasbah in the mystical Orient", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Far more troubling, though, was the repulsive Watto from the disappointing prequel, \"The Phantom Menace\"", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"A slave-owning, money-obsessed trader, Watto has the singular honour of being roundly criticised as both an anti-Arab and an anti-Jewish stereotype", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Patricia J Williams, writing in the The Nation said simply that the character was \"more comprehensively anti-Semitic - both anti- Arab and anti-Jew\"", "label":"testimony"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"So, should there be mixed feelings in this part of the world that the trailer opens with a shot of the Empty Quarter, and continues with a very opening-of- Lawrence of Arabia shot of a young woman on a speeder bike?", "label":"assumption"}
+  ],
+  [
+    {"number":54, "text":"Actually, no", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Abu Dhabi can be confident that, even if Watto returns, commanding an entire army of Sand People against our noble heroes,(just wait for Lucas' extended version for that scene) the experience will still be net positive in terms of bringing in visitors and establishing itself further as a major film destination", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Dangerous stereotypes", "label":"no-unit"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Besides", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":" narratives are outside the control of a host country, even when they choose not to host", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"The emirate washed its hands of one Hollywood venture, and still managed to get tarred with a very unpleasant brush", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Abu Dhabi very sensibly blocked the filming of the woeful \"Sex in the City 2\" on its territory", "label":"anecdote"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"forcing the film-makers to use Morocco instead, while still setting the action in \"Abu Dhabi\"", "label":"anecdote"},
+    {"number":69, "text":"and thus", "label":"no-unit"},
+    {"number":70, "text":"indelibly linking the emirate to an abysmal film memorably panned by the BBC's Mark Kermode as \"consumerist pornography\" and \"an orgy of dripping wealth that made me want to be sick\"", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Of course", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"there will always be the argument that Star Wars is simply entertainment, and it doesn't do any favours to delve too deep into subplots and symbolism from what is essentially a kids' movie", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"But it's stereotypes in mass market entertainment - and particularly in movies aimed at children - that can be most dangerous", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Disney itself has long kept its 1946 feature \"Song of the South\" practically under lock and key lest its dated, racist version of post-slavery American south influence today's children", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Still", "label":"no-unit"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"George Lucas' fable happened a long time ago in a galaxy far, far away", "label":"anecdote"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"and", "label":"no-unit"},
+    {"number":85, "text":"we can hope that JJ Abram's take on the mythology will be a little more progressive in its portrayal of the fictionalised desert world", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"After all", "label":"no-unit"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":" it's a saga set in a desert, years after popular revolts overthrow a despotic regime, only for dark forces to emerge and fill the political vacuum", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"What could be more far-fetched than that?", "label":"assumption"}
+  ]
+]}

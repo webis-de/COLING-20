@@ -1,0 +1,183 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Where Afghan law fails women.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Afghan women have come a long way since the dark days of the Taliban regime", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Yet a key obstacle to this progress continues to be high levels of violence against women", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"The legal system has failed to protect women adequately when it comes to some of the most common crimes against them; rape, domestic violence, underage and forced marriages", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"That is why, in 2009, a number of prominent Afghan women's rights activists, members of civil society groups, and some lawmakers came together to draft a bill to better protect women through legal channels and to define crimes of violence against women", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The bill, known as The Elimination of Violence Against Women (EVAW) Law, was decreed into law through an Executive Order by the former Afghan President Hamid Karzaion, on July 20, 2009, while parliament was in recess", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"During such periods, the Afghan Constitution allows the president to issue decrees for emergency purposes", "label":"common-ground"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"but", "label":"no-unit"},
+    {"number":15, "text":"the Constitution also requires such decrees to be forwarded to parliament for approval", "label":"common-ground"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Some women activists nonetheless suggested that it was not necessary to send the EVAW law to parliament", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Political climate", "label":"no-unit"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Others, including myself, argued that although the Executive Order on EVAW was a significant step in the battle for the elimination of violence against women, the law remained vulnerable to being reversed by a new president", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Indeed", "label":"no-unit"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":" presidential elections were just around the corner", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"As the drawdown of the international troops drew nearer, we feared that the political climate would make it increasingly difficult to get the law anchored in parliament", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"In addition", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":" we feared that any peace talks with the Taliban could end up sacrificing EVAW in a bid to appease the militants", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Securing parliamentary approval for the law would give us much stronger ammunition in protecting it against extremist attacks", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"In order to get an agreement on the EVAW law in parliament, we worked tirelessly for months, using three main strategies", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Firstly, we started a lobbying campaign with those who opposed the law, mainly conservatives", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Secondly, we went to visit them in their houses, explaining the law to them article by article to obtain their signature in support of the law", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"We also organised exchange visits for conservative MPs to other Muslim countries so they could explore how these countries had been enforcing similar legislation for decades", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Finally we worked through the joint committee in parliament for more than two years to develop a consensus on the law and defuse the opposition of conservatives", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"In late 2009, there were only two issues left where conservative MPs did not agree", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"These were the law's punishment of relatives for underage marriage and for polygamy under certain conditions as well as the fact that women's rights advocates wanted to include \"honour killings\" as a specific crime in the law", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"At this point, however, MPs became increasingly preoccupied with the then- upcoming parliamentary elections scheduled for Spring 2010", "label":"anecdote"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"thus", "label":"no-unit"},
+    {"number":52, "text":"the process lost momentum", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Unfortunately, after the 2010 parliamentary elections, we ended up with a more conservative parliament", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Contested election results left the new parliament paralysed for almost a year", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"As a consequence, discussions about the EVAW law only resumed in mid-2011", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"At this time the draft was re-sent to the 18 parliamentary commissions", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"All but one of the commissions agreed with the text of the law or presented constructive suggestions", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"The final commission, the legislative (Taqnin) committee, headed by the foremost opponent of the EVAW law, submitted 34 pages of suggested amendments", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Some of these suggestions were helpful and were duly included, such as a proposal to have specialised prosecution units in all of Afghanistan", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"As before, we rejected the proposals to leave underage marriage and the contraction of invalid polygamous marriages as non-punishable acts", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"We similarly rejected a new suggestion", "label":"anecdote"},
+    {"number":71, "text":"which was to close all women's shelters and arrange for the victims of violence to stay with relatives instead", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Although the opponents were vocal", "label":"anecdote"},
+    {"number":74, "text":",", "label":"no-unit"},
+    {"number":75, "text":"they did not outnumber the rest", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"What was damaging, however, was an unhealthy political rivalry that ensued among mostly female parliamentarians and supporters of EVAW", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"Some progressive women's rights activists, including some from international organisations, argued that the time was not right to pass the EVAW and that it should be left as a presidential decree", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"There were good reasons for seeking parliamentary approval", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Yet some of my colleagues began accusing me of using the bill to further my own political career and gain support for my assumed ambitions for the 2014 presidential elections", "label":"anecdote"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"Instead of supporting EVAW, many female MPs stood silent during the parliamentary debates on the bill", "label":"anecdote"},
+    {"number":86, "text":"and", "label":"no-unit"},
+    {"number":87, "text":"some even went as far as to lobby against it", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"As a result, when the law was presented to the plenary in May 2013, conservative MPs who were opposed to EVAW were further emboldened", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"The new Speaker of the House did not hold a lot a lot of influence", "label":"assumption"},
+    {"number":92, "text":"and", "label":"no-unit"},
+    {"number":93, "text":"probably, for that reason, did not back the bill either", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"With the conservative MPs entrenched in their opposition to EVAW, a weak speaker and a lack of support from my fellow female MPs, the EVAW bill failed to pass", "label":"anecdote"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Those of us who saw the passing of EVAW to be beyond politics, and understood its importance for tackling violence against women, were left heartbroken", "label":"anecdote"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"With the international community now gradually disengaging from Afghanistan, time is running out for Afghan women", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"We have made important gains since 2001", "label":"assumption"},
+    {"number":102, "text":",", "label":"no-unit"},
+    {"number":103, "text":"but", "label":"no-unit"},
+    {"number":104, "text":"we need the force of the law behind us to sustain our achievements", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"We need to arm ourselves with solid laws like the EVAW law to fight the violence and other ills of our society", "label":"assumption"},
+    {"number":107, "text":"which are destroying the souls of our sisters across the country", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"The fact that the EVAW law has not been approved by the parliament is the reason for its weak implementation rates", "label":"assumption"},
+    {"number":110, "text":";", "label":"no-unit"},
+    {"number":111, "text":"many justice officials are questioning the law's status and therefore do not apply it", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"One promising thing on the horizon is that we now have a president and chief executive who both understand the multitude of challenges facing women", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"I would like to take this opportunity and call on President Ashraf Ghani and our Chief Executive Dr Abdullah Abdullah to declare their support for the passage of the EVAW bill", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":117, "text":"I also call on my female colleagues in parliament and all Afghan women rights activists and our international partners to set aside their differences and join us in support of the ratification of the bill", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"As the recent parliamentary approval of the BSA shows, when the government and others make something a priority, the conservative MPs can be isolated", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":121, "text":"Times may be difficult now for Afghanistan", "label":"assumption"},
+    {"number":122, "text":",", "label":"no-unit"},
+    {"number":123, "text":"differences may be wide", "label":"assumption"},
+    {"number":124, "text":"and", "label":"no-unit"},
+    {"number":125, "text":"security challenges are growing", "label":"assumption"},
+    {"number":126, "text":",", "label":"no-unit"},
+    {"number":127, "text":"but", "label":"no-unit"},
+    {"number":128, "text":"failure to back the EVAW and allowing it to die will deal a severe blow to Afghan women's rights", "label":"assumption"},
+    {"number":129, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,158 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Connecticut Supreme Court saves teen's life.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The Justices of the Connecticut Supreme Court took over parenting duties of a cancer-stricken teenager Thursday", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"In so doing, they surely saved her life", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"At the conclusion of oral arguments, the high court took just minutes to determined that state officials were right to take custody of the girl known in court documents only as \"Cassandra C \" and force her to undergo life-saving treatment", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"No thanks to her mother", "label":"no-unit"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Jackie Fortin had encouraged her 17-year-old daughter's desire to refuse chemotherapy", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"She naively pronounced,\"my daughter is not going to die.\"", "label":"testimony"},
+    {"number":13, "text":"As if wishing it could make it come true", "label":"other"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Sadly, both mother and daughter were wrong", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"They were in denial", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"If", "label":"no-unit"},
+    {"number":20, "text":"they got their way", "label":"assumption"},
+    {"number":21, "text":", Cassandra would die", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"It was the equivalent of suicide", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"I wonder how her mother would feel then?", "label":"assumption"}
+  ],
+  [
+    {"number":26, "text":"Cassandra has advanced Hodgkin's lymphoma", "label":"anecdote"},
+    {"number":27, "text":"which attacks and consumes the body's immune system", "label":"common-ground"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Her doctors say chemotherapy treatment will give her an 85 percent chance of survival", "label":"testimony"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Excellent odds", "label":"no-unit"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Yet, the teenager refused, saying she did not want to \"poison\" her body with chemo", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"How does that make sense to a rational mind?", "label":"assumption"},
+    {"number":36, "text":"Let's employ Cassandra's own tortured terminology and logic", "label":"other"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Does she not realize that her body is already being poisoned by the rapidly multiplying cancer in her lymph system?", "label":"assumption"},
+    {"number":39, "text":"Untreated", "label":"no-unit"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"it will quickly spread until it kills her", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"That is what her doctors predict", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Reliable statistics from the National Cancer Institute prove they are right", "label":"statistics"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Chemotherapy can save her", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Chemicals are introduced into the diseased body to attack the cancer cells", "label":"common-ground"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"You can call it a \"poison\" if you want", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"but", "label":"no-unit"},
+    {"number":54, "text":"a more accurate term is curative", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Yes, the chemicals also harm other normal cells", "label":"common-ground"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"To that extent they are a poison, of sorts, producing painful and unpleasant side effects", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"But", "label":"no-unit"},
+    {"number":61, "text":"once the body recovers and is free of the cancer cells, the chemicals are gone", "label":"common-ground"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Thus", "label":"no-unit"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"if", "label":"no-unit"},
+    {"number":66, "text":"chemo is a poison", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"it is not normally a lethal one", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The cancer which is ravaging Cassandra's body surely is", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"If", "label":"no-unit"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"by using the term \"poison,\" Cassandra means she does not want to endure the side effects of nausea, vomiting, hair loss and exhaustion cond", "label":"assumption"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"she is being myopic", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"The final stages of untreated lymphoma are far more extreme and painful", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Cassandra's disdain for the treatment that will likely save her young life is, perhaps, the best evidence that she was not mature enough to make a wise and informed decision on her own", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"But then again, neither was her mother", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Which is why the state of Connecticut stepped in", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"As an adult, Fortin, is presumed to be competent under the law to make decisions for her daughter, a minor", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"However", "label":"no-unit"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":" Fortin's aberrant judgment in rejecting the treatment that could save Cassandra's life and her concomitant belief that her daughter would somehow, miraculously, not succumb to an insidious, fatal illness... called that legal presumption into serious doubt", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"There is also evidence that Fortin ignored obvious signs of her daughter's malignant disease at an early stage, failed to seek prompt and continuing medical attention, and has been unduly influencing Cassandra's negative reaction to treatment", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"The court records suggest a domineering mother with an abiding distrust of medicine, and a daughter fearful of running afoul of her mother's wishes", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"To deny a child beneficial, life-sustaining treatment constitutes child neglect", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"States have a duty to protect children from abuse and neglect", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Courts rarely hesitate to step in where a child's life is in danger", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Thus", "label":"no-unit"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"the state was correct to intervene", "label":"assumption"},
+    {"number":105, "text":"and", "label":"no-unit"},
+    {"number":106, "text":"the lower court was equally correct to remove the mother as unfit", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"Fortunately, the Connecticut Supreme Court agreed and did the right thing", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"Time is on Cassandra's side", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"The fact that she is 9 months away from turning 18 years old may, in the end, have saved her life", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"It gave the high court an excuse to adhere strictly to the law as it relates to protecting minors", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"Those 9 months will also give doctors valuable time to complete her therapy and give her a new chance at a full and happy life", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"As for her mother, Jackie Fortin?", "label":"no-unit"},
+    {"number":119, "text":"She will have ample time to wrestle with her conscience", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ]
+]}

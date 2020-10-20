@@ -1,0 +1,182 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The rise of Poland's urban movement.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Poland's recent local elections went according to the usual script: The ruling coalition of the Civic Platform and Polish People's Party retained their control over major cities", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"But there was one political surprise in the final results", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The urban movement, which ran for the first time in elections as a nationwide coalition of city activists, won the mayor's seat in Gorzow Wielkopolski, in western Poland, and a number of city council seats in big cities like Warsaw, Poznan and Torun", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Although a newcomer to the electoral race, the urban movement dictated the direction of most election campaigns", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Their demands ended up in the electoral programmes of mainstream political parties", "label":"assumption"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"which scrambled to attract grassroot activists on their lists to capture the youth leftist vote", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"So what is this new political force and can it permanently transform Polish local and state politics?", "label":"assumption"}
+  ],
+  [
+    {"number":15, "text":"In late 2007, a group of residents of the Rataje district in Poznan, in western Poland, organised to defend their right to have a say in the planning of their neighbourhood", "label":"anecdote"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"The mayor of Poznan and the city council, had proposed to transform the derelict post-industrial zone of the neighbourhood into a new residential and commercial area", "label":"anecdote"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Local residents, on the other hand, insisted on building a park and a recreational area", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"They mobilised the community, organised protests, wrote petitions and publicised the issue in the media", "label":"anecdote"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"The negative publicity made the situation uncomfortable enough for local officials to concede to public pressure and withdraw their commercial development proposal", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"This was the first sign that a new social force was emerging with the potential to affect urban policies in Poland through civic engagement", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Grassroot activities began to surface in other Polish cities around that time", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Activists from Sopot in northern Poland started calling for participatory budgeting following the model of the Brazilian city of Porto Alegre", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"In Lodz, in central Poland, an informal group of active citizens organised themselves around the issue of cleanliness of public spaces", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Gradually, these groups merged into a movement calling for citizen participation in the transformation of the post-industrial area of the city, just like in Poznan", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Lodz used to be an important industrial centre up until 1989", "label":"anecdote"},
+    {"number":36, "text":"when", "label":"no-unit"},
+    {"number":37, "text":"its textile industry collapsed", "label":"anecdote"},
+    {"number":38, "text":"and", "label":"no-unit"},
+    {"number":39, "text":"many industrial buildings lay abandoned and derelict", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"In Warsaw, urban activists organised demonstrations for the preservation of green areas in the centre of the Polish capital; against hikes in public transport fees,;and against privatisation of municipal buildings", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"In the last few years, groups like Right to the City, Inhabitants' Forum, and the Housing Movement have emerged in almost every Polish town bringing together individuals of various ages, social, and cultural backgrounds", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"These groups were involved in a variety of campaigns to reassert residents' rights to their neighbourhoods and towns: from writing petitions, to organising protests, pickets and demonstrations, to occupying vacant buildings, setting up squats and blocking evictions", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Their political appetite grew with time", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"In 2010, Poznan activists formed:\"We, the Inhabitants of Poznan,\" social electoral committee to contest local elections", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"They received almost 10 percent of the votes", "label":"statistics"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"but", "label":"no-unit"},
+    {"number":54, "text":"with an electoral law favouring big political parties, they failed to get a seat on the council", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"This electoral experience facilitated the launching, in 2011, of an informal coalition - the Urban Movements Congress - comprising urban activist groups from all over Poland", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"The congress was tasked with formulating a programme to provide a common foundation around which urban activists would build their campaigns in local communities", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"The programme was focused on three main pillars: policies to stem and reverse the growth of socioeconomic inequalities and exclusion; sustainable environment-conscious urban development in the interest of all residents; and promotion of direct democracy practices such as social consultations, participatory budgeting and referendums", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"After the founding of the congress, the urban movements grew in strength and impact", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"On the national level, the congress managed to pressure the Ministry of Regional Development to include some of its policies in its 2012 National Urban Policy (NUP) programme", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"On the local level, urban activists managed to reap a number of victories", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"In 2011, after much \"harassment\" from activists, the mayor of Sopot agreed to implement participatory budgeting in the city", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Residents now can decide on how to spend 5 million zlotys (about $1.6m) or one percent of the municipal budget", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Other mayors soon followed suit", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"In Lodz, residents decide on how to spend 40 million zlotys ($13m)", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"The mayor of Lodz also invited local activists to advise the city council's Revitalisation Bureau on specific policies for the socioeconomic development of the city", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"The reason why Lodz became more accepting of the urban movement's demands was because its previous mayor was removed in a popular referendum in January 2010", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"The mayors of Czestochowa, Olsztyn, Elblag, Bytom and Ostroda were also removed in the same manner for introducing policies regarding privatisation and commercial development", "label":"anecdote"},
+    {"number":81, "text":"which went against the will of their electorates", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"The same fate threatened the mayor of Warsaw", "label":"assumption"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"but", "label":"no-unit"},
+    {"number":86, "text":"the low turnout at the referendum saved her", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"After surviving in her post, she quickly implemented some of the urban movement's demands", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"But the most spectacular achievement of the Polish urban movement in recent months was putting Krakow's candidacy to host the 2022 Winter Olympic Games to a referendum", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"After it was announced in November 2013 that local authorities had decided to put forward Krakow's candidacy for the Olympics, activists launched a campaign called Krakow Against Games", "label":"anecdote"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":"which aimed to inform people of the negative consequences of hosting big sporting event", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"City authorities caved in under popular pressure and put the decision to a referendum, with the condition that it has at least a 30 percent turnout", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"Knowing that the 2010 EU elections had only a 26 percent turnout", "label":"assumption"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"they combined the referendum with the 2014 EU elections", "label":"anecdote"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"To the displeasure of local authorities, some 36 percent of Krakow's citizens voted", "label":"statistics"},
+    {"number":103, "text":"and", "label":"no-unit"},
+    {"number":104, "text":"70 percent of those said no to the games", "label":"statistics"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"Victory of the Krakow Against Games campaign showed that referendums can be an important tool in bringing local policies in line with residents' will", "label":"assumption"},
+    {"number":107, "text":"and", "label":"no-unit"},
+    {"number":108, "text":"that urban activists have considerable social support", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"The Krakow victory gave impetus to the formation by of nationwide coalition of 12 sociopolitical entities affiliated with the Urban Movements Congress to contest the 2014 local elections", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"The results of the election demonstrated that the movement can translate its grassroot support into electoral victories", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"With the 2015 parliamentary and presidential elections approaching, the coalition is hopeful that it will have an even larger political impact in the coming year", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":116, "text":"The urban movement has a long way to go in order to occupy a permanent place on Poland's political map", "label":"assumption"},
+    {"number":117, "text":",", "label":"no-unit"},
+    {"number":118, "text":"but", "label":"no-unit"},
+    {"number":119, "text":"its public presence, successful campaigns and increasing social support show that there is a definite shift in Polish people's sociopolitical attitudes", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"There is clearly growing support for sustainable and environment-conscious development which aims to level out inequalities and exclusion and usher in effective practices of direct democracy", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ]
+]}

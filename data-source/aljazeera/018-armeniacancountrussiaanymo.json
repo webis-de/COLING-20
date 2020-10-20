@@ -1,0 +1,143 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Armenia can't count on Russia any more.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"For Armenia, its role as a reliable partner and ally of Russia has never faced any real challenge", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Much of this reliance on Russia stems from essential security and economic concerns", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Armenia's security reliance on Russia is driven by a virtual state of war with neighbouring Azerbaijan, rooted in the Nagorno-Karabakh conflict, only exacerbated by the absence of \"normal\" diplomatic relations and closed border with Turkey", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"And with the Turkish refusal to recognise the Armenian genocide, this threat perception is only magnified", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"For small, landlocked Armenia, a strategic alliance with Russia is generally accepted as essential in the face of such inherent insecurity", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"And beyond an imperative of security, Armenia also depends on Russia as a crucial source of remittances, or money sent home by large numbers of Armenians living and working in Russia", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Yet", "label":"no-unit"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":" there is a surprisingly intense debate now under way within Armenia that seriously questions these fundamental pillars of the Armenian-Russian relationship", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"New challenge", "label":"no-unit"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"More specifically, this new challenge to Armenia's traditional reliance on Russia is driven by two significant factors: tragedy and timing", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"A tragedy first triggered this turnabout", "label":"assumption"},
+    {"number":23, "text":"when a rogue Russian soldier killed an entire Armenian family, save for a six-month-old infant", "label":"anecdote"},
+    {"number":24, "text":"who later died of his stab wounds, in Gyumri, Armenia", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Gyumri is the country's second-largest city and the host of the Russian military base", "label":"common-ground"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"That senseless act of random violence in the early morning hours of January 12, sparked an immediate and spontaneous outpouring of grief and mourning", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"But the initial shock and grief quickly turned to outrage", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"as", "label":"no-unit"},
+    {"number":33, "text":"Russian military officials seemed to take charge of the case with a heavy-handed disdain and disregard for local sensitivities", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"That perception was only deepened when Armenian officials were slow to respond or react", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"It was this mishandling of the tragedy, even more than the murder itself, that then triggered a series of demonstrations and protests by local Armenians in Gyumri", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Fearing that the Russian conscript would be moved from his detention within the Russian base and likely returned to Moscow, local residents demanded that the self-confessed soldier be turned over to Armenian authorities", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Calming tensions", "label":"no-unit"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"For its part, local Armenian officials and the prosecutor general scurried to calm tensions by first announcing that Armenian investigators were actively participating in the interrogation of the soldier, and then, once that did little to appease the protesters, vowed that the soldier would be tried in Armenia", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Amid the Armenian officials' wrangling over the legal process of the case, the absence of any higher level Armenian officials, and the failure of the Armenian president to declare a day of mourning or even make a statement, only escalated the tension", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"And days later, no Armenian official attended the funeral of the murdered family", "label":"anecdote"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"thereby triggering a fresh wave of indignant protests in the city, that later spread to the capital, Yerevan", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"The protests soon moved to the Russian consulate in Gyumri before culminating in a march on the Russian base", "label":"anecdote"},
+    {"number":52, "text":"as protesters broke through a police cordon to enter the base itself", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Yet", "label":"no-unit"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":" there is a deeper context to this public anger", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"In fact", "label":"no-unit"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":" that family is only the latest victim in murders and shootings by Russian servicemen stationed at the Russian military base", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"In 1999, two drunk Russian soldiers opened fire on a local market in the city, killing two and injuring dozens of others", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"And in 2013, two children were killed by unexploded ordnance on an unguarded tank firing range on the premises of the Russian base", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Bad timing", "label":"no-unit"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Against this backdrop, the tragedy has also raised renewed questions of base security, with outrage that the armed soldier who reportedly deserted his post triggered no notice or alarm by Russian military personnel at the base", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Although this tragedy has prompted a new challenge to Armenian-Russian relations", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"it is also exacerbated by a second factor, timing", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"The timing of this tragedy could not be much worse, for several reasons", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"First", "label":"no-unit"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":" in 2013, in what many perceived as Russian pressure on its so-called \"strategic partner\", Armenia was forced to scrap its planned free trade deal with the European Union in favour of joining the Russian-led Eurasian Union", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Second", "label":"no-unit"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":" a steady supply of arms and advanced weapons systems to Azerbaijan from Russia has sowed further distrust", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"And most recently, the negative impact on the Armenian economy from western sanctions imposed on Russia, evident in a sudden depreciation of the Armenian currency and reflected in a steep decline in remittances, has only revealed the asymmetry and lack of parity in Armenia's \"partnership\" with Russia", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"It seems clear that this unexpected challenge to Armenia's reliance on Russia will not dissipate any time soon", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,130 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Amnesia, not immigration, is our problem.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"It has been a grim start for 2015 as far as European tolerance is concerned", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Mosques have been attacked in Sweden", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Demonstrations continue in Germany against the \"Islamisation of the west\"", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"And antisemitism is on the rise", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"We knew something nasty had been unleashed", "label":"assumption"},
+    {"number":11, "text":"when the European elections last year produced a surge of populist xenophobic parties", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Many explanations have been given: the economic crisis, unemployment, the disenfranchisement of the middle classes, anxieties fed by globalisation", "label":"common-ground"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Pointing fingers at strangers or supposed intruders has become almost an automatic reflex", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Anti-immigration parties are having a field day", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"All our problems come from the outside, from some kind of invasion", "label":"assumption"},
+    {"number":20, "text":":", "label":"no-unit"},
+    {"number":21, "text":"that's how the narrative goes", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"In France the novelist Michel Houellebecq is making headlines with a new book imagining the election in 2022 of a Muslim president", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"There are, it is true, signs of a democratic revival against racism", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"In solidarity with Muslims, some citizens have been demonstrating in European cities", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"It is perhaps only when the worst happens- arson attacks on mosques, or neo-Nazi groups in the streets - that people start mobilising for common decency", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"But the trend is worrisome indeed", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Europeans seem to be grappling with this one question: how do I live alongside people of a different cultural background, the Other?", "label":"assumption"}
+  ],
+  [
+    {"number":34, "text":"In times like this, literature and history can help us see things more clearly", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"I turned to the Polish writer Ryszard Kapuscinski", "label":"anecdote"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"who spent most of his life travelling across the developing world and reflecting on how Europeans relate to that huge part of the global population that is non- European, and much poorer than Europeans", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"In his book The Other, Kapuscinski - who had flaws as a journalist, but certainly didn't lack curiosity for different cultures- points out how difficult it is for inhabitants of the old continent to accept that \"the map of the world has changed\" since decolonisation in the 1960s", "label":"testimony"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"After dominating the globe for hundreds of years", "label":"no-unit"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"Europeans still have trouble dealing with the fact that they have become less central, less overpowering", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"And yet it is a paradox", "label":"assumption"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"because Europe produced arguably the first world citizen open to discovering and appreciating foreign cultures: the Greek historian Herodotus, 2,500 years ago", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"I can hear the cringing", "label":"other"},
+    {"number":51, "text":":", "label":"no-unit"},
+    {"number":52, "text":"how delusional and idealistic it is to bring Herodotus into a 21st-century debate on immigration", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"But", "label":"no-unit"},
+    {"number":55, "text":"if", "label":"no-unit"},
+    {"number":56, "text":"roots matter", "label":"assumption"},
+    {"number":57, "text":",then", "label":"no-unit"},
+    {"number":58, "text":" Europeans must look at themselves more closely", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Things were never stable, nor populations fixed in stone", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Europe is after all the appendix of a great and contrasted landmass", "label":"common-ground"},
+    {"number":63, "text":"-", "label":"no-unit"},
+    {"number":64, "text":"it was always meant to be a crossroads", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"We may be baffled by changes", "label":"assumption"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"but", "label":"no-unit"},
+    {"number":69, "text":"there were times when we lived with much more diversity in our midst", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"Tony Judt is great to read on this", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"In his book Postwar, he recalls how\"the European continent was once a complex tapestry of languages, religions, communities, and nations that overlapped", "label":"testimony"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Many of its cities - including some of the smallest, at the intersection of old and new imperial borders, such as Trieste, Sarajevo, Salonica, Czernowitz, Odessa, Vilnius - were truly multicultural, with Catholics, Orthodox, Muslims, Jews and others mingling.\"", "label":"testimony"}
+  ],
+  [
+    {"number":76, "text":"Judt goes on:\"Between 1914 and 1945, however, this Europe was reduced to ashes.\"", "label":"testimony"},
+    {"number":77, "text":"As a result of war, occupation, border changes, expulsions and genocide, most people ended up living among people like them, in different states", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"During the cold war, the two halves of Europe lived in \"hermetic national enclaves\" - a world of homogeneity, notes Judt", "label":"testimony"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"In the 1960s immigrants arrived in western Europe to provide a workforce, most from former colonies", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Judt calls this a \"new presence of 'others' living in Europe\", including the millions of Muslims in today's EU", "label":"testimony"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"He says this presence \"has outlined not only Europe's discomfort as it is faced with a renewed and growing diversity, but also the ease with which the 'other' dead of Europe's past had crept out of people's minds\"", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"So there it is", "label":"other"},
+    {"number":88, "text":":", "label":"no-unit"},
+    {"number":89, "text":"today's intolerance has its roots not just in economic frustration, but in amnesia", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Since 1989 many of Europe's centres have become\"cosmopolitan global cities, whether they like it or not\", writes Judt", "label":"testimony"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Note the\"whether they like it or not\"", "label":"other"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"This book was published 10 years ago, as if in anticipation of what we see today", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"The historian's message is that Europe's future is multicultural", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"Its core values are about being open to the Other", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"The only time Europeans experienced relative demographic homogeneity - that era of supposed tranquillity - was in the wake of Hitler's and Stalin's devastations", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Such thoughts might not be enough to calm the anti-Muslim crowds", "label":"assumption"},
+    {"number":104, "text":".But", "label":"no-unit"},
+    {"number":105, "text":"they could help", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ]
+]}

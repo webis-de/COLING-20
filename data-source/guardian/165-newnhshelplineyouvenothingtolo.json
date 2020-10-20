@@ -1,0 +1,255 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Try my new NHS helpline. You've nothing to lose but the will to live...", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The NHS has had a pretty horrible Christmas, with A&Es; swamped, more than a dozen hospitals declaring major incidents and a bleak midwinter bed shortage worthy of first-century Bethlehem", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Various causes have been cited: not enough money, too many ill people, the government, the previous government and GPs", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"But a major contributory factor appears to be the NHS 111 helpline", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"That's the number you're now supposed to ring if you don't need an ambulance", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Not any time you don't need an ambulance, obviously", "label":"common-ground"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"Not, for example, when you need a fire engine or the police instead", "label":"other"},
+    {"number":13, "text":"- stick with 999 for those", "label":"no-unit"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"It's for when you don't need an ambulance, a fire engine or the police but, if", "label":"no-unit"},
+    {"number":16, "text":"you were pressed", "label":"assumption"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"you'd have to admit it's an ambulance that you don't need least", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"If", "label":"no-unit"},
+    {"number":21, "text":"you were to pick one of those things you don't need and try to make some sort of use of it", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"you'd go for the ambulance", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"On balance", "label":"no-unit"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"Because", "label":"no-unit"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"come", "label":"no-unit"},
+    {"number":30, "text":"to think of it", "label":"no-unit"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"you might actually need an ambulance", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"I absolutely can't think of a simpler way of describing it", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"It seems that NHS 111 works slightly differently from NHS Direct", "label":"assumption"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"which preceded it and was staffed by nurses", "label":"assumption"},
+    {"number":39, "text":",", "label":"no-unit"},
+    {"number":40, "text":"in that very few of the people who answer the phone are medically trained", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"They have no more chance of fixing a human body themselves than someone in an EE call centre has of generating a 3G signal using an alkaline battery and a radio transmitter", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"They work off a computer system called Pathways", "label":"anecdote"},
+    {"number":45, "text":"which tells them what questions to ask and then, the answers having been typed in, what advice to give", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"As triage goes, this is flawed", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"The first stage of it - the decision to opt for 111 rather than, on the one hand, 999 or, on the other, a paracetamol and a lie-down- is conducted by the patients themselves", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"This ensures that the new service gets a nice mix of those who are definitely dying but don't want to be any trouble and malingerers who are losing the courage of their convictions", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Then the next stage is a sort of medical version of those magazine surveys that claim to tell you whether you're romantic or sociopathic or spiritual or a typical Scorpio", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"But", "label":"no-unit"},
+    {"number":56, "text":",", "label":"no-unit"},
+    {"number":57, "text":" regardless of whether most of your answers are As, Bs or Cs, the system still just advises you to consult someone trained to diagnose whether there' s anything really wrong with you, rather than waste any more time describing your nasty rash to a guy whose last job was cold-calling about missold PPIs", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"And", "label":"no-unit"},
+    {"number":60, "text":"that's what causes the trouble for A&E;: the combination of a risk-averse computer algorithm, call centre staff who don't want blood on their hands and the scarcity of GP appointments on public holidays, weekends and when there' s good skiing to be had, is driving thousands of 111 callers into A&E; to be put on a trolley and ignored like a rum baba in a 70s restaurant", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"The solution is simple", "label":"assumption"},
+    {"number":63, "text":":", "label":"no-unit"},
+    {"number":64, "text":"the algorithm needs some backbone", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"By which I don't mean that the decisions should be taken by actual live vertebrates- that's obviously unworkably expensive", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"But we need to be honest with ourselves", "label":"assumption"},
+    {"number":69, "text":":", "label":"no-unit"},
+    {"number":70, "text":"the whole point of this phone line is to fob people off ", "label":"assumption"},
+    {"number":71, "text":"-", "label":"no-unit"},
+    {"number":72, "text":"to stop them going to hospital, not encourage them", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Deep down, they want to be told they're fine and to stop moaning - otherwise they would've dialled 999", "label":"assumption"},
+    {"number":75, "text":"-", "label":"no-unit"},
+    {"number":76, "text":"so", "label":"no-unit"},
+    {"number":77, "text":"a new version of Pathways needs to be designed with that in mind", "label":"assumption"},
+    {"number":78, "text":"...", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"Ring ring", "label":"no-unit"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Click", "label":"no-unit"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Recorded Voice", "label":"no-unit"},
+    {"number":84, "text":":", "label":"no-unit"},
+    {"number":85, "text":"We're sorry that you too have found it necessary to call NHS 111", "label":"other"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"We apologise for the delay but we're experiencing extremely high call volume", "label":"other"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"Hold music: Eye of the Tiger or Feeling Good", "label":"no-unit"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"The music fades in between the following recorded messages", "label":"other"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"It's that time of year", "label":"other"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"Colds, sniffles - nothing serious", "label":"no-unit"},
+    {"number":96, "text":",", "label":"no-unit"},
+    {"number":97, "text":"but", "label":"no-unit"},
+    {"number":98, "text":"you know how people are", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Bloody hypochondriacs", "label":"assumption"},
+    {"number":101, "text":"...", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Not saying that's you, of course", "label":"no-unit"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"I'm sure you're at death's door", "label":"assumption"},
+    {"number":105, "text":"...", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"Just hope there' s no one with a burst appendix in the phone queue just behind you", "label":"other"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":"that's all", "label":"other"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"Wouldn't want you to have that on your conscience", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":112, "text":"Still", "label":"no-unit"},
+    {"number":113, "text":",", "label":"no-unit"},
+    {"number":114, "text":" nice music, eh?", "label":"assumption"},
+    {"number":115, "text":"Stirring stuff", "label":"no-unit"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"I expect you're feeling better already", "label":"other"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"Calls may be recorded for subsequent publication as a book of hilarious and embarrassing medical anecdotes", "label":"anecdote"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"Your continuing to hold will be taken as consent for your name to be used", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":123, "text":"Each caller will remain on hold for at least 10 minutes", "label":"anecdote"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"This will thin down the numbers considerably - for various reasons", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"},
+    {"number":127, "text":"When the call is finally answered", "label":"assumption"},
+    {"number":128, "text":",", "label":"no-unit"},
+    {"number":129, "text":"the following questions will be asked", "label":"assumption"},
+    {"number":130, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":131, "text":"Q  Thank you for calling NHS 111", "label":"other"},
+    {"number":132, "text":".", "label":"no-unit"},
+    {"number":133, "text":"Please enter the last seven digits of your NHS number into your HealthSentry device sponsored by Nivea Visage, and read out the resultant 16-letter Medicode", "label":"other"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":135, "text":"Q  How are you?", "label":"other"}
+  ],
+  [
+    {"number":136, "text":"If answer is \"Fine, thanks\", even as a reflex, hang up immediately", "label":"other"},
+    {"number":137, "text":".", "label":"no-unit"},
+    {"number":138, "text":"It's worth a try", "label":"assumption"},
+    {"number":139, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":140, "text":"Q", "label":"no-unit"},
+    {"number":141, "text":"Have you experienced your current symptoms before?", "label":"other"}
+  ],
+  [
+    {"number":142, "text":"If answer is yes", "label":"other"},
+    {"number":143, "text":":", "label":"no-unit"},
+    {"number":144, "text":"Well, they didn't kill you last time", "label":"other"},
+    {"number":145, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":146, "text":"If answer is no", "label":"other"},
+    {"number":147, "text":":", "label":"no-unit"},
+    {"number":148, "text":"And you didn't think you might give it a week and see if they clear up?", "label":"assumption"}
+  ],
+  [
+    {"number":149, "text":"Q  How can you be sure that the way you feel now isn't how you're meant to feel and the way you used to feel wasn't an illness from which you've now recovered?", "label":"assumption"}
+  ],
+  [
+    {"number":150, "text":"Q", "label":"no-unit"},
+    {"number":151, "text":"Are you aware that, in the vast majority of cases, there's nothing wrong with the patient", "label":"other"},
+    {"number":152, "text":"that won't clear up of its own accord?", "label":"assumption"}
+  ],
+  [
+    {"number":153, "text":"Q", "label":"no-unit"},
+    {"number":154, "text":"Are you aware that, in a significant percentage of the remaining cases, there's no effective treatment", "label":"other"},
+    {"number":155, "text":"and", "label":"no-unit"},
+    {"number":156, "text":"so", "label":"no-unit"},
+    {"number":157, "text":"it's probably kinder to remain undiagnosed?", "label":"assumption"}
+  ],
+  [
+    {"number":158, "text":"Q", "label":"no-unit"},
+    {"number":159, "text":"You don't fancy giving homeopathy a try, do you?", "label":"other"},
+    {"number":160, "text":"It's very convenient, assuming you've got access to mains water", "label":"anecdote"},
+    {"number":161, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":162, "text":"Q", "label":"no-unit"},
+    {"number":163, "text":"Have you made a will?", "label":"assumption"}
+  ],
+  [
+    {"number":164, "text":"If answer is no", "label":"other"},
+    {"number":165, "text":":", "label":"no-unit"},
+    {"number":166, "text":"Don't you think that's a priority, instead of wasting time on the phone?", "label":"assumption"}
+  ],
+  [
+    {"number":167, "text":"If answer is yes", "label":"other"},
+    {"number":168, "text":":", "label":"no-unit"},
+    {"number":169, "text":"It's not from one of those will kits, is it?", "label":"other"},
+    {"number":170, "text":"Because", "label":"no-unit"},
+    {"number":171, "text":"they're about as likely to stand up in court as Oliver Reed after a heavy night", "label":"anecdote"},
+    {"number":172, "text":".", "label":"no-unit"},
+    {"number":173, "text":"I mean", "label":"no-unit"},
+    {"number":174, "text":",", "label":"no-unit"},
+    {"number":175, "text":"you might as well just bequeath everything to lawyers now", "label":"assumption"},
+    {"number":176, "text":".", "label":"no-unit"},
+    {"number":177, "text":"No, you need a proper one, done by a solicitor", "label":"anecdote"},
+    {"number":178, "text":".", "label":"no-unit"},
+    {"number":179, "text":"It's an absolute priority to get that sorted before you let some junior doctor open you up and poke around", "label":"anecdote"},
+    {"number":180, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":181, "text":"Q  On a scale of 1 to 10", "label":"no-unit"},
+    {"number":182, "text":",", "label":"no-unit"},
+    {"number":183, "text":"where", "label":"no-unit"},
+    {"number":184, "text":"1 means \"strongly disagree\"", "label":"no-unit"},
+    {"number":185, "text":"and 10 means \"strongly agree\"", "label":"no-unit"},
+    {"number":186, "text":",", "label":"no-unit"},
+    {"number":187, "text":"how would you respond to the phrase\"We've all got to go some time\"?", "label":"anecdote"}
+  ],
+  [
+    {"number":188, "text":"David Mitchell's new book, Thinking About It Only Makes It Worse, is published by Guardian Faber (? 18.99)", "label":"other"},
+    {"number":189, "text":".", "label":"no-unit"},
+    {"number":190, "text":"To order a copy for ? 11.99 go to bookshop.theguardian.com or call 0330 333 6846", "label":"other"},
+    {"number":191, "text":".", "label":"no-unit"}
+  ]
+]}

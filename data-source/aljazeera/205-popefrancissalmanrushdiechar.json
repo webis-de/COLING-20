@@ -1,0 +1,202 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Pope Francis, Salman Rushdie and Charlie Hebdo.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"There is some common ground, but not much", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The killings in Paris last week were horrifying crimes", "label":"assumption"},
+    {"number":5, "text":"that expose the vulnerability of democratic societies to lethal vigilante violence, whether facilitated from outside or as a spontaneous expression of homegrown psychopathic alienation", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"Beyond this morbid reality associated with the murder of the Charlie Hebdo cartoonists, police officers, and the supermarket hostages, there is nothing but darkness", "label":"assumption"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"and", "label":"no-unit"},
+    {"number":10, "text":"in that darkness some additional monsters lurk", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"We can be thankful once more for the moral clarity of Pope Francis", "label":"assumption"},
+    {"number":13, "text":"who in the impromptu setting of a plane taking him from Sri Lanka to Manila shined some light on the darkness", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"Unlike those who so ardently wielded the slogan \"Je Suis Charlie\", the pope understood that free speech without limits is an invitation to indulge the worst negative impulses that will then operate as viruses destroying the vital organs of the body politic", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"What Pope Francis underscored was the impossibility of reconciling dignity with hurtful insults", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"He illustrated his view by saying that if his companion on the plane, Dr Alberto Gazparri, a Vatican official, were to insult Francis' mother, he could expect to be punched", "label":"testimony"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"He called such behaviour normal:\"It's normal. It's normal. You cannot provoke. You cannot insult the faith of others.\"", "label":"testimony"}
+  ],
+  [
+    {"number":22, "text":"Perhaps, this is too strong an expression of limits", "label":"assumption"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":"but", "label":"no-unit"},
+    {"number":25, "text":"it does indirectly raise the Derrida urgent question of learning to \"live together\" in peace and with respect within globalising social space", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Response to provocation", "label":"no-unit"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"Francis goes on to say that to kill in response to provocation, however severe, is not compatible with religion properly understood", "label":"testimony"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"It is behaviour of \"deviant forms of religion\"", "label":"testimony"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"He goes on to say\"To kill in the name of God is an aberration\"", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"At the same time", "label":"no-unit"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"how lines are drawn with respect to acceptable and unacceptable forms of provocation is highly political and culturally influenced", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"In one respect, France and other governments understand both sides of this argument, but twist it for political purposes", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"The popular comedian Dieudonne is being currently prosecuted in France for\"defending terrorism\"", "label":"anecdote"},
+    {"number":42, "text":"because his humour deeply offends Jews, Zionists, and Israel", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"There are no less than 54 cases in the country associated with \"condoning terrorism\"", "label":"statistics"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"The Associated Press reports that just now \"France ordered prosecutors around the country to crack down on hate speech, anti-Semitism, and glorifying terrorism\"", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"But", "label":"no-unit"},
+    {"number":49, "text":"note no message by the French government is sent mentioning \"hate cartooning\" or addressing the surge of \"Islamophobia\" in the country in the days following the January 7 attack on the Charlie Hebdo editorial offices", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"A large number of mosques in France and elsewhere in Europe have been desecrated in the last week", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"This kind of double standards performs a variety of insidious functions for the French state", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"It uses the language of \"terrorism\" to demonise its political enemies and \"free speech\" to immunise its political friends", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"It merges the criminalisation of anti-Semitism with strong criticisms of Israel along with any advocacy of boycott, divestment, and sanctions (BDS)", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"And it makes it even clearer to Muslims that they are fair game for Islamophobes and xenophobes", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"In effect, a French political community is being upheld that seeks to include Jews as valued and protected members while reinforcing the Muslim understanding that their residences and social standing can be fully understood by reference to the no-go banilieus of the country", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Salman Rushdie's ordeals", "label":"no-unit"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"In the wake of these events, there is a new sympathetic look back at the ordeals of Salman Rushdie endured after the publication of his satirical novel \"The Satanic Verses\" in 1988", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Rushdie, appearing as a guest on Bill Maher's talk show and delivering a lecture at the University of Vermont, understandably defended freedom of expression as an absolute right", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"His words, deeply felt, are worth heeding as the counterpoint to the views expressed by Pope Francis", "label":"assumption"},
+    {"number":70, "text":":", "label":"no-unit"},
+    {"number":71, "text":"\"And so artists who ... push outwards often find very powerful forces pushing back", "label":"testimony"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"They find the forces of silence opposing the forces of speech", "label":"testimony"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"The forces of censorship against the forces of utterance ... At that boundary is that push-and-pull between more and less", "label":"testimony"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"And that push and pull can be very dangerous to the artist", "label":"testimony"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"And many artists have suffered terribly for that.\"", "label":"testimony"}
+  ],
+  [
+    {"number":80, "text":"The context of Rushdie's recent remarks was the Charlie Hebdo incident", "label":"anecdote"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"but", "label":"no-unit"},
+    {"number":83, "text":"his outlook was intended to be sweeping in its generality", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"And", "label":"no-unit"},
+    {"number":86, "text":"yet", "label":"no-unit"},
+    {"number":87, "text":"he did not, nor did Bill Maher, pause to take note of those powerful forces in the West", "label":"anecdote"},
+    {"number":88, "text":"that have tried to shut down critics of Israel by shouting \"anti-Semite\" at the top of their lungs", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Without some degree of consistency it is difficult to consider clearly the societal choice at stake", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"What makes this confrontation so difficult to resolve is that it engages two truths, not one", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"The beginning of ethical credibility is to insist upon consistency", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Either", "label":"no-unit"},
+    {"number":97, "text":"Rushdie and France have to abide by the unsavoury views of Dieudonne as well as those of Charlie Hebdo", "label":"assumption"},
+    {"number":98, "text":"or", "label":"no-unit"},
+    {"number":99, "text":"it should suppress them both", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"If", "label":"no-unit"},
+    {"number":102, "text":"it allows both", "label":"assumption"},
+    {"number":103, "text":"then it is opting for the Rushdie view", "label":"assumption"},
+    {"number":104, "text":"that members of a modern society must learn to live with the extremes of cultural freedom", "label":"assumption"},
+    {"number":105, "text":"even if", "label":"no-unit"},
+    {"number":106, "text":"hurtful", "label":"no-unit"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"If", "label":"no-unit"},
+    {"number":109, "text":"it allows neither then it is choosing to protect the sensibilities of minorities and others", "label":"assumption"},
+    {"number":110, "text":"whose dignity is under attack", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"Of course", "label":"no-unit"},
+    {"number":113, "text":",", "label":"no-unit"},
+    {"number":114, "text":" there are many compromises that can be made to ensure maximum freedom of expression while acknowledging certain limits", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":116, "text":"The US Supreme Court long ago decided that free speech does entitle someone to yell \"fire\" in a crowded theatre", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"This is what courts are for", "label":"assumption"},
+    {"number":119, "text":",", "label":"no-unit"},
+    {"number":120, "text":"to draw these lines in specific cases, balancing opposing truths in the light of practicality and the evolving values of the community", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"},
+    {"number":122, "text":"What a judicial body had to say about race or homosexuality a century ago is different than what it says today", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"},
+    {"number":124, "text":"And", "label":"no-unit"},
+    {"number":125, "text":"as we in the US know too well", "label":"assumption"},
+    {"number":126, "text":",", "label":"no-unit"},
+    {"number":127, "text":"the prevailing ideology among the justices is often of greater importance to determining how such lines are drawn than are the legislative or constitutional enactments being interpreted", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"In some respects, then, such determinations are more part of the problem than of the solution", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":131, "text":"Abstract sentiments", "label":"no-unit"},
+    {"number":132, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":133, "text":"I find myself siding with the abstract sentiments of Pope Francis, but with Rushdie's view of minimising the role of law and the state", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"},
+    {"number":135, "text":"In this respect", "label":"no-unit"},
+    {"number":136, "text":",", "label":"no-unit"},
+    {"number":137, "text":"if", "label":"no-unit"},
+    {"number":138, "text":"we impose limits by way of government", "label":"assumption"},
+    {"number":139, "text":"we are entering the domain of censorship", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"At the same time", "label":"no-unit"},
+    {"number":142, "text":",", "label":"no-unit"},
+    {"number":143, "text":" we need to protect individuals and groups against malicious forms of defamation and hateful attacks on identities without confusing such protection with efforts to channel public awareness in certain prescribed directions", "label":"assumption"},
+    {"number":144, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":145, "text":"My own experience suggests that \"freedom\" of this sort has been used by some pro-Zionist and pro-Israeli organisations to discredit and deter and criticism of Israel, and especially of Israeli state crimes victimising the Palestinian people", "label":"anecdote"},
+    {"number":146, "text":".", "label":"no-unit"},
+    {"number":147, "text":"In Rushdie's case we need to protect his right to publish \"The Satanic Verses\", while condemning the fatwa imposing a death sentence for blasphemy and apostasy, yet upholding the right of non-western political communities to prohibit distribution of such a book because of its provocative nature in certain civilisational settings", "label":"assumption"},
+    {"number":148, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":149, "text":"Obviously, there are no cookie cutter answers", "label":"assumption"},
+    {"number":150, "text":".", "label":"no-unit"},
+    {"number":151, "text":"The proper limits are a matter of history, ethics, cultural priorities, and circumstances", "label":"assumption"},
+    {"number":152, "text":".", "label":"no-unit"},
+    {"number":153, "text":"I feel that the central question is raised by Derrida's inquiry into how we can learn to live together", "label":"assumption"},
+    {"number":154, "text":".", "label":"no-unit"},
+    {"number":155, "text":"For me, living together, given the originality of our historical moment, involves the construction of overlapping political communities of destiny - from family to world, with a major focus on the national political community combined with a greater effort to establish a global political community so that challenges posed by climate change, nuclear weaponry, infectious disease, and world poverty can be addressed more effectively and humanely", "label":"assumption"},
+    {"number":156, "text":".", "label":"no-unit"}
+  ]
+]}

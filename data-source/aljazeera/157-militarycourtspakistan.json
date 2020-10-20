@@ -1,0 +1,188 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Military courts and terrorists heroes.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In the early hours of December 24, 2014, mere days after the attack on the Army Public School in Peshawar, a worn-out and exhausted Prime Minister Nawaz Sharif took to the airwaves", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"He had just concluded a marathon ten hour meeting with the chief of army staff of Pakistan", "label":"anecdote"},
+    {"number":5, "text":"and", "label":"no-unit"},
+    {"number":6, "text":"he came to the public with some new measures that would be undertaken to ensure that an attack like the Peshawar massacre would never happen again", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The most notable and controversial of these was the establishment of special military courts that would try terror suspects for the next two years", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"In the opinion of the prime minister, and several other political parties, this measure, which would take power away from Pakistan's civilian judiciary, was necessary to win the fight against terror", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"It is no secret that Pakistani civilian courts have themselves been targets of terror", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Just nine months before Peshawar, on March 3, 2014 two suicide bombers unleashed their mayhem inside the District Court complex in Islamabad", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Once inside, they lobbed grenades and fired bullets", "label":"anecdote"},
+    {"number":17, "text":",", "label":"no-unit"},
+    {"number":18, "text":"people scrambled everywhere, papers flew and bodies fell", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"As happens in the aftermath of every one of the hundreds of bombings that have taken place in Pakistan this year, the attack on the District Court in Islamabad was claimed by one of the terror groups operating in Pakistan", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Like the Army Public School attack that would come months later, the aftermath of carnage was grotesque, the bits and pieces of the instruments of justice, papers of pleadings, the black jackets worn by lawyers, spread all over what had become a crime scene", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Attacks on courts are not the only problem in the adjudication of terrorism cases", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Terror suspects, in the cases where they are even apprehended, are rarely tried let alone convicted", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"As", "label":"no-unit"},
+    {"number":29, "text":"the war on terror has trundled on", "label":"assumption"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"Pakistan's Court system has lacked the security or the power to conduct terrorism trials and produce convictions", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"In numbers obtained from 2012, it was found that the conviction rate for terrorism cases in Khyber Pakhtunkhwa province, where many attacks were concentrated, was a paltry 4 percent", "label":"statistics"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"In Punjab, the situation was not much better", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"In 2012 the Special Anti-Terrorism Court in that province heard 559 cases against terror suspects and 414 of these ended with acquittals", "label":"statistics"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"According to Khurram Khan, a Deputy Special Prosecutor, \"Witnesses have a high rate of recanting because of fear or threats in kidnapping for ransom cases [...] Very few people come forward. Since we don't have a witness protection program, they change their statements.\"", "label":"testimony"}
+  ],
+  [
+    {"number":40, "text":"In more high profile cases, the witnesses face death threats", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Between 1990 and 2009, a time when Pakistan suffered thousands of terrorist attacks and suicide bombings, the acquittal rate in terror cases was 74 percent", "label":"statistics"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"The establishment of military courts for a period of two years is supposed to be a solution to all of this", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"If", "label":"no-unit"},
+    {"number":47, "text":"the military that is bombing terrorist hideouts in the north of the country is also given the task of adjudicating the cases", "label":"assumption"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"the new logic goes, terrorists will certainly be punished and tragedies like Peshawar will never happen again", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"It is a false premise", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"First", "label":"no-unit"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":" it is not the first time that military courts have been established in Pakistan, subverting and sidelining the country's already ailing civilian courts", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"On October 17, 1979 not long after General Zia ul Haq took over the country in a military coup, military courts were established (along with a ban on political activity and a muzzling of the Press)", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"The decisions of these closed courts could not be challenged in any civilian courts", "label":"assumption"},
+    {"number":60, "text":"and", "label":"no-unit"},
+    {"number":61, "text":"once that court was established, any matter could be transferred to its jurisdiction", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"As a result, over one hundred such courts were established", "label":"statistics"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"The powers they gave to the military allowed large-scale arrests and detentions of political workers and journalists", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Hundreds of people were flogged and imprisoned simply for participating in normal political activity that was banned under martial law", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"In the present case, martial law has not been declared in Pakistan", "label":"anecdote"},
+    {"number":70, "text":";", "label":"no-unit"},
+    {"number":71, "text":"however", "label":"no-unit"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":" turning over the adjudication of terror cases undoubtedly undermines the country's civilian judiciary", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"First", "label":"no-unit"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":" the secrecy surrounding military courts leaves them open to charges of contravening legal principles and pursuing their own vendettas against this or that terrorist group instead of sticking to the principles of justice and obtaining convictions via fair procedures", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"Given that military courts in Pakistan do not work under a system of legal precedent, little information exists as to the basis of convictions and acquittals", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Moreover", "label":"no-unit"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"since", "label":"no-unit"},
+    {"number":84, "text":"evidence is rarely made public", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"plenty of room is created for conspiracy theorists to place doubt on any conviction that is produced under their auspices", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"A confused Pakistani public, whose anti-imperialist fervour often leads it to championing extremist outfits against what it perceives as US meddling, desperately needs to see the evidence against terror suspects", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"It is only when the procedures for doing so are clear and transparent that the hearts and minds vulnerable to conspiracy theories that blame foreign hands will be forced to confront extremism as a home grown issue", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"The aftermath of every terror attack sees a burgeoning of just this sort of denial, whetted and promoted by groups themselves", "label":"assumption"},
+    {"number":93, "text":";", "label":"no-unit"},
+    {"number":94, "text":"the consequent moral murkiness makes it impossible for a Pakistani public to see terrorism as a black and white issue", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"It is only where the evidence against the evil masterminds of blasts and bombings is openly available and fairly presented will it be impossible to ignore", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Second", "label":"no-unit"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"the low conviction rate in civilian courts is a problem", "label":"assumption"},
+    {"number":101, "text":";", "label":"no-unit"},
+    {"number":102, "text":"but", "label":"no-unit"},
+    {"number":103, "text":"it is one that can and should have been solved by providing protection to adjudicators, witnesses and other parties instead of rendering civilian courts altogether irrelevant", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"The Pakistani army undoubtedly possesses the capability to do this and does it regularly for its own leaders", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"Similarly civilian security outfits regularly protect police officials, Parliamentarians and other office holders", "label":"assumption"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":"all of whom roam the country with heavy security cordons that are not available to lawyers, judges and witnesses in terror cases", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"Finally", "label":"no-unit"},
+    {"number":112, "text":",", "label":"no-unit"},
+    {"number":113, "text":" the establishment of military courts resurrects the old military- civilian schism from the dregs of Pakistani history and leaves the issue of extremism languishing in the middle", "label":"assumption"},
+    {"number":114, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":115, "text":"The memory of the old military courts and their excesses against pro democracy agitators and writers who opposed martial law may be distant but is not forgotten", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"The scepticism of the military and its machinations refreshed by this latest announcement is something that will only weaken what should be in Pakistan a united front against extremism", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"The old narrative of pro-democracy activists harassed by military courts can easily be hijacked by today's extremists", "label":"assumption"},
+    {"number":120, "text":",", "label":"no-unit"},
+    {"number":121, "text":"who can present themselves as similarly beleaguered and innocent", "label":"assumption"},
+    {"number":122, "text":",", "label":"no-unit"},
+    {"number":123, "text":"their convictions illegitimate because they were handed down by military courts", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"On the shoulders of such familiar manipulations, they will not be condemned convicts but heroes", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":127, "text":"Terror is a people's problem in Pakistan, with nearly a thousand deaths in over 372 attacks just this year", "label":"statistics"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"The extremists who are wreaking this havoc must be accountable to the people, via judicial institutions that serve the public", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":131, "text":"The evidence has to be seen by all and the rules made plain and clear", "label":"assumption"},
+    {"number":132, "text":".", "label":"no-unit"},
+    {"number":133, "text":"The consequence then would be an unequivocal condemnation untainted by conspiracy and paranoia and constructed on fairness", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"},
+    {"number":135, "text":"Ultimately", "label":"no-unit"},
+    {"number":136, "text":",", "label":"no-unit"},
+    {"number":137, "text":"winning the war against extremists requires mobilising Pakistan's public against terror", "label":"assumption"},
+    {"number":138, "text":";", "label":"no-unit"},
+    {"number":139, "text":"military courts cannot achieve this crucial goal", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"}
+  ]
+]}

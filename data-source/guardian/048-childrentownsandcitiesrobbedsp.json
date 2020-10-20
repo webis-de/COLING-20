@@ -1,0 +1,195 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Children in our towns and cities are being robbed of safe spaces to play.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Where do the children play?", "label":"assumption"},
+    {"number":3, "text":"Where can they run around unsupervised?", "label":"assumption"},
+    {"number":4, "text":"On most of the housing estates I visit, the answer is hardly anywhere", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"A community not built around children is no community at all", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"A place that functions socially is one in which they are drawn to play outdoors", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"As Jay Griffiths argues in her heartrending book Kith, children fill the \"unoccupied territories\", the spaces not controlled by tidy-minded adults, \"the commons of mud, moss, roots and grass\"", "label":"testimony"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"But such places are being purged from the land and their lives", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"\"Today's children are enclosed in school and home, enclosed in cars to shuttle between them, enclosed by fear, by surveillance and poverty and enclosed in rigid schedules of time.\"", "label":"testimony"},
+    {"number":15, "text":"Since the 1970s the area in which children roam without adults has decreased by almost 90%", "label":"statistics"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"\"Childhood is losing its commons.\"", "label":"testimony"}
+  ],
+  [
+    {"number":18, "text":"Given all", "label":"no-unit"},
+    {"number":19, "text":"that we know about the physical and psychological impacts of this confinement", "label":"assumption"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"you would expect the authorities to ensure that the remaining 10% of their diminished range is designed to draw children out of their homes", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Yet almost everywhere they are designed out", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"Housing estates are built on the playing fields and rough patches children used to inhabit, and offer almost nothing in return", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"In the government's masterplan for England, the national planning policy framework, children are mentioned only twice: in a catalogue of housing types", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"In parliament's review of these plans, they aren't mentioned at all", "label":"anecdote"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Young people, around whom our lives should revolve, have been airbrushed from the planning system", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"I spent Monday wandering around the new and newish housing developments on the east side of Northampton", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"I chose this area because the estates here are spacious and mostly built for families", "label":"anecdote"},
+    {"number":36, "text":":", "label":"no-unit"},
+    {"number":37, "text":"in other words, there is no possible excuse for excluding young people", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"In the places built 10 or 20 years ago, there is plenty of shared space", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"but", "label":"no-unit"},
+    {"number":42, "text":"almost all of it is allocated to cars", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"(You can see the photos on my website", "label":"testimony"},
+    {"number":45, "text":".)", "label":"no-unit"},
+    {"number":46, "text":"Grass is confined to the roundabouts or to coffin-like gardens", "label":"assumption"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"in which you can't turn a cartwheel without hitting the fence", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"I came across one exception - a street with wide grass verges", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"But they sloped towards the road: dangerous and useless, a perfect waste of space", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"This land of missed opportunities, designed by people without a spark of joy in their hearts, reifies the idea that there is no such thing as society", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Had you set out to ensure that children were neither seen nor heard, you could not have done a better job", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"On the last day of the holidays, which was warm and dry, across four estates I saw only one child", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"By comparison, the Cherry Orchard estate just completed by Bellway Homes is a children's paradise", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"But only by comparison", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Next to the primary school, with plenty of three- and four-bedroom houses, it is designed to appeal to young families", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"But in the middle of the development, where a village green might have been, there' s a strange grassy sump, surrounded by a low fence", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"It's an empty balancing pond, to catch water during exceptional floods", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Remove the fence, plant it with trees, throw in some rocks and logs, and you'd have a rough and mossy playground", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"But no such thing was in the plans", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Other shared spaces on the estate have the charming ambience of a prison yard", "label":"assumption"},
+    {"number":75, "text":":", "label":"no-unit"},
+    {"number":76, "text":"paved and surrounded by garden fences almost nine feet high", "label":"no-unit"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"There were a few children outdoors", "label":"anecdote"},
+    {"number":79, "text":"but", "label":"no-unit"},
+    {"number":80, "text":"they seemed pressed to the edges, sitting in doorways or leaning on fences", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Children don't buy houses", "label":"common-ground"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"so who cares?", "label":"assumption"}
+  ],
+  [
+    {"number":85, "text":"Throughout the country, they become prisoners of bad design, and so do adults", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Without safe and engaging places in which they can come together, no tribe forms", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"So parents must play the games that children would otherwise play among themselves", "label":"assumption"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"and", "label":"no-unit"},
+    {"number":92, "text":"everyone is bored to tears", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"The exclusion of children arises from the same pathology that denies us decent housing", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"In the name of market freedom, the volume housebuilders, sitting on their land banks, are free to preside over speculative chaos", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"while we are free to buy dog kennels priced like palaces in placeless estates so badly designed that community is dead on arrival", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Many want to design and build their own homes", "label":"assumption"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":"but", "label":"no-unit"},
+    {"number":103, "text":"almost no plots are available", "label":"assumption"},
+    {"number":104, "text":",", "label":"no-unit"},
+    {"number":105, "text":"as the big builders have seized them", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"In Scotland the government is considering compulsory sale orders", "label":"assumption"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":"which would pull down prices", "label":"assumption"},
+    {"number":110, "text":"- essential when the speculative price of land has risen from 2% of the cost of a home in the 1930s to 70% today", "label":"statistics"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"A national housing land corporation would assemble the sites and supply the infrastructure, then sell plots to community groups, housing associations and people who want to build their own", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"It goes far beyond England's feeble community right-to-build measures", "label":"assumption"},
+    {"number":115, "text":",", "label":"no-unit"},
+    {"number":116, "text":"which lack the muscular facilitation that only public authorities can provide", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"But it's still not far enough", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"What if people were entitled to buy an option for a plot on a new estate, which they would then help to plan?", "label":"assumption"},
+    {"number":121, "text":"Not just the houses, but the entire estate would be built for and by those who would live there", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"The council or land corporation would specify the number and type of homes", "label":"assumption"},
+    {"number":124, "text":",", "label":"no-unit"},
+    {"number":125, "text":"then", "label":"no-unit"},
+    {"number":126, "text":"the future residents - including people on the social housing waiting list - would design the layout", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"},
+    {"number":128, "text":"Their children would help to create the public spaces", "label":"assumption"},
+    {"number":129, "text":".", "label":"no-unit"},
+    {"number":130, "text":"Communities would start to form", "label":"assumption"},
+    {"number":131, "text":"even before people moved in", "label":"assumption"},
+    {"number":132, "text":",", "label":"no-unit"},
+    {"number":133, "text":"and", "label":"no-unit"},
+    {"number":134, "text":"the estates would doubtless look nothing like those built today", "label":"assumption"},
+    {"number":135, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":136, "text":"To the Westminster government, this probably sounds like communism", "label":"assumption"},
+    {"number":137, "text":".", "label":"no-unit"},
+    {"number":138, "text":"But", "label":"no-unit"},
+    {"number":139, "text":"as countries elsewhere in Europe have found, we don't need volume house builders, except to construct high-rises", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"They do not assist the provision of decent, affordable homes", "label":"assumption"},
+    {"number":142, "text":".", "label":"no-unit"},
+    {"number":143, "text":"They impede it", "label":"assumption"},
+    {"number":144, "text":".", "label":"no-unit"},
+    {"number":145, "text":"What is good for them is bad for us", "label":"assumption"},
+    {"number":146, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":147, "text":"Bellway, its brochure reveals, asked children at the neighbouring primary school to paint a picture of a cherry orchard, and displayed the winning entries in its show home", "label":"anecdote"},
+    {"number":148, "text":".", "label":"no-unit"},
+    {"number":149, "text":"\"Why not pop over to say hello, view our wonderful development and sneak a peek?\", it asks", "label":"testimony"},
+    {"number":150, "text":".", "label":"no-unit"},
+    {"number":151, "text":"That's the role the children were given: helping the company to sell the houses it had already built", "label":"assumption"},
+    {"number":152, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":153, "text":"Why can't we shape the places that shape our lives?", "label":"assumption"}
+  ]
+]}

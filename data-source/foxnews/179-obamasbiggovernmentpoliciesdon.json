@@ -1,0 +1,124 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama's big government policies don't create enough decent jobs.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Friday, the Labor Department is expected to report the economy added about 230,000 jobs in November", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"and", "label":"no-unit"},
+    {"number":5, "text":"the White House will tout the economic recovery has created jobs for a record 57 months in a row", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"Voters rejected that message by ousting Democrats in the mid-term elections", "label":"assumption"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"quite simply because the President's recovery has simply not delivered enough good paying, full time jobs", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"In the wake of the financial crisis, unemployment peaked at 10 percent", "label":"statistics"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"but", "label":"no-unit"},
+    {"number":14, "text":"the five year recovery has scored only 2.3 percent annual growth and added only about 10 million jobs--a mere 7 percent increase from the recession low of 129 million", "label":"statistics"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"President Reagan also inherited a mess--high oil prices, double digit interest rates and unemployment peaking at 10.8 percent", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"His recovery, over the period comparable to the Obama expansion, registered 4.8 percent annual GDP growth and created 14.3 million jobs--a 16 percent increase from a recession low of 89 million", "label":"statistics"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"The difference was governing philosophy", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Obama put billions into cumbersome, economically questionable government programs like solar energy, expanded federal entitlements, imposed higher taxes on small entrepreneurs, and burdened businesses and banks with costly and ineffective regulations", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Manufacturing and construction--hamstrung by onerous new restrictions on factories and bank lending--have not adequately recovered", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"Today, both industries employ about 1.6 million fewer workers than before the recession", "label":"statistics"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Lost are many jobs paying more than $25 per hour that once helped undergird the middle class", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Democrats, such as Senator Charles Schumer blame new technologies and advocate yet more big government", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"but", "label":"no-unit"},
+    {"number":33, "text":"innovation that raises labor productivity has been a dominant force since the first axle and wheel", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"and", "label":"no-unit"},
+    {"number":36, "text":"Obama's failures indicate paucity of Schumer's prescription", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"More striking has been the failure of U.S  manufacturers to apply home-grown technologies to more effectively boost domestic manufacturing, increase exports and compete with imports", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"During the 2008 campaign, Obama promised to improve U.S  competitive performance by addressing China's undervalued currency", "label":"anecdote"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"which artificially disadvantages U.S.-based factories, but hasn't", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Since", "label":"no-unit"},
+    {"number":45, "text":"the Obama recovery began", "label":"anecdote"},
+    {"number":46, "text":", the trade deficit with China has increased $190 billion, destroying 1.6 million American jobs", "label":"statistics"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"In addition to the Keystone pipeline, the Administration continues to block petroleum development off the Atlantic, Pacific and Eastern Gulf Coasts", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The United States needlessly imports about 5.5 million barrels of petroleum each day at an annual cost of $120 billion a year", "label":"statistics"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"That kills another 1 million jobs a year in construction, petroleum refining, manufacturing, and professional services", "label":"statistics"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"Health benefits costs are about 50 percent higher for U.S  manufacturers than for competitors in Japan and Germany", "label":"statistics"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Obama promised to do something about that too", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"but", "label":"no-unit"},
+    {"number":59, "text":"the Affordable Care Act mostly subsidizes health coverage for previously uninsured and lower income Americans", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Premiums paid by businesses keep rising faster than inflation, further burdening U.S  competitiveness in international markets", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"High health care costs, coupled with slack in the jobs market, encourage employers to split full time positions into part-time jobs to avoid paying for health insurance and other benefits", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Seven million Americans, who want full time employment, are consigned to part- time work--often in retailing and other lower paying service activities", "label":"assumption"},
+    {"number":66, "text":",", "label":"no-unit"},
+    {"number":67, "text":"where jobs are more easily divided among several workers", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"Workers in finance, technology and other high skilled professions are getting good raises", "label":"assumption"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":"while", "label":"no-unit"},
+    {"number":72, "text":"wages for lower-skilled workers--especially those stuck in part-time positions--lag inflation", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Combined with the shortage of mid-skilled jobs in construction and manufacturing, those forces have driven down median family income to $52,120 from about $56,436 prior to the recession", "label":"statistics"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Families near the top have registered significant gains", "label":"assumption"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"while", "label":"no-unit"},
+    {"number":79, "text":"the majority of families have permanently lost much more buying power than those averages indicate", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"Getting America working and incomes rising again requires better managing globalization, freeing up U.S  energy production and smarter, lower-cost business regulations", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Without pro-growth policies, the monthly jobs report will continue to bring depressing news to America's working families and lots of deceptive media hype from White House", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ]
+]}

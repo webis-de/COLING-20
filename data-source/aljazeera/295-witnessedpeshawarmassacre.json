@@ -1,0 +1,221 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"'I witnessed the Peshawar massacre'.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In the name of God, the Most Gracious, the Most Merciful", "label":"other"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Salam, my name is Ali", "label":"common-ground"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"I am twelve years old", "label":"common-ground"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"We were in between lessons during our first class, when we suddenly heard the sound of shooting", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"It was very aggressive noise", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"We did not have time to even imagine what it could be", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Within moments as the noise got closer to our class room our teacher told us to hide beneath our desks", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"\"Get under your desk, fast, get under your desk,\" she said", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Some of us cowered", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Some of us stood confused and panicked", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"The whole classroom started asking our teacher\"what is happening\"", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Screaming children from the classrooms next door shocked us", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"It scared me so much", "label":"anecdote"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"I could not even scream", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Our teacher was just about to lock the door when three militants stormed in the door", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"They were already shooting", "label":"anecdote"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"and", "label":"no-unit"},
+    {"number":35, "text":"I saw my teacher and class fellows immediately get hurt", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Some of my friends started falling down (after being hit)", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"Many of us went under our tables", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"I knew I was going to die and started crying", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Everyone was crying but no one (in my class) tried running away", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"They shot my class fellows in the head, in the chest, on their arms, on the legs and in the stomach", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Everyone was on the ground", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Maybe, they knew many of us were alive", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Then they started shooting straight in the skull", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Bullets went over our heads", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"My best friend and class bench partner Irfan Ullah told me,\"pretend we are dead.\"", "label":"testimony"},
+    {"number":56, "text":"I was shaking with fear", "label":"anecdote"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Our seats are in the last row of the classroom", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"\"Lay still, Ali, Lay still\" he whispered to me", "label":"testimony"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"I was turned upside down", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Everything happened very fast", "label":"anecdote"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"I knew it was the terrorist", "label":"anecdote"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"I knew it was Taliban", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"My friend also got hit with bullets", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"I don't know which parts of his body but he didn't speak", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"I could hear him breath next to me", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"One terrorist screamed to the other,\"Is that one dead?\"", "label":"anecdote"},
+    {"number":77, "text":"and then I heard bullets and more shots", "label":"anecdote"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"I felt like I was dead", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"They spoke in Pashto and were wearing shalwar kameez", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"All of them had long brown beards", "label":"anecdote"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"When they left the room, I whispered to Irfan", "label":"anecdote"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"but", "label":"no-unit"},
+    {"number":88, "text":"he didn't respond", "label":"anecdote"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"I thought he is playing dead", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"I continued(to play dead)", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"I was very scared they will come back", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"I don't know when my friend died", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"He saved my life", "label":"anecdote"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"I thought I was dead", "label":"anecdote"},
+    {"number":101, "text":"but", "label":"no-unit"},
+    {"number":102, "text":"my heart was beating very fast", "label":"anecdote"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"I couldn't move", "label":"anecdote"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"I played dead for several hours", "label":"anecdote"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"When the soldiers came to rescue, I could not move and remained still", "label":"anecdote"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"I did not know if they were real soldiers", "label":"anecdote"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"And I could not speak", "label":"anecdote"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"I was very scared", "label":"anecdote"},
+    {"number":115, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":116, "text":"I heard constant noise of bullets outside my class but didn't have the strength to open my eyes", "label":"anecdote"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"There was huge explosion", "label":"anecdote"},
+    {"number":119, "text":".", "label":"no-unit"},
+    {"number":120, "text":"I thought the world will explode today", "label":"anecdote"},
+    {"number":121, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":122, "text":"When someone picked me up I kept my eyes closed", "label":"anecdote"},
+    {"number":123, "text":".", "label":"no-unit"},
+    {"number":124, "text":"It was the army soldiers", "label":"anecdote"},
+    {"number":125, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":126, "text":"I started crying", "label":"anecdote"},
+    {"number":127, "text":".", "label":"no-unit"},
+    {"number":128, "text":"They took me to my parents", "label":"anecdote"},
+    {"number":129, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":130, "text":"I have come here to the hospital", "label":"anecdote"},
+    {"number":131, "text":".", "label":"no-unit"},
+    {"number":132, "text":"So many of my schoolmates are here", "label":"anecdote"},
+    {"number":133, "text":"who are short of blood", "label":"anecdote"},
+    {"number":134, "text":".", "label":"no-unit"},
+    {"number":135, "text":"I am offering my blood for donation", "label":"anecdote"},
+    {"number":136, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":137, "text":"My parents insisted that we should go home", "label":"anecdote"},
+    {"number":138, "text":".", "label":"no-unit"},
+    {"number":139, "text":"They are worried about me", "label":"anecdote"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"They are sad", "label":"anecdote"},
+    {"number":142, "text":".", "label":"no-unit"},
+    {"number":143, "text":"They are scared", "label":"anecdote"},
+    {"number":144, "text":".", "label":"no-unit"},
+    {"number":145, "text":"I am scared too", "label":"anecdote"},
+    {"number":146, "text":".", "label":"no-unit"},
+    {"number":147, "text":"But I am worried about my brothers and sisters who are at the hospital too", "label":"anecdote"},
+    {"number":148, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":149, "text":"These Taliban are evil", "label":"common-ground"},
+    {"number":150, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":151, "text":"I can't believe I am alive", "label":"anecdote"},
+    {"number":152, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":153, "text":"If", "label":"no-unit"},
+    {"number":154, "text":"my country needs me", "label":"assumption"},
+    {"number":155, "text":",", "label":"no-unit"},
+    {"number":156, "text":"I am here to offer my life", "label":"anecdote"},
+    {"number":157, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":158, "text":"I will fight these terrorists who killed my friends", "label":"anecdote"},
+    {"number":159, "text":".", "label":"no-unit"},
+    {"number":160, "text":"I will not forgive them", "label":"assumption"},
+    {"number":161, "text":".", "label":"no-unit"},
+    {"number":162, "text":"God is watching", "label":"assumption"},
+    {"number":163, "text":".", "label":"no-unit"}
+  ]
+]}

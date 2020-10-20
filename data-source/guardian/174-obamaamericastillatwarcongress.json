@@ -1,0 +1,141 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The greatest trick Obama ever pulled was convincing the world America isn't still at war.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The holiday headlines blared without a hint of distrust:\"End of War\" and \"Mission Ends\" and \"U.S  formally ends the war in Afghanistan\", as the US government and Nato celebrated the alleged end of the longest war in American history", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Great news!", "label":"no-unit"},
+    {"number":5, "text":"Except, that is, when you read past the first paragraph", "label":"assumption"},
+    {"number":6, "text":":", "label":"no-unit"},
+    {"number":7, "text":"\"the fighting is as intense as it has ever been since the U.S.-led invasion in 2001,\" according to the Wall Street Journal", "label":"testimony"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"And about 10,000 troops will remain there for the foreseeable future (more than we had a year after the Afghan war started)", "label":"statistics"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Oh, and", "label":"no-unit"},
+    {"number":12, "text":"they'll continue to engage in combat regularly", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"But other than that, yeah, the war is definitely over", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"This is the new reality of war", "label":"assumption"},
+    {"number":17, "text":":", "label":"no-unit"},
+    {"number":18, "text":"As long as the White House doesn't admit the United States is at war", "label":"assumption"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"we're all supposed to pretend as if that's true", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"This ruse is not just the work of the president", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Members of Congress, who return to work this week, are just as guilty as Barack Obama in letting the public think we're Definitely Not at War, from Afghanistan and Somalia to the new war with Isis in Iraq and Syria and beyond", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Thirteen years on, the near limitless war authorization Congress passed for the Afghanistan war remains in place, with no sign that Congress wants to even debate revoking it", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"This is what will allow US troops to continue fighting, despite the mission supposedly being \"formally\" over", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Just a month before Obama made his farcical announcement last week", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"he signed a secret order to ensure US troops continue to engage in combat missions against various \"militant groups\" in Afghanistan for all of 2015", "label":"anecdote"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"The war in Afghanistan is over, the President says", "label":"testimony"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"The sky is green, the President says", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"The sun rises in the West, the President says", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Another place the United States is Definitely Not at War?", "label":"assumption"},
+    {"number":41, "text":"Pakistan, where, according to the Bureau of Investigative Journalism, the US conducted multiple drone strikes between Christmas and New Year's Eve, killing at least nine people", "label":"testimony"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"We don't know who died", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"but", "label":"no-unit"},
+    {"number":46, "text":"the Associated Press assured us they were \"militants\", despite the US government's definition of \"militant\" having been manipulated beyond comprehension", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"The US Congress, of course, has steadfastly refused to attempt to place any real legislative limits on drone strikes, even those that have killed American citizens", "label":"assumption"},
+    {"number":49, "text":"-", "label":"no-unit"},
+    {"number":50, "text":"which, as various scholars have been screaming for years, represent an unconstitutional violation of the Fifth Amendment", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Meanwhile, the Defense Department quietly announced a few days before Christmas that, later this month, another 1,300 troops will deploy to Iraq in its ever-expanding undeclared war on Isis", "label":"testimony"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"A Pentagon spokesperson emphasized these are Definitely Not Combat Troops, despite the US government's current definition of \"combat\" being so narrow that it's \"rejected by virtually every military expert\" ", "label":"assumption"},
+    {"number":55, "text":"-", "label":"no-unit"},
+    {"number":56, "text":"not to mention that the troops already in Iraq are already under \"regular\" fire, according to CNN", "label":"testimony"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"The US continues to launch airstrikes against Isis and various other groups in Syria as well", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"As", "label":"no-unit"},
+    {"number":61, "text":"the new Congress opens in Washington on Tuesday, it once again has the opportunity", "label":"assumption"},
+    {"number":62, "text":"to formally debate and actually vote on the war against Isis, a constitutional obligation from which America's politicians shamefully slunk away", "label":"assumption"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"preferring instead to campaign for re-election", "label":"assumption"},
+    {"number":65, "text":"- free of difficult decision-making", "label":"no-unit"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Now", "label":"no-unit"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"almost five months in to a war the administration freely admits will last for years if not decades, hardly anyone seems to care what legal experts across the political spectrum believe", "label":"assumption"},
+    {"number":70, "text":":", "label":"no-unit"},
+    {"number":71, "text":"this war is without precedent", "label":"assumption"},
+    {"number":72, "text":"- and", "label":"no-unit"},
+    {"number":73, "text":"it's illegal without Congressional approval", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Now", "label":"no-unit"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":" the US Congress is not exactly a body known for its nuance and restraint", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"and", "label":"no-unit"},
+    {"number":80, "text":"there are many reasons why war against Isis remains a terrible idea", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"but", "label":"no-unit"},
+    {"number":83, "text":"if", "label":"no-unit"},
+    {"number":84, "text":"either the Republican-controlled House and Senate want to make an actual case for war", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"then that is their prerogative", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"But vote on it", "label":"other"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Because the Obama administration has already gone down a dangerous path", "label":"assumption"},
+    {"number":91, "text":"wherein", "label":"no-unit"},
+    {"number":92, "text":"the executive branch can unilaterally carry out virtually any war", "label":"assumption"},
+    {"number":93, "text":"it wants without any official input from Congress", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"Given the GOP's newfound hatred of executive power, which the party seem to have conveniently forgotten was pioneered during every Republican administration since Nixon", "label":"assumption"},
+    {"number":96, "text":",", "label":"no-unit"},
+    {"number":97, "text":"you'd think Washington's new majority might want to take this tiny step of debating and voting on the Isis war", "label":"assumption"},
+    {"number":98, "text":",", "label":"no-unit"},
+    {"number":99, "text":"as is their own constitutional duty", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"Republicans would do well to use the president's own words against him", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"As Barack Obama himself told the Boston Globe back in 2007", "label":"anecdote"},
+    {"number":104, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"The President does not have power under the Constitution to unilaterally authorize a military attack in a situation that does not involve stopping an actual or imminent threat to the nation", "label":"testimony"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"Since", "label":"no-unit"},
+    {"number":108, "text":"virtually the entire US intelligence community agrees that Isis, no matter how awful and heinous the group may be, does not imminently threaten the mainland United States", "label":"assumption"},
+    {"number":109, "text":",", "label":"no-unit"},
+    {"number":110, "text":"maybe Congress can start off the new year by doing its job and actually voting on something required of them months ago", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ]
+]}

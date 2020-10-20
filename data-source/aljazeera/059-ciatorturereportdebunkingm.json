@@ -1,0 +1,207 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"CIA torture report: Debunking the myths.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Last night, after months of delay, the Senate Select Committee on Intelligence (SSCI) released a summary of their classified report on the Central Intelligence Agency's (CIA) post-9/11 Detention and Interrogation Programme", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"That's government-speak for torture", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"It was the first public accounting of what that programme actually entailed, and as one of the most controversial topics in Washington, is sure to create a political firestorm on both the left and the right, not to mention around the world, for many months to come", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"In short", "label":"no-unit"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":" it was shocking", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"It was ugly", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"It should lead no doubt to the reader that the programme was as wrong as it was useless", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"And it can never be permitted to happen again", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"The CIA's torture programme was authorised by then President George W Bush in August 2002", "label":"anecdote"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"giving them broad discretion in the use of harsh interrogation techniques that included waterboarding, sleep deprivation, hypothermia, stress positions, abdomen strikes, slapping and forced shaking", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Its stated purpose was to solicit actionable intelligence that might save American lives", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"In effect, it gave carte blanche for interrogators to do pretty much anything they wanted from a laundry list of macabre techniques to extract that information", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"To those behind the programme, the moral question was perversely inconsequential", "label":"assumption"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"as they all too readily adopted the Machiavellian philosophy of \"the end justifies the means\"", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"In methodical fashion, SSCI laid out its case through 20 findings and conclusions, followed by detailed supporting chapters tying them all together", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Abysmal failure", "label":"no-unit"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Nearly 500 pages in length, it was a mere, yet chilling, fraction of the overall report", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"which will remain classified", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"But the message was clear", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"The torture programme, despite what its supporters claimed at the time, and continue to do so even now, was an abysmal failure and disgrace for the US", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"In its very first finding, which set the stage for what was to follow", "label":"assumption"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"SSCI concluded the use of torture was not an \"effective means of acquiring intelligence or gaining cooperation from detainees\"", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"And most disturbingly, right from the beginning, CIA officers routinely called into question the programme's effectiveness in producing accurate intelligence", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"Yet", "label":"no-unit"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":" their leadership turned a blind eye to those concerns, ignoring numerous internal critiques, criticisms and objections from those charged with carrying out the grisly day-to-day operations", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"There were even instances when interrogators were ordered to continue torturing certain detainees who they had already assessed as being cooperative", "label":"anecdote"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"This is what we call a crisis in leadership - both at the CIA and at the highest levels of the Bush Administration", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Incredibly, of the 20 examples most often used by the CIA to show how successful their torture programme was, all were determined to be fundamentally wrong or misleading", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Case in point", "label":"no-unit"},
+    {"number":59, "text":":", "label":"no-unit"},
+    {"number":60, "text":"In their representations to the White House, National Security Council, Department of Justice, Congress and the American people, the CIA often referred to Abu Zubaydah as \"proof\" that those methods provided real, actionable intelligence that saved American lives", "label":"testimony"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"Zubaydah, a senior al-Qaeda figure, was captured in Pakistan in March 2002", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Several months later", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"after the torture programme was authorised", "label":"anecdote"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"he was subjected to numerous and repeated torture techniques, to include being waterboarded 83 times", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"According to former Bush Administration and CIA officials involved in the programme at the time, Zubaydah - as a direct result of his being waterboarded - not only provided information that allowed the FBI to disrupt the Jose Padilla \"Dirty Bomb Plot\" in Chicago, but also identified Khalid Sheikh Mohammed as the mastermind behind the 9/11 attacks", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"There' s only one problem with that story", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"It wasn't true", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"According to the SSCI report, the FBI actually obtained that information from Zubaydah through legal interrogation techniques between March and June 2002, and provided it to the CIA months before he was ever subjected to waterboarding or any other torture techniques", "label":"testimony"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"According to the FBI interrogators, they had developed a rapport with Zubaydah", "label":"testimony"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"who was cooperating with them", "label":"testimony"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"And yet, the CIA decided to subject him to torture", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Maybe Zubaydah repeated that information as a result of waterboarding", "label":"assumption"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":"but", "label":"no-unit"},
+    {"number":87, "text":"the official record reflects that it certainly wasn't the first time the CIA ever heard about it", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"And that's pretty much it when it comes to \"actionable intelligence\" gained through the CIA's use of torture", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"None", "label":"no-unit"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Nada", "label":"no-unit"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"Zip", "label":"no-unit"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Seriously?", "label":"other"}
+  ],
+  [
+    {"number":98, "text":"But it gets worse", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"Beginning with Zubaydah, the first CIA detainee to undergo torture, and continuing on with numerous others, the techniques went on for days or weeks at a time", "label":"anecdote"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"There were physical beatings, mock executions, sleep deprivations for days at a time while standing with hands chained above their heads, and threats to sexually assault or kill detainees' family members", "label":"anecdote"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":104, "text":"One detainee even died, apparently of hypothermia, after being chained nearly naked to a cement floor", "label":"anecdote"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"Reading the report, one has to ask how the US, or any country for that matter could morally justify what was done", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"It can't", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"The final finding and conclusion was an understatement", "label":"assumption"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":"in that the CIA's torture programme \"damaged the United States' standing in the world\"", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"},
+    {"number":114, "text":"And that's something the US isn't going to get over any time soon", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"As a longtime global leader in human rights issues, particularly on the subject of torture, the US has lost its moral credibility on the world stage", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"Law of the land", "label":"no-unit"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"The first step in ending the torture programme was accomplished in 2009", "label":"assumption"},
+    {"number":121, "text":",", "label":"no-unit"},
+    {"number":122, "text":"when", "label":"no-unit"},
+    {"number":123, "text":"US President Barack Obama signed an executive order banning it shortly after taking office", "label":"anecdote"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"That's the law of the land in the US right now", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"},
+    {"number":127, "text":"However", "label":"no-unit"},
+    {"number":128, "text":",", "label":"no-unit"},
+    {"number":129, "text":"when Obama leaves office in 2016", "label":"assumption"},
+    {"number":130, "text":",", "label":"no-unit"},
+    {"number":131, "text":"there' s nothing to stop his successor from authorising it again", "label":"assumption"},
+    {"number":132, "text":".", "label":"no-unit"},
+    {"number":133, "text":"Except, of course, the court of public opinion", "label":"assumption"},
+    {"number":134, "text":",", "label":"no-unit"},
+    {"number":135, "text":"which is why the release of this report was so important", "label":"assumption"},
+    {"number":136, "text":".", "label":"no-unit"},
+    {"number":137, "text":"In a recent Pew Research report, half the US public polled thought torture could be justified sometimes or even often", "label":"statistics"},
+    {"number":138, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":139, "text":"The second step happened last night with SSCI's public release of their report summary", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"No doubt, those who are still in favour the torture programme, particularly the former Bush Administration and the CIA officials closely involved with it, will aggressively refute the facts laid out in SSCI's report", "label":"assumption"},
+    {"number":142, "text":".", "label":"no-unit"},
+    {"number":143, "text":"Let them", "label":"other"},
+    {"number":144, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":145, "text":"Then, it's time to have a frank and informed discussion on the whole torture issue, separating the facts from the myths", "label":"assumption"},
+    {"number":146, "text":".", "label":"no-unit"},
+    {"number":147, "text":"The American public and its leaders need to ask themselves if torture is how they really want to be defined", "label":"assumption"},
+    {"number":148, "text":".", "label":"no-unit"},
+    {"number":149, "text":"Does the end really justify the means?", "label":"assumption"}
+  ],
+  [
+    {"number":150, "text":"After reading the report, one would have to wonder how it could", "label":"assumption"},
+    {"number":151, "text":".", "label":"no-unit"},
+    {"number":152, "text":"Torture is wrong, plain and simple", "label":"assumption"},
+    {"number":153, "text":".", "label":"no-unit"},
+    {"number":154, "text":"The US needs to reject it outright now", "label":"assumption"},
+    {"number":155, "text":",", "label":"no-unit"},
+    {"number":156, "text":"while the report, in all its shocking and macabre detail, is fresh in the public's mind", "label":"assumption"},
+    {"number":157, "text":".", "label":"no-unit"},
+    {"number":158, "text":"Otherwise", "label":"no-unit"},
+    {"number":159, "text":",", "label":"no-unit"},
+    {"number":160, "text":" they'll find themselves going back down that path again the next time fear and panic take hold", "label":"assumption"},
+    {"number":161, "text":".", "label":"no-unit"}
+  ]
+]}

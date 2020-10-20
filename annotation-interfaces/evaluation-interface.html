@@ -1,0 +1,315 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <title>Editorial summarization evaluation</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+
+<!-- START MTURK -->
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Configuration
+  ---------------------------------------------------------------------------------------------------------------------->
+<script>
+const articleId = "1";
+const title = "2015: Beyond Obama, new Congress, we need a revival of the American spirit.";
+const summaries = [
+  [{"number": 29, "text": "A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation", "adu_label": "assumption", "summary_label": "justification"}, {"number": 33, "text": "The culture bomb dropped by the boomers created fallout still being felt today", "adu_label": "assumption", "summary_label": "justification"}, {"number": 41, "text": "History warns us what happens when empires refuse to teach known values that strengthen societies and help protect them from enemies intent on their destruction", "adu_label": "common-ground", "summary_label": "justification"}, {"number": 50, "text": "All empires begin, writes Glubb, with the age of pioneers, followed by ages of conquest, commerce, affluence, intellect and decadence", "adu_label": "testimony", "summary_label": "justification"}, {"number": 63, "text": "It will take more than a new Congress in 2015 and a new president in 2017 to save us from the fate of other empires", "adu_label": "assumption", "summary_label": "thesis"}, {"number": 65, "text": "It will take a revival of the American spirit", "adu_label": "assumption", "summary_label": "thesis"}, {"number": 68, "text": "that can only come through changed attitudes towards our institutions and each other", "adu_label": "assumption", "summary_label": "thesis"}],
+  [{"number": 2, "text": "In the film, 'Girl Interrupted,' Winona Ryder plays an 18-year-old who enters a mental institution for what is diagnosed as borderline personality disorder", "adu_label": "anecdote", "summary_label": "thesis"}, {"number": 31, "text": "It was that generation that promoted cohabitation, no-fault divorce, hatred of the police(they called them 'pigs' then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents", "adu_label": "assumption", "summary_label": "justification"}, {"number": 37, "text": "Since the elimination of the draft, young people are no longer expected to serve in the military and so most of them pursue whatever goals they wish with no expectation they should give something back to their country", "adu_label": "assumption", "summary_label": "justification"}, {"number": 41, "text": "History warns us what happens when empires refuse to teach known values that strengthen societies and help protect them from enemies intent on their destruction", "adu_label": "common-ground", "summary_label": "justification"}, {"number": 50, "text": "All empires begin, writes Glubb, with the age of pioneers, followed by ages of conquest, commerce, affluence, intellect and decadence", "adu_label": "testimony", "summary_label": "justification"}, {"number": 55, "text": "Decadence, he writes,'is due to: Too long a period of wealth and power, selfishness, love of money (and) the loss of a sense of duty.'", "adu_label": "testimony", "summary_label": "justification"}, {"number": 63, "text": "It will take more than a new Congress in 2015 and a new president in 2017 to save us from the fate of other empires", "adu_label": "assumption", "summary_label": "justification"}],
+  [{"number": 16, "text": "A Pew Research Center study confirms one trend that has been obvious over several years", "adu_label": "testimony", "summary_label": "thesis"}, {"number": 18, "text": "The 'typical' American family is no longer typical", "adu_label": "assumption", "summary_label": "thesis"}, {"number": 20, "text": "Just 46 percent of American children now live in homes with their married, heterosexual parents", "adu_label": "statistics", "summary_label": "justification"}, {"number": 22, "text": "Five percent have no parents at home", "adu_label": "statistics", "summary_label": "justification"}, {"number": 24, "text": "They most likely are living with grandparents, says the study", "adu_label": "testimony", "summary_label": "justification"}, {"number": 29, "text": "A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation", "adu_label": "assumption", "summary_label": "background"}, {"number": 31, "text": "It was that generation that promoted cohabitation, no-fault divorce, hatred of the police(they called them 'pigs' then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents", "adu_label": "assumption", "summary_label": "background"}],
+  [{"number": 14, "text": "our traditional institutions and self-confidence are in decline", "adu_label": "assumption", "summary_label": "justification"}, {"number": 20, "text": "Just 46 percent of American children now live in homes with their married, heterosexual parents", "adu_label": "statistics", "summary_label": "justification"}, {"number": 26, "text": "These startling figures about the decline of the American family contrast with the year 1960", "adu_label": "assumption", "summary_label": "thesis"}, {"number": 29, "text": "A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation", "adu_label": "assumption", "summary_label": "background"}, {"number": 54, "text": "which Glubb defines as marked by 'defensiveness, pessimism, materialism, frivolity, an influx of foreigners, the welfare state, (and) a weakening of religion.'", "adu_label": "testimony", "summary_label": "justification"}, {"number": 60, "text": "we don't learn from history because'our studies are brief and prejudiced.'", "adu_label": "testimony", "summary_label": "background"}, {"number": 8, "text": "While lying on her bed one night and watching TV, she sees a news report about a demonstration", "adu_label": "anecdote", "summary_label": "thesis"}],
+  [{"number": 18, "text": "The 'typical' American family is no longer typical", "adu_label": "assumption", "summary_label": "thesis"}, {"number": 20, "text": "Just 46 percent of American children now live in homes with their married, heterosexual parents", "adu_label": "statistics", "summary_label": "justification"}, {"number": 29, "text": "A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation", "adu_label": "assumption", "summary_label": "justification"}, {"number": 31, "text": "It was that generation that promoted cohabitation, no-fault divorce, hatred of the police(they called them 'pigs' then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents", "adu_label": "assumption", "summary_label": "justification"}, {"number": 37, "text": "Since the elimination of the draft, young people are no longer expected to serve in the military and so most of them pursue whatever goals they wish with no expectation they should give something back to their country", "adu_label": "assumption", "summary_label": "justification"}, {"number": 63, "text": "It will take more than a new Congress in 2015 and a new president in 2017 to save us from the fate of other empires", "adu_label": "assumption", "summary_label": "background"}, {"number": 65, "text": "It will take a revival of the American spirit", "adu_label": "assumption", "summary_label": "background"}]
+];
+const summariesOrder = shuffle([1,2,3,4,5]);
+
+/**
+ * Shuffles array in place. ES6 version
+ * @param {Array} a items An array containing the items.
+ * https://stackoverflow.com/a/6274381
+ */
+function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+</script>
+<!-----------------------------------------------------------------------------------------------------------------------
+  Bootstrap stuff
+  ---------------------------------------------------------------------------------------------------------------------->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Panel only visible when JavaScript is disabled to tell worker to enable JavaScript
+  ---------------------------------------------------------------------------------------------------------------------->
+<div class="container" id="requireJavascript">
+  <div class="panel panel-danger">
+    <div class="panel-heading">You need to enable JavaScript to work on this HIT. If you have JavaScript enabled, this notice will disappear once the page is ready. If it does not disappear, you can not work on this HIT.</div>
+  </div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelector("#requireJavascript").style.display = "none";
+  document.querySelector("#main").style.display = "box";
+});
+</script>
+
+<div id="main" class="container" style="display:hidden">
+<!-----------------------------------------------------------------------------------------------------------------------
+  Instructions
+  ---------------------------------------------------------------------------------------------------------------------->
+<div class="panel panel-primary" id="instructions-panel">
+<div class="panel-heading">Instructions</div>
+<div class="panel-body">
+Your task is to evaluate five summaries of one news article. Only the title of the article and the summaries are shown. In every summary, its main focus, called <strong>thesis</strong> (usually a claim), is highlighted in bold.
+<br><br>
+For each summary, you have to answer between four and eight multiple-choice questions, by using the following definitions.
+<br>
+<hr>
+<h4 class="text-info">Definitions</h4>
+<p><span class="text-primary">Relevant to the title: </span>The thesis is relevant to the title, i.e., it could be the main point(s) of the article with the given title.  </p>
+<p> <span class="text-primary">Self-contained: </span>A self-contained summary is understandable by most of the readers, i.e., no need for additional information to get its thesis and follow its argumentation. Also, a self-contained summary refers to entities (people, locations, events, etc.) without any confusion in the usage of pronouns (see example below).</p>
+<p><span class="text-primary">Persuasive: </span> A persuasive summary aims to convince its readers to take a stand on a particular topic. To this end, it uses persuasion techniques such as: providing logical arguments to support its stand, invoking certain emotions on the readers, and/or using effective phrases.</p>
+<p><span class="text-primary">Reasonable: </span> A reasonable summary adequately supports its thesis, i.e., the thesis is supported by a sufficient number of arguments (see example below).</p>
+<hr>
+<h4 class="text-info">Example of a poorly self-contained summary</h4>
+<p><em>HINTS: It starts with a pronoun</em> / <em>It ends abruptly</em> / <em>It is incoherent (has sentences that do not belong together)</em></p>
+
+<u>This</u> adds to the list of over 40 serious incidents involving Russia and NATO countries in the last 8 months, as detailed in a report by a British think tank called the European Leadership Network.... <u>Miss Maddie's house was on fire.</u>...Just over a month later, the Taliban mounted a 14-hour attack on the very same site, killing six Afghan soldiers.....<u>Although the presence of US forces provides a safety net throughout next year.</u> 
+
+<hr>
+<h4 class="text-info">Example of a poorly reasonable summary</h4>
+<p><em>HINT: It contains a thesis that is not supported by other arguments in the summary.</em></p>
+<h4><u>Title:</u> 2015: Beyond Obama, new Congress, we need a revival of the American spirit.</h4>
+<h4>Summary</h4>
+<p><strong> In the film, "Girl Interrupted," Winona Ryder plays an 18-year-old who enters a mental institution for what is diagnosed as borderline personality disorder.</strong> It was that generation that promoted cohabitation, no-fault divorce, hatred of the police(they called them "pigs" then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents......</p>
+<hr>
+This task requires JavaScript to complete.
+</div>
+</div>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Tasks
+  ---------------------------------------------------------------------------------------------------------------------->
+
+<div id="tasks"></div>
+
+<script>
+const parent = document.getElementById("tasks");
+for (let number = 1; number <= 5; ++number) {
+  addPanel(parent, number);
+}
+
+function addPanel(parent, number) {
+  const summaryId = summariesOrder[number - 1];
+  const panel = document.createElement("div");
+  panel.classList.add("panel", "panel-primary");
+
+  const panelHeading = document.createElement("div");
+  panelHeading.classList.add("panel-heading");
+  panelHeading.textContent = "Task " + number;
+  panel.appendChild(panelHeading);
+
+  const panelBody = document.createElement("div");
+  panelBody.classList.add("panel-body");
+  addSummary(panelBody, summaryId);
+  addThesis(panelBody, summaryId);
+  panel.appendChild(panelBody);
+  parent.appendChild(panel);
+}
+
+function addSummary(parent, summaryId) {
+  const segments = summaries[summaryId - 1];
+  const summaryHtml = segments.flatMap(segment => {
+    if (segment.summary_label === "thesis") {
+      return "<b>" + escapeHtml(segment.text) + "</b>";
+    } else {
+      return escapeHtml(segment.text);
+    }
+  }).join(". ") + ".";
+
+  const title = document.createElement("h3");
+  title.innerHTML = "<u>Title:</u> " + escapeHtml("2015: Beyond Obama, new Congress, we need a revival of the American spirit.");
+  parent.appendChild(title);
+
+  const summaryHeading = document.createElement("h3");
+  summaryHeading.textContent = "Summary";
+  parent.appendChild(summaryHeading);
+
+  const summary = document.createElement("p");
+  summary.innerHTML = summaryHtml;
+  parent.appendChild(summary);
+
+  const questionsHeading = document.createElement("h3");
+  questionsHeading.textContent = "Summary questions";
+  parent.appendChild(questionsHeading);
+
+  addQuestion(parent, "The <strong>thesis</strong> is relevant to the title (it could be the main point of an article with the above title)", "thesis-indicative-" + summaryId);
+  addQuestion(parent, "The summary is self-contained", "self-contained-" + summaryId);
+  addQuestion(parent, "The summary is persuasive", "persuasive-" + summaryId);
+  addQuestion(parent, "The summary is reasonable", "reasonable-" + summaryId);
+}
+
+function getThesisHtml(summaryId) {
+  const segments = summaries[summaryId - 1];
+  return segments.flatMap(segment => {
+    if (segment.summary_label === "thesis") {
+      return escapeHtml(segment.text);
+    } else {
+      return "";
+    }
+  }).filter(segment => segment !== "").join(". ");
+}
+
+function addThesis(parent, summaryId) {
+  if (summaryId !== summariesOrder[4]) {
+    const segments = summaries[summaryId - 1];
+    const thesisHtml = getThesisHtml(summaryId) + ".";
+    const thesisHeading = document.createElement("h3");
+    thesisHeading.textContent = "Thesis";
+    parent.appendChild(thesisHeading);
+
+    const thesis = document.createElement("p");
+    thesis.innerHTML = "<b>" + thesisHtml + "</b>";
+    parent.appendChild(thesis);
+
+    const questionsHeading = document.createElement("h3");
+    questionsHeading.innerHTML = "This thesis is very similar in meaning to: ";
+    parent.appendChild(questionsHeading);
+
+    for (let s = 4; s >= 0; --s) {
+      const otherSummaryId = summariesOrder[s];
+      if (otherSummaryId !== summaryId) {
+        addQuestion(parent, getThesisHtml(otherSummaryId), "comparison-" + Math.min(summaryId, otherSummaryId) + "-" + Math.max(summaryId, otherSummaryId));
+      } else {
+        break;
+      }
+    }
+  }
+}
+
+function addQuestion(parent, html, name) {
+  const group = document.createElement("div");
+  group.classList.add("form-group");
+
+  const question = document.createElement("p");
+  question.classList.add("question");
+  question.innerHTML = html;
+  group.appendChild(question);
+
+  const radios = document.createElement("div");
+  addRadioButtons(radios, name);
+  group.appendChild(radios);
+  parent.appendChild(group);
+}
+
+function addRadioButtons(parent, name) {
+  addRadioButton(parent, name, "Strongly Disagree");
+  addRadioButton(parent, name, "Weakly Disagree");
+  addRadioButton(parent, name, "Weakly Agree");
+  addRadioButton(parent, name, "Strongly Agree");
+}
+
+function addRadioButton(parent, name, value) {
+  const label = document.createElement("label");
+  label.classList.add("radio-inline");
+  label.innerHTML = '<input type="radio" name="' + name + '" value="' + value.replace(/ /g, "-").toLowerCase() + '">' + value;
+  parent.appendChild(label);
+}
+
+// https://stackoverflow.com/a/6234804
+/*function escapeHtml(unsafe) {
+  return unsafe
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}*/
+function escapeHtml(unsafe){
+  return unsafe;
+}
+</script>
+
+<div class="panel panel-primary">
+<div class="panel-heading">Comments</div>
+<div class="panel-body">
+(Optional) Briefly mention what challenges you faced in this task or how it can be improved.
+<div class="comments input-group">
+<span class="input-group-addon" id="commentsAddon">Comments:</span>
+<input aria-describedby="commentsAddon" class="form-control" name="comments" type="text" />
+</div>
+</div>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Checking for completion
+  ---------------------------------------------------------------------------------------------------------------------->
+<script>
+function checkAnnotations() {
+  let done = true
+  const totalRadioButtons = $("input:radio").length;
+  if ($("input:radio:checked").length != totalRadioButtons / 4 ) {done = false; }
+  return done;
+}
+
+function checkCompletion() {
+  const submitButton = document.getElementById("submitButton");
+  if (checkAnnotations()) {
+    submitButton.classList.remove("disabled");
+    submitButton.removeAttribute("disabled");
+    submitButton.setAttribute("value", "Submit");
+  } else {
+    submitButton.classList.add("disabled");
+    submitButton.setAttribute("disabled", "disabled");
+    submitButton.setAttribute("value", "You need to answer all the questions before you can submit");
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  Array.from(document.querySelectorAll("[type=radio]")).forEach(radio => radio.addEventListener("click", checkCompletion));
+  checkCompletion();
+});
+</script>
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  End of main panel
+  ---------------------------------------------------------------------------------------------------------------------->
+</div> <!-- #main -->
+
+<!-----------------------------------------------------------------------------------------------------------------------
+  Styles
+  ---------------------------------------------------------------------------------------------------------------------->
+<style type="text/css">
+
+#main {
+  width: 100%;
+  max-width: 1024px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 12pt;
+}
+
+h3:first-child {
+  margin-top: 0px;
+}
+
+.question {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+</style>
+
+<!-- END MTURK -->
+<!-----------------------------------------------------------------------------------------------------------------------
+  Submit button (does not work, but to check that it changes as it should)
+  ---------------------------------------------------------------------------------------------------------------------->
+<p class="text-center"><input id="submitButton" type="submit" class="btn btn-primary disabled" value="Complete all tasks"/></p>
+
+</body>
+</html>

@@ -1,0 +1,166 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Ukraine: The opportunity of war.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Perhaps the most unexpected result of the Russian-Ukrainian war - at least for its instigators -- is the increasing support of Ukrainian citizens for all the things that the war was designed to destroy, revert, or undermine", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"Despite the challenges of war, the economic crisis and political difficulties, Ukrainians are committed to endure in the face of Russian aggression and pursue the dreams of a democratic and stable Ukraine that the Maidan protests inspired", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"This is their opportunity to undo the oligarchic kleptocracy they were living in and build a state that enshrines the rule of law and egalitarianism", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Just within half a year, from April to November, the popular support for Ukraine's EU membership grew from 55 to 64 percent", "label":"statistics"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"whereas", "label":"no-unit"},
+    {"number":11, "text":"their propensity for the Moscow-led Customs Union declined from 24 percent to 17", "label":"statistics"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Support for Ukraine's membership in NATO that had been traditionally very low (around 15 percent) since the 1999 NATO bombardment of Yugoslavia and the US illegal invasion of Iraq, has reached 51 percent, with 24 percent still undecided", "label":"statistics"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Russian President Vladimir Putin's popularity in Ukraine plummeted from solid the 60-70 percent in the past years to single digits", "label":"statistics"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Support for a \"common state\" with Russia declined from the impressive 15-20 percent in the past to 5 percent", "label":"statistics"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"while", "label":"no-unit"},
+    {"number":20, "text":"insistence on establishing closed borders and a visa regime with Russia quadrupled - from 11 to 45 percent", "label":"statistics"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"And", "label":"no-unit"},
+    {"number":23, "text":",", "label":"no-unit"},
+    {"number":24, "text":" despite the Kremlin's incredible investments in propaganda, only 5 percent of Ukrainian respondents say they trust Russian media", "label":"statistics"},
+    {"number":25, "text":",", "label":"no-unit"},
+    {"number":26, "text":"while", "label":"no-unit"},
+    {"number":27, "text":"Ukrainian media are trusted by some 67 percent", "label":"statistics"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"Within the year, the number of self-defined \"patriots of Ukraine\" increased from 81 to 86 percent, and the support for national independence consolidated from 61 to 76 percent", "label":"statistics"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"whereas", "label":"no-unit"},
+    {"number":32, "text":"opposition to it declined from 28 per cent to 12", "label":"statistics"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The worst news for Putin might be that both the Ukrainian-speaking and Russian-speaking populations are committed to independence", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"albeit unequally", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"Some 91 percent of Ukrainian speakers, 71 percent of bilinguals and 45 percent of Russian speakers support the country's independence", "label":"statistics"},
+    {"number":39, "text":";", "label":"no-unit"},
+    {"number":40, "text":"30 percent of the latter do not support it", "label":"statistics"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Another, perhaps even more unexpected result of the war is the persistent optimism of many Ukrainians, despite the daily war casualties in Donbas, the disruption of electricity in many regions outside the capital Kiev, the devaluation of the Ukrainian currency, the 20 percent inflation, the 7 percent economic decline and the prospect of further economic contraction at about 4 percent next year", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"All gloomy facts notwithstanding, the number of self- professed optimists increased in a year from 12 to 24 percent", "label":"statistics"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"and", "label":"no-unit"},
+    {"number":47, "text":"the number of those who look forward with hope grew from 38 to 51 percent", "label":"statistics"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"while", "label":"no-unit"},
+    {"number":50, "text":"the number of those who feel hopeless fell down from 16 percent to 8", "label":"statistics"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"The government still is trusted by the majority of the people", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"In November, 52 percent expressed their confidence in the prime minister, and 49 percent in the president - both higher than the rating President Barack Obama has in the US", "label":"statistics"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"A survey asked Ukrainians shortly before the October parliamentary elections what kind of MPs they would like to see in the next Parliament", "label":"anecdote"},
+    {"number":57, "text":";", "label":"no-unit"},
+    {"number":58, "text":"81 percent of the respondents chose from the broad list of hypothetic MPs first of all \"those who are realistic and open about Ukraine's economy and ready to implement radical, sometimes painful reforms\"", "label":"statistics"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"It is clear that the conflict in Donbas has encouraged Ukrainians' readiness to accept difficult but much-needed reforms", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"The comfort of low gas prices and Russia's overwhelming political and economic presence in the country tamed the urge for reform for years", "label":"assumption"},
+    {"number":63, "text":",", "label":"no-unit"},
+    {"number":64, "text":"but", "label":"no-unit"},
+    {"number":65, "text":"Russian military aggression has rekindled it", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"The list of the urgent reforms is extensive and includes virtually all public spheres", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"Three of them are particularly essential: economy (with the energy sector having the highest priority), justice, and defence", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"So far, Ukraine had allegedly benefitted from the artificially low prices in the energy trade with Russia", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"It seems, increasingly, that that kind of trade was beneficial primarily, if not exclusively, for the narrow circle of people on both sides of the pipeline", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Multiple and arbitrarily defined prices provided them with an excellent opportunity for double book-keeping, smuggling, resale, and many more murky business transactions that created dozens of billionaires, not only in energy-rich Russia but also in energy-poor Ukraine", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"Not a single government in the past dared to kill the chicken that was laying golden eggs", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"None of them ever exposed the national \"Naftogaz\" company to an international audit", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Nobody - either on the Ukrainian side or the Russian - submitted their bitterly disputed cases to the international arbitrage", "label":"assumption"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"which apparently required the disclosure of all books", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"One may say that the energy sector reform is a litmus test for any Ukrainian government", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"No other reforms would be possible without eradication of this major source of corruption, shadowy business and clientelism", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"All other reforms - like economic transparency, deregulation, decentralisation, reform of the court system and the law-enforcement agencies - largely depend on the success of this one", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"So far", "label":"no-unit"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"the window of opportunity is still open and the government still has a chance to pull the country out of the post-Soviet morass", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"Ukrainians have invested much hope in national independence, in the Orange revolution, and in the Euromaidan", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"Not all of them, of course, but certainly the most active, entrepreneurial, future-oriented part of society that grew up, within the past two decades, in both its size and civic maturity", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"They will not stop their westward drive and their pressure on any government to meet the demands of Maidan", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"It becomes increasingly clear that Moscow's primary goal is no to occupy Ukraine, but to destabilise it and preclude real and lasting reforms", "label":"assumption"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Moscow wants Kiev back to normal: fully emasculated, obedient and subservient, embracing the \"Eurasian\" way of development- of crony capitalism, authoritarian arbitrariness, lawlessness, and rabid anti-westernism", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"Successful, European Ukraine will be a deadly blow to Putinism as an embodiment of that broadly advertised anti-European alternative", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"This is why the Kremlin has never spared efforts to promote the idea of Ukraine as a \"failed state\", arguably \"artificial\" and incapable of independent development without external (naturally Russian) supervision", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"},
+    {"number":109, "text":"And", "label":"no-unit"},
+    {"number":110, "text":"if", "label":"no-unit"},
+    {"number":111, "text":"the covert means do not work- as they did after the Orange revolution", "label":"assumption"},
+    {"number":112, "text":"- the overt military invasion is put into action", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"However formidable and subversive Russia's strategy is, the real makers of Ukraine's either success or failure are still at home", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"It is up to Ukrainians to complete their unfinished post-1989 revolution", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"They are suffering severely for lagging behind other Eastern European states", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"},
+    {"number":120, "text":"Putin's Russia is certainly not Gorbachev's or Yeltsin's", "label":"assumption"},
+    {"number":121, "text":",", "label":"no-unit"},
+    {"number":122, "text":"but", "label":"no-unit"},
+    {"number":123, "text":"Ukraine is not the same either", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"Today it has the opportunity, the will and the potential to transform into a stable and transparent democracy", "label":"assumption"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ]
+]}

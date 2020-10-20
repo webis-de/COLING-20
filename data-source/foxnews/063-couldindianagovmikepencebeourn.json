@@ -1,0 +1,145 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Could Indiana Gov  Mike Pence be our next president?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"INDIANAPOLIS ", "label":"no-unit"},
+    {"number":3, "text":"-", "label":"no-unit"},
+    {"number":4, "text":"If", "label":"no-unit"},
+    {"number":5, "text":"success at the state level were enough to recommend someone for president of the United States", "label":"assumption"},
+    {"number":6, "text":",", "label":"no-unit"},
+    {"number":7, "text":"Gov  Mike Pence of Indiana would be among the frontrunners for the 2016 GOP presidential nomination", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"According to the governor's office, Pence has \"signed into law $643 million in annual tax relief", "label":"testimony"},
+    {"number":10, "text":":", "label":"no-unit"},
+    {"number":11, "text":"That includes: $313 million for hardworking Hoosiers, thanks to last year's 5 percent income tax reduction, the largest state tax cut in Indiana history.\"", "label":"testimony"}
+  ],
+  [
+    {"number":12, "text":"In addition", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" the state corporate tax rate was reduced from 6.5 percent to 4.9 percent, making it the third lowest in the country and contributing to Indiana's increase in the labor force", "label":"statistics"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"which, Pence's office says, has grown by more than 51,000 over the past year, five times the national growth rate", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"It helps to have large majorities of one's party in the legislature", "label":"assumption"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"but", "label":"no-unit"},
+    {"number":21, "text":"Pence consults and has good relationships with Democrats", "label":"assumption"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"who frequently vote with the Republican majority because his programs work", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"Sitting with the governor in his high-ceiling office beneath portraits of two Indiana governors who became presidents of the United States-- William Henry Harrison and Benjamin Harrison ", "label":"no-unit"},
+    {"number":26, "text":"--", "label":"no-unit"},
+    {"number":27, "text":"Pence tells me he is focused on the upcoming legislative session, which is expected to last four months, and won't think seriously about running for president until the session ends", "label":"testimony"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Then", "label":"no-unit"},
+    {"number":30, "text":",", "label":"no-unit"},
+    {"number":31, "text":"he says,\"We'll probably take some time as a family to reflect and pray and make decisions about our future.\"", "label":"testimony"}
+  ],
+  [
+    {"number":32, "text":"In his mind, Pence may have already crafted a winning scenario", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"He may be focused on his state", "label":"assumption"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"but", "label":"no-unit"},
+    {"number":37, "text":"he thinks a lot about the country", "label":"assumption"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"which he served for 10 years as a congressman", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"A former Democrat (like his ideological mentor Ronald Reagan), Pence sees a need to transform his party's image", "label":"assumption"},
+    {"number":42, "text":":", "label":"no-unit"},
+    {"number":43, "text":"\"The Republican Party has become just the other party to Washington solutions", "label":"testimony"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"We have to get back to advancing state- based solutions and reforms", "label":"testimony"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"We must be relentlessly optimistic.\"", "label":"testimony"}
+  ],
+  [
+    {"number":48, "text":"He paraphrases a Reagan line:\"' Why shouldn't we dream great dreams, after all we're Americans", "label":"testimony"},
+    {"number":49, "text":".'", "label":"no-unit"},
+    {"number":50, "text":"There was a confidence and optimism I think our party would do well to repair to", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"...", "label":"no-unit"},
+    {"number":53, "text":"There' s a lot wrong with our national government", "label":"testimony"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"but", "label":"no-unit"},
+    {"number":56, "text":"we've got to stop confusing our national government with our nation.\"", "label":"testimony"}
+  ],
+  [
+    {"number":57, "text":"That's a good line for a stump speech", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Pence wants to move from opposing bad ideas in Washington, to focusing on the success records in many states", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"For example", "label":"no-unit"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"Pence's education agenda includes a goal of taking children in underperforming schools and putting them in good schools", "label":"anecdote"},
+    {"number":64, "text":":", "label":"no-unit"},
+    {"number":65, "text":"\"By the year 2020, I want 100,000 more Indiana students in high- quality schools than we have today", "label":"testimony"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Today, we have 105,000 kids who are in underperforming or failing schools.\"", "label":"testimony"}
+  ],
+  [
+    {"number":68, "text":"He wants to fix traditional schools, pay good teachers more, giving bonuses to the best, and expand vocational education to every high school in the state", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"\"We have the largest education voucher program in America", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"I want to expand that by lifting the cap and encouraging more private investment.\"", "label":"testimony"},
+    {"number":73, "text":"Indiana also has 75 charter schools", "label":"anecdote"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Pence declines an invitation to comment on former Gov  Jeb Bush's recent remarks about having to lose the primary in order to win the general election", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"which many conservatives view as an attack on the party's base", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"If", "label":"no-unit"},
+    {"number":80, "text":"Hillary Clinton becomes the Democratic Party's presidential nominee", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"I asked, is she beatable?", "label":"assumption"}
+  ],
+  [
+    {"number":83, "text":"Pence answers indirectly, saying he thinks 2016 will be the first foreign policy election since 1980", "label":"anecdote"},
+    {"number":84, "text":"and", "label":"no-unit"},
+    {"number":85, "text":"that as a former secretary of state, Clinton will have some advantages", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"That's why he thinks the eventual GOP nominee should do as George W  Bush did in 2000", "label":"assumption"},
+    {"number":88, "text":":", "label":"no-unit"},
+    {"number":89, "text":"name a group of advisers with strong foreign policy credentials", "label":"no-unit"},
+    {"number":90, "text":"to advise him during a campaign", "label":"no-unit"},
+    {"number":91, "text":"and", "label":"no-unit"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"if", "label":"no-unit"},
+    {"number":94, "text":"he is successful", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"some might serve in his administration", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Mike Pence is a model of humility and restraint", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"},
+    {"number":100, "text":"While", "label":"no-unit"},
+    {"number":101, "text":"some characterize Obama as a failed president", "label":"assumption"},
+    {"number":102, "text":",", "label":"no-unit"},
+    {"number":103, "text":"Pence will only label his tenure \"disappointing.\"", "label":"assumption"},
+    {"number":104, "text":"That in itself is in sharp contrast to the hubris, narcissism and self-awareness of Obama", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"Humility, coupled with a proven track record of success and more confidence in the states and the people, is what's needed at the national level", "label":"assumption"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"Mike Pence could be the one to bring it", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ]
+]}

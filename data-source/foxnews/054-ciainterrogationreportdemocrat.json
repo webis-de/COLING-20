@@ -1,0 +1,132 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"CIA interrogation report: Democrats want to punish America, blame Bush.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In its ideological zeal to punish America", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"the outgoing Democratically- controlled Senate, plans to make public a report that, according to Fox News will examine \"the alleged use of torture by the CIA.\"", "label":"testimony"}
+  ],
+  [
+    {"number":5, "text":"Although the 6,000 page full report will remain classified", "label":"anecdote"},
+    {"number":6, "text":",", "label":"no-unit"},
+    {"number":7, "text":"the 500 page summary is expected to be released to the public in coming days", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"According to press reports from those who are familiar with the study, it is expected to portray the American intelligence community in the worst possible light", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"The report's release and details about CIA interrogations that took place a decade ago will endanger Americans abroad today, destroy essential relationships with foreign intelligence communities going forward, and cripple American human intelligence gathering networks for a generation", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Put bluntly", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"Democrats in the Senate are behaving like tenants who got evicted and decide to trash the house on their way out the door", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"There is nothing to be gained by releasing the report", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"The CIA's actions in the immediate aftermath of September 11 attacks have long since ceased", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"},
+    {"number":21, "text":"Although President Obama has approved release of the report's summary", "label":"anecdote"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"even Secretary of State John Kerry has warned that the report's release will put Americans and U.S  embassies at risk of retaliation", "label":"testimony"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"So why do this now?", "label":"assumption"},
+    {"number":26, "text":"Perhaps Democrats in Congress think that by excoriating our intelligence community before the entire world they will expiate the sins of the previous administration", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Yes, it's another chance it's to blame Bush!", "label":"assumption"},
+    {"number":29, "text":"This is the apology tour on steroids", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"According to media reports, the report concludes that we tortured terrorists", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"These are the same terrorists who blew up the World Trade Center, bombed the Pentagon, and tried to level the U.S  Capitol", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"These are the same terrorists that today have beheaded Christians, Westerners and, just this past weekend, another American citizen", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Think back to the days after September 11", "label":"other"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"We were blind about Al Qaeda", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Most Americans feared another attack was imminent", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"And the best legal advice in government said CIA actions to get that information were legal", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"So CIA officers did what they thought necessary to protect Americans", "label":"assumption"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"A decade later we're suddenly castigating them for it", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Second", "label":"no-unit"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":" the report concludes that the intelligence gathered from CIA's actions wasn't effective", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Yet that has been disputed by the very people in the Obama administration who used it to track down Usama bin Laden", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"To quote highly regarded former CIA Director Gen  Michael Hayden,\"it is inconceivable to believe that three different CIA directors, and three different Deputy CIA directors, conspired over a seven year period to lie about the program's effectiveness", "label":"testimony"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"Third", "label":"no-unit"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":" there is a rule in foreign policy like the one in medicine", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"First", "label":"no-unit"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":" do no harm", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"Public release of this report will do immeasurable harm", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"It will encourage terrorists around the world to launch revenge attacks", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"It will cause foreign intelligence agencies to clam up and no longer cooperate with US intelligence for fear that their sources and method will be blown", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"It will cause every American intelligence officer to go into the defensive crouch", "label":"assumption"},
+    {"number":72, "text":"--", "label":"no-unit"},
+    {"number":73, "text":"don't stick your head out to protect America because years later somebody in government who wants to score political points will chop it off", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Finally", "label":"no-unit"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":" take a lesson from history", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"We did this once before, in the 1970's", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"when presidential-hopeful Senator Frank Church launched a widespread investigation of the CIA", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"It didn't work", "label":"assumption"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"Senator Church's presidential aspirations never got off the ground", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"But his handiwork crippled American intelligence gathering for a generation", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"American agents overseas were killed", "label":"anecdote"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"foreign intelligence agencies stopped sharing intelligence with us", "label":"assumption"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"our own human networks collapsed", "label":"assumption"},
+    {"number":94, "text":",", "label":"no-unit"},
+    {"number":95, "text":"and", "label":"no-unit"},
+    {"number":96, "text":"CIA officers played it safe and stopped thinking outside the box", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"This was one of the reasons a generation later we never knew about a bunch of Islamic extremists in a cave in Afghanistan plotting to take down the Twin Towers", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"Releasing the report to the public will do considerable harm to our efforts to gather essential intelligence about those hoping to do us harm", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"It will be a self-inflicted wound", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"The next time we are caught unprepared it won' t just be with 747s flying into buildings", "label":"assumption"},
+    {"number":105, "text":"it could be with weapons too terrible to contemplate", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ]
+]}

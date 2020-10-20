@@ -1,0 +1,109 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The Paris unity march shows we must protect freedom of expression, not curtail it further.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"I was just one Australian face in a human sea of more than one and half million Parisians yesterday", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"I was trying to comprehend what I was a part of when the placard thrust in front of my eyes made it clear", "label":"anecdote"},
+    {"number":5, "text":":", "label":"no-unit"},
+    {"number":6, "text":"\"La liberte d'expression n'a pas de religion\"- freedom of expression has no religion", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"This was a rally to defend the essential global human right to free expression", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"A right that should not be bound by religious, cultural or political strictures", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"We were marching to remember the victims of the Charlie Hebdo newsroom massacre and the Kosher grocery store siege", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"We were marching in sympathy with those in mourning who joined us", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"We were marching in defiance, determined to rise above the fear and chaos the terrorists inflicted on our city", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"But", "label":"no-unit"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":" overwhelmingly, we marched to defend our right to freely express our views", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"The main march stretched three kilometres between Place de la Republique and Place de la Nation, tracking down Boulevard Voltaire", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"When I cried \"Je suis Charlie, nous somme Charlie!\", it was in the spirit of the French philosopher Voltaire's revolutionary words:\"I do not agree with what you have to say, but I'll defend to the death your right to say it.\"", "label":"testimony"}
+  ],
+  [
+    {"number":25, "text":"The props of the rally - giant pencils supporting the French flag, a flood of demonstrators holding pens aloft and bibs emblazoned with the faces of the massacred Charlie Hebdo staff - told the story", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Paris has been my home for a year", "label":"anecdote"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"I am a research fellow with the World Editors Forum and the World Association of Newspapers and News Publishers", "label":"anecdote"},
+    {"number":30, "text":"which is based in the city", "label":"anecdote"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"It's a long way from the University of Wollongong in Australia", "label":"common-ground"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"where I am on staff as a journalism academic", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"But the principle of freedom of expression we were marching to defend binds journalists, writers and artists, and by extension all citizens, globally", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"It transcends national borders, distance, culture, language, class and religion", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"That's why, as we marched, we saw Paris residents hanging models of pencils and banners carrying free speech slogans from their balconies", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"And it's why we paused to listen while a little African girl bellowed \"Je suis Charlie!\" from a third story window at her mother's side", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"We were a calm sea of over 1.5 million people pouring through the grand boulevards of central Paris", "label":"anecdote"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Led by the families of those killed and over 40 world leaders who walked with linked arms, it was a significant moment in history, a moment triggered by outrage at the act of terrorists who massacred journalists and cartoonists in the middle of a weekly editorial meeting and ordinary citizens doing their shopping", "label":"anecdote"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"It was also a moment fuelled by a collective determination to display unity and defiance in the face of terror and fear", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"The attack on Charlie Hebdo and the climate of fear and anxiety it created are, sadly, regular occurrences in countries such as Iraq, Syria, Pakistan and Mexico, where journalists are frequent targets", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"The western media too often turns a blind eye to the murder of journalists elsewhere", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"The Paris unity march represents a watershed moment in the struggle to protect journalists and defend freedom of expression globally", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Kalashnikov-wielding terrorists took the fight into the heart of a newsroom in one of western Europe's biggest cities", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"If", "label":"no-unit"},
+    {"number":59, "text":"that doesn't wake up complacent democracies to the need to vigorously defend the right to report", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"nothing will", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Once the news cycle moves on from Paris and the cries of \"Je suis Charlie\" fade, we must harness the levels of public support and political will to enact significant and lasting change globally", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"We must be on guard against the already audible attempts to justify a further curtailment of media and internet freedoms in the interests of national security in the aftermath of the Paris terror attacks", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"The threats posed to investigative journalism by mass surveillance, data retention and the criminalisation of reporting certain information under anti-terrorism legislation are already significant", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"Especially in Australia", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"It would be an enormous tragedy", "label":"assumption"},
+    {"number":72, "text":"if", "label":"no-unit"},
+    {"number":73, "text":"the lasting legacy of the Charlie Hebdo massacre was ultimately a further undermining of privacy and freedom of expression rights", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Let us honour the victims and survivors of the Paris terrorist attacks by finding a sustainable balance between the need for anti- terrorism measures against our collective human right to freely express our views", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"As the murdered editor-in-chief of Charlie Hebdo, Stephane Charbonnier, told Le Monde in 2011:\"I'd rather die standing than live on my knees.\"", "label":"testimony"}
+  ]
+]}

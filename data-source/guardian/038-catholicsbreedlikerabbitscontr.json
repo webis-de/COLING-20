@@ -1,0 +1,101 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"So Catholics needn't breed like rabbits. Then let's drop the contraception con.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Clarity has never been a strong point at the Vatican", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"This is, after all, an institution that has chosen for centuries to communicate with its followers via erudite documents written in Latin", "label":"assumption"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"which must be first translated and then interpreted for us, the faithful in the pew", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"But even by its own standards, this week's papal pronouncements have been bewildering", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"We thought that, whatever else wasn't clear, one thing we did know was that the church doesn't approve of contraception", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"But during his in- flight press conference en route home from his Philippines trip, we hear Pope Francis telling us that we don't after all have to breed \"like rabbits\"", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"What he is saying, it transpires, is that Catholics should use one of several \"natural\", church-approved methods of contraception", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"But", "label":"no-unit"},
+    {"number":17, "text":"this it seems to me only serves to focus attention on something illogical at the heart of the church's traditional teaching on birth control", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"which is", "label":"no-unit"},
+    {"number":20, "text":":", "label":"no-unit"},
+    {"number":21, "text":"if", "label":"no-unit"},
+    {"number":22, "text":"the point is that God should have space to \"intervene\" and make a pregnancy happen", "label":"assumption"},
+    {"number":23, "text":", surely He/She can intervene just as effectively via a torn condom or a missed pill as via a mistaken calendar calculation", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"One of Pope Francis's strongest messages during his Philippines trip seemed to be that today's families are under threat from efforts to redefine what\"family\" is", "label":"assumption"},
+    {"number":26, "text":",", "label":"no-unit"},
+    {"number":27, "text":"but", "label":"no-unit"},
+    {"number":28, "text":"I wonder whether the truth isn't that the Catholic church is under threat from an avalanche of common sense that is now unstoppable", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"The truth is that the pope - a charismatic and decent-seeming guy whose finger is a good deal closer to the people's pulse than his predecessor's was- is tying himself in knots trying to appear \"modern\" at the same time as adhering to official teaching", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"And it simply won't wash", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The church has been peddling a nonsense on contraception for almost 50 years", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"The vast majority of us church- going,\"faithful\" Catholics have voted with our gonads and ignored it, and at some point (soon, please!) Rome is going to have to admit it has been wrong, and that the \"contraceptive culture\" is not about a lack of respect for human life", "label":"assumption"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"it's quite simply about a sensible realisation that most couples can raise two, three or four children better, in every way, than they can raise 10, 11 or 12", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"But aha, the pope would say, here I am being a cultural colonialist, seeking to impose my first-world notions on those of a developing community that has a very different perspective", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Well", "label":"no-unit"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"actually, no I'm not", "label":"assumption"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"because Catholic clerics can look anywhere on the planet and what they will see is that with economic improvements and women's rights comes a reduction in family size", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"When people have choice, this is the choice they tend to make", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Those who aren't making it are those who aren't empowered, not those with a different worldview", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"What we are witnessing in this papacy is a church that realises how far out of step it is with modern thinking, and is increasingly keen on getting into line", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"At the moment it's beginning to talk the talk", "label":"assumption"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"but", "label":"no-unit"},
+    {"number":57, "text":"the footwork is still failing", "label":"assumption"},
+    {"number":58, "text":",", "label":"no-unit"},
+    {"number":59, "text":"mostly because a bit of honesty and a few U-turns are required", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"and", "label":"no-unit"},
+    {"number":62, "text":"most cardinals and bishops aren't yet ready for that", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"The question is, when will they be ready?", "label":"assumption"},
+    {"number":65, "text":"Because my fear is that if they leave it too long they'll have left it too late", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"The churches might still be full today", "label":"assumption"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"but", "label":"no-unit"},
+    {"number":70, "text":"will they be full tomorrow?", "label":"assumption"},
+    {"number":71, "text":"Even if", "label":"no-unit"},
+    {"number":72, "text":"I am prepared to hang on in there, albeit by my fingertips", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"I don't know", "label":"assumption"},
+    {"number":75, "text":"if", "label":"no-unit"},
+    {"number":76, "text":"the same can be said for my children", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Your instincts are right, Pope Francis", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Now", "label":"no-unit"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":" though, we need some action", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ]
+]}

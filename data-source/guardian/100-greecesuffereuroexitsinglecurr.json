@@ -1,0 +1,125 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"A Greek euro exit would hurt Europe - but not as much as it would hurt Greece.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"When the people of Greece go to the polls on 25 January, they will face some fairly fundamental choices", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Contrary to what many politicians and commentators would have you believe, this election is not about whether Greeks want to stay in the euro", "label":"assumption"},
+    {"number":5, "text":"-", "label":"no-unit"},
+    {"number":6, "text":"a majority clearly wants to", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The real question is whether this latest turn in the drama will finally force Greek politicians to act in their country's long-term interest", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Opinion polls suggest that Greek voters oscillate between anger and fear: anger about the enormous costs they have had to bear in the course of the adjustment programme; and fear of what would happen if Alexis Tsipras, head of the hard-left Syriza movement that still leads in the polls, tries to force through another cut in Greece's international debt", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"In the last debt restructuring in 2012, the creditors already promised to help Greece reduce its debt to more sustainable levels by 2020 - provided Athens continues to improve its budget", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"The Greeks have a democratic right to elect a leader who wants to tear up this agreement", "label":"common-ground"},
+    {"number":15, "text":";", "label":"no-unit"},
+    {"number":16, "text":"just as Germans, Dutch, Finns and others have a right to elect governments that insist on such deals being adhered to", "label":"common-ground"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Although Tsipras says he does not want to leave the euro", "label":"testimony"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"the resulting showdown could force Greece out of the single currency", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Today, the spectre of \"Grexit\" is more threatening to the Greeks than to the rest of Europe", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"Reforms in Spain, Portugal and Ireland have made these countries more resilient", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"International rescue funds and the European Central Bank stand ready to help in case panic should nevertheless spread", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Five out of Germany's eight leading economic research institutes think the eurozone could now cope with a Greek exit", "label":"testimony"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"This does not mean, however, that Germany or the other eurozone countries want Greece to leave", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Even if contagion was limited, another worsening of the eurozone crisis would undermine confidence, stunt the region's fragile recovery and make Europe's leaders - many of whom have declared the crisis over- look inept", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"The political and economic consequences for other European countries would be severe", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"Therefore", "label":"no-unit"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"even if", "label":"no-unit"},
+    {"number":39, "text":"the rest of Europe does not want to be blackmailed", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"it will likely be ready to talk", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"The new Greek government, whether it is led by the incumbent premier Antonis Samaras, Tsipras, or a new coalition, could reasonably demand a new grand bargain", "label":"assumption"},
+    {"number":44, "text":"under which the ECB-IMF-EC troika of lenders agrees to revisit the debt issue while the Greek government promises to make the economy fit for the future", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Economic reform, however, is hardly what Greek politicians are talking about in this election campaign", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Greek voters face the unenviable choice between re- electing the mainstream politicians who landed Greece in its current mess in the first place, or voting for Tsipras or other populists who make unrealistic promises of higher wages and more security", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"The trouble is not that Tsipras is radical", "label":"assumption"},
+    {"number":51, "text":";", "label":"no-unit"},
+    {"number":52, "text":"it is that he is not radical enough", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"By promising state handouts to voters and protection for vested interests, he is perpetuating the dysfunctional system that plunged Greece into crisis", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Over the past few years, the ruling coalition between the two established parties has tried a tricky balancing act of preserving the system of bureaucratic cronyism that since the 1970s they have helped to build, and modernising Greece's state and economy", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"as promised to international lenders", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"The result was an often agonisingly slow process of to and fro, with troika officials regularly departing in frustration about Greek foot-dragging", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":62, "text":"It is not only the troika's emphasis on austerity that has caused the Greek people so much pain", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"As important was that huge adjustments were foisted upon an extraordinarily rigid economy", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Despite much effort to open up mollycoddled sectors since 2010, Greece is still one of Europe's most overregulated economies", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"Sluggish bureaucracies and exaggerated form-filling are the main reason Greece's exports have not rebounded like those of Spain, Portugal and Ireland", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The absence of a reliable land registry is holding back investment", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"An unreformed social security system still benefits better-off households more than the destitute", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"While", "label":"no-unit"},
+    {"number":75, "text":"the tax burden on ordinary people has risen", "label":"assumption"},
+    {"number":76, "text":",", "label":"no-unit"},
+    {"number":77, "text":"wealthy individuals and companies can still often evade their dues", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"And wages in the public sector have fallen - but nowhere near as fast as those in the private sector, despite starting from a much higher level", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"Greek politicians must get serious about removing the shackles from the economy", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Economists think the benefits of structural reforms could materialise quickly in Greece's inefficient economy, and would be substantial", "label":"testimony"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"The Organisation for Economic Co-operation and Development estimates that Greek businesses could save hundreds of millions of euros a year if the government scrapped burdensome regulations", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"The Greek thinktank IOBE calculates that improvements to the business and investment environment could lift GDP by more than 2% in just two years", "label":"statistics"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":"while", "label":"no-unit"},
+    {"number":90, "text":"steps to increase competition in industries and services would have an even bigger impact", "label":"testimony"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Greece has started building a sounder economy on the wreckage of a public sector bubble and a strangulated private sector", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"The costs have been exorbitant", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"It would be a real Greek tragedy if the country's next government squandered the potential gains and reversed the process", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ]
+]}

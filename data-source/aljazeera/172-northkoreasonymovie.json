@@ -1,0 +1,131 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"North Korea: An 'act of war' over a movie?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"At his press conference on Friday, President Barack Obama said that Sony \"made a mistake\" by not releasing its film \"The Interview\" on schedule", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"He said:\"We cannot have a society in which some dictator some place can start imposing censorship here in the United States.\"", "label":"testimony"}
+  ],
+  [
+    {"number":5, "text":"The dictator in question is North Korea's Kim Jung-un", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"Sony acted following both a major hack of its computer files and, more ominously, a threat that any US showing of the comedy film that culminates in the assassination of Kim, could produce another 9/11 type attack", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"The threat was issued on December 16 by an outfit calling itself, the \"Guardians of Peace\"", "label":"anecdote"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"which also claims to have been behind the hack attack on Sony", "label":"anecdote"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"It promised a \"Christmas gift\" for the American people", "label":"anecdote"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Within 48 hours of the threat, and following pleas by companies owning most of the cinemas in the US, as well as by the shopping centres in which the cinemas are situated, Sony pulled the film", "label":"anecdote"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"which is quite a coup for whoever orchestrated the assault on the company", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"The original hack cost Sony an estimated $170m", "label":"statistics"},
+    {"number":20, "text":"while", "label":"no-unit"},
+    {"number":21, "text":"withdrawing the film will cost the company another $45m", "label":"assumption"},
+    {"number":22, "text":"it cost to make plus whatever the film would have taken in at theatres and from home release", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"This is a big deal", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"It is worth noting that it is not 100 percent positive that Pyongyang is behind the Sony hack or the 9/11 warning", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Yes, the FBI asserts (with its customary assurance) that North Korea is guilty on both counts", "label":"anecdote"},
+    {"number":29, "text":"but", "label":"no-unit"},
+    {"number":30, "text":"leading cyber security experts say (with equal certitude) that the evidence of North Korean responsibility is sketchy at best", "label":"testimony"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"As for the North Korean regime itself, it flatly denies any involvement while at the same time issuing threats against the US that are even more blood curdling than the one issued by the \"Guardians of Peace\"", "label":"assumption"},
+    {"number":33, "text":"(who may or may not be the North Koreans themselves)", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Whoever the culprits are, they did not inflict major damage on the US", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Contrary to those who are screaming that by pulling the film, the US surrendered the concept of freedom of speech", "label":"assumption"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"it is not the US government that pulled the film", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"In fact", "label":"no-unit"},
+    {"number":42, "text":",", "label":"no-unit"},
+    {"number":43, "text":" Obama said that if Sony had talked to him first, he would have told the company to show the film as planned", "label":"testimony"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"But Sony did not talk to Obama", "label":"anecdote"},
+    {"number":46, "text":"because its decision to withdraw the film had nothing to do with the US or its national interests but with the financial interests of the multinational corporation itself", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Multinationals do not, for reasons implied in the very term multinational, act with an eye on any flag", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"These are businesses", "label":"assumption"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"profit, not patriotism, is their guide", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"It is, therefore, ridiculous to accuse the US of yielding to the threat of a foreign dictator", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"It didn't", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Sony did", "label":"assumption"},
+    {"number":59, "text":"and", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"from the point of view of its shareholders, it probably did the right thing", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Losing $45m in production costs for \"The Interview\" is nothing compared to Sony's potential liability", "label":"assumption"},
+    {"number":64, "text":"if", "label":"no-unit"},
+    {"number":65, "text":"some catastrophe occurred at a showing of the film in Los Angeles or Washington, DC", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"This is not to say that there are no foreign policy implications of this debacle", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"Sony's decision to make a comedy about the assassination of the North Korean head of state was a terrible idea that has only worsened the US' already terrible relations with this very unstable nuclear-armed nation", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"If", "label":"no-unit"},
+    {"number":72, "text":"reports that a State Department official read the script and approved of the assassination scenario are true", "label":"assumption"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"that is troubling", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"Driving an already unbalanced head of state off the deep end is clearly not something diplomats should sign off on", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Of course", "label":"no-unit"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":" certain elements in the US government want to see an increase in tensions with North Korea, and maybe even an attempt at \"regime change\"", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"Although Obama was careful to say that North Korea's purported actions constituted \"cyber vandalism\" but \"not an act of war\"", "label":"testimony"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"Senator John McCain, who becomes chairman of the Senate Armed Services Committee next month, said on Friday that it is indeed an act of war to which the US must respond", "label":"testimony"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":86, "text":"Former speaker of the House Newt Gingrich agrees", "label":"anecdote"},
+    {"number":87, "text":",", "label":"no-unit"},
+    {"number":88, "text":"as do eager warriors in both political parties, those who promoted war with Iraq and now oppose a nuclear deal with Iran", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Those two countries are, of course, charter members of former President George W Bush's original \"Axis of Evil\" regimes that he and his allies wanted eliminated", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"The third member was North Korea", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ]
+]}

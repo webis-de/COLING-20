@@ -1,0 +1,101 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama should show black lives matter by hosting relatives of those killed by cops at his State of the Union.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Tuesday at President Obama's penultimate State of the Union address", "label":"no-unit"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"when", "label":"no-unit"},
+    {"number":5, "text":"Obama points for effect at someone sitting with the First Lady as her guest", "label":"anecdote"},
+    {"number":6, "text":", every single guest around her should be a family member of someone killed by a police officer", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"I want to see Michelle Obama sandwiched between Erica Garner - whose father, Eric Garner, was killed by an NYPD officer using an illegal chokehold- and Tamir Rice's 14-year-old sister", "label":"assumption"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"who was tackled and shackled by police when trying to help her dying 12-year-old brother", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"I want to see Leslie McSpadden, Michael Brown's mother there tonight, and a relative of Tasha Thomas, John Crawford's now-deceased girlfriend", "label":"assumption"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"who was interrogated by the same police department who'd just killed the father of her children for shopping at Wal Mart", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Let America look upon the elder Michael Brown, Kadiatou Diallo (Amadou Diallo's mother), Constance Malcolm (Ramarley Graham's mother), Sylvia Palmer (Akai Gurley's mother) or any of the thousands of relatives of the 1,100 or so Americans killed by police in 2014", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"This of course will never happen", "label":"assumption"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"but", "label":"no-unit"},
+    {"number":21, "text":"it's what I want", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"President Obama should use the political theatre of his \"Skutniks\"- the humans used to give a face to presidential pet problems since Ronald Reagan invited Lenny Skutnik to the State of the Union in 1982 - to focus American's attention squarely on the loss of human life", "label":"assumption"},
+    {"number":24, "text":"when", "label":"no-unit"},
+    {"number":25, "text":"cops kill black civilians", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"If", "label":"no-unit"},
+    {"number":28, "text":"President Obama wants us to believe that he thinks black life matters", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"it's not enough for him to form a task force on 21 century policing", "label":"assumption"},
+    {"number":31, "text":":", "label":"no-unit"},
+    {"number":32, "text":"task forces and commissions are where serious reforms go to be forgotten", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"One police shooting victim's family member up in his box with a nice cop like Richmond, California Police Chief Chris Magnus(who famously held up a #BlackLivesMatters sign) is not enough", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"We don't need a black kid-white cop hug moment", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"When", "label":"no-unit"},
+    {"number":39, "text":"the President paired up a black victim of racism with kindly white folks at his \"beer summit\" in 2009", "label":"anecdote"},
+    {"number":40, "text":"it was a disaster - at best a distraction, and at worst a prevarication that racism is anecdotal and not systematic", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"If", "label":"no-unit"},
+    {"number":43, "text":"President Obama is serious about showing black and brown life matters in this country", "label":"assumption"},
+    {"number":44, "text":"-", "label":"no-unit"},
+    {"number":45, "text":"he's made some progress showing this overseas by winding down the wars in Iraq and Afghanistan, though not so much by employing drone warfare in Pakistan", "label":"anecdote"},
+    {"number":46, "text":"- he needs to go big at the State of the Union", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"He's taken on black lives falling victim to gun violence at his annual address before by inviting the parents of Hidaya Pendleton, a black Chicago teenager who was killed in 2013 shortly after performing at Obama's second inaugural", "label":"anecdote"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"But as Commander in Chief, with all those black folks at his side, Obama could challenge the mortal violence the state itself wages against its citizens through the local police and say to them: Enough", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Ronald Reagan, whom Barack Obama uses as an example for how to sell himself as president, used Lenny Skutnik as an example of how\"we saw again the spirit of American heroism at its finest,\"", "label":"anecdote"},
+    {"number":53, "text":"after Skutnik jumped into icy water of the Potomac River to help the drowning after a plane crash", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"But", "label":"no-unit"},
+    {"number":56, "text":"are not the kin of those killed by police violence also displaying \"American heroism at its finest\" in helping those who can't breathe?", "label":"assumption"}
+  ],
+  [
+    {"number":57, "text":"It is women like Tawanda Jones who are creating a more perfect union", "label":"assumption"},
+    {"number":58, "text":"when", "label":"no-unit"},
+    {"number":59, "text":"she boldly speaks out about her brother being killed by police", "label":"assumption"},
+    {"number":60, "text":"-", "label":"no-unit"},
+    {"number":61, "text":"even when dissent is under attack and Fox News broadcasts lies about her", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"When", "label":"no-unit"},
+    {"number":64, "text":"Erica Garner visits the site where two NYPD cops were killed to offer her condolences, she is saving the union", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Every time a woman like Michael Brown's mother calls for non-violence - when she could instead, understandably, lash out with a fraction of the hatred which killed her son- she is keeping the nation from ripping itself apart and acting with the kind of American heroism that presidents should applaud loudly and publicly", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Skutnik helped save one woman", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"The black women who bury their sons and husbands and seek to change the systems that caused their deaths may save countless of lives - and maybe even the soul of the nation", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"The Black Lives Matters movement is a testament that, once again, black Americans are being called upon to force all Americans to examine our addiction to the violence and militarism that oppresses everyone in different ways", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Our first black president, riding an 18 month approval rating high, could choose to do some of that himself tonight, by acknowledging those left behind when black lives are ended by the state", "label":"assumption"},
+    {"number":75, "text":"and", "label":"no-unit"},
+    {"number":76, "text":"who still choose to use their grief to effect positive change", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ]
+]}

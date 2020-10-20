@@ -1,0 +1,149 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"What is not being reported in Azerbaijan.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"While", "label":"no-unit"},
+    {"number":3, "text":"global media appears to be focused on debating the limitations on free speech in France following the attack on the French satirical newspaper Charlie Hebdo", "label":"assumption"},
+    {"number":4, "text":",", "label":"no-unit"},
+    {"number":5, "text":"it is worth remembering that France is not the only country whose media professionals are targeted", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"For years, journalists in Azerbaijan have suffered harsh penalties for defending their freedom of speech- from prison sentences to interrogation and the confiscation of broadcasting equipment", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"On December 26, at around 10:30am, a group of police officers and investigators stormed the Baku bureau of Radio Free Europe/Radio Liberty", "label":"anecdote"},
+    {"number":10, "text":",", "label":"no-unit"},
+    {"number":11, "text":"ransacking the company's safe, seizing company documents, the official seal and equipment", "label":"anecdote"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"while", "label":"no-unit"},
+    {"number":14, "text":"keeping the staff hostage in a conference room for over five hours", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"Once the search was over, the office was sealed shut", "label":"anecdote"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"The staff was let go only to be forcefully summoned a day later at the heavy crimes unit of the state prosecutor's office for questioning", "label":"anecdote"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"In just a few days, over 30 former and current staff members of RFE/RL were questioned, including the bureau's cleaner", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"On December 30, the government accused the radio and its staff of espionage, money laundering and appropriation of funds as part of the ongoing criminal investigation against foreign-funded entities in Azerbaijan", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Similar measures were taken against Institute for Reporters' Freedom and Safety (IRFS), the Media Rights Institute, and International Research and Exchanges Board (IREX)", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"The offices of all three were raided in August and sealed shut with IREX leaving the country shortly after", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"The director of IRFS, Emin Huseynov, remains in hiding", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Consistent targeting", "label":"no-unit"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"This is not the first time the RFE/RL station, locally called Azadliq Radio (Liberty Radio) is targeted by the authorities", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"In 2009, its FM broadcast was shut down", "label":"anecdote"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"BBC radio service and Voice of America followed suit", "label":"anecdote"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"For years, the police harassed the radio's reporters, often confiscating or breaking their equipment or detaining them for endless hours of interrogation", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"On December 5, Azadliq Radio investigative journalist and the host of the radio's daily show, Khadija Ismayilova, was arrested and placed in pre-trial detention for two months", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"Accused of \"incitement to suicide\" or \"an attempt to suicide\" as per Article 125 of the Criminal Code, Ismayilova remains in jail ", "label":"anecdote"},
+    {"number":43, "text":"-", "label":"no-unit"},
+    {"number":44, "text":"even though", "label":"no-unit"},
+    {"number":45, "text":"her accuser, Tural Mustafayev, has withdrawn his complaint", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Mustafayev had accused Ismayilova of inciting him to attempt suicide and \"insulting his honour and dignity on social networks and among her friends following the break-up of their relations and his intention to marry another woman\"", "label":"testimony"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"On December 30, the Baku Court of Appeal dismissed Ismayilova's appeal for house arrest", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Prior to this charge, Ismayilova was already facing an unrelated criminal trial for defamation linked to her posting a document on Facebook revealing the identity of a man who was an informant for Azerbaijan's intelligence services", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"In October, when travelling for a conference in Prague, Ismayilova was prevented from leaving the country", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"A little over a week before this trip, Ismayilova was searched and detained for four hours at Baku International Airport", "label":"anecdote"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"She was returning from Strasbourg where she talked about the deteriorating human rights conditions in Azerbaijan", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Her investigative work uncovered many of the hidden and illegal business dealings of the ruling Aliyev family and other government officials", "label":"anecdote"},
+    {"number":60, "text":"for which she is recognised internationally", "label":"anecdote"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"Ismayilova is the recipient of Global Shining Award, the Gerd Bucerius Free Press of Eastern Europe Award, the Courage of Journalism Award, and named one of the Brave Thinkers of the world by Atlantic magazine", "label":"anecdote"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Was it a coincidence that Ismayilova's detention came just a day after the country's chief of staff, Ramiz Mehdiyev, accused Ismayilova of treason and being a foreign spy?", "label":"assumption"},
+    {"number":65, "text":"Or that the radio station was raided and then closed in another few weeks time?", "label":"assumption"}
+  ],
+  [
+    {"number":66, "text":"In his 60-page diatribe on \"Western Colonialism\", Mehdiyev wrote:\"Their main concern is lip service to their bosses abroad and keeping good relations with them", "label":"testimony"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"The example is Azadliq Radio's journalist Kahdija Ismayilova", "label":"testimony"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Together with her colleague 'friends' she puts on anti-Azerbaijani shows, makes absurd statements, openly demonstrates destructive attitude towards well-known members of the Azerbaijani community, and spreads insulting lies", "label":"testimony"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"It is clear this sort of defiance pleases Ms Ismayilova's patrons abroad.\"", "label":"testimony"}
+  ],
+  [
+    {"number":73, "text":"He concluded:\"Overall there is an understanding within the society that Azadliq Radio and its employees are on a disgusting path", "label":"testimony"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"There is no need to prove that provision of false information is the same as working for the foreign secret service", "label":"testimony"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"This is treason", "label":"testimony"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"This is what journalists and people with a healthy mindset would think", "label":"testimony"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"If", "label":"no-unit"},
+    {"number":82, "text":"the symbol of democracy is Khadija Ismayilova", "label":"assumption"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"then it is awful to imagine what future awaits the society.\"", "label":"testimony"}
+  ],
+  [
+    {"number":85, "text":"Siyavush Novruzov, an MP from the ruling party, agrees", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"In an interview with a local news site, Novruzov said:\"Every place that works for foreign intelligence and the Armenian lobby should be searched.\"", "label":"testimony"}
+  ],
+  [
+    {"number":88, "text":"The Armenian lobby is just another popular tool used by government circles to punish dissent in Azerbaijan", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Despite its support for Track Two diplomacy initiatives, Aliyev's regime was quick to accuse Leyla Yunus and Rauf Mirkadirov of treason and spying for Armenia this year", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Both Yunus and Mirkadirov have been engaged in public diplomacy initiatives pressing for reconciliation between Armenia and Azerbaijan for over a decade", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"The authorities were fully aware of their work for years", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"And yet", "label":"no-unit"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":" in what has been by far the most unprecedented year of crackdowns, Azerbaijan continues to maintain a steady relationship with Europe and the image of a transforming country, young and rich, and eager to spend so long as its critics keep quiet", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"With many of the country's prominent advocates, lawyers, and journalists in jail; independent media platforms under attack; and only a handful of international non-governmental organisations left in the country, there is little hope for the country's positive transformation anytime soon", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"So long as President Ilham Aliyev keeps saying there are no political prisoners and no limitations on freedom of speech in Azerbaijan- conjuring the illusion of a democratic country- little is going to change in this country", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"}
+  ]
+]}

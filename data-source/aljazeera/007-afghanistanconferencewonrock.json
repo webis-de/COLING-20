@@ -1,0 +1,190 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Afghanistan conference won't rock the boat.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"\"The London Conference on Afghanistan will provide an opportunity for the government of Afghanistan to set out its commitment to reform,\" states the UK government's official webpage of the upcoming meeting between the new Afghan government and its international donors", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The conference is also an opportunity for the international community \"to reaffirm its long-term commitment to supporting Afghanistan's peaceful development\"", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Despite the media hype, the London Conference is nothing more than a routine reunion, set by the 2012 Tokyo Mutual Accountability Framework (TMAF)", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"As part of the agreement, donors pledged support and the Afghan government promised to implement reforms and curb corruption", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The upcoming meeting in the British capital, therefore, is the first in a series of exchanges that will be held every two years, at the ministerial level, between the Afghan and donor governments to assess progress and check TMAF's benchmarks", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Still", "label":"no-unit"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":" the December 4 conference has the potential to ease Afghanistan into a stable and increasingly self-sufficient future and render it a reliable global partner for ensuring peace and stability in the region and beyond", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"To utilise this opportunity as more than a routine progress assessment requires a fundamental shift of attitude on both sides", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Lack of concrete success in the military, economic development and governance efforts in post- Taliban Afghanistan needs to be sincerely examined", "label":"assumption"},
+    {"number":19, "text":"and", "label":"no-unit"},
+    {"number":20, "text":"adjustments need to be made", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"There is multitude of examples in the international community's flawed, if not disingenuous, aid programmes and their monitoring in Afghanistan", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"I was hired by a US consultancy firm to map out the field and offer recommendations for the design of a multimillion dollar governance project", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"My report and recommendations, it turned out, were too radical", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"\"We expected recommendations for cosmetic changes to the ongoing programmes,\" I was told", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"\"The donor agency does not want to rock the boat.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":31, "text":"On another occasion, I was interviewed by a European consultant for his assessment of the first phase of a programme that had consistently been showcased as a \"success story\" by donors and the Afghan government", "label":"anecdote"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"In his three-day field trip to Kabul, he had held meetings with three embassies, the UN, the Afghan head of the implementing agency and me", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Eagerly, I began to point to the flaws of the programme and offered suggestions for improvement", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"I also offered assistance for site visits", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"\"Do n't waste your time and mine,\" the septuagenarian consultant told me", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"\"The donor agency expects a rosy report highlighting only the positive.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":42, "text":"He further clarified that the decision to fund the second phase had already been made and it had more to do with international aid politics, than development logic", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"Numbers provide an easy way to illustrate success", "label":"common-ground"},
+    {"number":45, "text":",", "label":"no-unit"},
+    {"number":46, "text":"especially when seeking international aid budget approval from legislative bodies", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"While figures indicating Afghanistan's progress towards development are impressive and could not have been achieved without generous international assistance", "label":"assumption"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"they conceal a lack of attention to quality", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"About 8 million Afghan children - including over 2.5 million girls - are now in school", "label":"statistics"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"This is a figure cited regularly as an indication that the programmes are yielding tangible results", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"The fact that most of them graduate only half-literate is never revealed", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Here's another feel-good figure", "label":"assumption"},
+    {"number":59, "text":":", "label":"no-unit"},
+    {"number":60, "text":"More than 60 percent of the Afghan population now has access to healthcare facilities", "label":"statistics"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"The fact that some of those facilities have only received a checkmark because merely a building was constructed and many are staffed only with a nurse, have no diagnostic technology and have terribly anaemic pharmaceutical offerings is often ignored", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":64, "text":"Much has been written about the fact that a hefty portion of the aid money goes back to donor countries because of the donors' insistence to award contracts to their own citizens", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"The contracts move hand to hand", "label":"anecdote"},
+    {"number":67, "text":"and", "label":"no-unit"},
+    {"number":68, "text":"finally local non-governmental agencies are hired to implement projects", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"At this point", "label":"no-unit"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"while at best one-quarter of the original funds remains to be spent on the actual project, quality is grossly compromised", "label":"assumption"},
+    {"number":73, "text":"and", "label":"no-unit"},
+    {"number":74, "text":"monitoring becomes either too complex or irrelevant", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"The international community has also created an indigenous vehicle for channelling portions of its assistance", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Under the guise of \"civil society\", hundreds of Afghan NGOs have been established since 2002", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"This artificial civil society's lifeline is the donor community in Kabul", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Projects and funds are handed to them for implementation and as the closing of fiscal year in donor capitals approaches, generosity in disbursing funds, irrespective of the projects' logic, utility and cost increases", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Where", "label":"no-unit"},
+    {"number":85, "text":"the funds go", "label":"no-unit"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Granted that when international aid began to pour in, the Afghan state had very small, if any, capacity to absorb and spend it", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"However", "label":"no-unit"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":" after 13 years and millions of dollars spent on public sector capacity building, the bulk of the funds continue to be spent directly by donors", "label":"assumption"},
+    {"number":92, "text":"and", "label":"no-unit"},
+    {"number":93, "text":"only a little over 20 percent is given to the Afghan government", "label":"statistics"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"The parallel system and structures offering higher salaries paid in US dollars have lured much of the skilled Afghan human resources", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"The Afghan administration, thus, has to be grateful to donors for funding training workshops, while in the end, loses its best trained personnel to international organisations, consulting firms and embassies", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"It is often said that rampant Afghan corruption and lack of capacity would result in misuse and waste of donors' funds", "label":"anecdote"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"A mere review of reports published by the US oversight agency, Special Inspector General for Afghanistan Reconstruction (SIGAR), reveals the depth and extent of waste, fraud and abuse of the direct US aid to Afghanistan just in reconstruction projects", "label":"statistics"},
+    {"number":102, "text":".", "label":"no-unit"},
+    {"number":103, "text":"Similar monitoring of most donors' direct aid will, no doubt, highlight comparable corruption and waste", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":105, "text":"The government of former President Hamid Karzai admittedly failed to launch a genuine fight against corruption", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"Lack of capacity for a governance vision that would make optimum use of international aid was also a defect of the previous leadership", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":109, "text":"High-level appointments were based not on competence and commitment of individuals, but rather on political affiliations and compromises on the one hand, and submissiveness of a handful of \"yes sir\" entities on the other", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"Thus", "label":"no-unit"},
+    {"number":112, "text":",", "label":"no-unit"},
+    {"number":113, "text":" both sides - donors and the Afghan government - went on for a decade playing a futile blame game", "label":"assumption"},
+    {"number":114, "text":",", "label":"no-unit"},
+    {"number":115, "text":"each accusing the other of corruption and insincerity", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":117, "text":"Now", "label":"no-unit"},
+    {"number":118, "text":",", "label":"no-unit"},
+    {"number":119, "text":" on the eve of the London Conference, a new page has turned in Afghanistan's leadership and governance", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"},
+    {"number":121, "text":"The level of optimism among ordinary Afghans is only comparable to the euphoria of the first weeks following the fall of the Taliban regime", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"This renewed domestic hope and confidence in the new leadership must not be let to deflate", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":125, "text":"Although the new administration has not yet launched its overhauling programme", "label":"anecdote"},
+    {"number":126, "text":",", "label":"no-unit"},
+    {"number":127, "text":"President Ashraf Ghani's vision and capacity is well known", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"},
+    {"number":129, "text":"Donors at the London Conference must seize the chance and afford him confidence", "label":"assumption"},
+    {"number":130, "text":".", "label":"no-unit"},
+    {"number":131, "text":"They must also adapt a fundamentally new approach to dispensing their generous assistance to Afghanistan", "label":"assumption"},
+    {"number":132, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":133, "text":"A significant funnelling of international aid through the Afghan government (with oversight and accountability benchmarks), a shift of emphasis from quantity to quality, with particular focus on raising the quality of education and finally, a sincere commitment from both sides to the establishment of rule of law will ensure the stability and eventual self-reliance of Afghanistan", "label":"assumption"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ]
+]}

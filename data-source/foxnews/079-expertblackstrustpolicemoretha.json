@@ -1,0 +1,165 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Expert: Blacks trust police more than whites do.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Do blacks trust police more than whites do?", "label":"assumption"},
+    {"number":3, "text":"Given the anger over events in Ferguson and New York City, the very question seems absurd", "label":"assumption"},
+    {"number":4, "text":".", "label":"no-unit"},
+    {"number":5, "text":"But it is not", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"Behind the polls and demonstrations, there is evidence that blacks trust police at least as much as whites do", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":9, "text":"The poll results are hardly surprising", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"A new Gallup poll confirms blacks place less confidence in police and the criminal justice system", "label":"statistics"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"Using survey data from 2006 through 2014, Gallup found 31 percentage points more blacks than whites believe black males are more likely to go to prison than white males primarily because of discrimination(50 percent versus 19 percent)", "label":"statistics"}
+  ],
+  [
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"*7 percentage points more blacks believe the honesty and ethics of police are low/very low (17 percent versus 10 percent)", "label":"statistics"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"Similarly", "label":"no-unit"},
+    {"number":18, "text":", a 2013 Pew Research Centersurvey reveals that 70 percent of blacks believed police treated whites better than blacks", "label":"statistics"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"By contrast, only 37 percent of whites agreed", "label":"statistics"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"But", "label":"no-unit"},
+    {"number":23, "text":"what people say and what they do are often different", "label":"common-ground"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"And there are both victims and criminals in black communities", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Victims may trust the police for the same reasons that criminals dislike them", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Blacks are not a monolithic group: blacks who who have been through the criminal justice system as criminals could answer these questions quite differently than those who have relied on police as victims", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"The polls don't distinguish between these two groups", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"As Charles Barkley recently said:\"[Police] are the only thing in the ghetto between this place being the wild, wild west.\"", "label":"testimony"}
+  ],
+  [
+    {"number":34, "text":"Most violent crime victims don't report crimes to police", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"For example", "label":"no-unit"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":" only about half of rapes are reported to police", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"That has a lot to do with how victims believe they will be treated by the police", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"In the case of rape, victims who think that the police are unsympathetic to rape victims or are unlikely to solve the cases are even less likely to report rapes", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"If", "label":"no-unit"},
+    {"number":45, "text":"black victims really believe police are racist", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"why would they report the crime to the police?", "label":"assumption"},
+    {"number":48, "text":"Blacks victims don't want other blacks locked up simply due to their race", "label":"assumption"},
+    {"number":49, "text":";", "label":"no-unit"},
+    {"number":50, "text":"they want the criminals who actually committed the crime punished", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Of course people are more likely to report crimes to police if they believe the police will solve them", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Why waste time filling out forms and being interviewed if the crime isn't going to be solved?", "label":"assumption"},
+    {"number":55, "text":"If", "label":"no-unit"},
+    {"number":56, "text":"blacks think police are incompetent or dishonest or just don't care", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"again there is little reason to turn to the police for help", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Yet", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":" blacks don't shy away from reporting crimes to the police", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"Data compiled by the Bureau of Justice Statisticsfrom 2008 to 2012 shows that blacks are actually more likely than whites to report violent crimes to the police-- 9 percentage points more likely than whites (54 percent to 45 percent)", "label":"statistics"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Blacks consistently report violent crimes at a higher rate than whites do", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"That applies to all income groups as well as for victims living in urban and suburban areas", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"This higher rate of reporting is true in areas where blacks face higher violent crime rates than whites and also when the reverse is true", "label":"assumption"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"The Bureau of Justice Statistics reports that whites who are below 200 percent of the poverty level face a higher violent crime rate than blacks with the same income", "label":"statistics"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"yet", "label":"no-unit"},
+    {"number":75, "text":"blacks still report those crimes at a higher rate", "label":"statistics"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"For incomes above 200 percent of poverty, blacks are more frequent victims of violent crime", "label":"statistics"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"but", "label":"no-unit"},
+    {"number":80, "text":"again they are still more likely to report them", "label":"statistics"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"On average, blacks are victims of violent crime at much higher rates than whites", "label":"statistics"},
+    {"number":83, "text":",", "label":"no-unit"},
+    {"number":84, "text":"but", "label":"no-unit"},
+    {"number":85, "text":"the gap isn't as large as many people think", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Typically, crime rate comparisons are in terms of the FBI crime data-- data relying on the number of crimes reported to police", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"But", "label":"no-unit"},
+    {"number":90, "text":",", "label":"no-unit"},
+    {"number":91, "text":"as", "label":"no-unit"},
+    {"number":92, "text":"we have just noted", "label":"no-unit"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":"that is misleading", "label":"assumption"},
+    {"number":95, "text":",", "label":"no-unit"},
+    {"number":96, "text":"because blacks report violent crimes at higher rates", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"While the FBI crime numbers show blacks to have a 40 percent higher violent crime rate", "label":"statistics"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"the actual difference is about 30 percent", "label":"statistics"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"When it comes to crime, the demonstrations and pundits don't reflect how most blacks feel most of the time", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"There appears to be a silent majority of blacks who trust the police", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"Many blacks may get angry about particular cases in the news", "label":"assumption"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":"but", "label":"no-unit"},
+    {"number":109, "text":"when they have to turn to someone for help, they turn to the police", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"Blacks apparently trust the police to do their job more frequently than whites do", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"John R  Lott, Jr  is a columnist for FoxNews.com", "label":"other"},
+    {"number":114, "text":".", "label":"no-unit"},
+    {"number":115, "text":"He is an economist and was formerly chief economist at the United States Sentencing Commission", "label":"other"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"Lott is also a leading expert on guns and op-eds on that issue are done in conjunction with the Crime Prevention Research Center", "label":"other"},
+    {"number":118, "text":".", "label":"no-unit"},
+    {"number":119, "text":"He is the author of eight books including \"More Guns, Less Crime.\"", "label":"other"},
+    {"number":120, "text":"His latest book is\"Dumbing Down the Courts: How Politics Keeps the Smartest Judges Off the Bench\"", "label":"anecdote"},
+    {"number":121, "text":"Bascom Hill Publishing Group (September 17, 2013)", "label":"no-unit"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"Follow him on Twitter@johnrlottjr", "label":"no-unit"},
+    {"number":124, "text":".", "label":"no-unit"}
+  ]
+]
+}

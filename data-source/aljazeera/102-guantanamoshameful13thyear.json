@@ -1,0 +1,144 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Guantanamo's shameful 13th year.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A traditional Uruguayan slow-cooked steak; a pair of orange prison uniform pants that will never be worn again waving like a victory flag out of a balcony window", "label":"anecdote"},
+    {"number":3, "text":";", "label":"no-unit"},
+    {"number":4, "text":"the words\"Long Live Freedom\" scrawled in Spanish on black sands gleaming in the afternoon sun", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Days after the US military sent six cleared Guantanamo Bay detainees to Uruguay, these were some of the images published as part of a photo essay on December 14 in the Miami Herald", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The piece illustrated a vivid picture of human resilience after over a decade of extreme privation and suffering", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"As inspirational as they were, the photographs also served as a stark contrast to the daily realities experienced by the former inmates during the course of their detention", "label":"assumption"},
+    {"number":11, "text":"-", "label":"no-unit"},
+    {"number":12, "text":"realities still experienced by the 127 men still held there", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"On Guantanamo's 13th anniversary, the US government must continue to work diligently without any more excuses to ensure due process for the remaining detainees and shut down one of the darkest holdovers from the \"war on terror\"", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Glimmer of hope", "label":"no-unit"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"In a joint declaration issued last year by the UN Special Rapporteur on Torture, several other UN agencies and the Inter-American Commission on Human Rights (IACHR), the US was urged to \"adopt all legislative, administrative, judicial, and any other types of measures necessary to prosecute, with full respect for the right to due process, the individuals being held at Guantanamo Naval Base or, where applicable, to provide for their immediate release or transfer to a third country\"", "label":"testimony"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"Yet, of the total of 779 men and boys that have been detained at Guantanamo Bay since 2002, only nine have been convicted of any crime", "label":"statistics"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Of the 127 remaining detainees, 59 have been unanimously cleared by US intelligence and security agencies, of any involvement in terrorism but continue to await their release", "label":"statistics"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"The remaining 68 inmates are classified as \"indefinite detainees\", a Kafka-esque category used for detainees ineligible for either trial or release", "label":"statistics"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"These men will face Periodic Review Board hearings, an incipient interagency process that will assess whether an inmate poses a threat to the US or is eligible for transfer", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"However", "label":"no-unit"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":" this procedure lacks guarantees to due process and will likely prolong situations of arbitrary detention", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Moreover", "label":"no-unit"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"as inmate transfers continue, the US must abide by the principle of \"non-refoulement\", ensuring detainees' right to not be returned to a place where they will face persecution, torture or death", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"This guarantee was not upheld with cleared inmate and Centre for Justice and International Law and Centre for Constitutional Rights' client Djamel Ameziane", "label":"anecdote"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"who was forcibly repatriated back to his birth country of Algeria despite stated fears of persecution and standing precautionary measures ordered in his favour", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Upon his return, Ameziane was detained by Algerian government agents as part of an \"evaluation process\" and subjected to abuses that left him in poor health", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Ameziane's forcible repatriation is only one of several other cases", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"In 2014, two other men were involuntarily repatriated to Libya", "label":"anecdote"},
+    {"number":45, "text":"and", "label":"no-unit"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"in 2007, two others were sent back to Tunisia", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"Resettling detainees back to countries that will expose them and their families to threats, persecution, and - in the case of detainees who are not cleared- to ongoing detention and torture, will only deepen years of suffering and injustice", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"The US Senate committee's grisly report on the CIA's interrogation methods and the trickling repatriation of cleared inmates represent important steps towards making the truth of the \"war on terror\" available to the public", "label":"assumption"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"However, the question over how material and intellectual authors of torture will be held accountable in accordance with international law remains", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"As party to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, the US is not only forbidden from practising torture but required to prevent and hold accountable any individuals who are involved in these particular kinds of human rights violations", "label":"common-ground"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"Under this convention, US federal authorities are required to conduct \"prompt and impartial investigations\" of these crimes", "label":"testimony"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Additionally", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":" under the Common Article Three of the Geneva Convention - the article which bars torture, cruel, inhumane, and degrading treatment against prisoners of war - the US could be held accountable for war crimes", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Finally", "label":"no-unit"},
+    {"number":64, "text":",", "label":"no-unit"},
+    {"number":65, "text":"under international law, amnesty laws are not permitted and the authors of torture must be prosecuted - at home or abroad", "label":"common-ground"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"The public availability of documentation to establish the truth behind Guantanamo Bay will no doubt play a pivotal role in dismantling the architecture of state-sanctioned human rights abuses", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"While", "label":"no-unit"},
+    {"number":70, "text":"the US Senate's scathing report revealed some of the most shocking instances of torture", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"its 6,700 pages are the tip of the iceberg", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"In early December, a US judge ordered the disclosure of over 30 tapes depicting the controversial nasogastric force-feedings of hunger strikers in Guantanamo, including Abu Wael Dhiab - one of the six men released to Uruguay", "label":"anecdote"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"While attempts are being made by the Obama administration to overturn the ruling", "label":"anecdote"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"human rights groups continue to demand for release of the tapes", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"Almost six years after US President Barack Obama signed an executive order to shut down Guantanamo Bay, it is unfathomable that this international symbol for US human rights abuses remains open", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"The ongoing reluctance to punish those responsible for authorising and using torture is even more unfortunate", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Yet", "label":"no-unit"},
+    {"number":85, "text":",", "label":"no-unit"},
+    {"number":86, "text":" now more than ever, the US government can send a powerful message stating that no one is exempt from international accountability and prosecution", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"},
+    {"number":88, "text":"What is done now will start to ensure that torture - or \"Enhanced Interrogation Techniques\" - are never used by the US or other military and intelligence personnel in situations of conflict", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":90, "text":"By", "label":"no-unit"},
+    {"number":91, "text":"promoting the pursuit of truth and justice", "label":"no-unit"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"the US will finally be able to close one of the grimmest chapters in its history", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ]
+]}

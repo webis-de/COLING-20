@@ -1,0 +1,177 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Defusing Taliban publicity.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Journalists in Afghanistan have decided for the second time this year to curtail their reporting on Taliban attacks as a means of reducing the impact of their message", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The first such collective action was taken during the presidential elections", "label":"assumption"},
+    {"number":5, "text":"when the Taliban were completely boycotted", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"},
+    {"number":7, "text":"This is a strategic decision according to Fahim Dashty, the chief executive of Afghanistan's National Journalists Union (ANJU)", "label":"testimony"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"The decision follows the recent heavy escalation of attacks in Kabul", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"\"Our media is saturated with images of Taliban attacks,\" says a joint press statement by ANJU, and the media watchdog, Nai", "label":"testimony"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"\"Taliban spokesman Zabihula Mujahid is active on TV and social media round the clock, he is in every home 24 hours a day, we need to confront his messages,\" says Nai's director, Sediqulah Tauhidi", "label":"testimony"},
+    {"number":14, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":15, "text":"Afghan journalists feel they need support from policy makers and the international community alike", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":17, "text":"\"We will be calling on the new president, Ashraf Ghani, to consider blocking the sites that Taliban use for their publicity,\" says Dashty", "label":"testimony"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"Confronting publicity", "label":"no-unit"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"The call by journalists in Afghanistan echoes international concerns about the need to confront publicity by armed groups such as ISIL, and the attempts in several countries including Britain to block these groups' use of the internet and social media to advertise, publicise and recruit", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"British Home Secretary Theresa May acknowledged the extent of the problem in her latest policy speech:\"We need a counter terrorism strategy that is comprehensive and coherent.\"", "label":"testimony"}
+  ],
+  [
+    {"number":24, "text":"Among the measures to curb the activities of the Islamist terror groups she introduced restrictions on the use of the internet", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"\"We are engaged in a struggle that is fought on many fronts,\" she said, naming terrorist groups in several parts of the world including Afghanistan", "label":"testimony"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Police and intelligence agencies will be given new powers to track down those who plot terrorist attacks over the internet", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"\"They enable the authorities to limit a subject's access to telephones and the internet,\" she said", "label":"testimony"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"Terrorist attacks have been complex", "label":"assumption"},
+    {"number":33, "text":"but", "label":"no-unit"},
+    {"number":34, "text":"many are used for sending a specific message either to the local population or to the international community", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"Once these messages are turned into images on TV and internet across the world their impact is amplified", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"Broader audience", "label":"no-unit"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"According to UN counterterrorism research, terrorist-related propaganda hosted on popular websites containing user-generated content has the potential to reach a significantly broader audience than content on traditional specialised websites, bulletin boards and web forums", "label":"assumption"},
+    {"number":41, "text":",", "label":"no-unit"},
+    {"number":42, "text":"which generally appeal to a self- selected group of individuals", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":44, "text":"\"Their sophisticated use of the internet and social media means they have a significant propaganda reach across the world,\" said the British home secretary", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"\"The scourge of ISIL should not mean that the Taliban are forgotten or seen as the milder terror group,\" stresses Dashty", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"There are serious reservations", "label":"assumption"},
+    {"number":49, "text":"when", "label":"no-unit"},
+    {"number":50, "text":"British Foreign Secretary Philip Hammond states at the opening of the London Conference on Afghanistan that \"The terrorist threat from the region has been substantially reduced,\"", "label":"testimony"},
+    {"number":51, "text":"when there are almost daily attacks in Kabul", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"\"Taliban are blocking the fledgling democracy that has been built over the last decade,\" says Nai director", "label":"testimony"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"\"They are attacking our liberty, they are targeting freedom of speech, they are targeting press freedom and we must have a counter offensive.\"", "label":"testimony"}
+  ],
+  [
+    {"number":56, "text":"Dashty says as journalists we must ask ourselves whether in our endeavour to provide information we are turning into communication channels at the service of the Taliban", "label":"testimony"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"The arguments are not straightforward", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"On the one hand", "label":"no-unit"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"the media needs to report to inform the population", "label":"assumption"},
+    {"number":63, "text":"and", "label":"no-unit"},
+    {"number":64, "text":"on the other hand", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"reporting terrorist attacks has increasingly become publicity for armed extremist groups", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"On the one hand freedom of speech and civil liberties should be preserved at all cost", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"and", "label":"no-unit"},
+    {"number":71, "text":"on the other hand", "label":"no-unit"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":" terrorist messages have traumatised societies and increased militant recruitment around the world", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"Credible counter-narrative", "label":"no-unit"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"These issues must be discussed in depth and collectively around the world", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"There is a need for coordinating a credible counter narrative both at the local and the global level to confront the banality and cruelty of terrorist messages", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"Take for example their claim, believed even by some analysts, that they are fighting to save Muslims", "label":"other"},
+    {"number":82, "text":"while", "label":"no-unit"},
+    {"number":83, "text":"facts tell us that they have killed tens of thousands over the years", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Since 2009, there have been over 17,000 civilian deaths in Afghanistan alone as documented by the UN - 75 percent as a result of Taliban attacks", "label":"statistics"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Or the contradictions in the Taliban claim that they want foreign forces out while targeting British interests one month after British forces left Afghanistan, or inviting foreign Islamist fighters and al-Qaeda to set up camp in Afghanistan during their rule", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"\"Confusion and contradictions among the various terrorist voices\" are common according to the latest State Department report on terrorism", "label":"testimony"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Journalists, media analysts, communication experts and policy makers need to come together to discuss how best to build a framework for a new counterterrorism narrative that at the same time reveals the falsities of terrorist assertions", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Once formulated, it could then be used as any public service broadcast messages woven into drama serials, discussions, debates and news coverage alike", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":95, "text":"The UN Office on Drugs and Crime, which created a counterterrorism task force, says that despite increasing international recognition of the threat posed by terrorists' use of the internet,\"there is currently no universal instrument specifically addressing this pervasive facet of terrorist activity\"", "label":"testimony"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"'Psychological security'", "label":"no-unit"},
+    {"number":98, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":99, "text":"The joint statement by ANJU and Nai calls on the media and the reporters in Afghanistan to refrain from competition over who shows more pictures of the gruesome Taliban attacks", "label":"anecdote"},
+    {"number":100, "text":".", "label":"no-unit"},
+    {"number":101, "text":"It says that the \"unprecedented\" frequency of the footage shown on TV and social media have undermined the \"psychological security\" of the nation", "label":"testimony"},
+    {"number":102, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":103, "text":"\"Our first boycott of the Taliban was successful,\" says Dashty", "label":"testimony"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"\"Attacks were reduced and over 60 percent of the population took part in the elections.\"", "label":"testimony"}
+  ],
+  [
+    {"number":106, "text":"He says they would really benefit if journalists in the West supported their campaigns, especially those who frequently report from Afghanistan", "label":"testimony"},
+    {"number":107, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":108, "text":"\"We would also welcome an international framework that sets an example for us,\" says Dashty", "label":"testimony"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"A coordinated global plan to counter terrorist media propaganda would be a useful tool for journalists in areas adversely affected by terrorist attacks", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"Attacks plotted on the World Wide Web need an appropriate worldwide media response", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ]
+]}

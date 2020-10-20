@@ -1,0 +1,175 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Nigeria's old impeachment games.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Recently the former president labelled many Nigerian federal legislators as thieves and looters", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"According to him, they indulge in extorting money from departments, contractors and ministries", "label":"testimony"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"\"When the guard is the thief,\" Obasanjo lamented,\" only God can keep the house safe and secure.\"", "label":"testimony"}
+  ],
+  [
+    {"number":7, "text":"With what is presently playing out at the National Assembly of Nigeria, Obasanjo may be right after all", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"Currently, some lawmakers are purportedly plotting to remove President Goodluck Jonathan from office", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"About 65 out of 109 Senators are reportedly involved in the plot", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"These anti-Jonathan lawmakers have told whoever cared to listen that they would table the president's sins on December 16, 2014", "label":"testimony"},
+    {"number":14, "text":"when they reconvene from their current recess", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Chief among the president's reported sins are failure to contain the raging insurgency in the north; refusal to sign some bills; and alleged unauthorised expenditure of 1.7 trillion Naira (about $9.5bn) on the oil subsidy fund in 2011", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"True, the security situation in the country is not palatable", "label":"assumption"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"but", "label":"no-unit"},
+    {"number":21, "text":"it has always been so since 2009", "label":"assumption"},
+    {"number":22, "text":"when Boko Haram started its violent uprising", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"No doubt, the president needs to demonstrate that he is capable of putting the terrorists to rout", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"But then", "label":"no-unit"},
+    {"number":27, "text":",", "label":"no-unit"},
+    {"number":28, "text":"why are the senators just waking up to the existential realities in Nigeria?", "label":"assumption"},
+    {"number":29, "text":"Why are they just discovering that the president spent more than what was approved for the oil subsidy fund in 2011?", "label":"assumption"}
+  ],
+  [
+    {"number":30, "text":"The point is, the lawmakers desperately need financial and political support to pursue their campaigns for the general elections coming up in February 2015", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"And the best way to get this, I suspect, is to blackmail the president with impeachment or removal", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"In a bid to retain his seat, the president is supposed to calm them down by greasing their palms and supporting their bids for re-election", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"For many Nigerians, the legislators are actually acting true to type", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"In August 2002, when the nation was preparing for the 2003 general elections, the National Assembly waved the impeachment flag against the then President Obasanjo", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"The lower chamber, the House of Representatives, gave the him an ultimatum to resign within two weeks or be removed", "label":"anecdote"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"They accused Obasanjo of incompetence and abuse of office", "label":"anecdote"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"At the end of the day, the so-called impeachment turned out to be a storm in a teacup", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"It has become a tradition that whenever the lawmakers want anything done in their favour, they arm-twist the executive with threats of probes or impeachment", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"But most of the probes end up an exercise in futility", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"},
+    {"number":50, "text":"Nobody is punished", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"No credible result is released", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"In 2009, the then Special Adviser on Petroleum to the president, Dr Emmanuel Egbogah, alleged that oil companies took some senators to Ghana to feed and bribe them to oppose the oil and gas reforms being initiated by the federal government", "label":"anecdote"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"Naturally, the senators were angry", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"They called for a probe of the allegations", "label":"anecdote"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Senate President David Mark thundered then,\"There is going to be a serious public hearing... because when people begin to beckon at their whims and caprices to label us in the way they want, we should take it seriously.\"", "label":"testimony"},
+    {"number":61, "text":"Nothing concrete came out of this", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"There was also a probe of the power sector reforms undertaken by the then President Olusegun Obasanjo", "label":"anecdote"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"The Ndudi Elumelu-led committee of the House of Representatives that probed the rot in the power sector spent millions of Naira in the course of conducting their investigations", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"They turned in many volumes of the report on the probe", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"At the end, the House set up an ad hoc committee to review the report", "label":"anecdote"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"Of course", "label":"no-unit"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":" the review committee dropped the probe report", "label":"anecdote"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"It reportedly accused the Elumelu panel of lacking understanding of the nature of power sector contracts", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"Hence", "label":"no-unit"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":" it exonerated the Obasanjo-led government of mismanaging funds for power projects", "label":"anecdote"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"The rot in this power sector is still haunting Nigerians up until today", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Undoubtedly, our lawmakers are incurable lawbreakers", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Sometimes, they engage in physical combat in the chambers", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"Sometimes, their unruly behaviour leaves even children wondering why such supposedly mature individuals have become soup-guzzling elders", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"They collect jumbo pay only to pass a few bills and devote most of their time in shadow-boxing", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"A good number of these legislators, for instance, never sponsored any bill since they were elected", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"Some care less about the interest of their constituents and don't report back to them", "label":"assumption"},
+    {"number":94, "text":".", "label":"no-unit"},
+    {"number":95, "text":"They have also failed in their oversight of ministries and government agencies", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"},
+    {"number":97, "text":"The House has committees in charge of different government ministries", "label":"assumption"},
+    {"number":98, "text":".", "label":"no-unit"},
+    {"number":99, "text":"But", "label":"no-unit"},
+    {"number":100, "text":"what some members of these committees do, sometimes, is to demand monetary inducement to pass the budget of these ministries", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"In fact", "label":"no-unit"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":" money is the name of the game", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"Last year, The Economist of London reported that Nigerian legislators were about the highest paid in the world", "label":"testimony"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"According to the newspaper, with the basic salary of $189,500 per annum, the Nigerian legislator earns 116 times the country's Gross Domestic Product per capita of $1,600", "label":"testimony"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"Still", "label":"no-unit"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":" many of the legislators frequently agitate for increase in their already bloated salaries and allowances", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"For instance", "label":"no-unit"},
+    {"number":115, "text":",", "label":"no-unit"},
+    {"number":116, "text":" in 2010, some members of the House of Representatives, not satisfied with their personal quarterly allocation of 27.2 million Naira ($153,000), wanted their quarterly allocation increased to 42 million Naira ($234,000) for each of them", "label":"anecdote"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"The budget of the House could not accommodate it then", "label":"assumption"},
+    {"number":119, "text":".", "label":"no-unit"},
+    {"number":120, "text":"Hence", "label":"no-unit"},
+    {"number":121, "text":",", "label":"no-unit"},
+    {"number":122, "text":" the lawmakers reportedly suggested collapsing the capital budget of the House to take care of their request", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":124, "text":"It would serve the Nigerian nation better", "label":"assumption"},
+    {"number":125, "text":"if", "label":"no-unit"},
+    {"number":126, "text":"the job of the lawmakers is on a part-time basis", "label":"assumption"},
+    {"number":127, "text":"and", "label":"no-unit"},
+    {"number":128, "text":"their salaries are drastically cut", "label":"assumption"},
+    {"number":129, "text":".", "label":"no-unit"},
+    {"number":130, "text":"That way, many of them will not find it attractive to contest the position for the sake of the lucrative pay, not to mention thinking of issuing threats they will never carry through", "label":"assumption"},
+    {"number":131, "text":".", "label":"no-unit"}
+  ]
+]}

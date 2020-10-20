@@ -1,0 +1,180 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Race and economics in Hollywood casting.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Ridley Scott's new movie \"Exodus: Gods and Kings\" has garnered much controversy over his casting decisions", "label":"assumption"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"which have led to accusations of racism as well as a boycott movement (#BoycottExodusMovie)", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"In a film about Moses leading the Israelites out of ancient Egypt, the lead roles have gone to white actors", "label":"anecdote"},
+    {"number":7, "text":"-", "label":"no-unit"},
+    {"number":8, "text":"critics call this \"whitewashing\"", "label":"testimony"},
+    {"number":9, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":10, "text":"Scott's response, including telling his detractors to \"get a life\", has intensified the uproar", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"\"I can't mount a film of this budget, where I have to rely on tax rebates in Spain[where the movie was shot], and say that my lead actor is Muhammad so-and-so from such-and-such,\" he said", "label":"testimony"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"\"I'm just not going to get it financed.\"", "label":"testimony"}
+  ],
+  [
+    {"number":15, "text":"Scott could have chosen his words more sensitively", "label":"assumption"},
+    {"number":16, "text":",", "label":"no-unit"},
+    {"number":17, "text":"but", "label":"no-unit"},
+    {"number":18, "text":"while", "label":"no-unit"},
+    {"number":19, "text":"critics have dismissed his reasoning", "label":"assumption"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"he does have a point", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Scott works in Hollywood", "label":"assumption"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"which has never been sufficiently inclusive of ethnic minorities or, particularly in the case of Middle Easterners, fair in its portrayals of them", "label":"assumption"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"As such, he is stating more of an uncomfortable fact than an outlandish opinion", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":29, "text":"A profit-driven industry", "label":"no-unit"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"\"Exodus\", whose budget before the tax rebates is estimated at $200m, would probably not have received the necessary financing if the lead actors were Middle Eastern rather than Hollywood A-listers", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"Beyond that, its distribution and ticket sales would have been more limited", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Critics are overlooking the primary objective of any film industry, indeed any business: profit, without which they would not exist", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Hollywood movies have much larger budgets than other film industries", "label":"assumption"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"so", "label":"no-unit"},
+    {"number":40, "text":"revenues play a much bigger role", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"As such, there is nothing specific about \"Exodus\" that should single it out for criticism, besides being rather dull", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"The rationale behind who landed the lead roles is the same as that which led to a long list of other biblical movies being headlined by Hollywood heavyweights, rather than by actors from the region", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"Similarly", "label":"no-unit"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":" can you recall Hollywood epics about ancient Greece or the Roman empire where the lead actors were Greek or Italian?", "label":"assumption"}
+  ],
+  [
+    {"number":49, "text":"This mindset is not unique to Hollywood", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"Take the Arab movie industry", "label":"no-unit"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Mustapha Akkad's classics \"The Message\" (about the Prophet Muhammad and the birth of Islam), and \"The Lion of the Desert\" (about Omar Mukhtar, who led the Libyan resistance against Italian occupation), were headlined not by Arab actors, but by Anthony Quinn", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"},
+    {"number":55, "text":"The main Italian character was played by Oliver Reed", "label":"anecdote"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"In \"Black Gold\", the principal Arab leaders were played by Antonio Banderas (in Spanish accent) and Mark Strong", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"Such a casting decision would have been influenced by \"Black Gold\" reportedly being one of the most expensive Arab- produced films about an Arab subject", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"Hollywood is not necessarily less culturally sensitive than other film industries", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"If", "label":"no-unit"},
+    {"number":64, "text":"the latter could afford big names from the former", "label":"assumption"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"they would probably hire them", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"},
+    {"number":68, "text":"That is because audiences worldwide are more receptive to internationally recognisable stars(even if they are from minority groups) than relatively unknown local or regional actors", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"The responsiblity of audiences", "label":"no-unit"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"Film industries have to cater to audiences to maximise box-office sales", "label":"common-ground"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"As such, we cannot criticise without reflecting on our own behaviour and tastes as consumers", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"If", "label":"no-unit"},
+    {"number":77, "text":"I had a penny for every time I heard an Arab complain about how we are portrayed in Hollywood", "label":"assumption"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":"then pay money to watch a movie in which we are maligned", "label":"assumption"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"I could afford to make a big-budget film", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"In this regard, Christian Bale, who plays Moses in \"Exodus,\" responded aptly to condemnation of the film's casting", "label":"assumption"},
+    {"number":84, "text":":", "label":"no-unit"},
+    {"number":85, "text":"\"We should all look at ourselves and say, 'Are we supporting wonderful actors in films by North African and Middle Eastern film-makers and actors?' Because there are some fantastic actors out there", "label":"testimony"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"\"If people start supporting those films more and more, then financiers in the market will follow", "label":"testimony"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"The audience has to show financiers that they will be there, and [then] they could make a large-budget film.\"", "label":"testimony"}
+  ],
+  [
+    {"number":90, "text":"Scott has been criticised for relegating actors of racial origins more relevant to the film plot to peripheral or unsavoury characters", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"This is understandable", "label":"assumption"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":"but", "label":"no-unit"},
+    {"number":95, "text":"given the economic considerations of casting A-listers in lead roles, he would have been lambasted had he not cast any ethnically appropriate actors", "label":"assumption"},
+    {"number":96, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":97, "text":"Like Middle Eastern, Asian or African actors", "label":"no-unit"},
+    {"number":98, "text":"who play the stereotypical terrorist", "label":"assumption"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"it is their choice whether to accept such roles", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"Besides", "label":"no-unit"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"if", "label":"no-unit"},
+    {"number":105, "text":"Arabs were given lead roles in \"Exodus\"", "label":"assumption"},
+    {"number":106, "text":",", "label":"no-unit"},
+    {"number":107, "text":"they would have invariably played enslavers of Jews", "label":"assumption"},
+    {"number":108, "text":"-", "label":"no-unit"},
+    {"number":109, "text":"as if we need more negative representation on the big screen", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":111, "text":"A certain aspect of condemnation of the film is, in its own way, arguably racist, though unintentionally so", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"},
+    {"number":113, "text":"Some suggest that \"people of colour\" should have been cast as lead roles", "label":"assumption"},
+    {"number":114, "text":",", "label":"no-unit"},
+    {"number":115, "text":"as if Middle Easterners, Africans, Asians, Latin Americans and others are indistinguishable or interchangeable", "label":"assumption"},
+    {"number":116, "text":"because", "label":"no-unit"},
+    {"number":117, "text":"they are various shades of brown", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":119, "text":"For example", "label":"no-unit"},
+    {"number":120, "text":",", "label":"no-unit"},
+    {"number":121, "text":" in the BBC series \"House of Saddam\", the Iraqi dictator's mother is played by Iranian Shohreh Aghdashloo with a thick Persian accent, despite the series being set during the Iran-Iraq war", "label":"anecdote"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"Similarly", "label":"no-unit"},
+    {"number":124, "text":",", "label":"no-unit"},
+    {"number":125, "text":" in Julian Schnabel's film \"Miral\", the Palestinian girl of the same name is played by Freida Pinto (with an Indian accent)", "label":"anecdote"},
+    {"number":126, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":127, "text":"It would be naive to think that race plays no part in Hollywood casting", "label":"assumption"},
+    {"number":128, "text":",", "label":"no-unit"},
+    {"number":129, "text":"but", "label":"no-unit"},
+    {"number":130, "text":"one cannot ignore central financial considerations and consumer demand in the decision-making process", "label":"assumption"},
+    {"number":131, "text":".", "label":"no-unit"},
+    {"number":132, "text":"Nor, too, can we say that Hollywood is unique in this regard", "label":"assumption"},
+    {"number":133, "text":".", "label":"no-unit"},
+    {"number":134, "text":"Fingers are being pointed at \"Exodus\" and at Scott", "label":"assumption"},
+    {"number":135, "text":",", "label":"no-unit"},
+    {"number":136, "text":"but", "label":"no-unit"},
+    {"number":137, "text":"the net should be cast much more widely", "label":"assumption"},
+    {"number":138, "text":".", "label":"no-unit"}
+  ]
+]}

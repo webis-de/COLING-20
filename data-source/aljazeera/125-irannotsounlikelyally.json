@@ -1,0 +1,141 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Iran: A not so unlikely ally.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Following the reports of Iranian aircraft attacking ISIL targets last week, Iranian and US officials issued statements to emphasise that they are not coordinating their air strikes", "label":"testimony"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Despite these denials, there is an ironic element to this strike that both sides cannot deny", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"The Islamic Republic of Iran used US-produced, Vietnam-era F-4 Phantom aircraft against a common foe, ISIL", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Contextualising these Iranian air strikes within the greater history of how these planes ended up in the Iranian air force in the first place demonstrates a geostrategic reality for US foreign policy", "label":"assumption"},
+    {"number":9, "text":":", "label":"no-unit"},
+    {"number":10, "text":"Iran's geographical depth means the US has needed Iran during both the Cold War and post-Cold War era, regardless of the government in Tehran", "label":"assumption"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"The Islamic Republic's fleet of F-4s and F-14s were inherited from the Royal Iranian Air Force of Shah Mohammed Reza Pahlavi", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Iran under the shah was one of the few US allies that could purchase the advanced F-14 Tomcat interceptor of \"Top Gun\" fame, with one of the most sophisticated radars at the time", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"The shah's shopping list of US-supplied aircraft boosted the economy of the US defence industry, as well as served US geopolitical interests during the Cold War", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Iran's advanced military allowed it to emerge as a regional hegemon", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Since it shared a long border with the Soviet Union", "label":"common-ground"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"the shah's armed forces served as a bulwark against Communist penetration in the Middle East and the oil-rich Gulf region, and a deterrent against an anti-western Baathist Iraq", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Iran's geostrategic location has not diminished as a result of the collapse of the Soviet Union", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"No US or NATO ally, including Israel, Turkey or Saudi Arabia can cover Iran's geographical depth", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"Iran's location means it can influence events from Iraq to the Gulf, from the Caucasus and adjoining Caspian and Black Seas to Central Asia, and from Afghanistan to South Asia", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"Video footage", "label":"no-unit"},
+    {"number":31, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":32, "text":"The video footage released by Al Jazeera of Iranian F-4s attacking ISIL forces in Iraq's Diyala province is reminiscent of another attack", "label":"assumption"},
+    {"number":33, "text":"when two of the same US-supplied Iranian aircraft bombed Iraq's nuclear facility in Tuwaitha in 1980, during the first year of the Iran-Iraq War", "label":"anecdote"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"In this first air strike, the US and the Islamic Republic shared the same interests, albeit for different purposes", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The Islamic Republic feared Iraq could develop a nuclear option", "label":"assumption"},
+    {"number":38, "text":"as it fought a two-front war for its survival, including a domestic Iranian Kurdish uprising, and a potential pro-shah counterrevolution launched from within the Iranian air force - the same unit that was needed to target Iraq", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"},
+    {"number":40, "text":"The US, despite its tensions with Iran during the hostage crisis, did not want to see Iraq develop a nuclear capability that could threaten its ally Israel during the 1980s", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":42, "text":"Israel successfully followed up the attack against Iraq's nuclear facility in 1981", "label":"anecdote"},
+    {"number":43, "text":",", "label":"no-unit"},
+    {"number":44, "text":"and", "label":"no-unit"},
+    {"number":45, "text":"the US-led air strikes during the 1991 Gulf war were designed to destroy this nuclear infrastructure again", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"which had been rebuilt despite the Israeli air raid", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"Thus the air raid Iran conducted against ISIL was not the first time both Washington and the Islamic Republic might have both wished for a successful sortie of Iranian F-4 pilots", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"Despite this common interest during the Iran-Iraq War, the US titled towards Iraq and directly engaged Iranian naval forces in the Gulf to protect Kuwaiti oil vessels, downing an Iranian civilian aircraft in the process", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"Iran fought a proxy war against US forces in Iraq following the 2003 Iraq war by supporting Iraqi militias during the insurgency", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Both the US and Iran will continue to clash over their respective relationships with Israel", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"Yet despite these differences both the US and Iran cooperated with each other to remove the Taliban in Afghanistan in 2001", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"The joint cause against the Taliban in 2001, or ISIL in 2014, demonstrates that despite the decades-long mistrust and proxy conflicts between the two sides, geographical realpolitik can force both states to engage in alliances of convenience", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"In an AP interview, the new US ambassador in Baghdad, Stuart Jones said,\"Let's face it. Iran is an important neighbour to Iraq. There has to be cooperation between Iran and Iraq.\"", "label":"testimony"},
+    {"number":62, "text":"Such a statement is significant", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"The Iranian government has been trying to force the US to concede this geographic fact since 2003", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":66, "text":"Indirect evidence", "label":"no-unit"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"This statement serves as indirect evidence that the US and Iran appear to have worked out a modus vivendi in dealing with ISIL in Iraq", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Yet", "label":"no-unit"},
+    {"number":71, "text":"when Al Jazeera released the video of the air strike, the Iranian government initially denied the report, only to confirm it days later, adding the caveat that it was launched at the behest of the central government in Iraq", "label":"anecdote"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"The initial denial raises the question as to whether Iran did not want to upset this alliance of convenience with US by launching its own air strikes", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"In this case, rather than upsetting the US, both the Iranian and Iraqi governments probably wanted to keep this air strike quiet for domestic Iraqi politics", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"The close cooperation between the post-2003 Iraqi government and Iran has been criticised by critics within Iraq over the last decade as a surrender of Baghdad to \"Safavis\", a reference to the 16th century Shia dynasty in Iran that tried to secure what is today Iraq from the Ottomans", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":79, "text":"This footage, along with pictures of Qassim Soleimani, the head of the Iranian Quds Force, training Iraqi forces on Iranian equipment used by both the Iraqi military and Shia militias, have only alienated Iraq's disenfranchised communities with whom Baghdad needs to ultimately reconcile", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"This modus vivendi over Iraq will hinge on the future of the ongoing nuclear negotiations and the Syrian civil war", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"But in both cases, there could be an endgame that resolves the mutual antagonisms between Iran and the US", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Media coverage acknowledges that despite Iranian-US cooperation in Iraq, they still support rival sides in the Syrian civil war", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"However", "label":"no-unit"},
+    {"number":88, "text":",", "label":"no-unit"},
+    {"number":89, "text":" even in that conflict, they do share a mutual desire for that conflict to end with a political solution", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"Such a solution will save Iran from the huge financial costs of subsidising the Syrian military and end a conflict that the US has been hesitant to engage in since its onset in the summer of 2011", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":93, "text":"Al Jazeera's correspondent in Iraq, Imran Khan, in an article in November raised the question: Are the US and Iran on the same side in Iraq?", "label":"testimony"},
+    {"number":94, "text":"The answer to this question is not only a \"yes\" in Iraq, but could also be a \"yes\" in terms of the long-term stability of Syria and Afghanistan", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"It is domestic politics in both the US and Iran that prevent any official from saying this publicly", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ]
+]}

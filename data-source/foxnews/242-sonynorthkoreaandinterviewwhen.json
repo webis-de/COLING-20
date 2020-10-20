@@ -1,0 +1,158 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Sony, North Korea and 'The Interview': When lack of principle meets personal cowardice.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The news is out", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"\"The Interview\" will not be coming to a Cineplex near you on Christmas Day", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"Sony, the studio that produced Seth Rogen's $44 million comedy about the assassination North Korean dictator Kim Jong-un has dropped it", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"Sony co-chairman Amy Pascal originally greenlighted this film", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"But as of today, she and her corporate bosses are the bitches of North Korea's Dear Leader", "label":"assumption"},
+    {"number":11, "text":"--", "label":"no-unit"},
+    {"number":12, "text":"the only guy in Hollywood with the power to red light a holiday blockbuster", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Kim didn't even have to come to Hollywood to kill the film", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"An anonymous threat over the Internet was sufficient to shut it down", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"Just to make sure, he sent copies to Regal Entertainment, Cinemark, Carmike Cinemas and AMC--the companies who own most of the movie theaters in the U.S  and to the people who live near these theaters", "label":"anecdote"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"any one of which could turn into World Trade Center II", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"Before cancelling, the movie folks checked with Washington", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"If", "label":"no-unit"},
+    {"number":25, "text":"they thought their political contributions bought them some clout with Obama", "label":"assumption"},
+    {"number":26, "text":", they are now disabused of that", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"\"We are currently checking a range of options\" says a National Security council spokesperson", "label":"testimony"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"The FBI let it be known that it is investigating", "label":"testimony"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"In Hollywood lingo, the issue is under development", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":34, "text":"Some commentators are calling the shutdown of a major motion picture by foreign enemies an unprecedented act against American freedom of expression", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"But that is far from true, as Flemming Rose demonstrates in his recently published book,\"The Tyranny of Silence.\"", "label":"testimony"}
+  ],
+  [
+    {"number":37, "text":"In 2005, Rose, an editor at the Danish newspaper, Jyllands-Posten, published a series of caricatures lampooning the idea that Islam is a religion of peace", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"One drawing depicted Muhammad with a lit bomb on head", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Rose's purpose was to test whether Danish Muslim citizens were ready to accept the same kind of satirical criticism as their fellow citizens", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"The answer was no", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"Islam forbids making images of Muhammad, no matter what is on his head", "label":"common-ground"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"This is religious law", "label":"common-ground"},
+    {"number":48, "text":",", "label":"no-unit"},
+    {"number":49, "text":"and", "label":"no-unit"},
+    {"number":50, "text":"since", "label":"no-unit"},
+    {"number":51, "text":"the courts in Copenhagen weren't about to enforce it", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"Danish Imams launched an appeal to the faithful around the world", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"The masses responded with pious alacrity", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"The Danish Embassy in Damascus was torched", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"The Danish consulate in Beirut was sacked", "label":"anecdote"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"Mobs rioted from North Africa to Pakistan, attacking churches and individual Christians", "label":"anecdote"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"Dozens, perhaps hundreds, died", "label":"anecdote"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"The American news media reported on this but, with few exceptions, blacked out the offending images", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"A New York Times editorial explained it as simple good manners, \"a reasonable choice for news organizations that usually refrain from gratuitous assaults on religious symbols.\"", "label":"testimony"},
+    {"number":68, "text":"A spokeswoman for CNN said the network was censoring the images \"out of respect for Islam\" and to avoid \"insulting and hurting certain groups.\"", "label":"testimony"},
+    {"number":69, "text":"The United States was then, as it is now, engaged in a war against Islamic extremism", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"There was a public debate about the nature of the enemy", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"There was nothing \"gratuitous\" about showing caricatures that had incited millions of Muslims and allowing the public to judge for itself", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"On \"Fox News Sunday,\" Chris Wallace displayed the cartoon of Muhammad and explained his network's position", "label":"anecdote"},
+    {"number":76, "text":":", "label":"no-unit"},
+    {"number":77, "text":"\"We thought if we were going to tell the story about people rioting and burning down embassies, it's part of the story to know what's causing such outrage.\"", "label":"testimony"},
+    {"number":78, "text":"There were a few other exceptions to the ban (most notably ABC Nightly News, the Philadelphia Inquirer and the Austin Statesman American)", "label":"anecdote"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"But the vast majority of America's senior news executives decided to forego the basic principle of their profession for an even more basic human impulse--self-preservation", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"They were very simply scared", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"Nobody wanted to be held responsible for domestic acts of terror, bombings of their offices or attacks on their personnel", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Least of all did they want to themselves become targets", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"Only a year or so earlier, Dutch filmmaker Theo Van Gogh had been stabbed to death on an Amsterdam Street for making \"Submission,\" a short drama about the violent oppression of women in the Muslim world", "label":"anecdote"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"His colleague, Ayaan Hirsi Ali, was in hiding and subject to constant death threats", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"Novelist Salman Rushdie was still under a death warrant for insulting the prophet", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"So, for that matter, was Flemming Rose", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"America's enemies are connoisseurs of weakness", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"and", "label":"no-unit"},
+    {"number":99, "text":"they have discovered the rusty link where a lack of principle meets personal cowardice", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":101, "text":"Why should North Korea venerate its Beloved Leader any less than Muslims venerate their Prophet?", "label":"assumption"},
+    {"number":102, "text":"If", "label":"no-unit"},
+    {"number":103, "text":"you insult Kim Jong-un", "label":"assumption"},
+    {"number":104, "text":",", "label":"no-unit"},
+    {"number":105, "text":"will he not retaliate with an email that leaves the American government hapless and sends the power players of Hollywood heading for the Beverly Hills?", "label":"assumption"}
+  ],
+  [
+    {"number":106, "text":"And who cares?", "label":"assumption"}
+  ],
+  [
+    {"number":107, "text":"There are already voices seeking to convince us that this isn't a big deal", "label":"assumption"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":"that \"The Interview\" is just a comedy and there are better movies to see Christmas Day", "label":"assumption"},
+    {"number":110, "text":"(check your local listings for time and North Korean permission)", "label":"no-unit"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"But these voices are wrong", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"This is a very big deal, another station on the road to what Flemming Rose rightly calls \"The Tyranny of Silence.\"", "label":"assumption"},
+    {"number":115, "text":"It is an important book", "label":"assumption"},
+    {"number":116, "text":".", "label":"no-unit"},
+    {"number":117, "text":"Don't expect anyone to buy the movie rights", "label":"assumption"},
+    {"number":118, "text":".", "label":"no-unit"}
+  ]
+]}

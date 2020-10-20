@@ -1,0 +1,159 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The hapless, harmless Palestinian leader?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"January 15 marks a decade since Mahmoud Abbas became the Palestinian president", "label":"anecdote"},
+    {"number":3, "text":",", "label":"no-unit"},
+    {"number":4, "text":"during which time the goals he claims to espouse not only remain unrealised, but are more remote than ever", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"He is still in office despite his term ending six years ago; the democratic process that brought him to power no longer in existence", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"He speaks of his people's human rights", "label":"assumption"},
+    {"number":9, "text":"while his Palestinian Authority actively curtails them", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"He claims to champion their national rights while collaborating unconditionally with the country that denies them", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"Abbas' image as a hapless, harmless figure deflects from the cunning and ruthlessness of someone whose primary concern, like the Middle East's other autocrats, seems to be his longevity", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"The fact that he plays ball with the West and Israel somehow makes this okay", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Where other Arab strongmen nurture an image of power to maintain it", "label":"assumption"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"he relies on being seen as an underdog", "label":"assumption"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"But this illusion, which has traditionally served Abbas well, no longer extends to his people", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Many think he and the PA serve their own interests and those of Israel, rather than those of the Palestinians", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"According to a poll last month, 55 percent believe that the PA has become \"a burden on the Palestinian people\"", "label":"statistics"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Regarding the presidency, Abbas has consistently lagged in opinion polls behind his Fatah colleague, Marwan Barghouti", "label":"statistics"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Since Israel's last Gaza invasion, he also runs behind Hamas leader Ismail Haniyeh", "label":"statistics"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"Is it mere coincidence, then, that Abbas has been lacklustre in campaigning for Barghouti's release from Israeli jail; or in pursuing and implementing national unity deals with Hamas that call for elections?", "label":"assumption"}
+  ],
+  [
+    {"number":32, "text":"Since the signing of the latest reconciliation agreement in April, Abbas has at various times threatened to end it, and has been openly adversarial towards Hamas", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"Elections that were due within six months never happened", "label":"anecdote"},
+    {"number":35, "text":",", "label":"no-unit"},
+    {"number":36, "text":"so", "label":"no-unit"},
+    {"number":37, "text":"he remains unchallenged", "label":"assumption"},
+    {"number":38, "text":"-", "label":"no-unit"},
+    {"number":39, "text":"this has gone largely unnoticed", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"The PA - which is meant to safeguard Palestinian rights- serially abuses them", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Human Rights Watch has documented \"police beatings and arbitrary arrests of demonstrators\", \"excessive force\", \"repressing critical news reporting and demonstrations\", \"suppressing dissenting views\", and \"serious rights abuses, including credible allegations of torture\"", "label":"testimony"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"for which \"no security officials were convicted\"", "label":"testimony"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"As such, the PA is not only failing to curb Israeli abuses, but is busy perpetrating its own, all under Abbas' watch", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"The PA has garnered a reputation among Palestinians for managing the occupation rather than striving to end it", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"One way it does this is \"security coordination\" with Israel", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"which Abbas described last year as \"sacred\" despite the vast majority of Palestinians opposing it", "label":"anecdote"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"Such coordination serves Israel by enabling it to subcontract its occupation, and serves the PA by helping it suppress internal dissent", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"It certainly does not benefit the Palestinian people", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Abbas and his foreign minister have made grotesque assurances that as long as he is president, he will not allow an uprising against Israel", "label":"anecdote"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"So the PA, which is supposed to be part of a national liberation struggle, is willing to put down an uprising by its own people against their subjugation", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"This is nothing short of betrayal", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"For more than 20 years, the PA has participated in a \"peace process\" that has greatly entrenched Israeli control", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Abbas himself was an architect of the disastrous Oslo Accords", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"The occupied territories are now so colonised and fragmented that a viable Palestinian state is widely considered impossible", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"Yet", "label":"no-unit"},
+    {"number":72, "text":",", "label":"no-unit"},
+    {"number":73, "text":" Abbas still wants to negotiate, despite Israel being clearly opposed to Palestinian self-determination", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":75, "text":"What, then, is the point of negotiating?", "label":"assumption"},
+    {"number":76, "text":"Perhaps to preserve the privileged elites to which the PA and the \"peace process\" gave birth", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"After all", "label":"no-unit"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":" allegations of corruption and nepotism, including Abbas and his family, are nothing new", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"With the help of international aid, the PA is the largest employer of Palestinians, much like other autocracies that encourage public dependence on the state to avoid mass unrest", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"A power imbalance alone cannot explain Abbas' policy choices regarding Israel", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"He opposes armed resistance, and has gone to great lengths to disarm militants in the West Bank", "label":"anecdote"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"However", "label":"no-unit"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":" he also opposes peaceful forms of resistance, including the increasingly effective Boycott, Divestment and Sanctions movement", "label":"anecdote"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Furthermore", "label":"no-unit"},
+    {"number":93, "text":",", "label":"no-unit"},
+    {"number":94, "text":" it took the PA more than two years since Palestine's upgraded UN status to apply to join the International Criminal Court, despite repeated threats to do so amid constant Israeli provocations", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"That Abbas finally relented may not only, or necessarily, be about losing patience with Israel, but about assuaging mounting Palestinian anger at his procrastination in applying to the ICC", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"Meanwhile, he says he will keep pushing for a UN Security Council resolution calling for a deadline to end Israel's occupation", "label":"anecdote"},
+    {"number":99, "text":",", "label":"no-unit"},
+    {"number":100, "text":"despite the certainty of repeated failure by US veto", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Abbas seems to be attempting a balancing act", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"He wants to prove to Israel, and his western and Arab backers, that he is their best Palestinian partner, safe in the knowledge that they will not accept Hamas rule, but mindful not to suffer the same fate as Yasser Arafat once he was no longer deemed useful or reliable", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"However", "label":"no-unit"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":" his recent, uncharacteristic defiance against Israel reflects a need to stop his flagging domestic popularity turning into an uprising against him and the PA", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":110, "text":"Abbas has nothing to show his people after 10 years as president, and at least another decade as part of the \"peace process\"", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"He remains in office because of, not despite, Israel's occupation and Palestinian disunity", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ]
+]}

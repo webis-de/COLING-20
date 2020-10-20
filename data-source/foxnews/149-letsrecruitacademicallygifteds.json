@@ -1,0 +1,169 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Let's recruit academically gifted students from poor neighborhoods the same way we seek out star athletes.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A recent report , according to Reuters, finds that \"more than 3,000 students at the University of North Carolina at Chapel Hill received credit for fake classes over an 18-year period as part of a program that allowed many of them to remain eligible to play sports.\"", "label":"testimony"}
+  ],
+  [
+    {"number":3, "text":"But college sports scandals, like the one at North Carolina, are missing the point", "label":"assumption"},
+    {"number":4, "text":".", "label":"no-unit"},
+    {"number":5, "text":"We should not be focusing on how the university broke the rules of college sports for almost 20 years by sending thousands of athletes to no-show classes to keep players eligible for play", "label":"assumption"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"We should not even be asking whether the University of South Carolina and several other NCAA schools should guarantee four-year, \"full cost of attendance\" scholarships", "label":"assumption"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"The real question is far more basic", "label":"assumption"},
+    {"number":10, "text":":", "label":"no-unit"},
+    {"number":11, "text":"Why do so many colleges treat their star athletes better than their star students?", "label":"assumption"}
+  ],
+  [
+    {"number":12, "text":"The comparison between how colleges treat athletes and high performing, low- income students is particularly revealing", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"Student athletes are sought out", "label":"assumption"},
+    {"number":15, "text":";", "label":"no-unit"},
+    {"number":16, "text":"once identified they are actively recruited", "label":"assumption"},
+    {"number":17, "text":";", "label":"no-unit"},
+    {"number":18, "text":"admission comes with generous scholarships", "label":"assumption"},
+    {"number":19, "text":"and", "label":"no-unit"},
+    {"number":20, "text":"once admitted students are pampered with better housing, free or subsidized food and special college counseling to help them adjust to college life", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"High performing, low-income students, in contrast, take out loans, engage in work-study programs and, once admitted, are left largely to fend for themselves", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"We simply aren't doing enough to help academically gifted students who have financial need to offset the challenges of attending college", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"First generation college goers, attending schools far away from home and family, are often quite fragile", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"As a result, the smart-but-poor struggle", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Only 59% of children from low-income households scoring in the top quartile on standardized tests go on to graduate from a 4-year college", "label":"statistics"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"while", "label":"no-unit"},
+    {"number":33, "text":"77% of children with similar scores but from wealthy families earn bachelor's degrees", "label":"statistics"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Worse, fully 17% of the top quartile of poor kids do not even apply to college", "label":"statistics"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"Recruited Tar Heel athletes have it far easier", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"Many factors contribute to this disparity", "label":"assumption"},
+    {"number":40, "text":",", "label":"no-unit"},
+    {"number":41, "text":"but", "label":"no-unit"},
+    {"number":42, "text":"one of the most significant obstacles preventing high-achieving, low-income students from attaining their full potential is they exist in isolation in high school", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"They do their part in school but are held back because they aren't identified and given support and guidance they need", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"There is no football coach or athletic counselor for these kids", "label":"assumption"},
+    {"number":47, "text":";", "label":"no-unit"},
+    {"number":48, "text":"they are on their own to develop a college selection strategy, navigate the maze of loan forms and develop a college budget", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Ironically, the way big-time college athletes are recruited offers solutions to address this problem", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"We should seek out talented students from poor backgrounds the way athletics coaches search for high school athletes", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Coaches know part of their job is to find and cultivate talent", "label":"common-ground"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"so", "label":"no-unit"},
+    {"number":57, "text":"they send scouts to take in countless high school games looking for the next Tom Brady", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Admissions counselors often visit schools in wealthy suburbs", "label":"assumption"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":"where most of the best students are college-bound anyway", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"How often do they visit schools in impoverished areas looking for the next Sonia Sotomayor?", "label":"assumption"},
+    {"number":64, "text":"What if colleges had academic scouts to scour science fairs, mathematics competitions, art shows, and school plays seeking out the super smart, highly-diligent, poor kid?", "label":"assumption"}
+  ],
+  [
+    {"number":65, "text":"Star athletes are also celebrated by their local media and ranked in nationwide publications", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"They go from small-town heroes to catching the attention of the best athletic programs in the country", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"There is nothing comparable for the smart kid", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"We are a long way from the revenge of the nerds", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"Half the high schools in this country don't even have college counselors", "label":"assumption"},
+    {"number":74, "text":";", "label":"no-unit"},
+    {"number":75, "text":"where they do exist, the quality provided is often abysmal", "label":"assumption"},
+    {"number":76, "text":"--", "label":"no-unit"},
+    {"number":77, "text":"either because the counselors have enormous caseloads or lack the resources and experience", "label":"assumption"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"For example", "label":"no-unit"},
+    {"number":80, "text":",", "label":"no-unit"},
+    {"number":81, "text":"when I was Schools Chancellor, one New York high school had a single college counselor for 2,000 students", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"Coaches also recruit by inviting potential applicants to make\"official visits\" paid for by the college", "label":"assumption"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"which can include transportation, daily meals, a room to stay in during visits, even entertainment expenses", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"For many low-income, academically-gifted students, a paid college visit, especially one catered to their academic interests, is completely out of reach", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"Until the recent initiative led by Bloomberg Philanthropies and the College Board, the application fee itself was a barrier", "label":"assumption"},
+    {"number":90, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":91, "text":"Do we really want to tell students that catching balls is more important than acing tests?", "label":"assumption"}
+  ],
+  [
+    {"number":92, "text":"Consider NFL Hall of Famer Jerry Rice, for years an undiscovered talent", "label":"anecdote"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"He excelled but failed to gain attention from the best football programs like Ohio State or Oklahoma", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"So he attended Mississippi Valley State University, where he was finally recognized and went on to have one of the best football careers of all time", "label":"anecdote"},
+    {"number":97, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":98, "text":"What if he had never picked up a ball?", "label":"assumption"},
+    {"number":99, "text":"And", "label":"no-unit"},
+    {"number":100, "text":"what if today we fail to recognize academic talent in poor neighborhoods, never developing the whiz kids?", "label":"assumption"}
+  ],
+  [
+    {"number":101, "text":"What if Albert Einstein had become an accountant or Neal DeGrasse Tyson a telephone repairman?", "label":"assumption"}
+  ],
+  [
+    {"number":102, "text":"We do not need to end sports scholarships to address this issue", "label":"assumption"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"we just need to level the playing field", "label":"assumption"},
+    {"number":105, "text":".", "label":"no-unit"},
+    {"number":106, "text":"By placing athletics ahead of academics, however", "label":"no-unit"},
+    {"number":107, "text":",", "label":"no-unit"},
+    {"number":108, "text":" many colleges are making profoundly poor choices", "label":"assumption"},
+    {"number":109, "text":".", "label":"no-unit"},
+    {"number":110, "text":"The cost to our society of unrealized academic potential is unfathomable", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":112, "text":"My organization was founded by a legendary sportsman, Jack Kent Cooke", "label":"anecdote"},
+    {"number":113, "text":",", "label":"no-unit"},
+    {"number":114, "text":"who knew there was too much untapped potential in the nation's young people", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"He left the bulk of a fortune from owning the Redskins to start the largest academic scholarship foundation in America", "label":"anecdote"},
+    {"number":117, "text":"--", "label":"no-unit"},
+    {"number":118, "text":"to find low-income, exceptional students who beat the odds", "label":"anecdote"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"A fortune built on sports is dedicated to promoting academic stars", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"},
+    {"number":122, "text":"The NCAA could learn something", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"}
+  ]
+]}

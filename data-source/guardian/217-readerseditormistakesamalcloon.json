@@ -1,0 +1,178 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"The readers' editor on... mistakes made in an article about Amal Clooney and the 'al-Jazeera three' jailed in Egypt.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The arrest and conviction of three al-Jazeera journalists in Egypt has been the subject of a worldwide campaign to secure their release", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"The men were seized from a hotel and given long jail sentences on charges of abetting terrorists, spreading false news and endangering national security", "label":"anecdote"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"On Friday 2 January 2015 the Guardian published online an interview with Amal Clooney", "label":"anecdote"},
+    {"number":7, "text":",", "label":"no-unit"},
+    {"number":8, "text":"who represents Mohamed Fahmy, one of the three jailed journalists", "label":"anecdote"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The other two are Baher Mohamed and Peter Greste", "label":"anecdote"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"The interview, which ranged over many aspects of the case, was given in the wake of the appeal hearing in Cairo on 1 January in which the three men were told they would have to face a retrial", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"},
+    {"number":14, "text":"During the course of it, Clooney revealed that a report which she co-authored had pinpointed flaws in the Egyptian judicial system that subsequently contributed to the three men's conviction", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"She told the Guardian that when the report, compiled on behalf of the International Bar Association, was due to be published \"...first of all they stopped us from doing it in Cairo", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"They said:'Does the report criticise the army, the judiciary, or the government?", "label":"testimony"},
+    {"number":19, "text":"We said: 'Well, yes", "label":"testimony"},
+    {"number":20, "text":".'", "label":"no-unit"},
+    {"number":21, "text":"They said: 'Well then", "label":"no-unit"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":" you're risking arrest", "label":"testimony"},
+    {"number":24, "text":".'\".", "label":"no-unit"}
+  ],
+  [
+    {"number":25, "text":"A story headlined:\"Egypt warns Amal Clooney she risks arrest over al-Jazeera three\" was published at 3.19pm on 2 January on the Guardian's website", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"},
+    {"number":27, "text":"The first sentence said:\"Egyptian officials have warned human rights barrister Amal Clooney that she risks arrest after identifying serious flaws in its judicial system that contributed to the conviction of three al-Jazeera journalists now jailed in Cairo.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":28, "text":"However", "label":"no-unit"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"due to an editing error in London, two key aspects of the story had been conflated", "label":"assumption"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"and", "label":"no-unit"},
+    {"number":33, "text":"both the headline and first sentence were wrong", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Clooney had not been warned that she risked arrest \"over the al-Jazeera three\"", "label":"anecdote"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"The warning about what might happen if the report was published in Egypt had been given in February 2014", "label":"anecdote"},
+    {"number":38, "text":",", "label":"no-unit"},
+    {"number":39, "text":"long before she had any involvement in the case", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"This was a significant error", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Patrick Kingsley, the Guardian's Cairo correspondent, who has reported on the case of the three journalists since they were arrested and who also conducted the interview, contacted the Guardian's foreign desk within 35 minutes of the story going up on the website to warn of the errors and amend the copy", "label":"anecdote"},
+    {"number":44, "text":".", "label":"no-unit"},
+    {"number":45, "text":"He had received complaints about the headline and the thrust of the story from Clooney", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":47, "text":"Amendments were made", "label":"anecdote"},
+    {"number":48, "text":"and", "label":"no-unit"},
+    {"number":49, "text":"the headline now ran:\"Egypt warns Amal Clooney she risked arrest\"", "label":"anecdote"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"But there was no footnote or correction published because of the short time lapse between publication and amendment", "label":"anecdote"},
+    {"number":52, "text":".", "label":"no-unit"},
+    {"number":53, "text":"While", "label":"no-unit"},
+    {"number":54, "text":"our guidelines state that errors caught within the first hour or so, which have not excited comment, do not necessarily need to be footnoted", "label":"testimony"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":"I think that on this occasion it was a mistake not to add one", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"It was a significant error", "label":"assumption"},
+    {"number":59, "text":",", "label":"no-unit"},
+    {"number":60, "text":"and", "label":"no-unit"},
+    {"number":61, "text":"one has to recognise that Clooney is a well-known figure", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"The amended version was the one used in the print edition published on Saturday 3 January", "label":"anecdote"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"At 10.05 on Sunday 4 January the story was updated, with the addition of two paragraphs from the Egyptian police denying the allegation that Clooney faced arrest", "label":"anecdote"},
+    {"number":66, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":67, "text":"Editors were still concerned that the story lacked clarity", "label":"assumption"},
+    {"number":68, "text":",", "label":"no-unit"},
+    {"number":69, "text":"and", "label":"no-unit"},
+    {"number":70, "text":"further changes were made to the first few paragraphs to make the chronology clearer, ie that the warning of possible arrest related to what might happen if the report earmarking judicial flaws was published in Egypt", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":72, "text":"These changes were made on the evening of Monday 5 January", "label":"anecdote"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"and", "label":"no-unit"},
+    {"number":75, "text":"finally a footnote was added:\"This article was amended on 4 January 2015 to include comments from the Egyptian police. It was further edited for clarity on 5 January 2015.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":76, "text":"At this stage there had still been no formal complaint to the readers' editor's office, but by 5pm editors made me aware of the problems", "label":"anecdote"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"I wrote a longer, fuller footnote", "label":"anecdote"},
+    {"number":79, "text":",", "label":"no-unit"},
+    {"number":80, "text":"and", "label":"no-unit"},
+    {"number":81, "text":"a correction was published online that evening and in print on Tuesday 6 January", "label":"anecdote"},
+    {"number":82, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":83, "text":"However", "label":"no-unit"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"what I had not initially realised was that Clooney had co-authored an article for the Huffington Post website with Mark Wassouf, who also represents Fahmy, published on Sunday 4 January", "label":"anecdote"},
+    {"number":86, "text":".", "label":"no-unit"},
+    {"number":87, "text":"In it, primarily, she set out the issues facing the three men including Fahmy, but also addressing her concerns about the Guardian story", "label":"anecdote"},
+    {"number":88, "text":".", "label":"no-unit"},
+    {"number":89, "text":"In it she raised a fresh concern of which we were unaware", "label":"anecdote"},
+    {"number":90, "text":".", "label":"no-unit"},
+    {"number":91, "text":"She described those who warned her of a possible arrest if any attempt was made to publish the report as \"experts in Egyptian affairs\"", "label":"testimony"},
+    {"number":92, "text":",", "label":"no-unit"},
+    {"number":93, "text":"whereas", "label":"no-unit"},
+    {"number":94, "text":"they were described in the text of the Guardian story as \"Egyptian officials\" and a subheading said she was \"threatened by the authorities\"", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"The Huffington Post story said:\"An article was published in the Guardian newspaper on 2 January 2015 stating that officials threatened Amal Clooney with arrest in Egypt in connection with her representation of Fahmy", "label":"testimony"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"The incident that was recounted in fact arose in early 2014", "label":"testimony"},
+    {"number":99, "text":"when", "label":"no-unit"},
+    {"number":100, "text":"the International Bar Association's Human Rights Institute (IBA) - which was organizing the launch of a report co-authored by Mrs Clooney- was warned by experts in Egyptian affairs who were consulted on the launch that she and her colleague risked arrest if they launched the report in Cairo, in light of the criticisms made in the report and recent prosecutions for 'crimes' like insulting the judiciary, government or military in Egypt", "label":"testimony"},
+    {"number":101, "text":".", "label":"no-unit"},
+    {"number":102, "text":"As a result of these warnings, the IBA decided that it was not safe to hold the launch in Cairo, and the authors were forced to hold it in London instead", "label":"testimony"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"This incident arose before Mrs Clooney's involvement in the Fahmy case, before the current president was in office and in a context entirely unrelated to this case", "label":"testimony"},
+    {"number":105, "text":"...", "label":"no-unit"},
+    {"number":106, "text":"More importantly, the focus today should not be on the risks that lawyers or journalists faced in the past", "label":"testimony"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"The focus should be on the risks of free speech in today's Egypt.\"", "label":"testimony"}
+  ],
+  [
+    {"number":109, "text":"When", "label":"no-unit"},
+    {"number":110, "text":"the Guardian asked Clooney on 5 January for more details of the individuals who gave the warning", "label":"anecdote"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":"she replied that the language she used had been reviewed by a colleague in the International Bar Association's Human Rights Institute who was involved in writing the report and organising the launch, who agreed with the description that they were \"experts in Egyptian affairs\"", "label":"testimony"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"I am not able to establish any more details about them", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"I think the Guardian believed that, in the context of the interview, the \"they\" to which Clooney refers were Egyptian officials who had given the warning", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"But we didn't confirm that before publication, and in the light of that we have made a further set of changes to the headline, subheading and text", "label":"anecdote"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":120, "text":"In my view, it is a legitimate story and a matter of public interest that there was a warning of possible arrest in relation to publishing in Egypt a report about flaws flaws in the country's judicial system that subsequently contributed to the conviction of the three men", "label":"assumption"},
+    {"number":121, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":122, "text":"The report said Egypt's judicial system was not as independent as it could be", "label":"testimony"},
+    {"number":123, "text":".", "label":"no-unit"},
+    {"number":124, "text":"It pointed out that officials in the ministry of justice have wide powers over nominally independent judges, and highlighted the control the government can exert over state prosecutors", "label":"testimony"},
+    {"number":125, "text":".", "label":"no-unit"},
+    {"number":126, "text":"There is a clear link", "label":"assumption"},
+    {"number":127, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":128, "text":"However", "label":"no-unit"},
+    {"number":129, "text":",", "label":"no-unit"},
+    {"number":130, "text":"the Guardian collectively made a number of errors by conflating two key aspects of the story, including a significantly misleading headline", "label":"assumption"},
+    {"number":131, "text":",", "label":"no-unit"},
+    {"number":132, "text":"and", "label":"no-unit"},
+    {"number":133, "text":"I apologise on behalf of the newspaper to Amal Clooney for those errors", "label":"other"},
+    {"number":134, "text":".", "label":"no-unit"}
+  ]
+]}

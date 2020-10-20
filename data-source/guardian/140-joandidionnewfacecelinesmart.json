@@ -1,0 +1,107 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Joan Didion as the new face of Celine? That's so smart.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"In dark days, the heart cleaves disproportionately to Lilliputian scraps of good news", "label":"assumption"},
+    {"number":3, "text":"and", "label":"no-unit"},
+    {"number":4, "text":"so", "label":"no-unit"},
+    {"number":5, "text":"it was that as events played out in Paris last week, I kept thinking of the writer Joan Didion, the star of Celine's latest ad campaign, tiny in black, her porcelain face half obscured by sunglasses as big and as inky as the dinner plates in the kind of restaurants frequented by Patrick Bateman in American Psycho", "label":"anecdote"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"Oh, the brilliance of Didion!", "label":"no-unit"},
+    {"number":8, "text":"I like to think of myself as wholly resistant to the wicked wiles of big fashion", "label":"anecdote"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"but", "label":"no-unit"},
+    {"number":11, "text":"this campaign seemed somehow to have got through", "label":"assumption"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"and", "label":"no-unit"},
+    {"number":14, "text":"I was all aflutter", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"What, I wondered, was the provenance of the socking great pendant that hung about her neck in Juergen Teller's photograph?", "label":"anecdote"},
+    {"number":17, "text":"Was it by Celine or was it, as they say, model's own?", "label":"assumption"},
+    {"number":18, "text":"Could I find something similar on eBay?", "label":"assumption"},
+    {"number":19, "text":"All day long, between work and news bulletins, I restlessly Googled various combinations of the words \"buy\", \"vintage\", \"bronze\", \"large\" and \"locket\"", "label":"anecdote"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"The coverage of the Paris fashion house's decision to make the author of Slouching Towards Bethlehem, The White Album and The Year of Magical Thinking its new face has focused mostly on her age", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Didion is 80", "label":"anecdote"},
+    {"number":24, "text":";", "label":"no-unit"},
+    {"number":25, "text":"when she began her career as a writer at American Vogue in the late 50s, the personnel director of the magazine's owner, Conde Nast, would from time to time stop her in the hall and ask her when she had last called her mother", "label":"anecdote"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Apparently, we should celebrate Teller's photograph of her as a particularly exalted example of fashion's increased willingness to embrace models with wrinkles, liver spots and histories that trail all the way back to the days when women still wore white gloves and little hats to work", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"At last, the thinking goes, fashion has realised that beauty may also come with silver hair", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"What?", "label":"no-unit"},
+    {"number":32, "text":"You don't buy that?", "label":"assumption"},
+    {"number":33, "text":"Well, then", "label":"no-unit"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"Think of it this way", "label":"no-unit"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"At least it seems finally to have grasped that women don't simply give up shopping the moment they turn 50", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"But it's not Didion's age that interests me", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"It's her status as a writer and thinker", "label":"anecdote"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"By choosing her- acclaimed and bestselling, but also trenchant, highly mannered and somewhat complicated - Celine's creative director, Phoebe Philo, is sending out quite a bracing message", "label":"assumption"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"even if", "label":"no-unit"},
+    {"number":46, "text":"the semaphore in which it's written will, alas, be largely illegible to those who know nothing of Didion", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"There' s something going on beyond the cunning commercial appeal to the kind of conflicted consumer who values the inner life as much as the outer ", "label":"assumption"},
+    {"number":49, "text":"-", "label":"no-unit"},
+    {"number":50, "text":"I mean the kind of woman whose \"buttery\" leather tote must be big enough to contain at least one hardback if it is not to make her feel guilty for the rest of her life", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Isn't this campaign also in the business of suggesting that to be clever and a touch difficult(Didion is nothing if not unpredictable) is to be timelessly beautiful?", "label":"assumption"},
+    {"number":53, "text":"That this is, in fact, a state to which women might like to aspire?", "label":"assumption"},
+    {"number":54, "text":"Oh, Phoebe!", "label":"no-unit"},
+    {"number":55, "text":"If only", "label":"no-unit"},
+    {"number":56, "text":"I could afford your gorgeous, minimalist gear", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"I would dash out and buy something right now just to say thank you", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"And yet how often have I chickened out?", "label":"assumption"},
+    {"number":61, "text":"How often do I try, even now, to wear pretty clothes, fun clothes, to embrace colour and print and embroidery?", "label":"assumption"},
+    {"number":62, "text":"To toddle along in shoes in which I cannot run or even, if I'm honest, walk?", "label":"assumption"},
+    {"number":63, "text":"Like most professional women who are neither beautiful nor willing to play dumb all of the time, I fear being thought ugly or uncompromising or seeming as if I have not made an effort", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"I fear, if you will, being seen to be picking a fight, whether by the way I speak or the way I dress", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"I guess you could say that I wear the swishy frock and high heels the better that I might be allowed, sometimes, to speak my mind", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"I adore the way that Didion, half child and half sphinx, thinner than a cigarette, looks", "label":"anecdote"},
+    {"number":70, "text":".", "label":"no-unit"},
+    {"number":71, "text":"But", "label":"no-unit"},
+    {"number":72, "text":"she is not, and never has been, classically beautiful", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Nor is she willing to play the fool", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"She is discreet, but never decorous", "label":"assumption"},
+    {"number":77, "text":";", "label":"no-unit"},
+    {"number":78, "text":"she is fierce, preternaturally observant and, sometimes, a little self-obsessed", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"And her clothes - unfussy, elegant, practical, a touch forbidding - reflect this", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"What Teller's photograph says to me is: approach with caution; subject may bite", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"I love the continuity in this, the wholeness, the confidence in the way that the clothes are an extension of the personality", "label":"assumption"},
+    {"number":85, "text":"- and", "label":"no-unit"},
+    {"number":86, "text":"I salute Phoebe Philo for recognising it, for extolling it to the world as worthy of admiration, as a thing to be replicated by those women who have the pluck, if not exactly the hard cash", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ]
+]}

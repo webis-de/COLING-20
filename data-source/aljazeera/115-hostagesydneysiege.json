@@ -1,0 +1,159 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Fearmongering in Sydney.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Australians turning on their televisions Monday morning to watch breakfast and cooking shows were instead greeted with news channels beaming minute-to-minute fearmongering of the ongoing siege at a chocolate shop in Sydney", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"When customers and employees were taken hostage by a lone gunman", "label":"anecdote"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"and", "label":"no-unit"},
+    {"number":7, "text":"a flag with\"There is only one God\" inscription in Arabic was held in the window", "label":"anecdote"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"it was enough to hold the rest of the country hostage to their fears and TV screens", "label":"assumption"},
+    {"number":10, "text":".", "label":"no-unit"},
+    {"number":11, "text":"Should it be that way and", "label":"no-unit"},
+    {"number":12, "text":"what should an appropriate response look like?", "label":"assumption"}
+  ],
+  [
+    {"number":13, "text":"First", "label":"no-unit"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":" consider what this violent thug had designed our reaction to be", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"The site of the siege was likely no afterthought - located in the heart of the Sydney CBD and directly opposite a major television station, the shop had made it ideal for the media to report on", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"Streets were cordoned off", "label":"anecdote"},
+    {"number":20, "text":",", "label":"no-unit"},
+    {"number":21, "text":"public transport diverted", "label":"anecdote"},
+    {"number":22, "text":",", "label":"no-unit"},
+    {"number":23, "text":"and", "label":"no-unit"},
+    {"number":24, "text":"a strong contingent of police sent to the Opera House", "label":"anecdote"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"All made for good visuals of the incident and terror in an otherwise peaceful city", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"Even the most left-leaning and progressive members of parliament, like Greens MP Adam Bandt, who have repeatedly defended the Muslim community from unjust discrimination and generalisation, tweeted to their followers in the first hours of the siege that it was \"terrifying\"", "label":"anecdote"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Was it really?", "label":"assumption"},
+    {"number":31, "text":"Was it at all terrifying for you personally, Adam?", "label":"anecdote"},
+    {"number":32, "text":"If", "label":"no-unit"},
+    {"number":33, "text":"it was", "label":"assumption"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"I'd hate to know what the hostages experienced, including the two who were murdered", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"A strike in the public's dark", "label":"no-unit"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"For once, Prime Minister Tony Abbott had a more mature response than his colleagues on the opposite side", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"Such a situation can \"scare people out of being themselves\", he said in his first press briefing, before urging all Australians to go about their business as usual", "label":"testimony"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"Although he told the public to remain vigilant and report any suspicious activity to the authorities", "label":"anecdote"},
+    {"number":44, "text":",", "label":"no-unit"},
+    {"number":45, "text":"he said so with calm and caution", "label":"anecdote"},
+    {"number":46, "text":".", "label":"no-unit"},
+    {"number":47, "text":"Vitally, he avoided using the t-word at this early stage, or any formulation thereof", "label":"anecdote"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"No doubt we have since learnt a lot more about this deranged outsider and his motives", "label":"assumption"},
+    {"number":50, "text":",", "label":"no-unit"},
+    {"number":51, "text":"and", "label":"no-unit"},
+    {"number":52, "text":"it is clear he had terrorist intent", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"His website, which was shut down during the final hours of the siege, had a message dated December 14, which described why Muslims \"fight against the oppression and terrorism\" of the US and its allies, including the UK and Australia", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"The rampant speculation before this was unnecessary and unhelpful, however", "label":"assumption"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":"and", "label":"no-unit"},
+    {"number":59, "text":"letting the siege sow fear, enough so to publicly describe it as \"terrifying\", was handing a victory to an extremist", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"With the hot Australian summer setting in, many people's minds turn to beer, barbeques, family, and Christmas presents, not the possibility of \"politically motivated violence\", as Abbott wisely phrased it", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Intriguingly, Australians fear terrorism more than a foreign invasion, despite many believing we'd have no hope of fending off the latter and despite us never directly experiencing the former", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Given the opportunity", "label":"no-unit"},
+    {"number":66, "text":"to attribute a complexly motivated act to terrorism", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":"it's no wonder this all-too-easy escape mechanism which avoids rigorous thought or objective analysis was adopted en masse", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"The most noted incidents in Australia's experience of terrorism have been mostly foreign tragedies, like the Bali bombings in 2002 and 2005, or the 2004 Australian embassy bombing in Jakarta", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"Although the September raids and arrests of suspected domestic terrorists in Sydney and Brisbane set a new landscape and brought the thought of an attack to our own shores", "label":"anecdote"},
+    {"number":73, "text":",", "label":"no-unit"},
+    {"number":74, "text":"they merely raised the thought, not the authentic actuality", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"The raids sparked limited local backlash against peaceful Muslims at the time", "label":"anecdote"},
+    {"number":77, "text":",", "label":"no-unit"},
+    {"number":78, "text":"and", "label":"no-unit"},
+    {"number":79, "text":"this was both unwarranted and unwanted", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"},
+    {"number":81, "text":"Though it only goes to further support my thesis", "label":"assumption"},
+    {"number":82, "text":";", "label":"no-unit"},
+    {"number":83, "text":"Australians just aren't used to this sort of thing and thus are unpractised in their response", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"That said", "label":"no-unit"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"it hasn't stopped thousands on social media to show solidarity with minorities through the #IllRideWithYou campaign", "label":"assumption"},
+    {"number":88, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":89, "text":"When", "label":"no-unit"},
+    {"number":90, "text":"the Abbott government raised the domestic terrorism threat level to high before the September raids", "label":"anecdote"},
+    {"number":91, "text":",", "label":"no-unit"},
+    {"number":92, "text":"many local commentators criticised what they branded as political theatre (both before and after the arrests)", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"To consider this is to suggest an even baser type of political animal than is presently expected by even the most cynical of observers", "label":"assumption"},
+    {"number":95, "text":".", "label":"no-unit"},
+    {"number":96, "text":"Would any rational actor toy with people's lives for short-term political ends in what was an unimportant political week?", "label":"assumption"},
+    {"number":97, "text":"What end does that even achieve?", "label":"assumption"},
+    {"number":98, "text":"Plainly, none, and it is sensationally conspiratorialist to suggest otherwise", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"To protest against such raids and continue looking at them through a political lens was just as unwarranted and unwanted as the racial-profiling and racial- hatred which events like these have sparked", "label":"assumption"},
+    {"number":101, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":102, "text":"Terrorism isn't something that we should let foster, anywhere", "label":"common-ground"},
+    {"number":103, "text":",", "label":"no-unit"},
+    {"number":104, "text":"and", "label":"no-unit"},
+    {"number":105, "text":"the public reactions to the raids were unjustifiably sceptical in comparison to the response to the Sydney siege", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":107, "text":"Even so", "label":"no-unit"},
+    {"number":108, "text":",", "label":"no-unit"},
+    {"number":109, "text":" the authorities' heed for caution may have come too late for some", "label":"assumption"},
+    {"number":110, "text":".", "label":"no-unit"},
+    {"number":111, "text":"Slipshod media reports that the flag held in the shop window was an ISIL flag - when it was not- may have already fuelled the imaginations of too many", "label":"assumption"},
+    {"number":112, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":113, "text":"Whatever", "label":"no-unit"},
+    {"number":114, "text":"the outcome of the full investigation, one thing remains clear", "label":"assumption"},
+    {"number":115, "text":":", "label":"no-unit"},
+    {"number":116, "text":"This was a tragic learning experience for the Australian media, public, and politicians", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"},
+    {"number":118, "text":"Keep calm and carry on, though pay a thought or two to how we ought to respond to events like these in the future", "label":"no-unit"},
+    {"number":119, "text":".", "label":"no-unit"}
+  ]
+]}

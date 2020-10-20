@@ -1,0 +1,141 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Obama in the 'Fourth Quarter': President goes on offense, looks to legacy.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"U.S  President Barack Obama departs at the conclusion of his end of the year press conference in the briefing room of the White House in Washington, December 19, 2014", "label":"other"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Obama and his family plan to depart Washington later in the day to spend the holidays in Hawaii", "label":"other"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"REUTERS/Kevin Lamarque (UNITED STATES - Tags: POLITICS) - RTR4IQRC", "label":"no-unit"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"U.S  President Barack Obama speaks on the phone with Jordan's King Abdullah at the Oval Office of the White House in Washington, August 8, 2014", "label":"other"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"REUTERS/Larry Downing (UNITED STATES - Tags: POLITICS) - RTR41Q8N", "label":"no-unit"},
+    {"number":11, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":12, "text":"Editor's note: The following article originally appeared in The Hill and on TheHill.com website", "label":"anecdote"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Dan Pfeiffer's office is next to the Oval Office", "label":"anecdote"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"The cheek-by-jowl location reflects the importance of his job as senior adviser guiding President Obama's image and message going into his final two years in the White House", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"At the moment, the president and Pfeiffer are on a hot streak", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Polls show Obama's approval numbers climbing", "label":"anecdote"},
+    {"number":21, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":22, "text":"\"It's an 18-point gap [better than] Bush and the same as Reagan's,\" Pfeiffer said, comparing Obama's current approval rating to that of President George W  Bush and President Reagan at the equivalent point in their second terms", "label":"testimony"},
+    {"number":23, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":24, "text":"Strong public support is central to the president's strategy of keeping the loyalty of Senate Democrats", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"If", "label":"no-unit"},
+    {"number":27, "text":"large numbers of Democrats in Congress run away from a president with bad poll numbers", "label":"assumption"},
+    {"number":28, "text":",", "label":"no-unit"},
+    {"number":29, "text":"Republicans can put the president on the defensive for the remainder of his time in office", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":31, "text":"Major defections by Senate Democrats will also allow the Republican majority in the Senate to stop filibusters and potentially override Obama's vetoes", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"},
+    {"number":33, "text":"The issues at stake range from construction of the Keystone XL pipeline to efforts to change and repeal Obamacare, as well as undo immigration reform, financial regulation, the opening of new relations with Cuba and new limits on greenhouse gases", "label":"assumption"},
+    {"number":34, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":35, "text":"Pfeiffer does not see any issue where Republicans can expect to undo a presidential veto: \"Not one,\" he emphasized", "label":"testimony"},
+    {"number":36, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":37, "text":"The Keystone XL pipeline is the one instance in which Pfeiffer acknowledges that veto may have to be used in the first place", "label":"anecdote"},
+    {"number":38, "text":".", "label":"no-unit"},
+    {"number":39, "text":"But he does not expect such a move to hurt the president's revival in the polls", "label":"assumption"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"It is an issue, Pfeiffer argued, often cited by Republicans who don't like the president anyway", "label":"testimony"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"But", "label":"no-unit"},
+    {"number":44, "text":"most \"people don't have super-strong feelings about it,\" he said", "label":"testimony"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"\"They are not energized about it, especially at a time of low gas prices.[Polls show] people generally prefer it but this is not a huge issue in their lives.\"", "label":"testimony"}
+  ],
+  [
+    {"number":47, "text":"Pfeiffer also expects constant fights with Republicans on Capitol Hill over the Environmental Protection Agency's use of the Clean Air Act to better regulate greenhouse gas emissions", "label":"testimony"},
+    {"number":48, "text":".", "label":"no-unit"},
+    {"number":49, "text":"\"The Republican policy is wrong,\" he said.\"I feel good about our chances [because] people feel strongly about clean air and clean water.\"", "label":"testimony"}
+  ],
+  [
+    {"number":50, "text":"With his current good poll numbers, the president is able to go on a political offensive despite taking a beating in last fall's midterms and ceding control of the Senate, as well as the House, to Republicans", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Pfeiffer ties the president's rising popularity to the success of his economic policies but also to the Republican Party's difficulties with any voter not in the Koch brothers' tax bracket", "label":"testimony"},
+    {"number":53, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":54, "text":"\"The GOP has huge trouble on cultural affinity,\" said Pfeiffer", "label":"testimony"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"\"Republican tax policies, opposition to regulating pollution, their effort to repeal Dodd- Frank - it all favors the rich... We need to engage them on all that.\"", "label":"testimony"}
+  ],
+  [
+    {"number":57, "text":"\"Engage them\" is the idea at the heart of the president's plan for his last two years", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"},
+    {"number":59, "text":"The GOP is on defense", "label":"assumption"},
+    {"number":60, "text":"as", "label":"no-unit"},
+    {"number":61, "text":"it responds to proposals increasing access to community college as well as increased tax breaks for families in need of childcare and with two working spouses", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":63, "text":"Pfeiffer starts looking around his office for a card recently given to senior staff that reminds them they are in \"the Fourth Quarter.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":64, "text":"The quote comes from Obama", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"Pfeiffer tells the story of the president looking at Green Bay Packers' player Randall Cobb during a rally in Wisconsin and making the case that fourth quarter football is\"when big things happen.\"", "label":"anecdote"}
+  ],
+  [
+    {"number":67, "text":"In a moment of off-script pique during last week's State of the Union address, the president reminded Republicans he cannot run for election again because he already beat them in two presidential elections", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"That confidence leads him to conclude that losing control of the Senate in the midterms is only a momentary set back in the big picture -- the total game and the legacy of the Obama presidency", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"As", "label":"no-unit"},
+    {"number":72, "text":"Pfeiffer told the New York Times in advance of the State of the Union speech, the nation's economic resurgence under President Obama creates \"a Chicken Little problem [for Republicans]-- all the doom and gloom they predicted did not come to pass.\"", "label":"testimony"}
+  ],
+  [
+    {"number":73, "text":"The president crowed about \"good news, people\" in the State of the Union speech", "label":"assumption"},
+    {"number":74, "text":":", "label":"no-unit"},
+    {"number":75, "text":"He listed 11 million jobs created by American business in the last five years; more people with health insurance; cuts in the deficit; record stock prices; higher high school graduation rates and lower gas prices, as evidence of his success", "label":"anecdote"},
+    {"number":76, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":77, "text":"\"At every step, we were told our goals were misguided or too ambitious; that we would crush jobs and explode deficits,\" the president said", "label":"testimony"},
+    {"number":78, "text":".", "label":"no-unit"},
+    {"number":79, "text":"\".... So the verdict is clear. Middle class economics works... and these polices will continue to work as long as politics don't get in the way.\"", "label":"testimony"}
+  ],
+  [
+    {"number":80, "text":"Pfeiffer and other top administration officials think they can further improve their poll numbers by getting Republicans to debate the president's new proposals for increasing wages for working Americans", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"Good news in foreign policy is also possible", "label":"assumption"},
+    {"number":83, "text":"but", "label":"no-unit"},
+    {"number":84, "text":",", "label":"no-unit"},
+    {"number":85, "text":"unlike most second-term presidents, Obama is not abandoning the domestic agenda", "label":"assumption"},
+    {"number":86, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":87, "text":"Obama's poll numbers will not decide the 2016 race for the White House, Pfeiffer said, because the \"biggest factor is the popularity of the nominee.\"", "label":"testimony"},
+    {"number":88, "text":"But good polls will prevent Democrats from\"distancing\" themselves from Hillary Clinton, Sen  Elizabeth Warren (D-Mass.) or another other nominee, and lead to better turnout", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"That is also part of the Obama team's fourth quarter plan to end the game as winners", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ]
+]}

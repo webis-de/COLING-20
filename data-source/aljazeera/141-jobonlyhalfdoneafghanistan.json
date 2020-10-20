@@ -1,0 +1,162 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Our unkept promise to Afghan women.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"As international leaders gathered in London this week to discuss Afghanistan, we once again heard familiar proclamations of support for Afghanistan and renewed commitments towards its people, particularly women and girls", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"International partners promised to continue to assist Afghanistan through its \"transformation decade\", but also underlined that as NATO completes it military mission, they also expect the country to stand on its own feet", "label":"assumption"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"This message has its merits", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"International donors have been generous in giving billions in foreign aid to Afghanistan", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Countless lives - foreigners and Afghans - have been lost in the violence", "label":"common-ground"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"As the military transition completes, Afghanistan is also ushering in a new government, headed by President Ashraf Ghani", "label":"anecdote"},
+    {"number":13, "text":",", "label":"no-unit"},
+    {"number":14, "text":"who has visionary ambitions for his country, and has made firm commitments to support and empower women and girls", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"},
+    {"number":16, "text":"As a regular visitor to the war-torn country, I, too, believe that Afghans possess the ingenuity, resilience and desire to transform from poverty to prosperity", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"There have been remarkable, often unacknowledged, gains in Afghanistan", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"For years, as the Taliban ruled, Afghanistan was the world's forgotten country", "label":"assumption"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"Human rights abuses were endemic", "label":"assumption"},
+    {"number":23, "text":"and", "label":"no-unit"},
+    {"number":24, "text":"the population shrank", "label":"assumption"},
+    {"number":25, "text":"as", "label":"no-unit"},
+    {"number":26, "text":"millions poured over the borders to Iran and Pakistan as refugees", "label":"anecdote"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"Women were kept from schools and employment and forced into early marriages", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"Today, many of those refugees have returned home", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"Millions of girls are in school", "label":"assumption"},
+    {"number":33, "text":"and", "label":"no-unit"},
+    {"number":34, "text":"record numbers of women are pursuing higher education", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"There are accomplished female political leaders, policewomen, judges", "label":"assumption"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"and", "label":"no-unit"},
+    {"number":39, "text":"for the first time in its young democracy, Afghanistan has a high-profile and active First Lady, Rula Ghani, championing the rights of Afghanistan's internally displaced", "label":"anecdote"},
+    {"number":40, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":41, "text":"Unfinished business", "label":"no-unit"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"But", "label":"no-unit"},
+    {"number":44, "text":"as we acknowledge progress, we must also accept we have unfinished business in Afghanistan", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"There is no quick fix for the devastation of 40 years of war", "label":"common-ground"},
+    {"number":47, "text":",", "label":"no-unit"},
+    {"number":48, "text":"and", "label":"no-unit"},
+    {"number":49, "text":"the Afghan people are still struggling", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"},
+    {"number":51, "text":"As foreign troops prepare to leave", "label":"assumption"},
+    {"number":52, "text":",", "label":"no-unit"},
+    {"number":53, "text":"my organisation, the Norwegian Refugee Council, is expanding its humanitarian programmes to assist growing numbers of internally displaced persons", "label":"assumption"},
+    {"number":54, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":55, "text":"In 2014 alone, 120,000 Afghans have fled their homes and communities because of violence", "label":"statistics"},
+    {"number":56, "text":".", "label":"no-unit"},
+    {"number":57, "text":"These displaced Afghans, often in need of urgent assistance, typically flock to Kabul and other cities where they believe support will be available for them", "label":"assumption"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Yet", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":" walk around the overcrowded, ramshackle dwellings, as I did late last year", "label":"no-unit"},
+    {"number":62, "text":",", "label":"no-unit"},
+    {"number":63, "text":"and", "label":"no-unit"},
+    {"number":64, "text":"it is clear to see that their needs are not being met", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"On the contrary", "label":"no-unit"},
+    {"number":67, "text":",", "label":"no-unit"},
+    {"number":68, "text":" they are growing, with women almost always suffering the most", "label":"assumption"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"Afghan women I met told me how their priority is to find a safe place to live in a land still beleaguered by violence", "label":"anecdote"},
+    {"number":71, "text":".", "label":"no-unit"},
+    {"number":72, "text":"They spoke of the enormous challenges they faced for members of their families to find jobs or earn an adequate income in a country where more than a third already live under the poverty line", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"Many shared with me the worries they have about being able to put food on the table for their families", "label":"anecdote"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"a concern all the more alarming given that 1.2 million of the country's children presently suffer from malnutrition", "label":"statistics"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Women without the support of male family members; those widowed, abandoned, who have escaped abuse or care for a disabled husband, are particularly vulnerable", "label":"common-ground"},
+    {"number":79, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":80, "text":"As", "label":"no-unit"},
+    {"number":81, "text":"there can be no quick fix for war", "label":"common-ground"},
+    {"number":82, "text":",", "label":"no-unit"},
+    {"number":83, "text":"there is no easy solution for decades of women's rights abuses", "label":"common-ground"},
+    {"number":84, "text":".", "label":"no-unit"},
+    {"number":85, "text":"Women are much more likely to be more disadvantaged than their husband or brother", "label":"assumption"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"and", "label":"no-unit"},
+    {"number":88, "text":"many face extreme poverty, physical and psychological violence, illiteracy and discrimination in all facets of life", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"There are still deeply entrenched social stigmas towards women working or pursuing education", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"Unaware of rights", "label":"no-unit"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":94, "text":"Many Afghan women are not aware of their rights", "label":"assumption"},
+    {"number":95, "text":"and", "label":"no-unit"},
+    {"number":96, "text":"their voices are too rarely heard", "label":"assumption"},
+    {"number":97, "text":".", "label":"no-unit"},
+    {"number":98, "text":"I am proud that the Norwegian Refugee Council works directly with thousands of women at a community level to educate them about their legal rights, and help them navigate systems and processes that still too often discriminate against them", "label":"anecdote"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"And yet", "label":"no-unit"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":" despite these needs, despite the tenuous gains in women's rights, international humanitarian support to help Afghanistan is actually declining", "label":"assumption"},
+    {"number":103, "text":".", "label":"no-unit"},
+    {"number":104, "text":"In 2014, the UN lowered its humanitarian appeal by 14 percent, in recognition that donors would not provide adequate funding for a larger appeal", "label":"anecdote"},
+    {"number":105, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":106, "text":"The US - by far the largest donor - halved its development aid in 2014", "label":"anecdote"},
+    {"number":107, "text":".", "label":"no-unit"},
+    {"number":108, "text":"In August, the World Food Programme announced that a $40m funding shortfall meant that they were forced to cut food rations", "label":"anecdote"},
+    {"number":109, "text":",", "label":"no-unit"},
+    {"number":110, "text":"meaning food shortages are likely to grow", "label":"assumption"},
+    {"number":111, "text":".", "label":"no-unit"},
+    {"number":112, "text":"We hear all too often that girls' schools are facing closure because of lack of future funding", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"In many respects, the realities in Afghanistan today have been an uneasy backdrop to the London Conference", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"While", "label":"no-unit"},
+    {"number":117, "text":"international partners have again committed to support Afghanistan", "label":"assumption"},
+    {"number":118, "text":",", "label":"no-unit"},
+    {"number":119, "text":"this must be matched with donors making real, long-term contributions", "label":"assumption"},
+    {"number":120, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":121, "text":"For Afghanistan to be the country of prosperity, freedom and safety we want it to be, and with full support for women's rights, international governments must produce a set of genuine commitments and pledges, including addressing the most pressing humanitarian needs", "label":"assumption"},
+    {"number":122, "text":".", "label":"no-unit"},
+    {"number":123, "text":"Ordinary Afghans, women in particular, must be reassured that \"transformation\" doesn't equate to a reduction in the world's interest or concern for their lives", "label":"assumption"},
+    {"number":124, "text":".", "label":"no-unit"},
+    {"number":125, "text":"We have no excuses", "label":"assumption"},
+    {"number":126, "text":":", "label":"no-unit"},
+    {"number":127, "text":"We know what needs to be done", "label":"assumption"},
+    {"number":128, "text":".", "label":"no-unit"}
+  ]
+]}

@@ -1,0 +1,221 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Lebanon has just done the unthinkable.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Lebanon has just done the apparently unthinkable and placed visa control on the entry of Syrians into the country", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Before, the situation was effectively a free flow that had resulted in Syrians, mostly refugees, amounting today to 20 percent of the population on Lebanese soil", "label":"statistics"},
+    {"number":5, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":6, "text":"Imagine 12 million French in the UK today", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"The Lebanese government has assured international agencies that it will still permit and facilitate humanitarian cases", "label":"testimony"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"but", "label":"no-unit"},
+    {"number":11, "text":"the step is a telling one", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":13, "text":"The real story behind this is the annihilation of borders from Baghdad to Beirut", "label":"assumption"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"ISIL is one stark and ugly manifestation of that reality but so are the refugees, a tragic event that has also affected Turkey and Jordan", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"This zone that once facilitated trade is now closer to scenes from Road Warrior - or the sad march of the displaced", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":19, "text":"The disintegration of Sykes Picot has blurred nation-states", "label":"assumption"},
+    {"number":20, "text":"as", "label":"no-unit"},
+    {"number":21, "text":"cross border allegiances fight it out on a series of fronts and through a myriad of forces from Jubhat al-Nusra, Shia militias, Peshmergas, to the Lebanese Armed forces to the now infamous ISIL", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"Borders don't seem to mean much in this Middle East", "label":"assumption"},
+    {"number":24, "text":",", "label":"no-unit"},
+    {"number":25, "text":"if", "label":"no-unit"},
+    {"number":26, "text":"they ever did", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"The refugees are the terrible consequence and victims of these conflicts that plague this area", "label":"common-ground"},
+    {"number":29, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":30, "text":"The best response to them is not visas but a proper joint response by the Lebanese government assisted by international insititutions", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"The reality however is that the former is incapable", "label":"assumption"},
+    {"number":33, "text":",", "label":"no-unit"},
+    {"number":34, "text":"and", "label":"no-unit"},
+    {"number":35, "text":"the latter insufficiently funded to deal with such a massive influx", "label":"assumption"},
+    {"number":36, "text":".", "label":"no-unit"},
+    {"number":37, "text":"As a result, many refugees are living in terrible conditions", "label":"assumption"},
+    {"number":38, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":39, "text":"The other harsh reality is that the Lebanese government has said that this will not affect Syrian \"visitors\" to Lebanon", "label":"testimony"},
+    {"number":40, "text":".", "label":"no-unit"},
+    {"number":41, "text":"There are six classes of visitors in the new system", "label":"assumption"},
+    {"number":42, "text":"and", "label":"no-unit"},
+    {"number":43, "text":"the Syrian middle class and rich are unlikley to be affected", "label":"assumption"},
+    {"number":44, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":45, "text":"Walid Jumblatt stated that his country should differentiate between \"refugees who are fleeing death and destruction in Syria after they lost their homes,\" and those who intend to be politically active", "label":"testimony"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"but", "label":"no-unit"},
+    {"number":48, "text":"the reality is that the poorest will be most affected", "label":"assumption"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Indeed", "label":"no-unit"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":" it's a large question mark whether Lebanon has the capacity to even implement the measure it has just taken", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"The Syrian presence in Lebanon is so pervasive it may well be impossible to manage the situation, except to manage some future inflow", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Furthermore", "label":"no-unit"},
+    {"number":57, "text":",", "label":"no-unit"},
+    {"number":58, "text":" the idea of Lebanon, a country barely treading water, being able to manage such a problem is unrealistic", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":60, "text":"Only a regional and international effort of significance can manage such a scale", "label":"assumption"},
+    {"number":61, "text":",", "label":"no-unit"},
+    {"number":62, "text":"and", "label":"no-unit"},
+    {"number":63, "text":"regional powers are busy carving their fiefdoms and creating the very problem rather than solving it", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":65, "text":"The plight of the refugees is key", "label":"assumption"},
+    {"number":66, "text":"but", "label":"no-unit"},
+    {"number":67, "text":"it is also important to perceive this event from the perspective of the host country; a small nation with very poor governance and infrastructure in the midst of regional turmoil", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"In a way, this is Lebanon's very small response to the erosion of Sykes Picot", "label":"assumption"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"Syrians are indeed everywhere in Lebanon", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"In Beirut, and in every village and town one visits", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"Flights from Beirut to Europe are one-third to half full of Syrians", "label":"assumption"},
+    {"number":76, "text":".", "label":"no-unit"},
+    {"number":77, "text":"Indeed", "label":"no-unit"},
+    {"number":78, "text":",", "label":"no-unit"},
+    {"number":79, "text":" given this massive presence and Lebanon's already poor infrastructure and socio-economic state, it is an achievement that the Syrian crisis has not led to further deterioration in the country", "label":"assumption"},
+    {"number":80, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":81, "text":"The relations in Lebanon between the two peoples, despite some racism and ugly incidents, could have been far worse", "label":"assumption"},
+    {"number":82, "text":".", "label":"no-unit"},
+    {"number":83, "text":"Until now, Lebanese hosting of the refugees is characterised by neither generosity nor enmity, but by a passive acceptance of fate", "label":"assumption"},
+    {"number":84, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":85, "text":"This is partially driven by the fact that Syrians are culturally and linguistically akin", "label":"assumption"},
+    {"number":86, "text":",", "label":"no-unit"},
+    {"number":87, "text":"and", "label":"no-unit"},
+    {"number":88, "text":"some sectors of the Lebanese economy, e.g  construction, remain highly dependent on Syrian workers", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"How this will square with the new visa rules is unknown", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":92, "text":"More importantly, this step can be seen as part of a series of recent indirect actions that attempt to strengthen the Lebanese state, or at least make the pretense of doing so", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"},
+    {"number":94, "text":"Minister of Health Abu Faour has been on an intense and mediatic campaign to clean up the food industry in Lebanon, cracking down restaurants, slaughterhouses, and airport storage sites", "label":"anecdote"},
+    {"number":95, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":96, "text":"Despite complaints, this clean up, if it lasts, is a welcome step for Lebanese", "label":"assumption"},
+    {"number":97, "text":";", "label":"no-unit"},
+    {"number":98, "text":"it is national, potentially affects everyone positively, and is an act of government", "label":"assumption"},
+    {"number":99, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":100, "text":"Second", "label":"no-unit"},
+    {"number":101, "text":",", "label":"no-unit"},
+    {"number":102, "text":" in an echo of the Nahr el-Bared campaign, the Lebanese army is taking responsibility in the Northern Bekaa and Hermel areas against the radical groups", "label":"anecdote"},
+    {"number":103, "text":"who are effectively fighting the Syrian war on Lebanese soil", "label":"assumption"},
+    {"number":104, "text":".", "label":"no-unit"},
+    {"number":105, "text":"Pride in the Lebanese army is rising", "label":"assumption"},
+    {"number":106, "text":".", "label":"no-unit"},
+    {"number":107, "text":"There are also rumours that the Lebanese government will also take on the murderous Indie-500 speeders on Lebanse highways in the spring", "label":"assumption"},
+    {"number":108, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":109, "text":"If", "label":"no-unit"},
+    {"number":110, "text":"this does occur in addition to bold step of visas for Syrians", "label":"assumption"},
+    {"number":111, "text":",", "label":"no-unit"},
+    {"number":112, "text":"a move that would have been unheard of when Lebanon was effectively a vassal state of Damascus, then indeed Lebanon could see the bare beginnings of emerging out of chaos through these small attempts", "label":"assumption"},
+    {"number":113, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":114, "text":"The political realities in Lebanon are of course more complicated and illusory than this", "label":"assumption"},
+    {"number":115, "text":".", "label":"no-unit"},
+    {"number":116, "text":"Many only see in all of the above feeble attempts to deflect from the reality of a total political vaccuum", "label":"assumption"},
+    {"number":117, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":118, "text":"Indeed", "label":"no-unit"},
+    {"number":119, "text":",", "label":"no-unit"},
+    {"number":120, "text":"the Lebanese visa step is obviously not humanitarian", "label":"assumption"},
+    {"number":121, "text":",", "label":"no-unit"},
+    {"number":122, "text":"it is a self- interested attempt to stem the tide, put a thumb in the dyke, and avoid the emergent chaos in the Middle East", "label":"assumption"},
+    {"number":123, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":124, "text":"It would be better if", "label":"no-unit"},
+    {"number":125, "text":"the Lebanese had the magnamity, or much more importantly, the capacity", "label":"assumption"},
+    {"number":126, "text":",", "label":"no-unit"},
+    {"number":127, "text":"to continue simply receiving all Syrians", "label":"assumption"},
+    {"number":128, "text":",", "label":"no-unit"},
+    {"number":129, "text":"but", "label":"no-unit"},
+    {"number":130, "text":"they are barely running their own country", "label":"assumption"},
+    {"number":131, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":132, "text":"Compassion requires an orderly method and capacities in order to be effectively pursued", "label":"assumption"},
+    {"number":133, "text":",", "label":"no-unit"},
+    {"number":134, "text":"i.e", "label":"no-unit"},
+    {"number":135, "text":"the Lebanese need a functioning state of their own to handle such a crisis properly", "label":"common-ground"},
+    {"number":136, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":137, "text":"Indeed", "label":"no-unit"},
+    {"number":138, "text":",", "label":"no-unit"},
+    {"number":139, "text":" Lebanon has mostly escaped the wars next door not out of wisdom or discipline, or any energetic international diplomacy, but because the memories of that conflict are still vivid in the minds of Lebanese adults", "label":"assumption"},
+    {"number":140, "text":".", "label":"no-unit"},
+    {"number":141, "text":"No one will go to war", "label":"assumption"},
+    {"number":142, "text":"because they remember what war costs", "label":"assumption"},
+    {"number":143, "text":",", "label":"no-unit"},
+    {"number":144, "text":"and", "label":"no-unit"},
+    {"number":145, "text":"because they know how little they derived from the devastation", "label":"assumption"},
+    {"number":146, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":147, "text":"The result of 15 years of fighting was that the state was further weakened in favour of sectarianism, cronyism and corruption", "label":"assumption"},
+    {"number":148, "text":",", "label":"no-unit"},
+    {"number":149, "text":"while the Lebanese kept on doing what they do best, make money and enjoy life, living for today and certainly not tomorrow", "label":"assumption"},
+    {"number":150, "text":".", "label":"no-unit"},
+    {"number":151, "text":"Meanwhile, social and environmental erosion make the country less and less livable by the day", "label":"assumption"},
+    {"number":152, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":153, "text":"The recent steps however, triggered by political challenges and health risks, signal some early and feeble attempts at a return of the state, or at the very least preserving the semblance of the old order, the shadow of a nation-state, amidst the dark fluidity and chaos surging from there to Kurdistan", "label":"assumption"},
+    {"number":154, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":155, "text":"It took the Lebanese 40 years and external pressures to begin to think about getting their house in order", "label":"assumption"},
+    {"number":156, "text":",", "label":"no-unit"},
+    {"number":157, "text":"if", "label":"no-unit"},
+    {"number":158, "text":"that is indeed what is happening today", "label":"assumption"},
+    {"number":159, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":160, "text":"Hopefully, it won't take their neighbours that long to start to address the necessary basics of life", "label":"assumption"},
+    {"number":161, "text":".", "label":"no-unit"}
+  ]
+]}

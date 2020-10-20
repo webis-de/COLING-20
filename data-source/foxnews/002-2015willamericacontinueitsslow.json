@@ -1,0 +1,121 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"2015: Will America continue its slow march toward destruction of liberty?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"A British author, residing in the United States for the past 30 years, created a small firestorm earlier this week with his candid observations that modern- day Americans have been duped by the government into accepting a European- style march toward socialism", "label":"anecdote"},
+    {"number":3, "text":"because we fail to appreciate the rich legacy of personal liberty that is everyone's birthright and is expressly articulated in the Declaration of Independence and guaranteed by the U.S  Constitution", "label":"testimony"},
+    {"number":4, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":5, "text":"Os Guinness, the author of more than a dozen books defending traditional Judeo-Christian values and Jeffersonian personal liberty, argued that we should embrace individual liberty and personal dignity and reject the \"no givens, no rules, no limits\" government we now have", "label":"testimony"},
+    {"number":6, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":7, "text":"He went on to opine that the government today is not the constitutionally restrained protector of personal freedoms the Framers left us", "label":"testimony"},
+    {"number":8, "text":",", "label":"no-unit"},
+    {"number":9, "text":"but rather has become the wealth-distributing protector of collective interests the Founding Fathers never could have imagined", "label":"testimony"},
+    {"number":10, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":11, "text":"Yet the problem is a deep one", "label":"assumption"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"The Framers believed in the presumption of liberty", "label":"common-ground"},
+    {"number":14, "text":",", "label":"no-unit"},
+    {"number":15, "text":"which declares that we are free to make personal choices, and the government cannot interfere with our liberties unless we violate the rights of others", "label":"common-ground"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"Stated differently", "label":"no-unit"},
+    {"number":18, "text":",", "label":"no-unit"},
+    {"number":19, "text":"the federal government cannot interfere with our personal choices by writing any law it wants", "label":"assumption"},
+    {"number":20, "text":";", "label":"no-unit"},
+    {"number":21, "text":"it can only regulate behavior or spend money when the Constitution authorizes it to do so", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":23, "text":"But for the past 100 years, the federal government has rejected the Madisonian concept that it is limited to the 16 discrete powers the Constitution delegates to it, and has claimed its powers are unlimited, subject only to the express prohibitions in the Constitution", "label":"assumption"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"Even those prohibitions can be gotten around", "label":"assumption"},
+    {"number":26, "text":"since government lawyers have persuaded federal courts to rule that Congress can spend tax dollars or borrowed money on any projects it wishes, whether authorized by the Constitution or not", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"},
+    {"number":28, "text":"The courts even have authorized Congress to use federal tax dollars to bribe the states into enacting laws that Congress is powerless to enact", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"and", "label":"no-unit"},
+    {"number":31, "text":"Congress has done so", "label":"assumption"},
+    {"number":32, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":33, "text":"The Declaration of Independence defines our personal liberties as inalienable aspects of our humanity", "label":"common-ground"},
+    {"number":34, "text":",", "label":"no-unit"},
+    {"number":35, "text":"and", "label":"no-unit"},
+    {"number":36, "text":"the Constitution prohibits the government from interfering with those liberties-- like thought, speech, press, association, worship, self-defense, travel, privacy, due process, use of money and private property", "label":"common-ground"},
+    {"number":37, "text":",", "label":"no-unit"},
+    {"number":38, "text":"to name a few", "label":"no-unit"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"The teaching of these founding documents is that our liberties are natural-- their source is not the government", "label":"common-ground"},
+    {"number":41, "text":"-- and", "label":"no-unit"},
+    {"number":42, "text":"they are personal, not collective", "label":"common-ground"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"We don't need a government permission slip to exercise them", "label":"common-ground"},
+    {"number":45, "text":";", "label":"no-unit"},
+    {"number":46, "text":"we don't need to belong to a group to enjoy them", "label":"common-ground"},
+    {"number":47, "text":";", "label":"no-unit"},
+    {"number":48, "text":"they cannot be taken away by a congressional vote or a presidential signature", "label":"common-ground"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"Even though everyone who works for the government takes an oath to uphold the Declaration and the Constitution", "label":"common-ground"},
+    {"number":51, "text":",", "label":"no-unit"},
+    {"number":52, "text":"very few are consistent with what they have sworn to do", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"We know that because on the transcendental issues of our day -- life, liberty, war and debt -- the leadership of both political parties and the behavior of all modern presidents have revealed a steadfast willingness to write any law and regulate any behavior or permit any evil", "label":"assumption"},
+    {"number":55, "text":", whether authorized by the Constitution or not.", "label":"no-unit"}
+  ],
+  [
+    {"number":56, "text":"Take life", "label":"other"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"Abortion is the most deadly force in America today", "label":"assumption"},
+    {"number":59, "text":".", "label":"no-unit"},
+    {"number":60, "text":"Abortions lawfully kill a baby a minute ", "label":"assumption"},
+    {"number":61, "text":"--", "label":"no-unit"},
+    {"number":62, "text":"that's 1.1 million babies a year and 45,000,000 killed since the Supreme Court issued its Roe v  Wade decision in 1973", "label":"assumption"},
+    {"number":63, "text":".", "label":"no-unit"},
+    {"number":64, "text":"A simple one-line statute --\"The fetus in the womb is a legal person\"-- could have been enacted by a simple majority vote in Congress and signed into law by any of our so-called pro-life presidents, thus stopping the slaughter", "label":"assumption"},
+    {"number":65, "text":".", "label":"no-unit"},
+    {"number":66, "text":"It never happened", "label":"common-ground"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Take liberty", "label":"other"},
+    {"number":69, "text":".", "label":"no-unit"},
+    {"number":70, "text":"Both parties support the Patriot Act and the secret FISA apparatus", "label":"assumption"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"which together invade privacy, infringe upon free speech, permit federal agents to write their own search warrants and allow domestic spying on all of us all the time", "label":"assumption"},
+    {"number":73, "text":".", "label":"no-unit"},
+    {"number":74, "text":"This demonstrates that our political leaders do not believe that our rights are inalienable, but can be interfered with and regulated by them", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"},
+    {"number":76, "text":"They have written laws that literally permit federal agents to do the very acts the Constitution was written to prohibit", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"Take the lethal combination of war and debt", "label":"other"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Both parties support perpetual war and perpetual debt", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"The leadership of both parties has permitted every modern president to kill whomever he pleases in foreign countries without lawful declarations of war and to do so by going into a $17 trillion hole of debt, with no end in sight", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Today, 20 cents of every tax dollar collected goes to interest on pre-existing government debt", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Today's taxpayers are still paying interest on the $30 billion Woodrow Wilson borrowed to finance World War I in 1917", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"The British author is correct", "label":"assumption"},
+    {"number":89, "text":".", "label":"no-unit"},
+    {"number":90, "text":"Unless we have a radical change in the direction of government -- its size, cost, focus, intrusiveness and rejection of first principles -- and unless we elect people to the government who truly believe the Declaration and the Constitution mean what they say, we will continue our march toward the federal destruction of the presumption of liberty", "label":"assumption"},
+    {"number":91, "text":".", "label":"no-unit"},
+    {"number":92, "text":"It is a slow march, but a steady one", "label":"assumption"},
+    {"number":93, "text":".", "label":"no-unit"}
+  ]
+]}

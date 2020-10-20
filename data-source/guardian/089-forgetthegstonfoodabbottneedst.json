@@ -1,0 +1,111 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Forget the GST on food. Abbott needs to present a new 'grand bargain' to the nation.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"The problem with not applying the GST to fresh food is that rich people aren't paying GST on fresh food", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"Taxing the purchase of fresh food is estimated to provide an additional $6bn in government revenue each year", "label":"statistics"},
+    {"number":5, "text":".", "label":"no-unit"},
+    {"number":6, "text":"For a federal government with a revenue problem, it must be infuriating to forego billions from people who can fairly easily afford to pay", "label":"assumption"},
+    {"number":7, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":8, "text":"The problem with applying the GST to fresh food is that poor people would be paying GST on fresh food", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"Households in the lowest 20% of income earners pay almost two and a half times more GST, as a percentage of income, than households in the highest 20%", "label":"statistics"},
+    {"number":11, "text":".", "label":"no-unit"},
+    {"number":12, "text":"For a federal government with a now-cemented reputation for unfairness, it would be foolhardy to make life even more expensive for those who can least afford to pay", "label":"assumption"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Sure, the government could provide GST relief through compensation payments to low-income people", "label":"assumption"},
+    {"number":15, "text":",", "label":"no-unit"},
+    {"number":16, "text":"but", "label":"no-unit"},
+    {"number":17, "text":"such payments are inefficient at meeting the actual cost of the tax", "label":"assumption"},
+    {"number":18, "text":".", "label":"no-unit"},
+    {"number":19, "text":"They also create another ongoing obligation on the public purse", "label":"common-ground"},
+    {"number":20, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":21, "text":"Some people might consider this a political conundrum, but not some of the fearless members of the Abbott government", "label":"assumption"},
+    {"number":22, "text":".", "label":"no-unit"},
+    {"number":23, "text":"Senators Ian Macdonald and Dean Smith, MP Dan Tehan, and trade minister Andrew Robb are rushing forth to call for changes to the rate and base of the GST, including applying the tax to fresh food", "label":"anecdote"},
+    {"number":24, "text":".", "label":"no-unit"},
+    {"number":25, "text":"The father of Australia's GST, John Howard, has opined in recent years that it was a \"pity\" Labor did not support the GST on fresh food in 1999", "label":"testimony"},
+    {"number":26, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":27, "text":"Now others are stepping forward with proposals", "label":"assumption"},
+    {"number":28, "text":".", "label":"no-unit"},
+    {"number":29, "text":"Unsurprisingly, business groups want to increase the GST and decrease company tax", "label":"assumption"},
+    {"number":30, "text":".", "label":"no-unit"},
+    {"number":31, "text":"The Australia Institute has argued the government could lessen the regressive impact of the GST by expanding the base to include private education and private healthcare- services largely consumed by those on higher incomes ", "label":"assumption"},
+    {"number":32, "text":"-", "label":"no-unit"},
+    {"number":33, "text":"which it estimates would raise an additional $2.3bn a year", "label":"testimony"},
+    {"number":34, "text":".", "label":"no-unit"},
+    {"number":35, "text":"It's an intriguing idea with political appeal", "label":"assumption"},
+    {"number":36, "text":",", "label":"no-unit"},
+    {"number":37, "text":"but", "label":"no-unit"},
+    {"number":38, "text":"there are potential budgetary disincentives if the tax pushes people off private services back on to free government services", "label":"assumption"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"All this public speculation is leading to the impression that the Abbott government does not have control of the GST agenda", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"The implications are dreadful for the Coalition", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"Just ask Campbell Newman and Mike Baird how delighted they are to campaign in a climate of GST hypotheticals", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":46, "text":"Some conservative commentators have claimed that all the Abbott government needs to do to stem the freefall in the polls is to get its messaging right", "label":"testimony"},
+    {"number":47, "text":".", "label":"no-unit"},
+    {"number":48, "text":"Surely in 2015, they say, a better sales pitch - and a fresh-faced young assistant treasurer in Josh Frydenberg - will turn around the public's opinion of the government and its budget", "label":"testimony"},
+    {"number":49, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":50, "text":"What these folks misunderstand is that good policy makes good politics and no policy makes terrible politics", "label":"assumption"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"Right now, the Abbott government has no overarching policy agenda, no coherent narrative, no holistic approach to the nation's current budgetary challenges", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"Rather", "label":"no-unit"},
+    {"number":55, "text":",", "label":"no-unit"},
+    {"number":56, "text":" it has surprise measures (reintroduction of fuel indexation), broken promises (cuts to the ABC, health, education and the pension), wild new spending commitments (PPL), counter- productive new taxes (GP co-payment), and random thought-bubbles of the kind currently proffered by minister Robb and co", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":58, "text":"Where to start in solving the problem?", "label":"assumption"},
+    {"number":59, "text":"First", "label":"no-unit"},
+    {"number":60, "text":",", "label":"no-unit"},
+    {"number":61, "text":" instead of pushing a lot of random levers in its budget and hoping some of them work, the government needs to put forward a \"grand bargain\" to the people of Australia", "label":"assumption"},
+    {"number":62, "text":":", "label":"no-unit"},
+    {"number":63, "text":"fixing our budget means we need to fix our complicated, inefficient federation", "label":"assumption"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"We need to work out who is going to do what to whom, and who is going to pay for it", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"It also means fixing our tax system, not just tinkering with high-income levies or raising the GST by a couple of per cent", "label":"assumption"},
+    {"number":68, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":69, "text":"In short", "label":"no-unit"},
+    {"number":70, "text":",", "label":"no-unit"},
+    {"number":71, "text":" the federation and tax reform white papers should come out as soon as possible", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"Frankly, these should have come out much, much earlier", "label":"assumption"},
+    {"number":74, "text":".", "label":"no-unit"},
+    {"number":75, "text":"What were Coalition members doing as they sat on the Opposition benches waiting to win the \"unloseable election\"?", "label":"assumption"}
+  ],
+  [
+    {"number":76, "text":"Secondly, as part of this \"grand bargain\", the government needs to get real about ending the age of entitlement", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"Right now, it is just code for punishing the poor and protecting the rich", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"The tax system doesn't just have to be fair", "label":"assumption"},
+    {"number":81, "text":";", "label":"no-unit"},
+    {"number":82, "text":"it has to be seen to be fair", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"},
+    {"number":84, "text":"Asking the lowest income people to pay GST on fresh food while continuing to give high-income superannuants and investment- property owners massive tax concessions would keep the age of entitlement alive - for those at the top of the income scales", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"}
+  ]
+]}

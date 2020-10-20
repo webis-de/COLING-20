@@ -1,0 +1,103 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"If America wants to make sure it never tortures again, it must choose law over secrecy.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"On Monday afternoon, Senator Dianne Feinstein released a letter to Barack Obama, suggesting a series of reforms \"to make sure that the United States never again engages in actions that you have acknowledged were torture\"", "label":"anecdote"},
+    {"number":3, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":4, "text":"A month after her office released the landmark (but still heavily redacted) Senate torture report", "label":"anecdote"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"Feinstein is now calling for legislation to strengthen the prohibition against torture", "label":"anecdote"},
+    {"number":7, "text":".", "label":"no-unit"},
+    {"number":8, "text":"This is a laudable and necessary step", "label":"assumption"},
+    {"number":9, "text":",", "label":"no-unit"},
+    {"number":10, "text":"but", "label":"no-unit"},
+    {"number":11, "text":"torture has been a felony for decades", "label":"common-ground"},
+    {"number":12, "text":".", "label":"no-unit"},
+    {"number":13, "text":"So have war crimes, lying to Congress and obstruction of justice", "label":"common-ground"},
+    {"number":14, "text":".", "label":"no-unit"},
+    {"number":15, "text":"The fundamental problem is that the US government has been unable or unwilling to enforce those laws against the CIA", "label":"assumption"},
+    {"number":16, "text":".", "label":"no-unit"},
+    {"number":17, "text":"If", "label":"no-unit"},
+    {"number":18, "text":"reform does not confront the reasons for that failure, it may not deter the United States from engaging in torture under a future president", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":20, "text":"To the extent that federal prosecutors have simply lacked the political will to investigate the CIA", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"there' s not much Congress can do about it", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"But legislation could address many of the other factors that allowed the CIA to torture prisoners, destroy evidence and lie to investigators with impunity", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"},
+    {"number":26, "text":"There is the CIA's reliance on secret \"torture memos\" written by the Office of Legal Counsel ", "label":"assumption"},
+    {"number":27, "text":"-", "label":"no-unit"},
+    {"number":28, "text":"which exploited some weaknesses in the legal definition of torture", "label":"assumption"},
+    {"number":29, "text":",", "label":"no-unit"},
+    {"number":30, "text":"but depended far more heavily on absurd legal arguments and false representations of fact by the CIA", "label":"assumption"},
+    {"number":31, "text":".", "label":"no-unit"},
+    {"number":32, "text":"There' s the unethical role of CIA doctors and psychologists in monitoring interrogations", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"And above all, there remains the CIA's ability to keep all the evidence of its crimes classified", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":36, "text":"The only explanation the justice department has ever provided for the failure to indict a single CIA officer for torture, war crimes, homicide, destruction of evidence or any of the other crimes the Senate report documents is a bland statement that \"the admissible evidence would not be sufficient to obtain and sustain a conviction beyond a reasonable doubt\"", "label":"testimony"},
+    {"number":37, "text":".", "label":"no-unit"},
+    {"number":38, "text":"The justice department refuses to answer questions about the role played by top-secret classification in that decision, or disclose any of the records from the criminal investigations", "label":"anecdote"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"But we do know that until the Senate report was released, the Obama administration took the position that every detail of an individual detainee's torture in CIA custody was top secret- including former CIA prisoners' memories of their own treatment, the locations of black sites and the names of all the witnesses", "label":"assumption"},
+    {"number":41, "text":".", "label":"no-unit"},
+    {"number":42, "text":"We know the CIA redacted from the report not only the names but even the pseudonyms of nearly every CIA officer and contractor involved in the program, and every country that hosted a black site", "label":"assumption"},
+    {"number":43, "text":".", "label":"no-unit"},
+    {"number":44, "text":"And we know that every last civil suit brought by CIA torture victims has been dismissed on national security grounds", "label":"assumption"},
+    {"number":45, "text":".", "label":"no-unit"},
+    {"number":46, "text":"So it's difficult to imagine how a prosecutor could have made a torture case against the CIA without disclosing this evidence- and even harder to imagine the agency allowing its release", "label":"assumption"},
+    {"number":47, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":48, "text":"In theory, Obama's December 2009 executive order on national security classification should prevent the CIA from using secrecy to place itself beyond the rule of law", "label":"assumption"},
+    {"number":49, "text":",", "label":"no-unit"},
+    {"number":50, "text":"since the order specifically forbids classifying information to \"conceal violations of law\"", "label":"testimony"},
+    {"number":51, "text":".", "label":"no-unit"},
+    {"number":52, "text":"In practice, though, the prohibition is virtually never enforced", "label":"assumption"},
+    {"number":53, "text":".", "label":"no-unit"},
+    {"number":54, "text":"The Obama administration - like the Bush administration before it - takes the position that the CIA's criminal actions can be legitimately classified if they are \"intelligence sources and methods\"", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"And neither Congress, nor the president, nor the courts have imposed any legal limit on what counts as an intelligence source or method", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"In practice, the phrase has come to mean \"anything the intelligence community doesn't want you to know.\"", "label":"assumption"},
+    {"number":59, "text":"Congress needs to write a legal definition of \"intelligence sources and methods\" that imposes real limits, and makes clear that it excludes torture and other crimes", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":61, "text":"Feinstein and her staff deserve tremendous credit for finally breaking through the wall of secrecy that the CIA built around its torture program, in the face of fierce opposition from the agency and the White House", "label":"assumption"},
+    {"number":62, "text":".", "label":"no-unit"},
+    {"number":63, "text":"But their investigation did not begin until after the black-site program had already ended, in large part because of leaks to the press", "label":"anecdote"},
+    {"number":64, "text":".", "label":"no-unit"},
+    {"number":65, "text":"Despite staffers' scrupulous protection of classified information, the CIA subjected them to unlawful surveillance, tried to have them prosecuted and is still trying to retaliate", "label":"assumption"},
+    {"number":66, "text":".", "label":"no-unit"},
+    {"number":67, "text":"Yet", "label":"no-unit"},
+    {"number":68, "text":"the report is still full of unjustified redactions", "label":"assumption"},
+    {"number":69, "text":",", "label":"no-unit"},
+    {"number":70, "text":"and", "label":"no-unit"},
+    {"number":71, "text":"the Department of Justice refuses to either reopen its criminal investigations into torture or explain why they were closed in the first place", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":73, "text":"As", "label":"no-unit"},
+    {"number":74, "text":"it stands right now", "label":"no-unit"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":"torture is a crime - but so is revealing evidence of torture that the CIA wants hidden", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"},
+    {"number":78, "text":"And it's only the second crime that gets you prosecuted", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Yes, let's strengthen the laws against torture", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"},
+    {"number":82, "text":"But let's also weaken the CIA's power to conceal the evidence", "label":"assumption"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ]
+]}

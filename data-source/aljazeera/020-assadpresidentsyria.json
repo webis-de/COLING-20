@@ -1,0 +1,127 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Assad's crumbling presidency.", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"Syria's existence as a country continues to haemorrhage", "label":"assumption"},
+    {"number":3, "text":"as", "label":"no-unit"},
+    {"number":4, "text":"its people flee", "label":"assumption"},
+    {"number":5, "text":",", "label":"no-unit"},
+    {"number":6, "text":"borders disappear", "label":"assumption"},
+    {"number":7, "text":"and", "label":"no-unit"},
+    {"number":8, "text":"cities crumble", "label":"assumption"},
+    {"number":9, "text":".", "label":"no-unit"},
+    {"number":10, "text":"The country's heritage is being dug up, stolen or blasted to smithereens and the most effective armed groups in the country", "label":"assumption"},
+    {"number":11, "text":",", "label":"no-unit"},
+    {"number":12, "text":"whether ISIL or Hezbollah on the ground or Israel and US in the air, operate under flags that are not Syria's own", "label":"common-ground"},
+    {"number":13, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":14, "text":"Syria has become a stage for a plethora of violent actors and at the centre is the seemingly immovable object of President Bashar al-Assad, the 49-year-old who has been in power since 2000 following three decades of his father's rule", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"The brutal events in Paris have sparked another conversation across global media on the scourge of Islamic terrorism and led the Independent's Middle East correspondent, Patrick Cockburn, to suggest that people forget about overthrowing Assad and instead should concentrate on building a common cause with Damascus that \"could unite against violent Sunni jihadism\"", "label":"testimony"},
+    {"number":17, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":18, "text":"However", "label":"no-unit"},
+    {"number":19, "text":",", "label":"no-unit"},
+    {"number":20, "text":"while Assad is still there nominally in power", "label":"assumption"},
+    {"number":21, "text":",", "label":"no-unit"},
+    {"number":22, "text":"a closer look reveals that he is more marginalised than ever and an increasingly irrelevant political actor on a stage dominated by others", "label":"assumption"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"This authoritarian facade must be taken into account in future policy towards the beleaguered country", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Start by", "label":"no-unit"},
+    {"number":27, "text":"asking the question", "label":"no-unit"},
+    {"number":28, "text":";", "label":"no-unit"},
+    {"number":29, "text":"what is Assad still president of?", "label":"assumption"},
+    {"number":30, "text":"Half of the country have fled their homes", "label":"statistics"},
+    {"number":31, "text":",", "label":"no-unit"},
+    {"number":32, "text":"over 200,000 are dead", "label":"statistics"},
+    {"number":33, "text":"and", "label":"no-unit"},
+    {"number":34, "text":"a million are wounded", "label":"statistics"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"The UN estimates that it will cost $8.4bn in 2015 to look after Syrians affected by war", "label":"statistics"},
+    {"number":37, "text":"and", "label":"no-unit"},
+    {"number":38, "text":"more than 6,500 cases of typhoid and 4,200 cases of measles were reported in 2014", "label":"statistics"},
+    {"number":39, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":40, "text":"Although\"government forces\" are supposedly in control of some 50 percent of the territory", "label":"anecdote"},
+    {"number":41, "text":"the devolution of power to militias as well as Iranian and Hezbollah forces means that Assad's command and control is stretched like never before", "label":"assumption"},
+    {"number":42, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":43, "text":"Meanwhile in the east, ISIL runs a bus network out if its capital Raqqa", "label":"assumption"},
+    {"number":44, "text":"and", "label":"no-unit"},
+    {"number":45, "text":"despite Kobane being in stalemate", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"the Kurds are increasingly sketching out the makings of a statelet in the northeast of the country", "label":"assumption"},
+    {"number":48, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":49, "text":"The country's borders are disappearing as functional entities with talk of a Turkish buffer zone in the north and all sorts of foreign fighters (and John McCain) entering the country at will", "label":"assumption"},
+    {"number":50, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":51, "text":"A recent Middle East Eye report outlined that the \"Syrian economy has effectively ceased to function, and President Bashar al-Assad's government is almost entirely dependent on loans from Iran and some aid from the Russian Federation\"", "label":"testimony"},
+    {"number":52, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":53, "text":"Towards the end of last year the desperate position saw Damascus even issue a new \"Martyrs Stamp Duty\"", "label":"anecdote"},
+    {"number":54, "text":",", "label":"no-unit"},
+    {"number":55, "text":"whose proceeds will go to the families of fallen soldiers and other militia members", "label":"assumption"},
+    {"number":56, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":57, "text":"Aleppo, the country's largest city and once commercial hub, is being pummelled by a regular supply of barrel bombs with the hospitals being forced underground and ISIL forces closing in", "label":"anecdote"},
+    {"number":58, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":59, "text":"Assad himself is seen less and less", "label":"assumption"},
+    {"number":60, "text":".", "label":"no-unit"},
+    {"number":61, "text":"On a New Year's Eve trip to", "label":"no-unit"},
+    {"number":62, "text":"what", "label":"no-unit"},
+    {"number":63, "text":"was said", "label":"no-unit"},
+    {"number":64, "text":"to be \"the frontlines\" in his own capital", "label":"no-unit"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"the president's smiles and patriotic music couldn't disguise the occasional crack of background gunfire", "label":"assumption"},
+    {"number":67, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":68, "text":"Several days later the Assad publicity blitz continued with a very public appearance at a prayer in a mosque in Damascus", "label":"anecdote"},
+    {"number":69, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":70, "text":"The New York Times were so surprised to see him that they pointed out he'd shaved his moustache", "label":"anecdote"},
+    {"number":71, "text":",", "label":"no-unit"},
+    {"number":72, "text":"although others claimed it has simply gone white, perhaps due the stress of the continued conflict", "label":"anecdote"},
+    {"number":73, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":74, "text":"Yet", "label":"no-unit"},
+    {"number":75, "text":",", "label":"no-unit"},
+    {"number":76, "text":" the focus on Assad the individual, rather than Syria the country, and the narrative of government against the opposition, doesn't explain the hollowing out of the former and the fragmentation of the latter", "label":"assumption"},
+    {"number":77, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"This time last year the Geneva II Peace Conference marked the high water mark of the Syrian opposition as a coherent and seemingly viable actor", "label":"assumption"},
+    {"number":79, "text":".", "label":"no-unit"},
+    {"number":80, "text":"Since then, the corrosiveness of ISIL's rapid spread and the increased brutality of the conflict has seemingly made an immoderate crisis an impossible place for moderate actors such as the FSA and the National Syrian Coalition", "label":"assumption"},
+    {"number":81, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":82, "text":"Khaled Khoja was elected the new leader of the coalition at the start of the year and quickly signalled his unwillingness for them to attend another attempt at peace talks, this time organised by Russia", "label":"anecdote"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"What Syria is and what it could eventually become will have regional and global ramifications that are hard to predict", "label":"assumption"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Among the most unlikely scenarios is the return of a unitary state with full control of territory within its borders under the effective sovereignty of Assad", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ]
+]}

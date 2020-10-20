@@ -1,0 +1,126 @@
+{"paragraphs":[
+  [
+    {"number":1, "text":"Do you really think your fat joke about Chris Christie is funny?", "label":"title"}
+  ],
+  [
+    {"number":2, "text":"New Jersey governor Chris Christie's weight - and whether it will impact any run for higher office- is once again the subject of discussion", "label":"assumption"},
+    {"number":3, "text":".", "label":"no-unit"},
+    {"number":4, "text":"(It comes up every year or so, and this year it's bound to come up every month or so.)", "label":"assumption"},
+    {"number":5, "text":"On Sunday, Christie drew some people's ire by sitting with (ok, and hugging) the owner of the Dallas Cowboys", "label":"anecdote"},
+    {"number":6, "text":",", "label":"no-unit"},
+    {"number":7, "text":"the team of which he is a fan", "label":"anecdote"},
+    {"number":8, "text":".", "label":"no-unit"},
+    {"number":9, "text":"It doesn't actually seem to matter what Christie does, though", "label":"assumption"},
+    {"number":10, "text":":", "label":"no-unit"},
+    {"number":11, "text":"the kneejerk reaction to a hefty politician is always, inevitably, to insult his body", "label":"assumption"},
+    {"number":12, "text":",", "label":"no-unit"},
+    {"number":13, "text":"and", "label":"no-unit"},
+    {"number":14, "text":"now Christie's brother is even reacting to that reaction on Facebook", "label":"assumption"},
+    {"number":15, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":16, "text":"Fat people are described as gross and disgusting often enough that some of us loathe our own bodies to the point of self-injury", "label":"assumption"},
+    {"number":17, "text":".", "label":"no-unit"},
+    {"number":18, "text":"People think we're stupid and weak(or we'd just lose weight, right?) before they even talk to us", "label":"assumption"},
+    {"number":19, "text":".", "label":"no-unit"},
+    {"number":20, "text":"Fatness is classified as a disease in the United States", "label":"common-ground"},
+    {"number":21, "text":".", "label":"no-unit"},
+    {"number":22, "text":"For his part, Christie, with his long history of being fat in the public eye, turned to a weight-loss surgery called lap band in his efforts to lose weight", "label":"anecdote"},
+    {"number":23, "text":".", "label":"no-unit"},
+    {"number":24, "text":"In that last linked article, those close to him claimed it would humanize him in the eyes of the public - without recognizing that he is, in fact and in fat, already human", "label":"assumption"},
+    {"number":25, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":26, "text":"Our humanity hardly seems to matter to people going for the easy fat jokes", "label":"assumption"},
+    {"number":27, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":28, "text":"The truth is that fat people often have a more difficult time finding a good job", "label":"assumption"},
+    {"number":29, "text":".", "label":"no-unit"},
+    {"number":30, "text":"(Even, maybe especially, THE job", "label":"assumption"},
+    {"number":31, "text":".)", "label":"no-unit"},
+    {"number":32, "text":"You're less likely to get a promotion when your body doesn't match the image of a desirable employee", "label":"assumption"},
+    {"number":33, "text":".", "label":"no-unit"},
+    {"number":34, "text":"This bias - this discrimination - on the part of employers costs them top talent and actually winds up adding to stereotypes about us", "label":"assumption"},
+    {"number":35, "text":".", "label":"no-unit"},
+    {"number":36, "text":"It's hard for fat people to be perceived as hard workers when no one believes in our work ethic in the first place", "label":"assumption"},
+    {"number":37, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":38, "text":"But", "label":"no-unit"},
+    {"number":39, "text":"that's hardly the worst of the stereotypes: a couple of years ago, during a televised \"debate\" about fatness and fat acceptance with anti-obesity spokesperson MeMe Roth and model Crystal Renn, Roth finally gave in and called me stupid", "label":"anecdote"},
+    {"number":40, "text":"-", "label":"no-unit"},
+    {"number":41, "text":"using a single study that proclaim that fat people just have smaller brains and are therefore less intelligent", "label":"testimony"},
+    {"number":42, "text":".", "label":"no-unit"},
+    {"number":43, "text":"I laughed", "label":"anecdote"},
+    {"number":44, "text":":", "label":"no-unit"},
+    {"number":45, "text":"it was a desperate attempt at an insult more than it was scientific discussion", "label":"assumption"},
+    {"number":46, "text":",", "label":"no-unit"},
+    {"number":47, "text":"but", "label":"no-unit"},
+    {"number":48, "text":"it was also honest", "label":"assumption"},
+    {"number":49, "text":"-", "label":"no-unit"},
+    {"number":50, "text":"because it's definitely not the first time I've run across that conviction", "label":"anecdote"},
+    {"number":51, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":52, "text":"Chris Christie, for all of his accomplishments, faces the same sort of discrimination as the fat person passed over for a job because of a hiring manager's bias", "label":"assumption"},
+    {"number":53, "text":"-", "label":"no-unit"},
+    {"number":54, "text":"he's just facing it on a very intense and public level", "label":"assumption"},
+    {"number":55, "text":".", "label":"no-unit"},
+    {"number":56, "text":"People look at him and judge his body", "label":"assumption"},
+    {"number":57, "text":".", "label":"no-unit"},
+    {"number":58, "text":"They don't evaluate his intelligence based on his decisions", "label":"assumption"},
+    {"number":59, "text":";", "label":"no-unit"},
+    {"number":60, "text":"they just assume he's stupid because he's fat", "label":"assumption"},
+    {"number":61, "text":".", "label":"no-unit"},
+    {"number":62, "text":"They ignore that it does actually take quite a lot of work to get elected as governor", "label":"assumption"},
+    {"number":63, "text":"-", "label":"no-unit"},
+    {"number":64, "text":"politics is many things, but it's never a cake walk", "label":"common-ground"},
+    {"number":65, "text":",", "label":"no-unit"},
+    {"number":66, "text":"and", "label":"no-unit"},
+    {"number":67, "text":"he's been involved since 1977", "label":"anecdote"},
+    {"number":68, "text":".", "label":"no-unit"},
+    {"number":69, "text":"And America has had fat presidents before - not many of them, but some rather notable ones, including Teddy Roosevelt", "label":"anecdote"},
+    {"number":70, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":71, "text":"Chris Christie is- and this is another uncomfortable thing for someone with my own fairly radical political views to say- a complicated and intelligent politician", "label":"assumption"},
+    {"number":72, "text":".", "label":"no-unit"},
+    {"number":73, "text":"His actions are often well-considered", "label":"assumption"},
+    {"number":74, "text":"(even when I screamingly disagree with them, which happens a lot) and even sometimes moderate, at least in the sense that he occasionally works across party lines ... and certainly across state lines when it comes to the NFL", "label":"assumption"},
+    {"number":75, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":76, "text":"But the fat jokes keep on coming", "label":"assumption"},
+    {"number":77, "text":":.", "label":"no-unit"}
+  ],
+  [
+    {"number":78, "text":"How bout hittin the gym??", "label":"anecdote"},
+    {"number":79, "text":"...", "label":"no-unit"},
+    {"number":80, "text":"Christie won't back down", "label":"assumption"},
+    {"number":81, "text":",", "label":"no-unit"},
+    {"number":82, "text":"may watch Cowboys in Green Bay via @POLITICO for iOS http://t.co/Vn6SS5J4EB", "label":"no-unit"},
+    {"number":83, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":84, "text":"US News & World Report's David Catanese even said that his brother's defense makes Christie looks bad because... he countered \"'crazy, pathetic posts' with one of his own\"", "label":"testimony"},
+    {"number":85, "text":".", "label":"no-unit"},
+    {"number":86, "text":"Apparently it's more presidential when you take the abuse about your body without anyone saying anything", "label":"assumption"},
+    {"number":87, "text":".", "label":"no-unit"}
+  ],
+  [
+    {"number":88, "text":"And the fat jokes keep obscuring the actual conversation that needs to happen about Christie's political views", "label":"assumption"},
+    {"number":89, "text":",", "label":"no-unit"},
+    {"number":90, "text":"even as", "label":"no-unit"},
+    {"number":91, "text":"he remains cagey about running for the Republican nomination in 2016", "label":"assumption"},
+    {"number":92, "text":".", "label":"no-unit"},
+    {"number":93, "text":"And", "label":"no-unit"},
+    {"number":94, "text":"if", "label":"no-unit"},
+    {"number":95, "text":"you're one of the people", "label":"assumption"},
+    {"number":96, "text":"who'd rather insult his weight than talk about his politics", "label":"assumption"},
+    {"number":97, "text":",", "label":"no-unit"},
+    {"number":98, "text":"I have to ask: who is the less intelligent person, really?", "label":"assumption"},
+    {"number":99, "text":"I don't think it's the fat guy", "label":"assumption"},
+    {"number":100, "text":".", "label":"no-unit"}
+  ]
+]}
