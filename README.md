@@ -1,4 +1,4 @@
-This repository contains resources for the COLING20 paper : **News Editorials: Towards Summarizing Long Argumentative Texts**
+## Resources for the COLING20 paper : **News Editorials: Towards Summarizing Long Argumentative Texts**
 
 **corpus**
 Contains the complete corpus and the quality labels for summaries.
