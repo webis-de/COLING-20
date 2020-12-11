@@ -10,3 +10,5 @@ Contains the complete corpus and the quality labels for summaries.
 
 **data-source** Contains the original editorials along with ADU type labels used for constructing our corpus.
 
+**summarizers** Contains code for the models used. BertExtractive Summarizer adapted [from](https://github.com/dmmiller612/bert-extractive-summarizer).
+
