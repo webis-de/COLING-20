@@ -1,7 +1,7 @@
 import glob
 import json
 
-from .preprocessing import PreProcessor
+from preprocessing import PreProcessor
 from summarizers.bertsum import BertSummarizer
 
 document_preprocessor = PreProcessor()
